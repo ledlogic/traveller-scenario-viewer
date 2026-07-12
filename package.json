@@ -1,0 +1,13 @@
+{
+  "name": "traveller-scenario-viewer",
+  "version": "1.0.0",
+  "description": "Multi-scenario Markdown viewer for Traveller RPG referee documents",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.0",
+    "marked":  "^9.0.0"
+  }
+}
