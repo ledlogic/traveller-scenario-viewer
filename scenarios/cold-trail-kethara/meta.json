@@ -1,0 +1,23 @@
+{
+  "title": "Cold Trail in Kethara Reach",
+  "subtitle": "A Mongoose Traveller 2e Convention Scenario",
+  "system": "Mongoose Traveller 2nd Edition",
+  "setting": "Lakamsal, Imperial Year 1117",
+  "color": "#c8a96e",
+  "docs": [
+    { "file": "Chapter1_Setting_Mission_Referee.md",        "label": "Ch 1 — Introduction" },
+    { "file": "Chapter2_Characters.md",                     "label": "Ch 2 — Characters" },
+    { "file": "Chapter3_Maps_Visual_Reference.md",          "label": "Ch 3 — Maps, Reference & Weather" },
+    { "file": "Chapter4_Act_One.md",                        "label": "Ch 4 — Act One: Mission Almost Complete" },
+    { "file": "Chapter5_Act_Two.md",                        "label": "Ch 5 — Act Two: Crash Site & Civilians" },
+    { "file": "Chapter6_Acts_Three_Four_Extraction.md",     "label": "Ch 6 — Acts Three, Four & Extraction" },
+    { "file": "AppendixA_TSU9_Technical_Reference.md",      "label": "App A — TSU-9 Technical Reference" },
+    { "file": "AppendixB_Bestiary_Vehicles.md",             "label": "App B — Bestiary & Vehicles" },
+    { "file": "AppendixC_Sample_Combat_Act.md",             "label": "App C — Sample Combat Act" },
+    { "file": "AppendixD_Road_Not_Taken.md",                "label": "App D — Road Not Taken" },
+    { "file": "AppendixE_Corporate_Security_Forces.md",     "label": "App E — Corporate Security Forces" },
+    { "file": "AppendixF_Imperial_Response_Encounter.md",   "label": "App F — Imperial Response" },
+    { "file": "AppendixG_Imperial_Antagonists.md",          "label": "App G — Imperial Antagonists" },
+    { "file": "AppendixH_Quick_Reference_Citations.md",     "label": "App H — Quick Reference & Citations" }
+  ]
+}
