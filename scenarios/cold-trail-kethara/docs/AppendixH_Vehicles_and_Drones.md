@@ -1,4 +1,4 @@
-# APPENDIX L — LAKAMSAL VEHICLES AND DRONES
+# APPENDIX H — LAKAMSAL VEHICLES AND DRONES
 ## Vehicle Profiles, Drone Specifications, and Cross-References
 
 *Cold Trail in Kethara Reach — Referee Reference Document*
@@ -89,13 +89,13 @@ All vehicle entries in this appendix use published MGT2e vehicle-profile convent
 | Abbreviation | Full Title | Used For |
 |---|---|---|
 | CRB22 | Mongoose Traveller 2nd Edition Core Rulebook (2022) | Vehicle profile format, p.135 area |
-| HG22 | High Guard (2022 edition) | Military sensor ratings; *Resolute Purpose* specs (see Appendix G, Imperial Antagonists) |
+| HG22 | High Guard (2022 edition) | Military sensor ratings; *Resolute Purpose* specs (see Appendix F, Imperial Antagonists) |
 | RH | Robot Handbook | Drone construction (Priya/Garner) — Chapter 2 |
 | VH | Vehicle Handbook | Drone construction >4 spaces |
 | FC | Field Catalogue | SolSec field kit — Chapter 2 |
 
 ---
 
-*Appendix L — Lakamsal Vehicles and Drones*
+*Appendix H — Lakamsal Vehicles and Drones*
 *Cold Trail in Kethara Reach — Referee Document*
 *Mongoose Traveller 2nd Edition — Imperial Year 1117*

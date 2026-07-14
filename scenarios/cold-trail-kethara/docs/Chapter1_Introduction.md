@@ -136,11 +136,11 @@ The Kethara basin sits on a formation of magnetite-rich basalt — the same anci
 | Clearing | 10 to 14 | Masking gone; node resync possible (Engineer 10+); uplink normal | Imperial sensors return to full effectiveness | Reverts to full cipher as bandwidth recovers |
 | Clear | 14+ | Normal — TSU-9 sustainable if repair done | Marchetti-Solis at full capability | Full cipher, full bandwidth — no exploitable window |
 
-*Full weather system mechanics and extended play weather: see Appendix J.*
+*Full weather system mechanics and extended play weather: see Appendix G.*
 
 ### Megaflora: The Kethara Basin Jungle
 
-The Kethara basin jungle is not comparable to a Terran tropical forest. The physics of Lakamsal's low gravity (0.45G) and thin atmosphere produce vegetation on a scale closer to what is depicted in *Avatar* than anything on Earth.
+The Kethara basin jungle is not comparable to a Terran tropical forest. The physics of Lakamsal's low gravity (0.45G) and thin atmosphere produce vegetation on a large scale.
 
 | Vegetation Layer | Height | Description |
 |---|---|---|
@@ -357,18 +357,11 @@ Used to anchor Lakamsal's real-world UWP/trade data, Altiplano's UWP/allegiance 
 | Travellermap.com | https://travellermap.com/?style=mongoose&options=41983&p=27.83!-98.196!7.9 | Lakamsal's hex position and distance/direction from the Solomani border (3 parsecs spinward) |
 | travellerworlds.com generator | https://www.travellerworlds.com/?hex=3017&sector=Solomani+Rim&name=Altiplano&uwp=Y8B4000-5 | **Fan/community UWP tool, not official canon.** Altiplano's UWP (Y8B4000-5), trade codes (Fl Di Co Lk), and Imperial/Domain of Sol allegiance — the basis for it being a plausible non-suspicious registration world for the SolSec cover company |
 | Traveller Wiki, "Cthonia (AC 0515) (world)" and "Orichalc Subsector"; Mongoose Traveller: *Solomani* / *Alpha Crucis Sector* | wiki.travellerrpg.com | ORDA's founding (1014), its independent Imperial-facing fleet, and Cthonia's leadership of it — real canon, cited in §1.6 as the strategic backdrop for the mission |
+| Mongoose Traveller, *Solomani Front* | Ximenes and McKenzie Subsector data | Breckenridge's homeworld Patrent (Alpha Crucis 1101, B8A3ABB-F) and Pelczar's homeworld Kazan (Alpha Crucis 0701, C541748-8) — Chapter 2. Corrected an earlier error that had both worlds at the same wrong hex |
 | GDW, *Challenge* magazine #30 (1988), "Fall of the Imperium," pp.30-10–30-12 | Game Designers' Workshop | Primary source for the assassination date (132-1116) and the advance-word/official-news discrepancy table (311-1116 vs. 036-1117 for Terra/Sol) |
 | Traveller News Service archive | calormen.com/tns; mu.org/~joe/traveller/archive | Corroborating in-universe TNS dispatches confirming 132-1116 |
 | Traveller Wiki, articles "Rebellion," "Strephon Aella Alkhalikoi," "TNS 1116," "TNS 1117" | wiki.travellerrpg.com | Corroborating secondary summary; cross-checked against the primary sources above |
 | *101 Governments* (fan supplement), David Thomas, ed. Andy Lilly | British Isles Traveller Support | **Not official canon.** Source for the Civil Service Bureaucracy flavor in §1.3 (departmental personality, rehabilitation-over-punishment, bureaucratic friction, price-control arbitrage, forced-agricultural-labour detail) |
-
----
-
-*Chapter 1 — Introduction*
-*Cold Trail in Kethara Reach*
-*Mongoose Traveller 2nd Edition — Imperial Year 1117*
-
-*Cold Trail in Kethara Reach — Referee Reference Document*
 
 ---
 
@@ -412,8 +405,6 @@ Lakamsal's own solar day does not match that schedule. Its actual rotational per
 - For every 24 Imperial hours that pass, the actual local clock drifts by roughly **+10 hours** relative to a tidy 24-hour cadence. A team that has been in the field for 23 days — like BLIND COBRA at scenario start — has had their subjective daytime and nighttime hours cycle all the way around the clock and back again several times over, purely because they track Imperial hours while the planet keeps its own, much longer schedule.
 - **"Hour 4 of a 6-hour surveillance pass" does not reliably tell you whether it is light or dark outside.** The referee should feel free to set actual sun position independently of the scenario's Hour-count — early "daytime" hours can fall at local dusk or deep night depending on where in the 33.94-hour cycle the mission happens to land.
 - This is good material for atmosphere, not a rules complication. A line from Kowalski or Haramoto about having genuinely lost track of when the sun is supposed to come up — after three weeks in the field, on a planet whose day doesn't match the one on their wrist chronometers — costs nothing and sells the isolation of the posting.
-
----
 
 ---
 
@@ -483,6 +474,7 @@ Lakamsal itself (its hex, UWP, position, and trade classifications) is a real, c
 - **132-1116** — Assassination of Emperor Strephon. Confirmed consistently across: Traveller News Service archive (calormen.com/tns; mu.org/~joe/traveller/archive); Traveller Wiki, articles "Rebellion," "Strephon Aella Alkhalikoi," "TNS 1116/1117"; GDW, *Challenge* magazine #30 (1988), "Fall of the Imperium," pp.30-10–30-12.
 - **311-1116 / 036-1117** — Advance word vs. official news of the assassination reaching Terra/Sol. Source: GDW, *Challenge* #30 (1988), p.30-11, discrepancy table (jump-6 naval courier vs. jump-4 xboat network). Adapted here as the nearest documented proxy for news reaching the wider Solomani Rim; not itself a claim about Lakamsal or Banasdan Subsector specifically.
 - **ORDA (the Orichalc Regional Defense Association)** — founded 1014 by Cthonia (Alpha Crucis 0515), a mutual defense alliance of thirteen Confederation border worlds maintaining a large fleet independent of Confederation government control, legally entitled under the Charter, tolerated due to Cthonia's political leverage. Referenced in §1.6, Solomani Security: Background & the Mission, as the strategic beneficiary of BLIND COBRA's operation. Source: Traveller Wiki, "Cthonia (AC 0515) (world)" and "Orichalc Subsector"; Mongoose Traveller: *Solomani* / *Alpha Crucis Sector*. *This is real canon; the specific claim that ORDA's fleet movements are what IRON GATE has been compromising, and that SolSec's mission serves ORDA's decision cycle, is this scenario's extrapolation, not a documented canon fact.*
+- **Patrent (Alpha Crucis 1101, UWP B8A3ABB-F, Fl Hi Ht A) and Kazan (Alpha Crucis 0701, UWP C541748-8, Po)** — Breckenridge's and Pelczar's homeworlds respectively, both real charted worlds. Source: *Solomani Front* (Mongoose Traveller), Ximenes and McKenzie Subsector data. Corrects an earlier error in this document, which had listed both worlds at the same wrong hex (0101) and had incorrectly described Kazan as "High Tech, sector capital" — Kazan's actual trade codes (Po only, TL8) don't support that description.
 
 **Scenario-original (no external source — do not cite as canon):**
 - All Lakamsal-specific *history* (0423 survey, 1020–1104 colonial development, the Garner/Kethara deaths in 1098, IRON GATE's construction and operational history, the Kethara Reach itself as a place name) — the world is real; this history is not.
@@ -494,8 +486,6 @@ Lakamsal itself (its hex, UWP, position, and trade classifications) is a real, c
 - The Civil Service Bureaucracy flavor in §1.3 (departmental personality, rehabilitation-over-punishment, bureaucratic friction, price-control arbitrage, and the forced-agricultural-labour detail) is adapted from *101 Governments* (fan supplement, British Isles Traveller Support), David Thomas, ed. Andy Lilly, "8: Civil Service Bureaucracy," pp.31–32. This is unofficial fan content, not a Mongoose or GDW publication — treat it as house flavor for this scenario, not as a claim about how Civil Service Bureaucracy governments work across the wider Imperium.
 
 Referees running this scenario as part of a wider Rebellion-era campaign should feel free to swap in their own dates for the scenario-original material — nothing here is load-bearing for anything outside this document.
-
----
 
 ---
 

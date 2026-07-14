@@ -19,7 +19,7 @@ end
 SCENARIOS_DIR = File.join(__dir__, 'scenarios')
 
 set :public_folder, File.join(__dir__, 'public')
-set :port, 4567
+set :port, 8090
 
 # ── Upload watcher ──────────────────────────────────────────────
 # Drop a "traveller-viewer (N).zip" export into ./uploads and this
@@ -228,6 +228,8 @@ def render_shell(opts = {})
   nav_html = opts[:nav_html] || ''
   prev_href = opts[:prev_href]
   next_href = opts[:next_href]
+  scenario_slug = opts[:scenario_slug]
+  search_query  = opts[:search_query] || ''
 
   <<~HTML
     <!DOCTYPE html>
@@ -256,6 +258,9 @@ def render_shell(opts = {})
       </header>
       <div class="layout">
         <nav class="sidebar no-print" id="sidebar">
+          <form class="sidebar-search no-print" action="/s/#{scenario_slug}/search" method="get">
+            <input type="search" name="q" placeholder="Search this scenario…" value="#{Rack::Utils.escape_html(search_query)}" aria-label="Search this scenario">
+          </form>
           <div class="sidebar-inner">#{nav_html}</div>
         </nav>
         <main class="content" id="content">
@@ -339,6 +344,85 @@ get '/s/:slug' do
   redirect first ? "/s/#{s['slug']}/#{first['file']}" : '/'
 end
 
+# ── Search ──────────────────────────────────────────────────────
+# Simple line-level, case-insensitive substring search across every
+# document in a scenario. Matches are grouped by document, with the
+# matching line shown as a snippet and the search term highlighted.
+# Must be registered before the generic '/s/:slug/:filename' route
+# below, or Sinatra will match "search" itself as a :filename value.
+get '/s/:slug/search' do
+  scenarios = load_scenarios
+  s = scenarios[params[:slug]]
+  halt 404, 'Scenario not found' unless s
+
+  query = (params[:q] || '').strip
+  docs  = s['docs'] || []
+
+  nav_html = docs.map do |d|
+    "<a href=\"/s/#{s['slug']}/#{d['file']}\" class=\"nav-item\">#{d['label']}</a>"
+  end.join("\n")
+
+  results_html =
+    if query.empty?
+      '<p class="search-hint">Type a search term and press Enter.</p>'
+    else
+      matches = []
+      docs.each do |d|
+        filepath = File.join(s['docs_dir'], d['file'])
+        next unless File.exist?(filepath)
+
+        raw = File.read(filepath, encoding: 'utf-8')
+        raw.each_line do |line|
+          next unless line.downcase.include?(query.downcase)
+
+          snippet = line.strip
+          snippet = "#{snippet[0, 220]}…" if snippet.length > 220
+          matches << { doc: d, snippet: snippet }
+        end
+      end
+
+      if matches.empty?
+        "<p class=\"search-empty\">No results for \u201c#{Rack::Utils.escape_html(query)}\u201d.</p>"
+      else
+        escaped_query = Regexp.escape(Rack::Utils.escape_html(query))
+        grouped = matches.group_by { |m| m[:doc]['file'] }
+
+        sections = docs.filter_map do |d|
+          hits = grouped[d['file']]
+          next unless hits
+
+          items = hits.map do |m|
+            escaped = Rack::Utils.escape_html(m[:snippet])
+            highlighted = escaped.gsub(/#{escaped_query}/i) { |match| "<mark>#{match}</mark>" }
+            "<li><a href=\"/s/#{s['slug']}/#{d['file']}\">#{highlighted}</a></li>"
+          end.join("\n")
+
+          <<~SECTION
+            <h3><a href="/s/#{s['slug']}/#{d['file']}">#{d['label']}</a> <span class="search-count">(#{hits.size})</span></h3>
+            <ul class="search-results-list">
+              #{items}
+            </ul>
+          SECTION
+        end.join("\n")
+
+        count_label = matches.size == 1 ? 'result' : 'results'
+        "<p class=\"search-summary\">#{matches.size} #{count_label} for \u201c#{Rack::Utils.escape_html(query)}\u201d</p>\n#{sections}"
+      end
+    end
+
+  render_shell(
+    title:             query.empty? ? "Search — #{s['title']}" : "\u201c#{query}\u201d — #{s['title']}",
+    scenario_title:    s['title'],
+    scenario_subtitle: s['subtitle'],
+    scenario_slug:     s['slug'],
+    accent_color:      s['color'] || '#c8a96e',
+    nav_html:          nav_html,
+    content_html:      results_html,
+    search_query:      query,
+    print_title:       'Search Results',
+  )
+end
+
 get '/s/:slug/:filename' do
   scenarios = load_scenarios
   s = scenarios[params[:slug]]
@@ -370,6 +454,7 @@ get '/s/:slug/:filename' do
     title:             "#{label} — #{s['title']}",
     scenario_title:    s['title'],
     scenario_subtitle: s['subtitle'],
+    scenario_slug:     s['slug'],
     accent_color:      s['color'] || '#c8a96e',
     nav_html:          nav_html,
     content_html:      html,

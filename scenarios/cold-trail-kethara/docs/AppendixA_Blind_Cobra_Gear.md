@@ -20,7 +20,7 @@ This section covers the cell's shared, station-level equipment — the gear that
 
 **Parts Locker (depleted)** — What's left of BLIND COBRA's spare-parts allowance after 23 days of running repairs on everything from drone rotors to the TSU-9. By Day 23 it holds fasteners, cable, and odds and ends — nothing that solves the TSU-9 problem. That's the entire reason the crash site 4km northeast matters as much as it does (see A.10, Engineer Effect Table, and A.9, Port Maintenance Procedures).
 
-**Rental Trucks (×2, fuel cells dry)** — TL9 civilian ground vehicles, rented from a Lakamsal Town colonist under the "geological survey work, three weeks" cover story. Not returned. Full vehicle profile in Appendix L, Vehicles and Drones.
+**Rental Trucks (×2, fuel cells dry)** — TL9 civilian ground vehicles, rented from a Lakamsal Town colonist under the "geological survey work, three weeks" cover story. Not returned. Full vehicle profile in Appendix H, Vehicles and Drones.
 
 **The Boring Machine (destroyed)** — A single-purpose pneumatic boring machine, TL9, industrial grade, brought in as part of the insertion equipment specifically to bore the TSU-9's 49 heat-exchanger ports into the east cliff face. It completed all 49 and destroyed itself attempting a 50th — the basalt was harder than the IISS survey data indicated, and the machine's drive assembly failed catastrophically about 8 minutes into the attempt. There is no replacement. There are no spare ports. Full technical detail, including why the port grid isn't quite the clean honeycomb the installation manual promised, is in A.8, The 49 Ports: Origin and Significance.
 
@@ -36,7 +36,7 @@ This section covers the cell's shared, station-level equipment — the gear that
 
 **Pelczar's spare display** — Not station-critical equipment, but worth noting here: a personal display she'd rigged to project art onto the ops centre wall, now overheated and dark along with everything else (see Chapter 2, §2.7).
 
-*Full drone hardware specifications (Priya, Garner, the Surveillance and Ground Scout units): see Appendix L, Vehicles and Drones.*
+*Full drone hardware specifications (Priya, Garner, the Surveillance and Ground Scout units): see Appendix H, Vehicles and Drones.*
 
 ---
 
@@ -278,7 +278,7 @@ Moving along the fixed line or traverse line to reach a specific port is an **At
 | Using intact, inspected hardware | +0 | Baseline |
 | Using a tampered/compromised anchor point (unknowingly) | -2 | The system doesn't tell you it's weak until it's tested |
 | Using a tampered anchor point (knowingly, taking precautions) | -1 | Reduced by deliberate care — extra checking, slower movement |
-| Storm — peak (Hours 4–10, see Appendix J) | -2 | Wind, wet rock, reduced grip |
+| Storm — peak (Hours 4–10, see Appendix G) | -2 | Wind, wet rock, reduced grip |
 | Storm — building or clearing | -1 | Partial conditions |
 | Carrying the coolant canister or tools (one hand occupied) | -1 | Standard for any port-servicing trip |
 | Grav belt assisting (used in parallel with the rig, not instead of) | +2 | The belt takes weight off the rope system, freeing the climber to focus on the work rather than the climb |
@@ -342,7 +342,7 @@ Clearing a blocked or occluded port — whether from mineral buildup, basalt dus
 
 ## A.8f — WHAT IS ATTRACTING THE MEGAFAUNA TO THE CLEANED PORTS
 
-This is the detail that connects the climbing rig, the port-cleaning tool, and the Shield Beetle encounter (Appendix M Addendum) into one causal chain, and it is worth stating plainly for the referee.
+This is the detail that connects the climbing rig, the port-cleaning tool, and the Shield Beetle encounter (Appendix I Addendum) into one causal chain, and it is worth stating plainly for the referee.
 
 **A blocked port is, thermally and chemically, less interesting than a freshly cleaned one.** The mineral deposits, dust, and organic buildup that accumulate in a port over weeks of operation act as insulation — they dampen the heat signature reaching the outer cap and they trap whatever organic-smelling residue has built up inside the channel rather than letting it vent. A port that has not been serviced in three weeks smells, to a Shield Beetle's chemosensory system, like very little. It is just warm rock.
 
@@ -350,7 +350,7 @@ This is the detail that connects the climbing rig, the port-cleaning tool, and t
 
 1. **Thermal signature increases.** With the obstruction gone, the port is venting at closer to its designed rate — which, in a system already running in degraded air-cooled mode, means *more* heat reaching the surface, not less. A freshly cleaned port reads measurably warmer than its neighbours for the next several hours, until the surrounding rock and airflow normalise.
 
-2. **Organic volatiles are released.** Three weeks of trapped residue — condensation, mineral off-gassing, and in a few documented cases (Haramoto's maintenance log, Day 14 and Day 19) trace organic compounds from the station's own waste-heat exchange system bleeding into the airflow — gets pushed out through the channel by the reamer's rotation and the resumed airflow. This is a brief, concentrated release: a smell signature that a Shield Beetle's chemosensory range (500m, per Appendix M.1) can pick up far faster and more strongly than the ambient warmth of an unserviced port.
+2. **Organic volatiles are released.** Three weeks of trapped residue — condensation, mineral off-gassing, and in a few documented cases (Haramoto's maintenance log, Day 14 and Day 19) trace organic compounds from the station's own waste-heat exchange system bleeding into the airflow — gets pushed out through the channel by the reamer's rotation and the resumed airflow. This is a brief, concentrated release: a smell signature that a Shield Beetle's chemosensory range (500m, per Appendix I.1) can pick up far faster and more strongly than the ambient warmth of an unserviced port.
 
 **The practical consequence:** servicing a port — exactly the maintenance work the team needs to do to keep the TSU-9 alive — actively increases the chance of attracting a Shield Beetle to that specific location within the next 1–2 hours. This is not a coincidence the scenario hides from the players if they think to ask Kowalski or Haramoto; it is established field knowledge from the team's 23 days on site. Haramoto's log, Day 14: *"Cleaned three ports in Zone B. Within the hour, motion sensors picked up something investigating the cliff face. Correlation, not yet proven, but I don't love it."*
 
@@ -479,7 +479,7 @@ The scenario creates two situations where team members might fire energy weapons
 
 **Situation 1 — Shield Beetles on the cliff face**
 
-When Shield Beetles investigate the port area while team members are performing maintenance (see Appendix M and the Herbivore-at-the-Vents encounter), the natural instinct is to fire at the beetles. The beetles are Armour 10 — laser weapons are effective against them (reduces effective armour to 7). A team member on a grav belt or ladder, suddenly confronted by a 400kg beetle at close range on a cliff face, may fire their laser pistol in self-defence.
+When Shield Beetles investigate the port area while team members are performing maintenance (see Appendix I and the Herbivore-at-the-Vents encounter), the natural instinct is to fire at the beetles. The beetles are Armour 10 — laser weapons are effective against them (reduces effective armour to 7). A team member on a grav belt or ladder, suddenly confronted by a 400kg beetle at close range on a cliff face, may fire their laser pistol in self-defence.
 
 At close range on a cliff face, missed shots hit the basalt. At close range in a port cluster, a missed shot enters a port opening.
 
@@ -538,7 +538,7 @@ TSU-9 at 140% → Needs crash site coolant
      ↓
 Send team to crash site → Exposes team to Stalker packs
      ↓                 → Splits defensive posture
-     ↓                 → Triggers beetle encounter (herbivore/reducer — see Appendix M)?
+     ↓                 → Triggers beetle encounter (herbivore/reducer — see Appendix I)?
      ↓
 Retrieve canister → Begin port servicing
      ↓

@@ -1,4 +1,4 @@
-# APPENDIX H — IMPERIAL ANTAGONISTS
+# APPENDIX F — IMPERIAL ANTAGONISTS
 ## Threat Layers, Full Stat Blocks, and IMS Resolute Purpose
 
 *Cold Trail in Kethara Reach — Referee Reference Document*
@@ -9,7 +9,7 @@
 
 ---
 
-## H.1 — THREAT LAYER OVERVIEW
+## F.1 — THREAT LAYER OVERVIEW
 
 | Threat Level | Who | Trigger | Response Time |
 |---|---|---|---|
@@ -23,7 +23,7 @@
 
 ---
 
-## H.2 — IMPERIAL ANTAGONIST 1: THE LOCAL OBSERVER
+## F.2 — IMPERIAL ANTAGONIST 1: THE LOCAL OBSERVER
 
 # Scout Coordinator Emeka Osei-Bonsu
 **IISS Survey Branch, Lakamsal Station**
@@ -42,15 +42,15 @@
 
 | Skill | Level |
 |---|---|
-| Electronics (sensors) | 3 |
-| Recon | 2 |
 | Astrogation | 2 |
-| Pilot (small craft) | 2 |
-| Survival | 1 |
-| Navigation | 1 |
+| Electronics (sensors) | 3 |
 | Gun Combat (slug) | 1 |
 | Mechanic | 0 |
 | Medic | 0 |
+| Navigation | 1 |
+| Pilot (small craft) | 2 |
+| Recon | 2 |
+| Survival | 1 |
 
 **Equipment:** Autopistol (3D-3, CRB22 p.126), Survey Scanner (TL10, DM+2 Electronics (sensors) checks), IISS encrypted comms uplink, personal air/raft (TL9, range 500km, no weapons)
 
@@ -96,7 +96,7 @@
 
 ---
 
-## H.3 — IMPERIAL ANTAGONIST 2: THE INTELLIGENCE THREAT
+## F.3 — IMPERIAL ANTAGONIST 2: THE INTELLIGENCE THREAT
 
 # Lieutenant Commander Yevgenia Marchetti-Solis
 **Imperial Naval Intelligence, 291st Fleet Detachment — Lakamsal Relay Controller**
@@ -115,17 +115,17 @@
 
 | Skill | Level |
 |---|---|
-| Electronics (comms) | 3 |
-| Investigate | 3 |
 | Deception | 2 |
-| Tactics (naval) | 2 |
-| Gun Combat (energy) | 2 |
+| Electronics (comms) | 3 |
 | Electronics (sensors) | 1 |
+| Gun Combat (energy) | 2 |
+| Investigate | 3 |
+| Melee (unarmed) | 0 |
 | Persuade | 1 |
+| Pilot (spacecraft) | 1 |
 | Recon | 1 |
 | Stealth | 1 |
-| Pilot (spacecraft) | 1 |
-| Melee (unarmed) | 0 |
+| Tactics (naval) | 2 |
 
 **Equipment:** Laser Pistol (3D, CRB22 p.129), Light Ballistic Cloth (+3 Protection, concealed), Naval Intelligence encrypted comms suite, personal signal analysis tablet (TL12, DM+2 Electronics (comms) when reviewing transmission data), two NI security agents as personal escort (Army stats, TL12 equipment, Gun Combat 2)
 
@@ -158,7 +158,7 @@ She does not know what it is. She has requested a briefing three times. She has 
 
 ---
 
-## H.4 — IMPERIAL ANTAGONIST 3: THE MILITARY DEADLINE
+## F.4 — IMPERIAL ANTAGONIST 3: THE MILITARY DEADLINE
 
 # Commander Raúl Ibáñez-Ochoa
 **291st Fleet, Commanding Officer IMS Resolute Purpose**
@@ -177,15 +177,15 @@ She does not know what it is. She has requested a briefing three times. She has 
 
 | Skill | Level |
 |---|---|
-| Tactics (naval) | 3 |
-| Leadership | 2 |
-| Engineer (jump) | 2 |
-| Electronics (sensors) | 2 |
-| Pilot (spacecraft) | 1 |
-| Gun Combat (energy) | 1 |
 | Admin | 1 |
 | Astrogation | 1 |
+| Electronics (sensors) | 2 |
+| Engineer (jump) | 2 |
+| Gun Combat (energy) | 1 |
+| Leadership | 2 |
 | Melee (blade) | 1 |
+| Pilot (spacecraft) | 1 |
+| Tactics (naval) | 3 |
 
 **Equipment:** Laser Pistol (3D, CRB22 p.129), Naval Officer's dress uniform (formal occasions), Standard naval command kit, Sealed orders (opened once Marchetti-Solis confirms hostile contact), Ceremonial cutlass (carried in dress configuration — it has been used)
 
@@ -210,7 +210,7 @@ His sealed orders tell him what to do once Marchetti-Solis confirms hostile cont
 
 ---
 
-## H.5 — MARINE COMMANDER
+## F.5 — MARINE COMMANDER
 
 # Lieutenant Anya Voss
 **291st Fleet Marine Detachment, IMS Resolute Purpose**
@@ -229,17 +229,17 @@ His sealed orders tell him what to do once Marchetti-Solis confirms hostile cont
 
 | Skill | Level |
 |---|---|
-| Gun Combat (energy) | 3 |
-| Tactics (military) | 2 |
-| Leadership | 2 |
 | Athletics (endurance) | 2 |
+| Electronics (sensors) | 1 |
+| Gun Combat (energy) | 3 |
+| Leadership | 2 |
+| Medic | 1 |
+| Melee (blade) | 1 |
 | Recon | 2 |
 | Stealth | 1 |
-| Melee (blade) | 1 |
-| Medic | 1 |
-| Electronics (sensors) | 1 |
-| Vacc Suit | 1 |
 | Survival | 0 |
+| Tactics (military) | 2 |
+| Vacc Suit | 1 |
 
 **Equipment:** TL13 Combat Armour (+13, sealed, tactical HUD with squad overlay), Laser Rifle (5D, Zero-G, Scope — CRB22 p.129), Gauss Pistol (sidearm, 3D-3, AP3, Auto 2), Combat Blade (1D+4), Tactical planning tablet (TL13)
 
@@ -262,7 +262,7 @@ She has briefed her Marines: minimum force, take prisoners, do not engage local 
 
 ---
 
-## H.6 — IMS RESOLUTE PURPOSE
+## F.6 — IMS RESOLUTE PURPOSE
 
 **Type:** Kinunir-class Patrol Cruiser (modified TL13 refit)
 **Hull:** 400 tons, streamlined
@@ -322,6 +322,6 @@ She has briefed her Marines: minimum force, take prisoners, do not engage local 
 
 ---
 
-*Appendix H — Imperial Antagonists*
+*Appendix F — Imperial Antagonists*
 *Cold Trail in Kethara Reach — Referee Document*
 *Mongoose Traveller 2nd Edition — Imperial Year 1117*

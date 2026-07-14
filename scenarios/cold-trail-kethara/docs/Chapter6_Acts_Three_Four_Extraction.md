@@ -41,7 +41,7 @@ At Hour 5, the thermal shimmer from the three hot nodes on the cliff face attrac
 
 **If the Tyrant tags Haramoto on the cliff face:** She is in a grav belt 20 metres up. A bite or tail sweep that connects on a failed Athletics check could knock her off the cliff — 40m fall, 4D damage, filter mask and grav belt status determine survival. Mouton on the ground below can do nothing except watch and then act.
 
-*Full Tyrant stats and encounter options: Appendix M, Bestiary.*
+*Full Tyrant stats and encounter options: Appendix I, Bestiary.*
 
 ---
 
@@ -51,7 +51,7 @@ While Haramoto is servicing the TSU-9 ports on the cliff face, Shield Beetles �
 
 This encounter is tied to the crash site supply gate: the laser rifle at the crash site is the correct tool for Shield Beetles (5D vs effective Armour 7). Without it, the team's options are more constrained.
 
-*Full Shield Beetle encounter with handling options, vents encounter mechanics, and the crash site supply gate: Appendix M Addendum.*
+*Full Shield Beetle encounter with handling options, vents encounter mechanics, and the crash site supply gate: Appendix I Addendum.*
 
 ---
 
@@ -150,7 +150,7 @@ She does not say whether she believes this. She says it because it is what needs
 
 **Autonomous Mode:** Switch with a Minor Action. Drone follows last instruction set at Skill 1 for all actions until operator re-establishes link (Average Electronics (remote ops) 8+, 1D6 minutes).
 
-*Full drone specifications (Speed, Range, Armour, Hits, Weapons): see Appendix L, Vehicles and Drones.*
+*Full drone specifications (Speed, Range, Armour, Hits, Weapons): see Appendix H, Vehicles and Drones.*
 
 ### Auto-Sentries
 
@@ -184,7 +184,7 @@ Contested **Electronics (comms)** roll — Breckenridge vs Imperial ECM rating 3
 | 4–5 | Kethara Stalker pair — Stealth 3, ambush. Recon 10+ to detect before attack |
 | 6 | Kethara Tyrant (adult) — territorial; present in area, not yet attacking |
 
-*Full bestiary: Appendix M.*
+*Full bestiary: Appendix I.*
 
 ---
 
@@ -518,7 +518,7 @@ What the Director does with it is a story for a different table. But it starts i
 
 ---
 
-## 5.0 — EXTRACTION OVERVIEW
+## 6.15 — EXTRACTION OVERVIEW
 
 Getting off Lakamsal is not a single event. It is a sequence of five interlocking problems, each of which can fail independently and compound the others.
 
@@ -538,7 +538,7 @@ This chapter covers everything from the successful data transmission to the mome
 
 ---
 
-## 5.1 — PHASE ONE: DATA PACKAGE TRANSMISSION
+## 6.16 — PHASE ONE: DATA PACKAGE TRANSMISSION
 
 ### The Transmission Path
 
@@ -593,7 +593,7 @@ The data package travels: Pelczar's console → encrypted comms uplink → cave 
 
 ---
 
-## 5.2 — PHASE TWO: SHEPHERD'S DESCENT
+## 6.17 — PHASE TWO: SHEPHERD'S DESCENT
 
 ### Mrazová's Options
 
@@ -630,7 +630,7 @@ During the alternate corridor approach, SHEPHERD is in *Resolute Purpose*'s sens
 
 ---
 
-## 5.3 — PHASE THREE: GETTING TO KR-7
+## 6.18 — PHASE THREE: GETTING TO KR-7
 
 KR-7 is 40km north along the Kethara Ridgeline. The team cannot teleport there. Every option has trade-offs.
 
@@ -645,13 +645,13 @@ KR-7 is 40km north along the Kethara Ridgeline. The team cannot teleport there. 
 
 **If the team uses the G-carrier (Ibáñez-Ochoa's vehicle):** Only available if the Marines have landed and left the carrier unguarded — an unlikely scenario, but not impossible if Voss brings all her troopers to the base perimeter on foot and leaves the G-carrier at KR-7 with minimal crew. A desperate play that requires taking a TL13 armoured vehicle from Imperial Marines. Mouton notes: *"The carrier is faster. Getting to the carrier requires going through them first."*
 
-**Megafauna on the ridgeline route:** Roll 1D per hour on foot (Encounter Table, Chapter 4 Mechanics Reference). The Tyrant's territorial range covers the first 15km of the ridgeline south from the base. After 15km, the primary threat shifts to Stalker packs — faster, pack-hunting, harder to deter than the Tyrant. Kowalski's Science (biology) 8+ can read sign and predict encounter probability before committing to a route.
+**Megafauna on the ridgeline route:** Roll 1D per hour on foot (Encounter Table, §6.3, Mechanics Reference, above). The Tyrant's territorial range covers the first 15km of the ridgeline south from the base. After 15km, the primary threat shifts to Stalker packs — faster, pack-hunting, harder to deter than the Tyrant. Kowalski's Science (biology) 8+ can read sign and predict encounter probability before committing to a route.
 
 **The tunnel option:** The geological survey notes indicate a tunnel through the formation 2km north of the base. It exits on the west side of the ridgeline — the megafauna-poor side. This adds 3–4km to the route but avoids the Tyrant's cliff-base territory entirely for the first leg. Haramoto knows about the tunnel. She has not mentioned it because it was not relevant until now.
 
 ---
 
-## 5.4 — PHASE FOUR: THE LANDING ZONE CONFLICT
+## 6.19 — PHASE FOUR: THE LANDING ZONE CONFLICT
 
 KR-7 is the landing zone for both SHEPHERD (arriving to extract the team) and Ibáñez-Ochoa's Ship's Boat (arriving to land Marines).
 
@@ -676,7 +676,7 @@ She will not land at KR-7 with a military vessel present. This is non-negotiable
 
 ---
 
-## 5.5 — PHASE FIVE: JUMP CLEARANCE
+## 6.20 — PHASE FIVE: JUMP CLEARANCE
 
 Once all team members are aboard and SHEPHERD lifts from KR-7, Mrazová plots her ascent. Jump requires clearing Lakamsal's 100-diameter limit — approximately **40 minutes at Thrust 2** from the surface.
 
@@ -699,7 +699,7 @@ He has 40 minutes to become certain. SHEPHERD has 40 minutes to be gone.
 
 ---
 
-## 5.6 — EXTRACTION COMPLICATIONS
+## 6.21 — EXTRACTION COMPLICATIONS
 
 ### The Storm Window Decision
 
@@ -709,7 +709,7 @@ SHEPHERD's descent corridor is affected by the same EM storm cycle that has been
 - **Descend now in the storm:** Mrazová rolls Pilot 8+ for the descent and landing at KR-7. On failure (Effect -1): landing is rough — 1D damage to SHEPHERD's hull (cosmetic), longer boarding time. On bad failure (Effect -3): landing aborted, SHEPHERD circles until peak passes.
 - **Wait for storm clearing:** Adds 2–4 hours to the extraction window. Marchetti-Solis's sensors are degraded during peak — waiting for clear means she can see better.
 
-*For full storm mechanics and weather system: see Appendix J.*
+*For full storm mechanics and weather system: see Appendix G.*
 
 *Cross-reference: Chapter 1, Section 1.4 for the storm cycle table.*
 
@@ -725,7 +725,7 @@ At the moment of extraction, Breckenridge has made a decision he has not shared 
 
 **Pelczar's response:** She will hand him a data wafer without explanation. He will take it without looking at it. Neither of them will say what it is. It is a copy of Partition 2 — the file on the burned Imperial asset. It is also a message.
 
-**Referee note on Breckenridge staying behind:** This plays as a quiet scene at the ramp, not a confrontation. Vasiliou's line from the extraction moment in Appendix G: *"It was never here. Neither were we."* — she says this and boards. Breckenridge does not board. He steps back from the ramp. That is how it happens.
+**Referee note on Breckenridge staying behind:** This plays as a quiet scene at the ramp, not a confrontation. Vasiliou's line from the extraction moment in Appendix F: *"It was never here. Neither were we."* — she says this and boards. Breckenridge does not board. He steps back from the ramp. That is how it happens.
 
 **If a player is playing Breckenridge:** Make this a player choice, not a scripted outcome. His stay-behind plan is presented in Chapter 2 as his character's intention, not a fixed event. If the player wants him on the ship, he is on the ship.
 
@@ -763,7 +763,7 @@ If Mrazová aborts her descent — KR-7 occupied, patrol pattern unfavourable, t
 
 ---
 
-## 5.7 — SHEPHERD VESSEL SPECIFICATIONS
+## 6.22 — SHEPHERD VESSEL SPECIFICATIONS
 
 **Type:** Modified Type S Scout/Courier (SolSec intelligence courier variant)
 **Hull:** 100 tons, streamlined, TL12 base with TL11 intelligence modifications
@@ -796,7 +796,7 @@ If Mrazová aborts her descent — KR-7 occupied, patrol pattern unfavourable, t
 
 ---
 
-## 5.8 — PILOT: SENIOR SCOUT ELIŠKA MRAZOVÁ
+## 6.23 — PILOT: SENIOR SCOUT ELIŠKA MRAZOVÁ
 
 **Role:** SolSec contracted courier pilot — not an agent, a specialist
 **Career:** 3 Terms Scout (Courier specialisation)
@@ -808,14 +808,14 @@ If Mrazová aborts her descent — KR-7 occupied, patrol pattern unfavourable, t
 
 | Skill | Level |
 |---|---|
-| Pilot (spacecraft) | 3 |
 | Astrogation | 3 |
-| Electronics (comms) | 2 |
-| Mechanic | 2 |
-| Stealth | 1 |
-| Gun Combat (energy) | 1 |
-| Vacc Suit | 1 |
 | Deception | 1 |
+| Electronics (comms) | 2 |
+| Gun Combat (energy) | 1 |
+| Mechanic | 2 |
+| Pilot (spacecraft) | 3 |
+| Stealth | 1 |
+| Vacc Suit | 1 |
 
 **Equipment:** Laser Pistol (CRB22 p.129), Vacc Suit TL12, personal encrypted comms unit
 
@@ -841,7 +841,7 @@ She does not transmit this. She keeps flying her patrol pattern and waiting.
 
 ---
 
-## 5.9 — THE JUMP: DESTINATION AND WHAT HAPPENS NEXT
+## 6.24 — THE JUMP: DESTINATION AND WHAT HAPPENS NEXT
 
 ### Jump Mechanics
 

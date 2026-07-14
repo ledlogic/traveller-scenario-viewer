@@ -12,13 +12,13 @@
     { "file": "Chapter5_Act_Two.md",                        "label": "Ch 5 — Act Two: Crash Site & Civilians" },
     { "file": "Chapter6_Acts_Three_Four_Extraction.md",     "label": "Ch 6 — Acts Three, Four & Extraction" },
     { "file": "AppendixA_Blind_Cobra_Gear.md",              "label": "App A — Blind Cobra Gear" },
-    { "file": "AppendixD_Road_Not_Taken.md",                "label": "App B — The Road Not Taken" },
+    { "file": "AppendixB_Road_Not_Taken.md",                "label": "App B — The Road Not Taken" },
     { "file": "AppendixC_Sample_Combat_Act.md",             "label": "App C — Sample Remote Combat Act" },
-    { "file": "AppendixE_Corporate_Security_Forces.md",     "label": "App D — Corporate Security Forces" },
-    { "file": "AppendixF_Imperial_Response_Encounter.md",   "label": "App E — Imperial Response Encounter" },
-    { "file": "AppendixG_Imperial_Antagonists.md",          "label": "App H — Imperial Antagonists" },
-    { "file": "AppendixH_Quick_Reference_Citations.md",     "label": "Quick Reference & Citations" },
-    { "file": "AppendixI_Vehicles_and_Drones.md",           "label": "App L — Lakamsal Vehicles and Drones" },
-    { "file": "AppendixB_Bestiary.md",                      "label": "App M — Lakamsal Bestiary" }
+    { "file": "AppendixD_Corporate_Security_Forces.md",     "label": "App D — Corporate Security Forces" },
+    { "file": "AppendixE_Imperial_Response_Encounter.md",   "label": "App E — Imperial Response Encounter" },
+    { "file": "AppendixF_Imperial_Antagonists.md",          "label": "App F — Imperial Antagonists" },
+    { "file": "AppendixG_Quick_Reference_Citations.md",     "label": "App G — Quick Reference & Citations" },
+    { "file": "AppendixH_Vehicles_and_Drones.md",           "label": "App H — Lakamsal Vehicles and Drones" },
+    { "file": "AppendixI_Bestiary.md",                      "label": "App I — Lakamsal Bestiary" }
   ]
 }

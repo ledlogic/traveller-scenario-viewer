@@ -1,11 +1,11 @@
 # TRAVELLER: COLD TRAIL IN KETHARA REACH
-## Appendix H — Quick Reference Tables & Source Citations
+## Appendix G — Quick Reference Tables & Source Citations
 
 *Cold Trail in Kethara Reach — Referee Reference Document*
 
 ---
 
-## H.1 — QUICK REFERENCE TABLES
+## G.1 — QUICK REFERENCE TABLES
 
 ### Task Difficulty Summary
 
@@ -124,7 +124,7 @@ Every piece of armour (and non-armoured clothing that gets described in enough d
 
 ---
 
-## H.2 — CONFIRMED SOURCE CITATIONS
+## G.2 — CONFIRMED SOURCE CITATIONS
 
 All statistics, rules references, and equipment data below are confirmed from the uploaded source files.
 
@@ -206,7 +206,7 @@ All statistics, rules references, and equipment data below are confirmed from th
 
 ---
 
-## H.3 — STREPHON ASSASSINATION NEWS PROPAGATION
+## G.3 — STREPHON ASSASSINATION NEWS PROPAGATION
 
 *Campaign reference — what happens after the scenario ends.*
 
@@ -257,7 +257,7 @@ Three months later Strephon is dead and the Imperium begins its collapse. SolSec
 
 ---
 
-*Appendix J — Weather, Reference Tables & Confirmed Stats*
+*Appendix G — Weather, Reference Tables & Confirmed Stats*
 *Cold Trail in Kethara Reach — Referee Document*
 *Mongoose Traveller 2nd Edition — Imperial Year 1117*
 

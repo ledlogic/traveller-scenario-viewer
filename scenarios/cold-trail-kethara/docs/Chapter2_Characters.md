@@ -15,7 +15,7 @@ BLIND COBRA is a SolSec Field Remote Operations Cell. Five operatives — six wi
 - Encrypted comms unit (TL10, scrambled — all traffic routed through BLIND COBRA's secure relay node)
 - Cover identity documents (Kethara Geological Survey Partners — registered Altiplano, Solomani Rim 3017, Imperial territory)
 - Personal medkit (1D healing, one use)
-- 1,000 Credits in untraceable currency chips
+- 1,000 Credits' worth of Ensi chits — Lakamsal's local colonial scrip, issued by the Civil Service Bureaucracy administration and exchangeable for Imperial Credits at a fixed, price-controlled rate. Untraceable outside Lakamsal's own banking system, which is precisely why BLIND COBRA carries it instead of standard Imperial credit.
 
 **Gender identities:**
 
@@ -50,17 +50,17 @@ BLIND COBRA is a SolSec Field Remote Operations Cell. Five operatives — six wi
 
 | Skill | Level |
 |---|---|
-| Tactics (military) | 2 |
-| Leadership | 2 |
-| Recon | 2 |
+| Admin | 0 |
 | Deception | 2 |
+| Electronics (comms) | 1 |
 | Gun Combat (energy) | 1 |
 | Investigate | 1 |
-| Stealth | 1 |
-| Electronics (comms) | 1 |
+| Leadership | 2 |
 | Melee (unarmed) | 1 |
-| Admin | 0 |
 | Persuade | 0 |
+| Recon | 2 |
+| Stealth | 1 |
+| Tactics (military) | 2 |
 
 **Equipment:** Laser Carbine (4D, scope, Zero-G, CRB22 p.129), Diplo Vest (+3 Protection, concealable, CRB22 p.100), Tactical HUD (DM+1 Tactics when linked to sensor net), SolSec Encrypted Comms, **Stimulants ×0 — supply exhausted** *(see below)*
 
@@ -84,7 +84,7 @@ She does not explain why. If given one, she pockets it immediately and uses it w
 
 **Kowalski's private note** *(if she observes this):* *"Commander used a stim from someone else's kit. This is the fourth from external sources in 36 hours. Returning to baseline now. Will not raise it. She won't listen and this is not the moment."*
 
-*For Vasiliou's full command voice, orders, and per-character callouts: see Appendix G.*
+*For Vasiliou's full command voice, orders, and per-character callouts: see §2.10 (How to Play Vasiliou), §2.13 (Per-Character Orders and Callouts), and §2.14 (Scenario Trigger Lines), below.*
 
 ---
 
@@ -116,15 +116,15 @@ She does not explain why. If given one, she pockets it immediately and uses it w
 
 | Skill | Level |
 |---|---|
-| Electronics (remote ops) | 3 |
-| Flyer (rotor) | 2 |
-| Gunner (turrets) | 2 |
-| Electronics (sensors) | 2 |
-| Recon | 1 |
-| Pilot (small craft) | 1 |
-| Mechanic | 1 |
 | Athletics (dexterity) | 1 |
+| Electronics (remote ops) | 3 |
+| Electronics (sensors) | 2 |
+| Flyer (rotor) | 2 |
 | Gun Combat (slug) | 1 |
+| Gunner (turrets) | 2 |
+| Mechanic | 1 |
+| Pilot (small craft) | 1 |
+| Recon | 1 |
 | Vacc Suit | 0 |
 
 **Equipment:** Autopistol (3D-3, 15 rounds, CRB22 p.126), Flight Suit (repurposed, +1 Protection), Drone Control Gauntlet (TL11 wrist-mounted haptic rig, DM+1 all drone ops), Spare Drone Parts Kit (repairs 1D drone damage, 30 min), Binoculars (TL10, ×50 magnification, thermal overlay)
@@ -142,7 +142,7 @@ She does not explain why. If given one, she pockets it immediately and uses it w
 | Surveillance | Fixed-wing TL11, 400km range | OPERATIONAL | Currently on final surveillance pass at Hour 0 |
 | Ground Scout | Wheeled TL10, carries 1 passenger | OPERATIONAL | Available for crash site runs |
 
-*Full drone mechanics and skill references: see Chapter 4 Mechanics Reference.*
+*Full drone mechanics and skill references: see Chapter 6, §6.3, Mechanics Reference.*
 
 ---
 
@@ -164,7 +164,7 @@ She does not explain why. If given one, she pockets it immediately and uses it w
 *"Every system talks if you listen the right way. The Imperial relay is very chatty."*
 
 **Age:** 40 | **Gender:** Male (he/him)
-**Homeworld:** Patrent (Alpha Crucis 0101 — High Tech, Imperial border world, Solomani ancestry)
+**Homeworld:** Patrent (Alpha Crucis 1101 — UWP B8A3ABB-F, Fl Hi Ht A, Imperial world, Solomani ancestry)
 
 | STR | DEX | END | INT | EDU | SOC |
 |---|---|---|---|---|---|
@@ -174,17 +174,17 @@ She does not explain why. If given one, she pockets it immediately and uses it w
 
 | Skill | Level |
 |---|---|
+| Admin | 0 |
+| Deception | 2 |
 | Electronics (comms) | 3 |
 | Electronics (computers) | 3 |
-| Investigate | 2 |
-| Deception | 2 |
 | Electronics (sensors) | 1 |
-| Stealth | 1 |
-| Persuade | 1 |
-| Streetwise | 1 |
 | Gun Combat (energy) | 1 |
+| Investigate | 2 |
 | Language (Imperial Standard) | 2 |
-| Admin | 0 |
+| Persuade | 1 |
+| Stealth | 1 |
+| Streetwise | 1 |
 
 **Equipment:** Laser Pistol (3D, Zero-G, CRB22 p.129), SolSec SIGINT Suite (TL11 portable intercept rig, DM+2 to all contested Electronics rolls when deployed), Intrusion Toolkit (TL11 auto-hacking device, DM+2 vs TL10 or lower systems), Personal Encrypted Data Core (triple-redundant), Signal Masking Cloak (DM+2 Stealth vs electronic sensors)
 
@@ -236,14 +236,14 @@ The second — six weeks old — is the data surge itself. The cipher identifier
 
 | Skill | Level |
 |---|---|
-| Mechanic | 3 |
-| Engineer (electronics) | 2 |
+| Athletics (strength) | 1 |
+| Drive (wheeled) | 1 |
 | Electronics (sensors) | 2 |
+| Engineer (electronics) | 2 |
 | Engineer (power) | 1 |
 | Explosives | 1 |
-| Drive (wheeled) | 1 |
-| Athletics (strength) | 1 |
 | Gun Combat (slug) | 1 |
+| Mechanic | 3 |
 | Medic | 1 |
 | Survival | 0 |
 
@@ -287,17 +287,17 @@ The second — six weeks old — is the data surge itself. The cipher identifier
 
 | Skill | Level |
 |---|---|
-| Gun Combat (energy) | 3 |
-| Recon | 3 |
-| Stealth | 2 |
 | Athletics (endurance) | 2 |
-| Melee (blade) | 2 |
-| Survival | 2 |
-| Heavy Weapons (portable) | 1 |
 | Drive (wheeled) | 1 |
 | Electronics (sensors) | 1 |
-| Medic | 0 |
 | Explosives | 0 |
+| Gun Combat (energy) | 3 |
+| Heavy Weapons (portable) | 1 |
+| Medic | 0 |
+| Melee (blade) | 2 |
+| Recon | 3 |
+| Stealth | 2 |
+| Survival | 2 |
 
 **Equipment:** Advanced Combat Rifle (3D, Auto 3, scope, suppressor, CRB22 p.125), Laser Pistol (3D, silent, backup, CRB22 p.129), Combat Armour (+8 Protection, TL10, sealed, CRB22 p.100), Thermal Camouflage Suit (DM+3 Stealth vs thermal sensors while stationary), Blade (1D+2, CRB22 p.132), Explosive Charges ×4 (Explosives 2 to set correctly, 4D damage, 10m blast), Personal Motion Sensor (wrist-mounted, 100m range)
 
@@ -339,17 +339,17 @@ The second — six weeks old — is the data surge itself. The cipher identifier
 
 | Skill | Level |
 |---|---|
-| Medic | 3 |
-| Science (biology) | 2 |
-| Science (chemistry) | 1 |
-| Investigate | 2 |
-| Recon | 2 |
+| Admin | 0 |
+| Athletics (endurance) | 1 |
 | Electronics (sensors) | 1 |
 | Gun Combat (slug) | 1 |
+| Investigate | 2 |
+| Medic | 3 |
+| Recon | 2 |
+| Science (biology) | 2 |
+| Science (chemistry) | 1 |
 | Stealth | 1 |
 | Survival | 2 |
-| Athletics (endurance) | 1 |
-| Admin | 0 |
 
 **Equipment:**
 - Autopistol (3D-3, CRB22 p.126) — Kowalski does not carry a rifle
@@ -399,7 +399,7 @@ She finds the apex predator professionally fascinating and personally terrifying
 **Role:** SolSec Signals Intelligence — attached specialist
 **Career:** 5 Terms Agent (Intelligence, Counter-Intelligence)
 **Age:** 46 | **Gender:** Female (she/her)
-**Homeworld:** Kazan (Alpha Crucis 0101 — High Tech, sector capital)
+**Homeworld:** Kazan (Alpha Crucis 0701 — UWP C541748-8, Po, Imperial world)
 
 | STR | DEX | END | INT | EDU | SOC |
 |---|---|---|---|---|---|
@@ -409,14 +409,14 @@ She finds the apex predator professionally fascinating and personally terrifying
 
 | Skill | Level |
 |---|---|
+| Admin | 1 |
+| Deception | 2 |
 | Electronics (comms) | 4 |
 | Electronics (computers) | 3 |
-| Investigate | 3 |
-| Deception | 2 |
-| Recon | 1 |
-| Admin | 1 |
-| Persuade | 1 |
 | Gun Combat (energy) | 1 |
+| Investigate | 3 |
+| Persuade | 1 |
+| Recon | 1 |
 
 **Equipment:** Laser Pistol (3D — rarely leaves the holster), SolSec SIGINT Master Suite (TL12 — best portable signals analysis equipment in Confederation field inventory), Three redundant encrypted data cores worn on her person at all times, Stimulants (she has been using these; she has not slept properly in four days)
 

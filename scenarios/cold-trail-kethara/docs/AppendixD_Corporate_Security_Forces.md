@@ -14,7 +14,7 @@
 
 **Meridian Recovery Solutions** is a two-person corporate security and asset recovery firm operating under Imperial commercial law out of the Lakamsal Town downport district. They are contracted by **Shulgi & Enki Vehicle Hire** (owner: Dara Vasquez) to locate, recover, and if necessary legally detain parties who have abandoned or stolen rental vehicles.
 
-**Shulgi & Enki corporate colours: tan and dark brown.** The vehicles, uniforms, and equipment all carry these colours — tan bodywork with dark brown trim and logo markings, practical and commercial-looking rather than authoritative. Meridian Recovery operates in the same palette as their client: their field jackets, vehicle markings, and robot stencilling all use the Shulgi & Enki tan/dark brown scheme, since Meridian works almost exclusively for Shulgi & Enki on Lakamsal and has adopted the client's visual identity by convenience rather than policy. *(Note on the field jacket specifically: it is ordinary branded clothing, Protection 0 — not armour. Kaur's Flak Jacket, worn over hers, is what actually protects her. See Appendix H, "Armour & Protection Quick Reference," for the full cast's protection values.)*
+**Shulgi & Enki corporate colours: tan and dark brown.** The vehicles, uniforms, and equipment all carry these colours — tan bodywork with dark brown trim and logo markings, practical and commercial-looking rather than authoritative. Meridian Recovery operates in the same palette as their client: their field jackets, vehicle markings, and robot stencilling all use the Shulgi & Enki tan/dark brown scheme, since Meridian works almost exclusively for Shulgi & Enki on Lakamsal and has adopted the client's visual identity by convenience rather than policy. *(Note on the field jacket specifically: it is ordinary branded clothing, Protection 0 — not armour. Kaur's Flak Jacket, worn over hers, is what actually protects her. See Appendix G, "Armour & Protection Quick Reference," for the full cast's protection values.)*
 
 They are not a military threat. They are something worse: a *civilian complication* with legal standing on Imperial soil, arriving at a covert SolSec installation during the most exposed period of the mission.
 
@@ -47,16 +47,16 @@ They are not a military threat. They are something worse: a *civilian complicati
 
 | Skill | Level |
 |---|---|
-| Investigate | 3 |
-| Persuade | 2 |
-| Streetwise | 2 |
-| Recon | 2 |
-| Drive (wheeled) | 2 |
 | Admin | 2 |
-| Electronics (comms) | 1 |
 | Advocate | 1 |
 | Deception | 1 |
+| Drive (wheeled) | 2 |
+| Electronics (comms) | 1 |
 | Gun Combat (slug) | 0 |
+| Investigate | 3 |
+| Persuade | 2 |
+| Recon | 2 |
+| Streetwise | 2 |
 | Survival | 1 |
 
 **Equipment:**
@@ -120,15 +120,15 @@ He does not want a confrontation. He is not a hero. If someone with obvious mili
 
 | Skill | Level |
 |---|---|
-| Gun Combat (slug) | 2 |
-| Recon | 2 |
 | Athletics (dexterity) | 2 |
 | Drive (wheeled) | 1 |
+| Gun Combat (slug) | 2 |
+| Investigate | 1 |
 | Melee (unarmed) | 1 |
+| Persuade | 0 |
+| Recon | 2 |
 | Stealth | 1 |
 | Survival | 1 |
-| Persuade | 0 |
-| Investigate | 1 |
 
 **Equipment:**
 - Autopistol (3D-3, 15 rounds, CRB22 p.126) — carried openly on her hip, safety off in the field
@@ -221,9 +221,9 @@ If she gets a clean line of sight to anything that confirms military operation �
 **Skills (built-in):**
 | Skill | Level |
 |---|---|
-| Mechanic | 1 |
 | Athletics (strength) | 2 |
 | Drive (tracked) | 1 |
+| Mechanic | 1 |
 
 **Integrated systems:**
 - **Winch:** STR 16 cable winch, 30m range, rated for 3 tonnes. Can pull a loaded rental truck out of mud or off a ledge.

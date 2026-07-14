@@ -155,6 +155,82 @@ body {
 .sidebar-inner::-webkit-scrollbar { width: 4px; }
 .sidebar-inner::-webkit-scrollbar-thumb { background: #2a2d35; border-radius: 2px; }
 
+/* ── Sidebar search ────────────────────────────────────────────── */
+.sidebar-search {
+  padding: 10px 14px;
+  border-bottom: 1px solid #242830;
+}
+
+.sidebar-search input[type="search"] {
+  width: 100%;
+  box-sizing: border-box;
+  padding: 6px 10px;
+  border: 1px solid #2a2d35;
+  border-radius: 4px;
+  background: #242830;
+  color: var(--sidebar-fg);
+  font-family: var(--font-ui);
+  font-size: 12.5px;
+  transition: background 0.15s, border-color 0.15s;
+}
+.sidebar-search input[type="search"]:focus { outline: none; border-color: var(--accent); background: #2c3038; }
+.sidebar-search input[type="search"]::placeholder { color: #5a6070; }
+
+/* ── Search results ────────────────────────────────────────────── */
+.search-hint, .search-empty {
+  font-family: var(--font-ui);
+  font-style: italic;
+  color: var(--text-muted);
+}
+
+.search-summary {
+  font-family: var(--font-ui);
+  font-size: 0.85em;
+  color: var(--text-muted);
+  margin-bottom: 1.4em;
+}
+
+.search-results-list {
+  list-style: none;
+  padding-left: 0;
+  margin: 0 0 1.8em 0;
+}
+
+.search-results-list li {
+  margin-bottom: 8px;
+  border: 1px solid var(--border);
+  border-left: 3px solid var(--accent);
+  border-radius: 0 5px 5px 0;
+  background: var(--surface);
+  transition: background 0.15s, border-color 0.15s;
+}
+.search-results-list li:hover { background: var(--table-head-bg); }
+
+.search-results-list li a {
+  display: block;
+  padding: 9px 14px;
+  color: var(--text);
+  text-decoration: none;
+  font-family: var(--font-ui);
+  font-size: 0.9em;
+  line-height: 1.5;
+}
+
+.search-count {
+  font-weight: 400;
+  font-size: 0.75em;
+  color: var(--text-muted);
+  text-transform: none;
+  letter-spacing: normal;
+}
+
+article.document mark {
+  background: var(--accent);
+  color: #14161a;
+  padding: 0 3px;
+  border-radius: 2px;
+}
+
 /* ── Content ───────────────────────────────────────────────────── */
 .content {
   flex: 1;

@@ -68,7 +68,7 @@ She says this to Vasiliou quietly, not to the room. She does not editorialize. S
 - **Do both**: Jury-rig now, plan crash site run for Hours 3–5. Most common outcome. The jury-rig expiry at Hour 7 then creates a second pressure point.
 
 *For full TSU-9 mechanics and the crash site: see Appendix A, Sections A.9 and A.10.*
-*For crash site encounter, laser rifle, and beetle supply gate: see Appendix M.*
+*For crash site encounter, laser rifle, and beetle supply gate: see Appendix I.*
 
 ---
 
@@ -130,6 +130,6 @@ Two beetles in the motor pool is an inconvenience. Three beetles in the motor po
 > *[Ports confirmed.]*
 > *"Then the beetles are an inconvenience. Deal with them. Carefully."*
 
-*Equipment damage risk table for interior beetle encounters: Appendix M Addendum, Section M.6.*
+*Equipment damage risk table for interior beetle encounters: Appendix I Addendum, Section I.6.*
 
 ---

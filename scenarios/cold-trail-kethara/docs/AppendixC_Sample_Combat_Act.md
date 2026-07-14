@@ -10,7 +10,7 @@
 
 ---
 
-## A.1 — PURPOSE OF THIS APPENDIX
+## C.1 — PURPOSE OF THIS APPENDIX
 
 This appendix presents a sample play sequence for **Hour 6** of the scenario — the moment when the jury-rig expires, the TSU-9 enters Failing status, and the Kethara Tyrant is actively at the cliff base. It is designed to show the referee how to run three simultaneous tracks without losing pacing or letting any single problem resolve too cleanly.
 
@@ -25,7 +25,7 @@ This is not the only way Hour 6 can play. It is the most common convergence poin
 
 ---
 
-## A.2 — THE SCENE: HOUR 6, FOUR MINUTES TO JURY-RIG EXPIRY
+## C.2 — THE SCENE: HOUR 6, FOUR MINUTES TO JURY-RIG EXPIRY
 
 ### Setup
 
@@ -124,7 +124,7 @@ He doesn't finish the sentence. Everyone in the room understands the rest.
 
 ---
 
-## A.3 — RESOLUTION SEQUENCE
+## C.3 — RESOLUTION SEQUENCE
 
 The referee cuts between tracks in this order, keeping each segment to 60–90 seconds of real table time:
 
@@ -146,7 +146,7 @@ She continues working.
 
 ---
 
-## A.4 — PACING NOTES FOR THE REFEREE
+## C.4 — PACING NOTES FOR THE REFEREE
 
 **Do not let players solve problems completely before the next one arrives.** In this sequence:
 
@@ -162,7 +162,7 @@ She continues working.
 
 ---
 
-## A.5 — POSSIBLE OUTCOMES
+## C.5 — POSSIBLE OUTCOMES
 
 | Outcome | Result | What Changes |
 |---|---|---|

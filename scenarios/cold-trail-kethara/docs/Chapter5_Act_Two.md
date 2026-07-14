@@ -5,7 +5,7 @@
 
 ---
 
-## 4.2 — ACT TWO: THE JUNGLE BITES BACK
+## 5.1 — ACT TWO: THE JUNGLE BITES BACK
 *Day 23, Hours 2–4*
 
 ### The Herd
@@ -51,7 +51,7 @@ Marchetti-Solis's atmospheric survey drones have shifted to active search patter
 
 ---
 
-## THE CRASH SITE RUN (Hours 2–5) — Act Two Branch A
+## 5.2 — THE CRASH SITE RUN (HOURS 2–5): ACT TWO BRANCH A
 
 **Trigger:** Haramoto's TSU-9 diagnosis at Hour 1 — jury-rig buys 6 hours but only the crash site coolant canister enables full repair.
 
@@ -80,7 +80,7 @@ The abandoned survey vehicle sits 4km northeast across open delta — Stalker pa
 
 ---
 
-## MERIDIAN RECOVERY ARRIVES (Hours 18–24) — Act Two Branch B
+## 5.3 — MERIDIAN RECOVERY ARRIVES (HOURS 18–24): ACT TWO BRANCH B
 
 *The civilian complication. Not a threat — something worse: a legitimate legal claim with no easy answer.*
 
