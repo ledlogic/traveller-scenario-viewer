@@ -5,11 +5,197 @@
 require 'sinatra'
 require 'kramdown'
 require 'json'
+require 'fileutils'
+require 'tmpdir'
+require 'time'
+
+begin
+  require 'zip'
+  HAVE_RUBYZIP = true
+rescue LoadError
+  HAVE_RUBYZIP = false
+end
 
 SCENARIOS_DIR = File.join(__dir__, 'scenarios')
 
 set :public_folder, File.join(__dir__, 'public')
 set :port, 4567
+
+# ── Upload watcher ──────────────────────────────────────────────
+# Drop a "traveller-viewer (N).zip" export into ./uploads and this
+# class + background thread picks it up within a few seconds, unzips
+# the docs/ folder for each scenario it finds inside, and syncs those
+# files into scenarios/<slug>/docs. Once extraction and sync succeed,
+# the zip is deleted automatically -- nothing accumulates in uploads/.
+#
+# This used to live in a separate bin/watch_uploads.rb file, required
+# in from here. It's now inlined directly below so app.rb is a single
+# self-contained file with no other Ruby files to keep track of.
+class UploadWatcher
+  DEFAULT_PATTERN = /\Atraveller-viewer.*\.zip\z/i.freeze
+
+  attr_reader :uploads_dir, :scenarios_dir, :pattern, :mirror, :keep, :dry_run, :log
+
+  def initialize(project_dir: Dir.pwd, uploads_dir: nil, scenarios_dir: nil,
+                 pattern: DEFAULT_PATTERN, mirror: false, keep: false, dry_run: false,
+                 log: $stdout)
+    @project_dir   = File.expand_path(project_dir)
+    @uploads_dir   = File.expand_path(uploads_dir || File.join(@project_dir, 'uploads'))
+    @scenarios_dir = File.expand_path(scenarios_dir || File.join(@project_dir, 'scenarios'))
+    @pattern       = pattern
+    @mirror        = mirror
+    @keep          = keep
+    @dry_run       = dry_run
+    @log           = log
+
+    FileUtils.mkdir_p(@uploads_dir)
+  end
+
+  # Runs one polling pass: finds matching zips, processes each, returns
+  # the number processed. Safe to call repeatedly in a loop.
+  def run_once!
+    candidates = Dir.children(uploads_dir)
+                     .select { |f| f.match?(pattern) }
+                     .map { |f| File.join(uploads_dir, f) }
+                     .select { |f| File.file?(f) }
+                     .sort_by { |f| File.mtime(f) }
+
+    processed = 0
+    candidates.each do |zip_path|
+      next unless stable?(zip_path) # skip files still being written/downloaded
+
+      say "found #{File.basename(zip_path)}"
+      process_zip(zip_path)
+      processed += 1
+    end
+    processed
+  end
+
+  # Blocking loop -- polls forever until interrupted (Ctrl-C). Only
+  # useful if you run this class standalone instead of via the Thread
+  # started automatically below.
+  def run_forever!(interval: 5)
+    say "watching #{uploads_dir} every #{interval}s (pattern: #{pattern.inspect})"
+    say "scenarios root: #{scenarios_dir}"
+    say "mode: #{dry_run ? 'DRY RUN' : 'live'}"
+    loop do
+      run_once!
+      sleep interval
+    end
+  rescue Interrupt
+    say 'stopped'
+  end
+
+  private
+
+  # A file is "stable" if its size hasn't changed across a short window --
+  # this avoids grabbing a zip mid-download/mid-copy.
+  def stable?(path, wait: 0.4)
+    size1 = File.size(path)
+    sleep wait
+    size2 = File.size(path)
+    size1 == size2 && size1 > 0
+  rescue Errno::ENOENT
+    false # file vanished between listing and checking -- skip it this pass
+  end
+
+  def process_zip(zip_path)
+    Dir.mktmpdir('travviewer-') do |tmp|
+      extract(zip_path, tmp)
+
+      docs_dirs = Dir.glob(File.join(tmp, '**', 'scenarios', '*', 'docs'))
+      if docs_dirs.empty?
+        say '  no scenarios/*/docs found inside this zip -- skipping, leaving file in place for inspection'
+        return
+      end
+
+      docs_dirs.each do |src_docs|
+        slug = File.basename(File.dirname(src_docs))
+        dest_docs = File.join(scenarios_dir, slug, 'docs')
+        sync_docs(src_docs, dest_docs, slug)
+      end
+
+      archive_or_delete(zip_path)
+    end
+  end
+
+  def extract(zip_path, dest_dir)
+    if HAVE_RUBYZIP
+      Zip::File.open(zip_path) do |zip|
+        zip.each do |entry|
+          out = File.join(dest_dir, entry.name)
+          FileUtils.mkdir_p(File.dirname(out))
+          entry.extract(out) unless File.exist?(out)
+        end
+      end
+    else
+      system('unzip', '-oq', zip_path, '-d', dest_dir, exception: true)
+    end
+  end
+
+  def sync_docs(src_docs, dest_docs, slug)
+    FileUtils.mkdir_p(dest_docs) unless dry_run
+
+    src_files  = Dir.glob(File.join(src_docs, '*')).map { |f| File.basename(f) }
+    dest_files = Dir.exist?(dest_docs) ? Dir.glob(File.join(dest_docs, '*')).map { |f| File.basename(f) } : []
+
+    added, updated, unchanged = [], [], []
+
+    src_files.each do |name|
+      src_file  = File.join(src_docs, name)
+      dest_file = File.join(dest_docs, name)
+
+      if !File.exist?(dest_file)
+        added << name
+        FileUtils.cp(src_file, dest_file) unless dry_run
+      elsif !FileUtils.identical?(src_file, dest_file)
+        updated << name
+        FileUtils.cp(src_file, dest_file) unless dry_run
+      else
+        unchanged << name
+      end
+    end
+
+    removed = mirror ? (dest_files - src_files) : []
+    removed.each { |name| FileUtils.rm(File.join(dest_docs, name)) unless dry_run } if mirror
+
+    say "  [#{slug}] #{added.size} added, #{updated.size} updated, #{unchanged.size} unchanged" \
+        "#{mirror ? ", #{removed.size} removed (mirror mode)" : ''}"
+    (added + updated).each { |name| say "    - #{name}" }
+    removed.each { |name| say "    - removed: #{name}" }
+  end
+
+  def archive_or_delete(zip_path)
+    return if dry_run
+
+    if keep
+      say "  leaving #{File.basename(zip_path)} in place (--keep)"
+      return
+    end
+
+    FileUtils.rm(zip_path)
+    say "  deleted #{File.basename(zip_path)} after successful sync"
+  end
+
+  def say(msg)
+    log.puts("[#{Time.now.strftime('%H:%M:%S')}] #{msg}")
+  end
+end
+
+# Starts once when the app boots, polls in the background for the life
+# of the process. A failed pass (bad zip, permissions, whatever) is
+# logged and skipped rather than crashing the whole server.
+Thread.new do
+  watcher = UploadWatcher.new(project_dir: __dir__)
+  loop do
+    begin
+      watcher.run_once!
+    rescue => e
+      warn "upload watcher error: #{e.message}"
+    end
+    sleep 5
+  end
+end
 
 # ── Scenario discovery ──────────────────────────────────────────
 def load_scenarios
