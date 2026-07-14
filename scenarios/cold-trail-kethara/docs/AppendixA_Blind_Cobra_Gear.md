@@ -30,7 +30,7 @@ This section covers the cell's shared, station-level equipment — the gear that
 
 **Signals Intercept Array** — TL11, 400km effective range. BLIND COBRA's primary reason for existing: this is what's been absorbing IRON GATE's transmissions for 23 days. Housed in the Operations Center, rear wall, adjacent to the TSU-9 controls (the two systems share cooling and power infrastructure, which is part of why a TSU-9 failure is also a signals-collection failure). Pelczar operates this personally and has for six days straight.
 
-**Encrypted Comms Uplink (orbital)** — TL11 tight-beam system, BLIND COBRA's only channel to the SolSec courier vessel making scheduled passes through the system. This is the uplink Pelczar needs clean signal conditions to use for the data package transmission (see Chapter 1, §1.4, Kethara Basin: Electromagnetic Storm Cycle and Megaflora, for how weather affects this).
+**Encrypted Comms Uplink (orbital)** — TL11 tight-beam system, BLIND COBRA's only channel to the SolSec courier vessel making scheduled passes through the system. This is the uplink Pelczar needs clean signal conditions to use for the data package transmission (see Chapter 1, §1.4, Kethara Basin, for how weather affects this).
 
 **Drone Control Rigs (×4, 3 operational)** — TL10 haptic control stations, one damaged (Rig 3 has a shorting relay, DM-1 on precision ops). Okonkwo works from these; his personal Drone Control Gauntlet (Chapter 2) is a portable extension of the same system, not a separate piece of equipment.
 
@@ -105,7 +105,7 @@ This was the plan. It functioned correctly for the first **16 days**.
 
 ### What Happened on Day 17
 
-On Day 17, the Kethara basin entered its variable monsoon onset — a seasonal shift that occurs every 4–7 local years when the inland sea thermal gradient reaches a tipping point. (See: World Profile, Kethara Basin Electromagnetic Storm Cycle; Mission Brief Weather Assessment vs. Actual.)
+On Day 17, the Kethara basin entered its variable monsoon onset — a seasonal shift that occurs every 4–7 local years when the inland sea thermal gradient reaches a tipping point. (See: World Profile, Chapter 1 §1.4 Kethara Basin — Electromagnetic Storm Cycle; Mission Brief Weather Assessment vs. Actual.)
 
 The TSU-9's engineers had not designed for what followed.
 

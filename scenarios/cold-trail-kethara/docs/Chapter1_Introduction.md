@@ -86,12 +86,6 @@ SolSec found out eight months ago. They have been planning ever since.
 
 Lakamsal's atmosphere (Code 4 — Thin) has meaningful gameplay implications. All personnel operating outside without filter masks for more than 2 hours suffer DM-1 to all physical tasks due to exertion-induced hypoxia. Filter masks (×6, one per team member) are stocked on the station stores shelf in Crew Quarters/Medical, next to the Emergency Vacc Suit rack — see Station Layout below. Kowalski carries her own as personal kit and does not draw from station stores. The megafauna are evolved for this atmosphere and unaffected.
 
-### Terrain
-
-The Kethara Reach basin — where BLIND COBRA is operating — is a primordial river valley ecosystem on Lakamsal's main supercontinent. Thin atmosphere means the vegetation grows dense and tall to maximise photosynthesis. The megafauna are large, oxygen-metabolising, and aggressive. The basalt cliff systems along the river are the result of ancient tectonic activity and provide natural concealment. The ecosystem has never experienced a mass extinction. The apex predators here are very large, and very old as a species.
-
-The colonists call the river valley the "Kethara Reach," meaning a place you go when you want to be beyond reach of anything useful, including help. The IISS survey team that mapped the valley in 1098 lost two xenobiologists to megafauna: Dr. Priya Garner and Dr. Marcus Kethara, whose names the survey gave to the local fauna genus and the river respectively. Okonkwo named his two armed recon drones "Priya" and "Garner" after them. He did not explain why to the rest of the team.
-
 ### Law
 
 Personal firearms beyond shotguns are prohibited for civilians without a licensed permit. The Colonial Militia enforces this in Lakamsal Town and the settled delta regions. Kaur's autopistol (carried openly) requires a valid corporate security permit — Chen confirmed they have one before departure. Vasiliou's team's military weapons are covered by Imperial jurisdiction. This law level is not enforced in the Kethara Reach (there is no law enforcement presence there), but it becomes relevant if any character enters Lakamsal Town.
@@ -111,7 +105,15 @@ Imperial Year **1117**, day 010 — eight months after the assassination of Empe
 
 ---
 
-## 1.4 — KETHARA BASIN: ELECTROMAGNETIC STORM CYCLE AND MEGAFLORA
+## 1.4 — KETHARA BASIN
+
+### Terrain
+
+The Kethara Reach basin — where BLIND COBRA is operating — is a primordial river valley ecosystem on Lakamsal's main supercontinent. Thin atmosphere means the vegetation grows dense and tall to maximise photosynthesis. The megafauna are large, oxygen-metabolising, and aggressive. The basalt cliff systems along the river are the result of ancient tectonic activity and provide natural concealment. The ecosystem has never experienced a mass extinction. The apex predators here are very large, and very old as a species.
+
+The colonists call the river valley the "Kethara Reach," meaning a place you go when you want to be beyond reach of anything useful, including help. The IISS survey team that mapped the valley in 1098 lost two xenobiologists to megafauna: Dr. Priya Garner and Dr. Marcus Kethara, whose names the survey gave to the local fauna genus and the river respectively. Okonkwo named his two armed recon drones "Priya" and "Garner" after them. He did not explain why to the rest of the team.
+
+### Electromagnetic Storm Cycle
 
 The Kethara basin sits on a formation of magnetite-rich basalt — the same ancient volcanic geology that created the cliff system housing BLIND COBRA. At ground level the valley functions as a natural electromagnetic channel. When ionising weather systems move through from the northwest on a roughly 48-hour cycle during the wet season, the basalt concentrates and amplifies electromagnetic interference in ways completely invisible from orbit.
 
