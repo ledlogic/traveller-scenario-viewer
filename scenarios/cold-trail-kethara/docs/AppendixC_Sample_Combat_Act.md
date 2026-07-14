@@ -1,4 +1,4 @@
-# APPENDIX A — SAMPLE REMOTE COMBAT ACT
+# APPENDIX C — SAMPLE REMOTE COMBAT ACT
 ## "Hour Six — The Apex Finds the Heat"
 
 *Cold Trail in Kethara Reach — Referee Reference Document*
@@ -172,10 +172,10 @@ She continues working.
 | Stalker engagement | Gunfire heard; Tyrant turns toward sound; Priya must track Tyrant AND cover retrieval team | Okonkwo split attention DM-1 on both |
 | All three fail simultaneously | TSU-9 enters FAILED; Tyrant at cliff face prevents repair; ECM compromised | Emergency extraction — the scenario pivots to Chapter 5 immediately |
 
-**The last outcome is not a failure state.** It is a different version of the scenario, resolved in Chapter 5. BLIND SERPENT is a team of professionals — they extract from worse situations than a 15-tonne predator, a failing thermal unit, and an Imperial sweep drone. They will not all make it to the ramp smiling. But they will get to the ramp.
+**The last outcome is not a failure state.** It is a different version of the scenario, resolved in Chapter 5. BLIND COBRA is a team of professionals — they extract from worse situations than a 15-tonne predator, a failing thermal unit, and an Imperial sweep drone. They will not all make it to the ramp smiling. But they will get to the ramp.
 
 ---
 
-*Appendix A — Sample Remote Combat Act: "Hour Six — The Apex Finds the Heat"*
+*Appendix C — Sample Remote Combat Act: "Hour Six — The Apex Finds the Heat"*
 *Cold Trail in Kethara Reach — Referee Document*
 *Mongoose Traveller 2nd Edition — Imperial Year 1117*

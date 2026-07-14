@@ -1,5 +1,5 @@
 # APPENDIX E — IMPERIAL RESPONSE ENCOUNTER
-## Air Forces and Scout Assets Engaging BLIND SERPENT: Play-by-Play
+## Air Forces and Scout Assets Engaging BLIND COBRA: Play-by-Play
 
 *Cold Trail in Kethara Reach — Referee Reference Document*
 
@@ -12,11 +12,11 @@
 
 ## E.1 — OVERVIEW: THREE THREATS, ONE TEAM, NO GOOD OPTIONS
 
-The Imperial response to BLIND SERPENT is not a single event — it is a **cascading escalation** across three distinct threat actors who do not coordinate well and do not share intelligence cleanly. This is the team's primary structural advantage: the Imperial response is bureaucratically fragmented between Scout Service (Osei-Bonsu), Naval Intelligence (Marchetti-Solis), and the Fleet (Ibáñez-Ochoa). None of the three has a complete picture. None reports to the others in real time. Each operates on different timelines, different rules of engagement, and different assumptions about what they are dealing with.
+The Imperial response to BLIND COBRA is not a single event — it is a **cascading escalation** across three distinct threat actors who do not coordinate well and do not share intelligence cleanly. This is the team's primary structural advantage: the Imperial response is bureaucratically fragmented between Scout Service (Osei-Bonsu), Naval Intelligence (Marchetti-Solis), and the Fleet (Ibáñez-Ochoa). None of the three has a complete picture. None reports to the others in real time. Each operates on different timelines, different rules of engagement, and different assumptions about what they are dealing with.
 
 The team that understands this can exploit the seams between the three layers. The team that treats the Imperial response as a monolithic threat will be overwhelmed.
 
-**What BLIND SERPENT has that the Imperials do not:**
+**What BLIND COBRA has that the Imperials do not:**
 - Knowledge of the full situation (the Imperials each know one piece)
 - Breckenridge's understanding of Imperial system behaviour
 - Pelczar's ability to monitor and interpret Imperial signals traffic
@@ -24,7 +24,7 @@ The team that understands this can exploit the seams between the three layers. T
 - The storm cycle, which degrades Imperial sensors during peak hours
 - The terrain — the megafauna do not distinguish between Solomani agents and Imperial Marines
 
-**What the Imperials have that BLIND SERPENT does not:**
+**What the Imperials have that BLIND COBRA does not:**
 - Numbers (30 Marines vs 5–6 agents)
 - Equipment superiority (TL13 vs TL11)
 - Orbital assets (*Resolute Purpose*, sensor buoy)
@@ -112,9 +112,9 @@ Marchetti-Solis has deployed **four TL12 survey drones** from her courier vessel
 
 ### The ECM Contest
 
-Each time a sweep drone passes within 80km of BLIND SERPENT, a contested Electronics roll occurs.
+Each time a sweep drone passes within 80km of BLIND COBRA, a contested Electronics roll occurs.
 
-**BLIND SERPENT:** Breckenridge (Electronics (comms) 3) + SIGINT suite (DM+2) + storm cover (DM+1 during peak, Hours 4–10) = effective skill 3, DM+3
+**BLIND COBRA:** Breckenridge (Electronics (comms) 3) + SIGINT suite (DM+2) + storm cover (DM+1 during peak, Hours 4–10) = effective skill 3, DM+3
 **Marchetti-Solis drone:** Electronics (sensors) 3 equivalent, storm degradation (DM-1 during peak) = effective skill 3, DM-1
 
 **The contest:** Both sides roll 2D + skill + modifiers. Higher result wins that pass. A tie goes to Breckenridge (ambiguous signal — not a clear enough contact to log).
@@ -253,7 +253,7 @@ After his 15-minute observation window, he will return to the anomaly with a new
 
 After logging a qualified contact, Marchetti-Solis does not immediately call in the Marines. She descends to Lakamsal's atmosphere in her personal courier vessel — a compact TL12 courier, not a warship — and takes a position 50km north of the Kethara basin at altitude. From here, she coordinates her sweep drones in a tighter pattern and begins active signals analysis of the basin below.
 
-She is looking for patterns, not just signals. She wants to understand what is down there before she sends in thirty Marines. She is thorough. She is slow. She is the most dangerous person in this scenario because she is the one most likely to correctly identify what BLIND SERPENT actually is.
+She is looking for patterns, not just signals. She wants to understand what is down there before she sends in thirty Marines. She is thorough. She is slow. She is the most dangerous person in this scenario because she is the one most likely to correctly identify what BLIND COBRA actually is.
 
 **What her closer position gives her:**
 - All four sweep drones can now be coordinated from 50km instead of 280km — effective pass frequency doubles (one pass every 30 minutes instead of every hour)
@@ -345,7 +345,7 @@ This is the referee's most consequential single decision in the Imperial respons
 - Direct to river bank: Hour X + 55 minutes
 - Carries Lt. Voss + 8 Marines
 
-**What BLIND SERPENT sees and hears:**
+**What BLIND COBRA sees and hears:**
 
 At Hour X + 10 minutes: Okonkwo's fixed-wing surveillance drone, if operational above the canopy, detects the Ship's Boat's atmospheric entry heat signature at extreme range. It looks like a meteor trail briefly, then doesn't. He will know. *"Vasiliou. We have an entry burn. North, coming down fast."*
 
@@ -410,7 +410,7 @@ Voss's entry procedure is fire-team coordinated:
 2. Wait 10 seconds
 3. Enter with Alpha in a stacked formation
 
-Against TL13 armour (+13 Protection), the team's gauss rifles are borderline effective (AP5 vs Protection 13 = net protection 8 — gauss does 3D vs effective 8, manageable but not decisive). A direct firefight inside the cave is a losing proposition for BLIND SERPENT. Mouton knows this. Vasiliou knows this. The question is whether there is anything left worth fighting for by this point — or whether the data is already gone and the team's only objective is to not die on Imperial soil.
+Against TL13 armour (+13 Protection), the team's gauss rifles are borderline effective (AP5 vs Protection 13 = net protection 8 — gauss does 3D vs effective 8, manageable but not decisive). A direct firefight inside the cave is a losing proposition for BLIND COBRA. Mouton knows this. Vasiliou knows this. The question is whether there is anything left worth fighting for by this point — or whether the data is already gone and the team's only objective is to not die on Imperial soil.
 
 ---
 
@@ -420,7 +420,7 @@ The team is not obligated to fight. Imperial military law provides specific proc
 
 ### The Surrender Window
 
-If BLIND SERPENT transmits a surrender on open channels before Marines breach the entrance, Voss is legally required to halt her advance and acknowledge. Her loudspeaker challenge is the opening of this window. The team has until the Marines breach to use it.
+If BLIND COBRA transmits a surrender on open channels before Marines breach the entrance, Voss is legally required to halt her advance and acknowledge. Her loudspeaker challenge is the opening of this window. The team has until the Marines breach to use it.
 
 **What surrender means:**
 - All personnel detained under Imperial military custody
@@ -448,7 +448,7 @@ If Vasiliou attempts to negotiate terms rather than surrender outright, Voss wil
 
 *Skill check:* Persuade 12+ (Vasiliou, full name, directly to Ibáñez-Ochoa's channel — she must have cracked the ship's encrypted channel for this, Breckenridge Electronics (comms) 10+ to access it). On success: Ibáñez-Ochoa slows the approach by 45 minutes. He does not stop it. He buys her half of what she asked for. On failure: Voss's Marines enter on the five-minute schedule.
 
-**The one thing Vasiliou cannot say:** She cannot identify herself or BLIND SERPENT as SolSec. The moment she does, the geological survey cover collapses for everyone — including Breckenridge, whose plan to stay behind as a crash-ship survivor requires the cover to be intact. She knows this. She is asking for time without explaining why. Ibáñez-Ochoa, who has been in the Navy for 23 years, understands exactly what she is doing and why. He respects it in the abstract. He still has his orders.
+**The one thing Vasiliou cannot say:** She cannot identify herself or BLIND COBRA as SolSec. The moment she does, the geological survey cover collapses for everyone — including Breckenridge, whose plan to stay behind as a crash-ship survivor requires the cover to be intact. She knows this. She is asking for time without explaining why. Ibáñez-Ochoa, who has been in the Navy for 23 years, understands exactly what she is doing and why. He respects it in the abstract. He still has his orders.
 
 ---
 
@@ -458,7 +458,7 @@ The Kethara Reach megafauna do not know or care about the difference between Sol
 
 ### The Tyrant's Response to the G-Carrier
 
-The Kethara Tyrant's territorial range encompasses the river bend at BLIND SERPENT's position. A large, loud object moving through that territory at high speed is a territorial challenge — or it is prey. The Tyrant does not distinguish between the two until it is close enough to smell.
+The Kethara Tyrant's territorial range encompasses the river bend at BLIND COBRA's position. A large, loud object moving through that territory at high speed is a territorial challenge — or it is prey. The Tyrant does not distinguish between the two until it is close enough to smell.
 
 **If the Tyrant is active near the base when the G-carrier arrives:**
 
@@ -469,7 +469,7 @@ Roll 1D:
 
 **The Marines vs the Tyrant:**
 
-This is not a contest BLIND SERPENT is directly involved in — but it is 15–20 minutes during which the Marines are not advancing on the base. Every round the Tyrant holds the Marines' attention is a round the team has to finish the uplink, destroy classified material, reach the tunnel, or trigger SHEPHERD's emergency descent.
+This is not a contest BLIND COBRA is directly involved in — but it is 15–20 minutes during which the Marines are not advancing on the base. Every round the Tyrant holds the Marines' attention is a round the team has to finish the uplink, destroy classified material, reach the tunnel, or trigger SHEPHERD's emergency descent.
 
 Voss's instructions were "do not engage fauna unless directly threatened." The Tyrant removes that choice within approximately 8 seconds of arrival. She will order fire. Her Marines will engage. Gauss rifles at AP5 vs Armour 5 = effective AP, doing 3D damage against 60 hits. Multiple Marines firing simultaneously will bring it down — eventually. Before it does, one or more Marines may take 5D bite damage against TL13 armour (net protection 8, still an average of 9.5 damage per bite — not lethal through TL13, but not comfortable).
 
@@ -481,7 +481,7 @@ She can also — theoretically — use a dose of chemical deterrent to redirect 
 
 ## E.10 — REFEREE MASTER TABLE: IMPERIAL RESPONSE STATES
 
-| Phase | Active Assets | BLIND SERPENT Response | Key Skill |
+| Phase | Active Assets | BLIND COBRA Response | Key Skill |
 |---|---|---|---|
 | Pre-activation (Hours 0–6) | Marchetti-Solis sweep drones | ECM management | Electronics (comms) contest |
 | Osei-Bonsu in-atmosphere (Hours 6–10) | Air/raft + survey scanner | Social management | Deception or Persuade |

@@ -1,5 +1,5 @@
-# APPENDIX F — TSU-9 THERMAL MANAGEMENT SYSTEM
-## Technical Reference, Operational History, and Repair Procedures
+# APPENDIX A — BLIND COBRA GEAR
+## Equipment, Computers, Sensors, and the TSU-9 Thermal Management System
 
 *Cold Trail in Kethara Reach — Referee Reference Document*
 
@@ -10,11 +10,51 @@
 
 ---
 
-## F.1 — WHAT THE TSU-9 IS
+## A.1 — GENERAL FIELD EQUIPMENT
+
+This section covers the cell's shared, station-level equipment — the gear that belongs to BLIND COBRA as a unit rather than to any one operator. Personal loadouts (weapons, armour, individual toolkits) are detailed on each character's own sheet in Chapter 2; this is what's sitting in the cave when nobody's carrying it.
+
+**Emergency Vacc Suits (×6)** — TL10, 2-hour air supply each. Racked in Crew Quarters/Medical alongside the filter mask shelf. Standard SolSec field-issue, not mission-specific.
+
+**Filter Masks (×6, station stores)** — Standard atmosphere filtration for Lakamsal's Thin (Code 4) atmosphere. Kowalski carries her own separately and doesn't draw from this stock (see Chapter 1, §1.3, The Thin Atmosphere).
+
+**Parts Locker (depleted)** — What's left of BLIND COBRA's spare-parts allowance after 23 days of running repairs on everything from drone rotors to the TSU-9. By Day 23 it holds fasteners, cable, and odds and ends — nothing that solves the TSU-9 problem. That's the entire reason the crash site 4km northeast matters as much as it does (see A.10, Engineer Effect Table, and A.9, Port Maintenance Procedures).
+
+**Rental Trucks (×2, fuel cells dry)** — TL9 civilian ground vehicles, rented from a Lakamsal Town colonist under the "geological survey work, three weeks" cover story. Not returned. Full vehicle profile in Appendix L, Vehicles and Drones.
+
+**The Boring Machine (destroyed)** — A single-purpose pneumatic boring machine, TL9, industrial grade, brought in as part of the insertion equipment specifically to bore the TSU-9's 49 heat-exchanger ports into the east cliff face. It completed all 49 and destroyed itself attempting a 50th — the basalt was harder than the IISS survey data indicated, and the machine's drive assembly failed catastrophically about 8 minutes into the attempt. There is no replacement. There are no spare ports. Full technical detail, including why the port grid isn't quite the clean honeycomb the installation manual promised, is in A.8, The 49 Ports: Origin and Significance.
+
+---
+
+## A.2 — COMPUTERS AND SIGNALS EQUIPMENT
+
+**Signals Intercept Array** — TL11, 400km effective range. BLIND COBRA's primary reason for existing: this is what's been absorbing IRON GATE's transmissions for 23 days. Housed in the Operations Center, rear wall, adjacent to the TSU-9 controls (the two systems share cooling and power infrastructure, which is part of why a TSU-9 failure is also a signals-collection failure). Pelczar operates this personally and has for six days straight.
+
+**Encrypted Comms Uplink (orbital)** — TL11 tight-beam system, BLIND COBRA's only channel to the SolSec courier vessel making scheduled passes through the system. This is the uplink Pelczar needs clean signal conditions to use for the data package transmission (see Chapter 1, §1.4, Kethara Basin: Electromagnetic Storm Cycle and Megaflora, for how weather affects this).
+
+**Drone Control Rigs (×4, 3 operational)** — TL10 haptic control stations, one damaged (Rig 3 has a shorting relay, DM-1 on precision ops). Okonkwo works from these; his personal Drone Control Gauntlet (Chapter 2) is a portable extension of the same system, not a separate piece of equipment.
+
+**Pelczar's spare display** — Not station-critical equipment, but worth noting here: a personal display she'd rigged to project art onto the ops centre wall, now overheated and dark along with everything else (see Chapter 2, §2.7).
+
+*Full drone hardware specifications (Priya, Garner, the Surveillance and Ground Scout units): see Appendix L, Vehicles and Drones.*
+
+---
+
+## A.3 — SENSORS AND SURVEILLANCE ASSETS
+
+**Motion Sensor Grid** — 800m radius around Field Station Kethara. This is what gives the team roughly 40 minutes of warning before anything — Meridian Recovery, a curious megafauna, an Imperial patrol — reaches the wire perimeter on foot or by vehicle.
+
+**Auto-Sentry Units (×3)** — 120° arc coverage each, gauss rifles, Skill 2, 3D damage. Cannot distinguish megafauna from personnel without an Average (8+) Electronics (sensors) check from the ops centre — a real problem given how often something large is moving around the perimeter at night. A destroyed sentry generates an acoustic and thermal spike that the team cannot hide.
+
+**Binoculars** — TL8–10 depending on owner, ×20 to ×50 magnification with thermal overlay on the higher-TL units. Personal issue; see individual character sheets in Chapter 2.
+
+---
+
+## A.4 — WHAT THE TSU-9 IS
 
 The **TSU-9 Thermal Spoofing Unit** is a SolSec field-deployable thermal masking system, TL11. Its function is to intercept, redistribute, and falsify the heat signature of an active operations base so that orbital or aerial thermal sensors read nothing unusual. A properly functioning TSU-9 makes a cave full of humans, electronics, and power generation look, thermally, like a patch of unremarkable basalt.
 
-The TSU-9 was chosen for BLIND SERPENT because:
+The TSU-9 was chosen for BLIND COBRA because:
 
 - It has no active electromagnetic emissions of its own (passive system — no radar, no active sensor signature)
 - At full operation it reduces the station's thermal profile to background-level ambient variance of ±0.3°C — undetectable by Imperial TL10 orbital survey sensors
@@ -25,11 +65,11 @@ None of those eleven previous operations involved Lakamsal's specific geological
 
 ---
 
-## F.2 — THE ORIGINAL DESIGN: LIQUID-COOLED CLOSED LOOP
+## A.5 — THE ORIGINAL DESIGN: LIQUID-COOLED CLOSED LOOP
 
 ### How It Was Supposed to Work
 
-The TSU-9 on BLIND SERPENT was installed using the **liquid-cooled closed-loop configuration** — the highest-efficiency mode, rated for continuous operation at 100% load for up to 90 days.
+The TSU-9 on BLIND COBRA was installed using the **liquid-cooled closed-loop configuration** — the highest-efficiency mode, rated for continuous operation at 100% load for up to 90 days.
 
 **The system architecture:**
 
@@ -61,7 +101,7 @@ This was the plan. It functioned correctly for the first **16 days**.
 
 ---
 
-## F.3 — THE THUNDERSTORM PROBLEM
+## A.6 — THE THUNDERSTORM PROBLEM
 
 ### What Happened on Day 17
 
@@ -105,7 +145,7 @@ By Day 23, the coolant fluid has degraded to **approximately 60% of its rated th
 
 ---
 
-## F.4 — THE SWITCH TO AIR-COOLED: 90% EFFICIENCY LOSS
+## A.7 — THE SWITCH TO AIR-COOLED: 90% EFFICIENCY LOSS
 
 When Haramoto diagnosed the coolant degradation on Day 21, she faced a decision.
 
@@ -131,11 +171,11 @@ Air cooling is **90% less efficient** than the liquid-cooled design. The physics
 
 ---
 
-## F.5 — THE 49 PORTS: ORIGIN AND SIGNIFICANCE
+## A.8 — THE 49 PORTS: ORIGIN AND SIGNIFICANCE
 
 ### The Boring Machine
 
-The 49 port-exchanger holes in the east cliff face were not cut by drill, chisel, or laser. They were bored by a **single-purpose pneumatic boring machine** — TL9, industrial grade, brought to the site as part of the BLIND SERPENT insertion equipment.
+The 49 port-exchanger holes in the east cliff face were not cut by drill, chisel, or laser. They were bored by a **single-purpose pneumatic boring machine** — TL9, industrial grade, brought to the site as part of the BLIND COBRA insertion equipment.
 
 The machine was designed to bore one precise circular channel (22cm diameter, 180cm depth) through basalt at a rate of approximately one port per 90 minutes. It was rated for 60 ports before requiring major service — a number that seemed comfortable for the 49-port design specification.
 
@@ -163,7 +203,7 @@ The 49 ports are distributed across a 200-metre section of the east cliff face:
 
 ---
 
-## F.5a — THE HONEYCOMB GRID: WHY THE PORTS DON'T LINE UP
+## A.8a — THE HONEYCOMB GRID: WHY THE PORTS DON'T LINE UP
 
 ### The Plan vs. The Rock
 
@@ -183,15 +223,15 @@ The boring machine's targeting program corrected for this in real time, using it
 | Zone B (13–18m) | 19 | 2.1m, regular | 1.9–2.9m, irregular | Widest spread — this is the bulge of the cliff face, port density highest |
 | Zone C (19–24m) | 13 | 2.1m, regular | 2.3–3.4m, irregular | Most irregular — rock face leaning outward 4°, boring machine working near its mechanical limit before failure |
 
-**The honeycomb pattern is most visible in Zone B**, where the bulge of the cliff face happens to roughly match the curvature the boring program was already compensating for — by coincidence rather than design, the ports here are the closest to the theoretical hex grid. Zone C, bored last, on the section of rock where the machine was beginning to show the wear that would later destroy it (see F.5), is the most irregular — and is also where the boring machine ran out of usable life, which is why Zone C has only 13 ports instead of the planned 17.
+**The honeycomb pattern is most visible in Zone B**, where the bulge of the cliff face happens to roughly match the curvature the boring program was already compensating for — by coincidence rather than design, the ports here are the closest to the theoretical hex grid. Zone C, bored last, on the section of rock where the machine was beginning to show the wear that would later destroy it (see A.8), is the most irregular — and is also where the boring machine ran out of usable life, which is why Zone C has only 13 ports instead of the planned 17.
 
 ---
 
-## F.5b — THE TEMPORARY CLIMBING RIG
+## A.8b — THE TEMPORARY CLIMBING RIG
 
 ### Why It Exists
 
-Servicing 49 ports across three zones, 8 to 24 metres up a sheer basalt face, cannot be done on Haramoto's grav belt alone. The belt has a 4-hour operational window before its power cell needs a recharge cycle (2 hours, station power only), and during the early days of the installation — before BLIND SERPENT had confirmed the grav belt's reliability against Lakamsal's intermittent EM interference — Haramoto and the original installation crew rigged a conventional fixed climbing line as backup. It has remained in place for the full 23 days, partly out of habit and partly because it is the only way to service a port if the grav belt's power cell is dead, damaged, or behaving erratically in a storm.
+Servicing 49 ports across three zones, 8 to 24 metres up a sheer basalt face, cannot be done on Haramoto's grav belt alone. The belt has a 4-hour operational window before its power cell needs a recharge cycle (2 hours, station power only), and during the early days of the installation — before BLIND COBRA had confirmed the grav belt's reliability against Lakamsal's intermittent EM interference — Haramoto and the original installation crew rigged a conventional fixed climbing line as backup. It has remained in place for the full 23 days, partly out of habit and partly because it is the only way to service a port if the grav belt's power cell is dead, damaged, or behaving erratically in a storm.
 
 **The rig is TL9 — not exotic technology.** Standard mountaineering hardware, the kind any Scout or Army support unit carries: nothing about it would look out of place to Osei-Bonsu if he saw it from his air/raft. This is deliberate. SolSec's field doctrine prefers equipment that has an innocent explanation if discovered.
 
@@ -225,7 +265,7 @@ Twenty-three days of exposure, weather, and — as established below — megafau
 
 ---
 
-## F.5c — CLIMBING MECHANICS
+## A.8c — CLIMBING MECHANICS
 
 ### Base Task
 
@@ -250,13 +290,13 @@ Moving along the fixed line or traverse line to reach a specific port is an **At
 
 **Taking more time:** A climber under no particular time pressure can take the Difficult task and make it Average, or the Average task and make it Easy, by spending double the listed time and working deliberately — checking each placement, resting at each station, moving in smaller increments. This converts a -2 modifier to 0, or a -1 modifier to +1, at the cost of doubled time. This is the standard trade the scenario expects players to make when nothing else is happening — and the standard trade they cannot afford when an Imperial sweep window or a beetle encounter is running concurrently.
 
-**Failure consequences:** A failed Athletics (dexterity) check on the fixed line, while clipped in correctly, does not mean a fall to the ground — the rope system catches it. It means: lost time (the climber must recover position, reset their grip, possibly retreat to the nearest belay station — add 5–10 minutes), and on a bad failure (Effect -3 or worse) a minor injury (1D-3 damage, scrapes and a wrenched shoulder from the arrest) or equipment drop (anything not tethered, including a poorly secured tool, falls — possible port damage if it lands on a cap, see F.8).
+**Failure consequences:** A failed Athletics (dexterity) check on the fixed line, while clipped in correctly, does not mean a fall to the ground — the rope system catches it. It means: lost time (the climber must recover position, reset their grip, possibly retreat to the nearest belay station — add 5–10 minutes), and on a bad failure (Effect -3 or worse) a minor injury (1D-3 damage, scrapes and a wrenched shoulder from the arrest) or equipment drop (anything not tethered, including a poorly secured tool, falls — possible port damage if it lands on a cap, see A.11).
 
-**A failed check on a *tampered* anchor point** carries a different risk entirely — see F.5d.
+**A failed check on a *tampered* anchor point** carries a different risk entirely — see A.8d.
 
 ---
 
-## F.5d — WHAT HAPPENS WHEN COMPROMISED HARDWARE FAILS
+## A.8d — WHAT HAPPENS WHEN COMPROMISED HARDWARE FAILS
 
 If a climber's full weight comes onto a tampered component (loosened piton, scored rappel ring, bent traverse bolt) during a fall-arrest or hard load event — typically triggered by a failed climbing check at Effect -3 or worse while using that specific point — roll to determine whether the hardware holds:
 
@@ -273,11 +313,11 @@ If a climber's full weight comes onto a tampered component (loosened piton, scor
 
 ---
 
-## F.5e — THE PORT-CLEANING TOOL
+## A.8e — THE PORT-CLEANING TOOL
 
 ### "The Snake" — Field Designation: Flexible Bore Reamer, TL10
 
-Clearing a blocked or occluded port — whether from mineral buildup, basalt dust, organic residue, or (see F.5f below) the specific aftermath of a Shield Beetle's interest — requires reaching 180cm down a 22cm-diameter channel that the technician's arm cannot follow. The tool for this is a **flexible bore reamer**, field nickname "the Snake": a 2-metre articulated composite shaft, roughly the diameter of a broom handle, with a rotating wire-brush head at the working end and a pistol-grip control handle at the operator's end.
+Clearing a blocked or occluded port — whether from mineral buildup, basalt dust, organic residue, or (see A.8f below) the specific aftermath of a Shield Beetle's interest — requires reaching 180cm down a 22cm-diameter channel that the technician's arm cannot follow. The tool for this is a **flexible bore reamer**, field nickname "the Snake": a 2-metre articulated composite shaft, roughly the diameter of a broom handle, with a rotating wire-brush head at the working end and a pistol-grip control handle at the operator's end.
 
 **Operation:** The handle has a trigger-actuated rotation control (variable speed, low torque — designed not to damage the port's internal coil) and a depth gauge along the shaft showing how far the head has travelled into the port. The operator feeds the flexible shaft into the port opening by hand, guiding it around the slight bends where the channel meets the internal coil geometry, while the trigger spins the brush head to clear debris. A small LED at the tip (powered through the shaft) lets the operator see a basic depth/obstruction readout on a thumbnail-sized screen built into the handle — not a camera feed, just a resistance-and-depth indicator that tells you when you've hit something solid versus something that clears.
 
@@ -294,15 +334,15 @@ Clearing a blocked or occluded port — whether from mineral buildup, basalt dus
 | Storm conditions | -1 (additional to climbing penalties) |
 | Using the depth gauge readout to guide (vs working blind) | +1 |
 
-**Time:** 5 minutes for a routine clean (matches the port check time in F.6). A failed check means the obstruction isn't cleared — try again, another 5 minutes, or move on and flag the port as still blocked. A bad failure (Effect -3 or worse) means the brush head has jammed in the channel — freeing it takes 10 additional minutes and a successful Mechanic 6+ check, or the technician can disengage the shaft and leave the head in place (the port is now permanently restricted, treat as a damaged port for load purposes, though not destroyed the way a laser hit destroys one).
+**Time:** 5 minutes for a routine clean (matches the port check time in A.9). A failed check means the obstruction isn't cleared — try again, another 5 minutes, or move on and flag the port as still blocked. A bad failure (Effect -3 or worse) means the brush head has jammed in the channel — freeing it takes 10 additional minutes and a successful Mechanic 6+ check, or the technician can disengage the shaft and leave the head in place (the port is now permanently restricted, treat as a damaged port for load purposes, though not destroyed the way a laser hit destroys one).
 
 **Why this matters as a single-operator bottleneck:** the reamer cannot be safely operated by someone who is also actively managing their own climbing safety system without the DM-2 penalty above. This is why port-cleaning runs go faster with a second person — someone braced at the nearest belay station, or Haramoto using the grav belt specifically because it frees both hands. A team trying to clean multiple ports quickly during a narrow weather or safety window will find the one-handed penalty is the single biggest drag on their pace, more than the climbing itself.
 
 ---
 
-## F.5f — WHAT IS ATTRACTING THE MEGAFAUNA TO THE CLEANED PORTS
+## A.8f — WHAT IS ATTRACTING THE MEGAFAUNA TO THE CLEANED PORTS
 
-This is the detail that connects the climbing rig, the port-cleaning tool, and the Shield Beetle encounter (Appendix C Addendum) into one causal chain, and it is worth stating plainly for the referee.
+This is the detail that connects the climbing rig, the port-cleaning tool, and the Shield Beetle encounter (Appendix M Addendum) into one causal chain, and it is worth stating plainly for the referee.
 
 **A blocked port is, thermally and chemically, less interesting than a freshly cleaned one.** The mineral deposits, dust, and organic buildup that accumulate in a port over weeks of operation act as insulation — they dampen the heat signature reaching the outer cap and they trap whatever organic-smelling residue has built up inside the channel rather than letting it vent. A port that has not been serviced in three weeks smells, to a Shield Beetle's chemosensory system, like very little. It is just warm rock.
 
@@ -310,11 +350,11 @@ This is the detail that connects the climbing rig, the port-cleaning tool, and t
 
 1. **Thermal signature increases.** With the obstruction gone, the port is venting at closer to its designed rate — which, in a system already running in degraded air-cooled mode, means *more* heat reaching the surface, not less. A freshly cleaned port reads measurably warmer than its neighbours for the next several hours, until the surrounding rock and airflow normalise.
 
-2. **Organic volatiles are released.** Three weeks of trapped residue — condensation, mineral off-gassing, and in a few documented cases (Haramoto's maintenance log, Day 14 and Day 19) trace organic compounds from the station's own waste-heat exchange system bleeding into the airflow — gets pushed out through the channel by the reamer's rotation and the resumed airflow. This is a brief, concentrated release: a smell signature that a Shield Beetle's chemosensory range (500m, per Appendix C.1) can pick up far faster and more strongly than the ambient warmth of an unserviced port.
+2. **Organic volatiles are released.** Three weeks of trapped residue — condensation, mineral off-gassing, and in a few documented cases (Haramoto's maintenance log, Day 14 and Day 19) trace organic compounds from the station's own waste-heat exchange system bleeding into the airflow — gets pushed out through the channel by the reamer's rotation and the resumed airflow. This is a brief, concentrated release: a smell signature that a Shield Beetle's chemosensory range (500m, per Appendix M.1) can pick up far faster and more strongly than the ambient warmth of an unserviced port.
 
 **The practical consequence:** servicing a port — exactly the maintenance work the team needs to do to keep the TSU-9 alive — actively increases the chance of attracting a Shield Beetle to that specific location within the next 1–2 hours. This is not a coincidence the scenario hides from the players if they think to ask Kowalski or Haramoto; it is established field knowledge from the team's 23 days on site. Haramoto's log, Day 14: *"Cleaned three ports in Zone B. Within the hour, motion sensors picked up something investigating the cliff face. Correlation, not yet proven, but I don't love it."*
 
-**Mechanically:** any port-cleaning action (using the reamer per F.5e) should trigger a check on the Shield Beetle attraction table below, rather than relying solely on the general hourly encounter roll:
+**Mechanically:** any port-cleaning action (using the reamer per A.8e) should trigger a check on the Shield Beetle attraction table below, rather than relying solely on the general hourly encounter roll:
 
 | Time since port cleaned | Roll (1D) | Beetle investigation triggered on |
 |---|---|---|
@@ -326,7 +366,7 @@ This is the detail that connects the climbing rig, the port-cleaning tool, and t
 
 ---
 
-## F.6 — PORT MAINTENANCE PROCEDURES
+## A.9 — PORT MAINTENANCE PROCEDURES
 
 ### What Needs to Be Done (and Why)
 
@@ -369,7 +409,7 @@ The ports cannot be refilled from inside the station. The closed-loop conduit fi
 | Effect | Result |
 |---|---|
 | Failure (Effect -1 or worse) | Overfill — fluid is wasted. This port's fill is lost. Reduce available fills by 2 (one wasted, one consumed). |
-| Success (Effect 0–1) | Port refilled. Contributes to TSU-9 load reduction per the table in F.7. |
+| Success (Effect 0–1) | Port refilled. Contributes to TSU-9 load reduction per the table in A.10. |
 | Good (Effect 2–3) | Port refilled efficiently. Counts as 1.5 ports for load reduction purposes (the fill optimised this port's exchange rate). |
 | Excellent (Effect 4+) | Port refilled with precision. Counts as 2 ports for load reduction. This port is now running at full rated efficiency. |
 
@@ -377,7 +417,7 @@ The ports cannot be refilled from inside the station. The closed-loop conduit fi
 
 ---
 
-## F.7 — ENGINEER EFFECT TABLE: TSU-9 LOAD REDUCTION BY PERCENTAGE
+## A.10 — ENGINEER EFFECT TABLE: TSU-9 LOAD REDUCTION BY PERCENTAGE
 
 The TSU-9's load is expressed as a percentage of sustainable capacity. At scenario start it reads **140%** — 40% above the point where the system degrades rapidly toward failure.
 
@@ -423,7 +463,7 @@ During the electromagnetic clearing phase (Hours 10–14), Haramoto can attempt 
 
 ---
 
-## F.8 — PERMANENT PORT DAMAGE: LASER WEAPONS IN THE COOLING HOLES
+## A.11 — PERMANENT PORT DAMAGE: LASER WEAPONS IN THE COOLING HOLES
 
 ### The Warning Haramoto Has Not Given Loudly Enough
 
@@ -439,7 +479,7 @@ The scenario creates two situations where team members might fire energy weapons
 
 **Situation 1 — Shield Beetles on the cliff face**
 
-When Shield Beetles investigate the port area while team members are performing maintenance (see Appendix C and the Herbivore-at-the-Vents encounter), the natural instinct is to fire at the beetles. The beetles are Armour 10 — laser weapons are effective against them (reduces effective armour to 7). A team member on a grav belt or ladder, suddenly confronted by a 400kg beetle at close range on a cliff face, may fire their laser pistol in self-defence.
+When Shield Beetles investigate the port area while team members are performing maintenance (see Appendix M and the Herbivore-at-the-Vents encounter), the natural instinct is to fire at the beetles. The beetles are Armour 10 — laser weapons are effective against them (reduces effective armour to 7). A team member on a grav belt or ladder, suddenly confronted by a 400kg beetle at close range on a cliff face, may fire their laser pistol in self-defence.
 
 At close range on a cliff face, missed shots hit the basalt. At close range in a port cluster, a missed shot enters a port opening.
 
@@ -477,7 +517,7 @@ The port is a 22cm-diameter, 180cm-deep channel lined with heat exchanger coil �
 
 ---
 
-## F.9 — SCENARIO INTEGRATION: TSU-9 AS PRESSURE SYSTEM
+## A.12 — SCENARIO INTEGRATION: TSU-9 AS PRESSURE SYSTEM
 
 The TSU-9 situation is designed to create **time pressure, resource pressure, and exposure pressure simultaneously.**
 
@@ -498,7 +538,7 @@ TSU-9 at 140% → Needs crash site coolant
      ↓
 Send team to crash site → Exposes team to Stalker packs
      ↓                 → Splits defensive posture
-     ↓                 → Triggers beetle encounter (herbivore/reducer — see Appendix C)?
+     ↓                 → Triggers beetle encounter (herbivore/reducer — see Appendix M)?
      ↓
 Retrieve canister → Begin port servicing
      ↓
@@ -521,7 +561,7 @@ This is intentional. The scenario is about professionals in a failing situation 
 
 ---
 
-## F.10 — REFEREE QUICK-REFERENCE
+## A.13 — REFEREE QUICK-REFERENCE
 
 ### TSU-9 Status Track
 
@@ -564,6 +604,6 @@ TARGET                       START   IMMINENT
 
 ---
 
-*Appendix F — TSU-9 Technical Reference*  
+*Appendix A — Blind Cobra Gear*  
 *Cold Trail in Kethara Reach — Referee Document*  
 *Mongoose Traveller 2nd Edition — Imperial Year 1117*

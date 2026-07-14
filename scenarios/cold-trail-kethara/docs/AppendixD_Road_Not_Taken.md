@@ -120,7 +120,7 @@ Whether they proceed with the destruction on a partial package is a decision the
 |---|---|---|
 | >70% complete | Proceed — the missing data is non-critical | Relay destroyed on schedule; some technical details uncertain |
 | 50–70% complete | Proceed with caution — elevated risk of complications | Relay partially destroyed; one system may survive and require a follow-up |
-| <50% complete | Delay — request BLIND SERPENT re-insert or find another option | Relay survives; full mission failure; campaign pivot |
+| <50% complete | Delay — request BLIND COBRA re-insert or find another option | Relay survives; full mission failure; campaign pivot |
 
 **If EXTRACT NOW is transmitted before Pelczar completes any decryption passes:**
 
@@ -143,7 +143,7 @@ If the team chooses to surrender after Voss's loudspeaker challenge but before M
 | Timeframe | Breaking Point |
 |---|---|
 | 48 hours | Inconsistencies in the survey company's activity records — no filed survey reports despite 23 days on site |
-| 72 hours | Marchetti-Solis cross-references BLIND SERPENT's signals fingerprint against her 12-year database of anomalies |
+| 72 hours | Marchetti-Solis cross-references BLIND COBRA's signals fingerprint against her 12-year database of anomalies |
 | 96 hours | Breckenridge's signals signature matches the burned Imperial asset file from 12 years ago |
 | 7–10 days | The cover company's Alpha Crucis registration traces to a Confederation shell corporation pattern |
 
@@ -165,7 +165,7 @@ DC-3 goes into Imperial custody with Pelczar. Her personal encryption is non-sta
 
 ## B.6 — WHAT HAPPENS TO THE BASE
 
-### If BLIND SERPENT Extracts Successfully
+### If BLIND COBRA Extracts Successfully
 
 The base is abandoned. SolSec's protocol for base abandonment: the explosives in the power plant are armed on a 12-hour timer. The camouflage netting is left in place. All classified equipment either leaves with the team or is destroyed.
 

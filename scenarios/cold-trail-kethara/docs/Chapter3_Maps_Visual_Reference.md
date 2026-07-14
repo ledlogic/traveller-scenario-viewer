@@ -1,8 +1,6 @@
 # TRAVELLER: COLD TRAIL IN KETHARA REACH
 ## Chapter 3 — Maps & Visual Reference
 
-*A Mongoose Traveller 2nd Edition Convention Scenario*
-
 ---
 
 > *"The colonists call the river valley the 'Kethara Reach' — meaning a place you go when you want to be beyond reach of anything useful, including help."*
@@ -16,8 +14,8 @@ Three map files support this scenario. They serve different purposes and print a
 | File | Type | Print Size | Primary Use |
 |---|---|---|---|
 | **Lakamsal_Area_Map.svg** | Full colour area map | A3 or US Tabloid | Referee reference, evasion/extraction planning, establishing the operational theatre |
-| **Blind_Serpent_Maps.svg** | Dual schematic SVG | A4 or US Letter | Quick reference, player handout — regional context + station floor plan on one page |
-| **Blind_Serpent_Battlemap.svg** | Full tactical battle map | 36″×36″ (6× 12″×18″ tiles) | Convention play surface, miniatures — cliff face, cave entrance, motor pool, river bank |
+| **Blind_Cobra_Maps.svg** | Dual schematic SVG | A4 or US Letter | Quick reference, player handout — regional context + station floor plan on one page |
+| **Blind_Cobra_Battlemap.svg** | Full tactical battle map | 36″×36″ (6× 12″×18″ tiles) | Convention play surface, miniatures — cliff face, cave entrance, motor pool, river bank |
 
 **Print instructions:**
 - Area map and dual schematic: print colour where possible; greyscale readable
@@ -30,13 +28,13 @@ Three map files support this scenario. They serve different purposes and print a
 
 ### What It Shows
 
-The area operational map covers approximately a 400km × 400km section of Lakamsal's main supercontinent centred on the Kethara River basin. At this scale the key terrain relationships become clear: the isolation of the BLIND SERPENT station, the approach routes, the distances that make everything hard.
+The area operational map covers approximately a 400km × 400km section of Lakamsal's main supercontinent centred on the Kethara River basin. At this scale the key terrain relationships become clear: the isolation of the BLIND COBRA station, the approach routes, the distances that make everything hard.
 
 **Key elements:**
 
-| Feature | Position | Distance from BLIND SERPENT |
+| Feature | Position | Distance from BLIND COBRA |
 |---|---|---|
-| Field Station BLIND SERPENT | Centre-southeast | — |
+| Field Station BLIND COBRA | Centre-southeast | — |
 | Lakamsal downport / main settlement | Northwest | ~180km |
 | IISS survey station (Osei-Bonsu's base) | Northwest, co-located with downport | ~180km |
 | Imperial signals relay installation | Northeast | 280km |
@@ -67,7 +65,7 @@ LAKAMSAL DOWNPORT          IMPERIAL RELAY INSTALLATION
                     |
             CRASH SITE (4km NE)
                     |
-         FIELD STATION BLIND SERPENT
+         FIELD STATION BLIND COBRA
               (cliff face, river bend)
                     |
               KETHARA RIVER
@@ -86,7 +84,7 @@ LAKAMSAL DOWNPORT          IMPERIAL RELAY INSTALLATION
 
 ---
 
-## 3.2 — MAP 2: BLIND SERPENT STATION — DUAL SCHEMATIC
+## 3.2 — MAP 2: BLIND COBRA STATION — DUAL SCHEMATIC
 
 This map serves as a player handout and referee quick reference. It places two schematics on a single A4/Letter page:
 
@@ -122,6 +120,7 @@ Zone A ports              │  Drone rigs (×4, rig 3 damaged)│
                           │  Bunks ×5 (Pelczar uses chair) │
                           │  Basic medkit (depleted)       │
                           │  Vacc suits ×6                 │
+                          │  Filter masks ×6                │
                           │  Stimulant storage (EMPTY)     │
                           └────────────────────────────────┘
                           WEST SIDE EXITS
@@ -155,7 +154,7 @@ Motion sensor grid (800m radius)
 
 ---
 
-## 3.3 — MAP 3: BLIND SERPENT BATTLE MAP
+## 3.3 — MAP 3: BLIND COBRA BATTLE MAP
 
 ### Overview
 
@@ -189,7 +188,7 @@ The deepest interior space. Matte-black equipment panels on basalt walls. Four d
 *Miniature terrain notes:* Dense terrain — multiple line-of-sight breaks from equipment stacks. The drone control rigs are waist-high obstructions (+1 cover). Pelczar's console is a solid obstruction (full cover if prone behind it). No windows. One exit: the corridor to the motor pool.
 
 **TILE 2 — Motor Pool / Maintenance Bay (Interior)**
-Larger floor space than the ops centre — the motor pool needs to fit two trucks and four drones. Two rental trucks (TL9, civilian utility) are parked against the north wall, fuel cells dry. The four BLIND SERPENT drones are racked on the south wall — Priya and Garner in their charging cradles (armed, quad-rotor), the surveillance drone folded on a wall mount, the ground scout (wheeled) parked to the right of the trucks. One auto-sentry unit is positioned near the entrance corridor — a tripod-mounted gauss weapon on a motorised turret. Parts locker on the east wall (open, mostly empty). A central workbench with Haramoto's tools laid out. Floor: bare basalt with oil stains, tool marks, decades of geological survey residue overlaid by 23 days of SolSec use.
+Larger floor space than the ops centre — the motor pool needs to fit two trucks and four drones. Two rental trucks (TL9, civilian utility) are parked against the north wall, fuel cells dry. The four BLIND COBRA drones are racked on the south wall — Priya and Garner in their charging cradles (armed, quad-rotor), the surveillance drone folded on a wall mount, the ground scout (wheeled) parked to the right of the trucks. One auto-sentry unit is positioned near the entrance corridor — a tripod-mounted gauss weapon on a motorised turret. Parts locker on the east wall (open, mostly empty). A central workbench with Haramoto's tools laid out. Floor: bare basalt with oil stains, tool marks, decades of geological survey residue overlaid by 23 days of SolSec use.
 
 *Miniature terrain notes:* The trucks provide solid cover (treat as vehicles, 20 Hits each). The drone racks are chest-height obstacles. The auto-sentry's arc of fire covers the entrance corridor mouth — characters entering from the east take auto-sentry fire if it is in ACTIVE mode.
 
@@ -199,7 +198,7 @@ The most complex tile. The cliff face is represented in a split-level format: gr
 *Miniature terrain notes:* Characters on the cliff face require a grav belt or climbing kit — falling damage applies (3D per 10m). The cliff face provides full cover against ground-level attacks from the river bank. Zone C ports (13 additional, 19–24m AGL) are off-tile-top. A counter or token on the altitude track represents height position.
 
 **TILE 4 — Crew Quarters / Medical (Interior)**
-The westernmost and quietest interior space. Five bunk units along the walls (one clearly unused by the occupant — Pelczar's bunk is still made, tight, untouched). A small medical station on the north wall: the basic medkit, now depleted, its packaging containers open and mostly empty. The empty stimulant storage tray is visible to anyone who knows what to look for. Emergency vacc suits rack (6 suits, TL10, 2-hour air supply) on the west wall. A personal effects shelf with small items — Mouton's holster, Haramoto's spare tool loops, Breckenridge's reading material.
+The westernmost and quietest interior space. Five bunk units along the walls (one clearly unused by the occupant — Pelczar's bunk is still made, tight, untouched). A small medical station on the north wall: the basic medkit, now depleted, its packaging containers open and mostly empty. The empty stimulant storage tray is visible to anyone who knows what to look for. Emergency vacc suits rack (6 suits, TL10, 2-hour air supply) on the west wall, with a shelf of 6 filter masks stocked directly beside it. A personal effects shelf with small items — Mouton's holster, Haramoto's spare tool loops, Breckenridge's reading material.
 
 *Miniature terrain notes:* Lightest terrain density — this is where the team sleeps, not where it fights. Bunks provide minor cover (+0 — they're thin). Vacc suit rack: a character who dons a vacc suit here takes 1 full round to seal and pressurize. West wall access to the tunnel (2km north through the formation — see below).
 
@@ -230,7 +229,7 @@ Understanding the cliff formation is essential for any encounter involving the e
 
 ### The Ridgeline Is Not a Tower
 
-The cliff housing BLIND SERPENT is **not an isolated pinnacle**. It is a section of a continuous linear basalt escarpment — the Kethara Ridgeline — running approximately **4 kilometres northeast-southwest** along the eastern bank of the Kethara River. The geology is a horizontal lava flow escarpment: the cliff formed when a lava flow cooled into dense basalt and the softer surrounding rock eroded away, leaving the cliff edge as the surviving margin of the flow. This is the opposite of a volcanic intrusion like Devil's Tower — it is a shelf edge, not a column.
+The cliff housing BLIND COBRA is **not an isolated pinnacle**. It is a section of a continuous linear basalt escarpment — the Kethara Ridgeline — running approximately **4 kilometres northeast-southwest** along the eastern bank of the Kethara River. The geology is a horizontal lava flow escarpment: the cliff formed when a lava flow cooled into dense basalt and the softer surrounding rock eroded away, leaving the cliff edge as the surviving margin of the flow. This is the opposite of a volcanic intrusion like Devil's Tower — it is a shelf edge, not a column.
 
 **Why this matters for play:**
 The ridgeline connects the station to everything around it via the same terrain feature. Marines approaching from KR-7 (north) descend along this ridgeline. The game trail to the crash site follows this ridgeline northeast. There is no isolated defensive perimeter — the station is a point on a continuous terrain feature that provides approach routes in both directions.
@@ -267,7 +266,7 @@ The 49 exchange ports are distributed across the central 200m section of the cli
 | Zone B | 19 | 13–18m | Rope system or grav belt — the zone with most coolant degradation |
 | Zone C | 13 | 19–24m | Grav belt required — highest wind loading during storms, exposed to aerial observation |
 
-*Full port servicing procedures and port damage rules: see Appendix F.*
+*Full port servicing procedures and port damage rules: see Appendix A.*
 
 ---
 
@@ -347,7 +346,7 @@ These are read-aloud or paraphrase-aloud descriptions for the referee — one fo
 >
 > SHEPHERD will set down here. The landing zone is approximately 40 metres in diameter — enough for Mrazová's 100-ton courier, barely. She has done tighter approaches.
 >
-> The approach from the south — where BLIND SERPENT will be coming from — runs along the ridgeline trail. The approach from the north — where Ibáñez-Ochoa's Ship's Boat will be landing — comes down from orbit into the same clearing.
+> The approach from the south — where BLIND COBRA will be coming from — runs along the ridgeline trail. The approach from the north — where Ibáñez-Ochoa's Ship's Boat will be landing — comes down from orbit into the same clearing.
 >
 > There is only one landing zone. First come, first served.
 
@@ -381,7 +380,7 @@ These are read-aloud or paraphrase-aloud descriptions for the referee — one fo
 
 ### PROMPT 5 — KR-7 EXTRACTION PLATEAU (DAWN)
 
-> A natural plateau on an alien jungle world, just before dawn. Basalt rock surface, broken by alien fern-analogue ground cover. The canopy is lower here, the sky visible in a wide arc — stars still visible in the purple pre-dawn sky on the horizon. A sleek 100-ton courier vessel — *Persistent Venture*, military-grade disguised as civilian — is on final approach, running lights minimal, belly thrusters illuminating the basalt below. The jungle falls away to the south below the plateau edge. A figure stands at the plateau margin looking south along the ridgeline — waiting. In the very far distance, if you follow the ridgeline south and down, you might imagine the basalt cliff where BLIND SERPENT has been living. You can't see it from here. That's the point. Style: photorealistic cinematic environment concept art, wide shot, dawn lighting, science fiction spacecraft, alien world, tension and relief simultaneously.
+> A natural plateau on an alien jungle world, just before dawn. Basalt rock surface, broken by alien fern-analogue ground cover. The canopy is lower here, the sky visible in a wide arc — stars still visible in the purple pre-dawn sky on the horizon. A sleek 100-ton courier vessel — *Persistent Venture*, military-grade disguised as civilian — is on final approach, running lights minimal, belly thrusters illuminating the basalt below. The jungle falls away to the south below the plateau edge. A figure stands at the plateau margin looking south along the ridgeline — waiting. In the very far distance, if you follow the ridgeline south and down, you might imagine the basalt cliff where BLIND COBRA has been living. You can't see it from here. That's the point. Style: photorealistic cinematic environment concept art, wide shot, dawn lighting, science fiction spacecraft, alien world, tension and relief simultaneously.
 
 ---
 
@@ -426,7 +425,7 @@ The **TSU-9 load indicator** — a visible counter or dial tracking percentage f
 
 ### The Meteorological Shift
 
-For 16 of BLIND SERPENT's 23 days on Lakamsal, the Kethara basin experienced dry, hot, stable conditions — exactly what the IISS planetary survey database and the SolSec mission brief predicted. The thin atmosphere (Code 4) produces intense solar heating during the day, rapid radiative cooling at night, and almost no cloud cover. The EM interference existed but was mild — background noise Breckenridge compensated for without comment.
+For 16 of BLIND COBRA's 23 days on Lakamsal, the Kethara basin experienced dry, hot, stable conditions — exactly what the IISS planetary survey database and the SolSec mission brief predicted. The thin atmosphere (Code 4) produces intense solar heating during the day, rapid radiative cooling at night, and almost no cloud cover. The EM interference existed but was mild — background noise Breckenridge compensated for without comment.
 
 **Seven days ago, something changed.**
 

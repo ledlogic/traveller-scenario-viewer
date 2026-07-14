@@ -5,10 +5,6 @@
 
 ---
 
-*Cold Trail in Kethara Reach — Referee Reference Document*
-
----
-
 ## 4.2 — ACT TWO: THE JUNGLE BITES BACK
 *Day 23, Hours 2–4*
 

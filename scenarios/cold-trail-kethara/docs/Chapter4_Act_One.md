@@ -5,14 +5,6 @@
 
 ---
 
-*Cold Trail in Kethara Reach — Referee Reference Document*
-
----
-
-*A Mongoose Traveller 2nd Edition Convention Scenario*
-
----
-
 > *"Three simultaneous problems. Cut between them. Never let one resolve cleanly before the next escalates."*
 
 ---
@@ -35,7 +27,7 @@ Cold Trail in Kethara Reach runs across four Acts, each approximately 45–60 mi
 **The key insight for the referee:** by Hour 8, three threat layers are potentially running simultaneously — each requiring a different response. Osei-Bonsu needs a social/deception solution. Marchetti-Solis needs a technical/signals solution. Ibáñez-Ochoa needs an extraction. The team cannot fight all three. They must deceive, delay, and run in the right sequence.
 
 *For full Imperial threat layer mechanics and play-by-play: see Appendix E.*
-*For full TSU-9 repair mechanics: see Appendix F.*
+*For full TSU-9 repair mechanics: see Appendix A.*
 
 ---
 
@@ -75,8 +67,8 @@ She says this to Vasiliou quietly, not to the room. She does not editorialize. S
 - **Send someone to the crash site immediately**: 4km northeast through open delta, stalker territory, dawn patrol time. Round trip: 2–3 hours minimum. Gets the coolant canister and the laser rifle (the correct tool for Shield Beetles). Costs team members and splits defensive posture.
 - **Do both**: Jury-rig now, plan crash site run for Hours 3–5. Most common outcome. The jury-rig expiry at Hour 7 then creates a second pressure point.
 
-*For full TSU-9 mechanics and the crash site: see Appendix F, Sections F.6 and F.7.*
-*For crash site encounter, laser rifle, and beetle supply gate: see Appendix C.*
+*For full TSU-9 mechanics and the crash site: see Appendix A, Sections A.9 and A.10.*
+*For crash site encounter, laser rifle, and beetle supply gate: see Appendix M.*
 
 ---
 
@@ -102,7 +94,7 @@ She pauses. Vasiliou waits.
 
 > *"The second thing. The relay's product has changed. Six weeks ago it was fleet positioning data — standard military surveillance. Now it's something else. Volume is three times what it was. The encryption has escalated twice. I'm seeing cipher identifiers I've never encountered on a frontier relay. Whatever is passing through that installation right now — it is not what this mission was briefed on. And I am three decryption passes from understanding what it is. I need clean signal conditions to run them. The storm is going to delay that by at least four hours."*
 
-She is wrong about the timing shift — it is a storm-cycle calibration burst from the relay's overloaded hardware, not a response from inside BLIND SERPENT. She is entirely right about everything else.
+She is wrong about the timing shift — it is a storm-cycle calibration burst from the relay's overloaded hardware, not a response from inside BLIND COBRA. She is entirely right about everything else.
 
 **Breckenridge's position:** He knows the timing shift is a calibration burst. He has not told Pelczar this. He is not sure how to raise it without explaining how he knows what Imperial relay calibration patterns look like. Watch his player's face when Pelczar makes the mole accusation. This is the moment.
 
@@ -122,7 +114,7 @@ She is wrong about the timing shift — it is a storm-cycle calibration burst fr
 
 **Can Haramoto do the full repair before the unit fails?** If crash site parts retrieved at Hour 3–5, she can begin repair at Hour 5–7. She finishes Hour 7–9. This is tight — the surveillance run may still be ongoing during her repair window. Pelczar needs Breckenridge on ECM. Okonkwo is managing drones. Mouton is on perimeter. Vasiliou is coordinating. Nobody can do two things at full effectiveness.
 
-*Full port servicing mechanics, Engineer Effect table, and laser damage rules: Appendix F.*
+*Full port servicing mechanics, Engineer Effect table, and laser damage rules: Appendix A.*
 
 ---
 
@@ -138,6 +130,6 @@ Two beetles in the motor pool is an inconvenience. Three beetles in the motor po
 > *[Ports confirmed.]*
 > *"Then the beetles are an inconvenience. Deal with them. Carefully."*
 
-*Equipment damage risk table for interior beetle encounters: Appendix C Addendum, Section C.6.*
+*Equipment damage risk table for interior beetle encounters: Appendix M Addendum, Section M.6.*
 
 ---

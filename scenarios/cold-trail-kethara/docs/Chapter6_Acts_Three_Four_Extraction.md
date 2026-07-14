@@ -5,10 +5,6 @@
 
 ---
 
-*Cold Trail in Kethara Reach — Referee Reference Document*
-
----
-
 ## 6.1 — ACT THREE: HOLD THE STATION
 *Day 23, Hours 4–8*
 
@@ -45,7 +41,7 @@ At Hour 5, the thermal shimmer from the three hot nodes on the cliff face attrac
 
 **If the Tyrant tags Haramoto on the cliff face:** She is in a grav belt 20 metres up. A bite or tail sweep that connects on a failed Athletics check could knock her off the cliff — 40m fall, 4D damage, filter mask and grav belt status determine survival. Mouton on the ground below can do nothing except watch and then act.
 
-*Full Tyrant stats and encounter options: Appendix C, Bestiary.*
+*Full Tyrant stats and encounter options: Appendix M, Bestiary.*
 
 ---
 
@@ -55,7 +51,7 @@ While Haramoto is servicing the TSU-9 ports on the cliff face, Shield Beetles �
 
 This encounter is tied to the crash site supply gate: the laser rifle at the crash site is the correct tool for Shield Beetles (5D vs effective Armour 7). Without it, the team's options are more constrained.
 
-*Full Shield Beetle encounter with handling options, vents encounter mechanics, and the crash site supply gate: Appendix C Addendum.*
+*Full Shield Beetle encounter with handling options, vents encounter mechanics, and the crash site supply gate: Appendix M Addendum.*
 
 ---
 
@@ -108,7 +104,7 @@ She returns to her console. She does not celebrate. She begins encrypting the ba
 
 Forty minutes after successful transmission — whether the team is still managing threats or has begun to breathe — the comms unit chimes.
 
-> *"BLIND SERPENT, this is SHEPHERD. Extract is delayed 48 hours — patrol schedule conflict. Confirm you can hold. Over."*
+> *"BLIND COBRA, this is SHEPHERD. Extract is delayed 48 hours — patrol schedule conflict. Confirm you can hold. Over."*
 
 The apex predator has found a reliable heat source. The Imperial station has logged an anomalous contact and dispatched a long-range sensor buoy arriving in 36 hours. The mission continues.
 
@@ -154,13 +150,7 @@ She does not say whether she believes this. She says it because it is what needs
 
 **Autonomous Mode:** Switch with a Minor Action. Drone follows last instruction set at Skill 1 for all actions until operator re-establishes link (Average Electronics (remote ops) 8+, 1D6 minutes).
 
-### Drone Quick Reference
-
-| Drone | Type | Speed | Range | Armour | Hits | Weapons | Source |
-|---|---|---|---|---|---|---|---|
-| Priya / Garner (×2) | Quad-rotor TL10 | 80kph | 80km | 2 | 8 | Gauss pistol 2D | RH pp.6–76; RH pp.106–113; CRB22 p.127 |
-| Surveillance (×1) | Fixed-wing TL11 | 180kph | 400km | 1 | 6 | None | VH; RH p.6 |
-| Ground Scout (×1) | Wheeled TL10 | 40kph | 40km | 3 | 12 | None — 1 passenger | RH pp.6–76; VH |
+*Full drone specifications (Speed, Range, Armour, Hits, Weapons): see Appendix L, Vehicles and Drones.*
 
 ### Auto-Sentries
 
@@ -183,7 +173,7 @@ Contested **Electronics (comms)** roll — Breckenridge vs Imperial ECM rating 3
 | Controlled shutdown | Electronics (computers) or Mechanic | Easy (6+) | 10 min | Clean shutdown; immediate thermal exposure |
 | Emergency pump bypass | Engineer (power) | Very Difficult (12+) | 30 min | Prevents catastrophic failure if pump failing |
 
-*Full TSU-9 technical reference: Appendix F.*
+*Full TSU-9 technical reference: Appendix A.*
 
 ### Megafauna Encounter Table (Outside Base — Roll 1D Per Hour)
 
@@ -194,7 +184,7 @@ Contested **Electronics (comms)** roll — Breckenridge vs Imperial ECM rating 3
 | 4–5 | Kethara Stalker pair — Stealth 3, ambush. Recon 10+ to detect before attack |
 | 6 | Kethara Tyrant (adult) — territorial; present in area, not yet attacking |
 
-*Full bestiary: Appendix C.*
+*Full bestiary: Appendix M.*
 
 ---
 
@@ -305,7 +295,7 @@ All times are in-game hours from scenario start (Day 23, Hour 0).
 | Imperial sweep | Pass 5 of 8 |
 | **Surveillance data** | **If run completed: Pelczar's decision moment. Transmit standard, wait for decryption, or transmit all?** |
 | **Osei-Bonsu** | **Arrives at base vicinity if triggered. Deception opportunity: cover story + Mechanic 8+ to support geological survey claim.** |
-| **SHEPHERD signal** | **"BLIND SERPENT, this is SHEPHERD. Extract delayed 48 hours. Confirm you can hold."** |
+| **SHEPHERD signal** | **"BLIND COBRA, this is SHEPHERD. Extract delayed 48 hours. Confirm you can hold."** |
 
 **This is the scenario's climax beat.** Data transmitted but extraction delayed. Osei-Bonsu closing. Imperial sweep ongoing. TSU-9 at or near failure. The team has completed the mission and the mission is not over.
 
@@ -410,7 +400,7 @@ At TL10+, data storage is not the bottleneck. The Core Rulebook (CRB22 p.112) co
 - **Data Wafer (TL10):** Credit-card sized rectangle, memory diamond substrate, information encoded in carbon atom structures. Stores Bandwidth/1 programs. Cost: Cr5. Mass: negligible.
 - **Beyond TL8:** Storage capacity of even a modest computer is effectively unlimited for practical field purposes.
 
-A single TL10 data wafer can hold more raw surveillance data than BLIND SERPENT has collected in 23 days. The six weeks of intercepted relay traffic — even at the elevated 1117 volume — fits on a handful of wafers.
+A single TL10 data wafer can hold more raw surveillance data than BLIND COBRA has collected in 23 days. The six weeks of intercepted relay traffic — even at the elevated 1117 volume — fits on a handful of wafers.
 
 This is worth stating clearly: the scenario's urgency around the data uplink is not about physical storage. It is about **time** (Pelczar needs three decryption passes), **detection** (11 minutes of transmission is near-certain Imperial sensor acquisition), and **processing** (the TL12 SIGINT suite at the console cannot be replicated in a vest pocket). The data itself — all of it — fits in three playing-card-sized cases.
 
@@ -426,7 +416,7 @@ Pelczar wears three data cores on her vest at all times. Each is a hardened mili
 | DC-2 (Official) | Mission backup | Redundant copy of DC-1, updated every 8 hours | ~200g | SolSec standard field encryption |
 | DC-3 (Hidden) | Pelczar personal | Partition 1: 8 years of intelligence reports. Partition 2: Breckenridge burned-asset file. Partition 3: Partial decryption of 1117 court traffic | ~200g | Personal encryption — non-standard keys, not in SolSec inventory |
 
-**Total physical mass of all intelligence gathered by BLIND SERPENT in 23 days of operation: approximately 600 grams.**
+**Total physical mass of all intelligence gathered by BLIND COBRA in 23 days of operation: approximately 600 grams.**
 
 If the uplink fails — if the storm prevents transmission, if SHEPHERD cannot receive, if the team must evacuate before the data package sends — **Pelczar walks out with everything in her vest pockets.** The data cores are smaller than most people's phones and weigh less than a full canteen.
 
@@ -475,7 +465,7 @@ Does any of the intelligence take ship space?
 
 **No.** The data cores take zero displacement tons. They are personal equipment, smaller and lighter than a sidearm. Even if Pelczar packed every data wafer in the station — the backup copies, the drone telemetry logs, the signals intercept raw data, all 23 days of everything — the total physical volume would fit in a standard equipment case (approximately 10kg, negligible dTon).
 
-SHEPHERD has 1 ton of available cargo space after its modifications. The entire intelligence product of BLIND SERPENT's 23-day operation occupies well under 1% of that space.
+SHEPHERD has 1 ton of available cargo space after its modifications. The entire intelligence product of BLIND COBRA's 23-day operation occupies well under 1% of that space.
 
 The only scenario where displacement tons matter for data is if the team attempts to transport the physical SIGINT suite. At 40kg and roughly 0.3m³, it rounds to zero dTons at standard Traveller displacement calculations. It fits. The question is whether the team has 30 minutes and a drone cargo run to spare.
 
@@ -520,10 +510,6 @@ What the Director does with it is a story for a different table. But it starts i
 *Appendix K — Data Storage and Physical Extraction*
 *Cold Trail in Kethara Reach — Referee Document*
 *Mongoose Traveller 2nd Edition — Imperial Year 1117*
-
----
-
-*A Mongoose Traveller 2nd Edition Convention Scenario*
 
 ---
 
@@ -625,7 +611,7 @@ When SHEPHERD receives the data package confirmation, Mrazová begins descent ca
 
 **Mrazová's one rule:** If she does not receive a status ping within 48 hours of her delay signal, she assumes the team is compromised and jumps for the rendezvous. She has broken this rule once in 8 years. She will not break it again.
 
-**What BLIND SERPENT can transmit to SHEPHERD:**
+**What BLIND COBRA can transmit to SHEPHERD:**
 - Status ping (4-byte burst, 0.003 seconds, effectively undetectable): GREEN or RED
 - Emergency extraction code (12-byte burst, 0.008 seconds): EXTRACT NOW
 - Abort code (8-byte burst): SHEPHERD ABORT — she exits the system immediately, does not wait
@@ -763,7 +749,7 @@ At the moment of extraction, Breckenridge has made a decision he has not shared 
 
 If Mrazová aborts her descent — KR-7 occupied, patrol pattern unfavourable, too much risk to the vessel — she transmits the abort code and holds at 300km altitude.
 
-**BLIND SERPENT's options at this point:**
+**BLIND COBRA's options at this point:**
 
 **Option 1 — Signal SHEPHERD for retry:** Transmit EXTRACT NOW. She uses the high-G emergency descent, accepts detection risk. This likely triggers *Resolute Purpose* intercept attempt. Mrazová's Pilot 3 vs the intercept window — 40 minutes of very tense flying.
 
@@ -873,9 +859,9 @@ The SolSec strike team that will physically destroy the relay is waiting at the 
 
 **What happens to Partition 3:** The intelligence product Pelczar has been working toward for six days — the evidence of the Imperial court's institutional panic, the forward strategy papers, the competing assessments of Solomani military capability written by analysts who believe something is coming — goes to SolSec intelligence analysis. It will be processed. It will be classified. It will be read by people who have the clearance to understand it.
 
-It will reach the right desks within two months. The assassination of Emperor Strephon occurred on 132-1116 — eight months ago. The analysts who read Pelczar's data will, in retrospect, recognise it as an early signal of what was already unravelling at the Imperial court. They will not be able to do anything useful with this information. The Rebellion is already in progress. The Second Solomani Rim War has begun.
+It will reach the right desks within two months. The assassination of Emperor Strephon occurred on 132-1116 — eight months ago. The analysts who read Pelczar's data will, in retrospect, recognise it as an early signal of what was already unravelling at the Imperial court. They will not be able to do anything useful with this information. The Rebellion is already in progress. Confederation forces have been conducting offensive operations along the Solomani Front since 325-1116. *(For sourcing on these dates — which are canon and which are scenario-original — see Chapter 1, §1.10, "Sources & Canon Status.")*
 
-**Whether the strike team still considers the relay a priority target** after reading what Pelczar found in the Imperial court traffic — whether they destroy it, or decide the intelligence product is now more valuable than destroying the source, or simply proceed as ordered — is a decision that will be made by people who are not in the Kethara basin, for reasons that BLIND SERPENT will never be briefed on.
+**Whether the strike team still considers the relay a priority target** after reading what Pelczar found in the Imperial court traffic — whether they destroy it, or decide the intelligence product is now more valuable than destroying the source, or simply proceed as ordered — is a decision that will be made by people who are not in the Kethara basin, for reasons that BLIND COBRA will never be briefed on.
 
 This is the nature of their work. It is not new to any of them.
 
@@ -899,9 +885,9 @@ Mouton at the viewport. Not watching anything. Just watching.
 
 - **Breckenridge on Lakamsal:** If he stayed behind, he is now a civilian in Imperial custody on a frontier world, with Marchetti-Solis about to discover his signals fingerprint. What is on Pelczar's data wafer? Why did she give it to him? These are questions for a second scenario.
 
-- **The relay destruction:** Did the strike team do it? When? Quietly, or noisily? If Ibáñez-Ochoa connects the relay's destruction to the BLIND SERPENT operation — and he will, given the timing — the diplomatic fallout begins. BLIND SERPENT's deniability was always intended to be temporary.
+- **The relay destruction:** Did the strike team do it? When? Quietly, or noisily? If Ibáñez-Ochoa connects the relay's destruction to the BLIND COBRA operation — and he will, given the timing — the diplomatic fallout begins. BLIND COBRA's deniability was always intended to be temporary.
 
-- **Osei-Bonsu's next survey pass:** He will be back at KR-4418 within a week of the operation. Whatever state BLIND SERPENT left the station in — destroyed, intact, or simply abandoned — he will document it. He keeps immaculate records. He has Kowalski's chemical deterrent traces, Haramoto's coolant fluid in the cliff ports, Mouton's perimeter wire anchors, and possibly the carcass of a Shield Beetle or two. The truth is in the data. Osei-Bonsu always follows the data.
+- **Osei-Bonsu's next survey pass:** He will be back at KR-4418 within a week of the operation. Whatever state BLIND COBRA left the station in — destroyed, intact, or simply abandoned — he will document it. He keeps immaculate records. He has Kowalski's chemical deterrent traces, Haramoto's coolant fluid in the cliff ports, Mouton's perimeter wire anchors, and possibly the carcass of a Shield Beetle or two. The truth is in the data. Osei-Bonsu always follows the data.
 
 ---
 

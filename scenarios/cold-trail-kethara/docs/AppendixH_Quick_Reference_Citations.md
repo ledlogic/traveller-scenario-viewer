@@ -85,6 +85,45 @@
 
 ---
 
+### Weapons Quick Reference
+
+Consolidated from every weapon appearing in this scenario, across all character sheets and appendices. TL and Range columns are supplied here where the character sheets didn't already give them; Damage and Traits are kept as written on each character sheet (these can vary slightly between individual copies of the rules) rather than overridden. *[TL/Range source: Central Supply Catalogue (Update 2023.2) weapon tables, cross-checked against CRB22 page citations already used throughout this document.]*
+
+| Weapon | TL | Range (m) | Damage (as used in this doc) | Ammo / Magazine | Traits | Who carries it |
+|---|---|---|---|---|---|---|
+| Stunner | 8 | 5 | 2D | 100 (power pack) | Stun, Zero-G | Chen |
+| Autopistol | 5 | 10 | 3D-3 | 15 rounds | — | Okonkwo, Kaur, Kowalski, Osei-Bonsu |
+| Gauss Pistol | 13 | 20 | 3D-3, AP3, Auto 2 | 40 rounds | AP 3, Auto 2 | Ibáñez-Ochoa's Marines (sidearm) |
+| Gauss Rifle | 12 | 150 | 3D, AP5 | 80 rounds (4 magazines) | AP 5, Auto 2–3, Scope | Haramoto |
+| Gauss pistol (drone-mounted) | 12 | 20 | 2D | Fixed mount | — | Priya, Garner (recon drones) |
+| Laser Pistol | 9 | 20 | 3D | 100 shots (power pack) | Zero-G | Mouton (backup), Vasiliou/Yeva-class NPCs |
+| Laser Carbine | 9 | 150 | 4D | 50 shots (power pack) | Scope, Zero-G | Vasiliou |
+| Laser Rifle | 9 | 200 | 5D | 100 shots (power pack) | Zero-G, Scope | Marchetti-Solis-tier Naval NPCs; crash-site cache weapon |
+| Advanced Combat Rifle | 10 | 450 | 3D, Auto 3 | 40 rounds | Auto 3, Scope, Suppressor (field-modified) | Mouton |
+| Blade | 1 | Melee | 1D+2 | — | — | Kowalski |
+| Combat Blade | 1 | Melee | 1D+4 | — | Combat-grade edge | Imperial Marines |
+| VRF Gauss Gun (vehicle-mounted) | — | Vehicle weapon, see CRB22 p.135 | 4D, Auto 6 | Vehicle magazine | Pintle-mounted | Imperial G-Carrier |
+| Pulse Laser (turreted, ×2) | — | Naval-scale weapon, see CRB22 p.189 | Ship-scale | Ship magazine | Double turret | IMS *Resolute Purpose* |
+
+---
+
+### Armour & Protection Quick Reference
+
+Every piece of armour (and non-armoured clothing that gets described in enough detail to be confused for armour) appearing in this scenario. *[Protection values confirmed against Central Supply Catalogue (Update 2023.2) armour tables and CRB22 page citations already used throughout this document.]*
+
+| Item | Protection | TL | Who wears it | Note |
+|---|---|---|---|---|
+| Field jacket (Shulgi & Enki tan, dark brown trim) | **0 — ordinary clothing, not armour** | — | Chen, Kaur (worn under her Flak Jacket) | This is corporate branding, not protective gear. It's deliberately described as plain clothing — Chen's portrait prompt explicitly notes "no armour." Do not confuse with the Central Supply Catalogue's separate "Cloth Jacket" item (Protection +5, TL10) — that's a different, genuinely armoured product Meridian Recovery does not issue. |
+| Flak Jacket | +3 | 7 | Kaur | CRB22 p.100 |
+| Diplo Vest | +3 | — | Breckenridge | Concealable, CRB22 p.100 |
+| Light Ballistic Cloth | +3 | — | Naval Intelligence NPC (concealed) | — |
+| Flight Suit (repurposed) | +1 | — | Okonkwo | Not designed as armour; incidental protection only |
+| Light Combat Armour | +5 | 10 | Haramoto | CRB22 p.100 |
+| Combat Armour | +8 | 10 | Mouton | Sealed, CRB22 p.100 |
+| TL13 Combat Armour | +13 | 13 | Imperial Marines (Ibáñez-Ochoa's squad) | Sealed, tactical HUD w/ squad overlay |
+
+---
+
 ## H.2 — CONFIRMED SOURCE CITATIONS
 
 All statistics, rules references, and equipment data below are confirmed from the uploaded source files.
@@ -190,7 +229,7 @@ All statistics, rules references, and equipment data below are confirmed from th
 
 ### What It Means for the Campaign
 
-**If BLIND SERPENT extracts successfully (around 1117, month 8–9):** They are debriefed approximately 3 months before the assassination. Pelczar's Partition 3 data arrives at SolSec headquarters. Analysts note the elevated threat language and forward planning papers treating the Solomani Front as a near-term active flashpoint. They interpret it as evidence of an Imperial pre-emptive move against the Confederation.
+**If BLIND COBRA extracts successfully (around 1117, month 8–9):** They are debriefed approximately 3 months before the assassination. Pelczar's Partition 3 data arrives at SolSec headquarters. Analysts note the elevated threat language and forward planning papers treating the Solomani Front as a near-term active flashpoint. They interpret it as evidence of an Imperial pre-emptive move against the Confederation.
 
 **They are wrong.** The nervous traffic was not preparation for an offensive. It was the early tremors of an internal crisis that nobody in the court fully understood yet.
 

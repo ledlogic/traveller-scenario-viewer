@@ -5,7 +5,7 @@
 
 ---
 
-> *"Three individuals represent the escalating Imperial threat to BLIND SERPENT. They operate independently but their actions chain together. The referee should treat them as a pressure system: Osei-Bonsu triggers first, Marchetti-Solis escalates, Ibáñez-Ochoa ends it."*
+> *"Three individuals represent the escalating Imperial threat to BLIND COBRA. They operate independently but their actions chain together. The referee should treat them as a pressure system: Osei-Bonsu triggers first, Marchetti-Solis escalates, Ibáñez-Ochoa ends it."*
 
 ---
 
@@ -56,7 +56,7 @@
 
 **Role on Lakamsal:** Osei-Bonsu runs the IISS Survey Branch presence on Lakamsal — a one-man operation with a four-person support team at the downport and a single relay drone in orbit. Monthly atmospheric sensor sweeps, planetary survey database maintenance, Imperial Scout Service eyes on a forgotten subsector corner. He does not know the Imperial Navy relay exists in the Kethara basin. He was never told. Naval Intelligence operates entirely outside his chain of command.
 
-**The threat he poses:** His next scheduled atmospheric sweep is in 4 days — safely after BLIND SERPENT's extraction window. But his orbital relay drone monitors thermal signatures automatically. If the TSU-9 enters Failing status, the drone logs an anomalous geothermal contact and Osei-Bonsu receives an automated alert.
+**The threat he poses:** His next scheduled atmospheric sweep is in 4 days — safely after BLIND COBRA's extraction window. But his orbital relay drone monitors thermal signatures automatically. If the TSU-9 enters Failing status, the drone logs an anomalous geothermal contact and Osei-Bonsu receives an automated alert.
 
 **His tagging programme:** Osei-Bonsu runs a xenobiological biotelemetry programme across the Kethara basin. Over 6 years he has implanted subcutaneous TL10 biotelemetry tags in multiple animals — each transmitting a low-power burst every 6 hours to his orbital relay drone.
 
@@ -70,16 +70,16 @@
 | Kethara Tyrant (juvenile) | Untagged | Too young — on "tag next season" list | N/A |
 | Titanic Beetles | Untagged | Chitin too thick for subcutaneous implant — budget requests denied 3 consecutive years | N/A |
 
-**The critical data point Osei-Bonsu already has:** KR-ALPHA-7's telemetry shows the animal spending increasing time at the river bend cliff face for the past three weeks — exactly correlating with BLIND SERPENT's operational period. His log reads: *"KR-ALPHA-7 showing unusual site fidelity at KR grid ref 4418. Possible new food source or territorial shift. Investigate at next survey window."*
+**The critical data point Osei-Bonsu already has:** KR-ALPHA-7's telemetry shows the animal spending increasing time at the river bend cliff face for the past three weeks — exactly correlating with BLIND COBRA's operational period. His log reads: *"KR-ALPHA-7 showing unusual site fidelity at KR grid ref 4418. Possible new food source or territorial shift. Investigate at next survey window."*
 
 **Tagging consequences for the team:**
 - Killing the Tyrant: KR-ALPHA-7's heart rate drops to zero. Osei-Bonsu investigates within 24 hours. He finds the carcass with gauss rifle damage. Geological survey teams do not carry gauss rifles.
 - Killing tagged Grazers: three tags going silent simultaneously is inconsistent with natural predation.
-- Marchetti-Solis or Ibáñez-Ochoa requesting his data: KR-ALPHA-7's three-week telemetry at the cliff face is strong circumstantial evidence something has been attracting megafauna since BLIND SERPENT arrived.
+- Marchetti-Solis or Ibáñez-Ochoa requesting his data: KR-ALPHA-7's three-week telemetry at the cliff face is strong circumstantial evidence something has been attracting megafauna since BLIND COBRA arrived.
 
-**His vulnerability:** He is not looking for foreign intelligence agents. He is a survey scientist who thinks the anomaly is probably a new volcanic seep. He is observant, methodical, and will document everything — but he will not immediately recognise BLIND SERPENT for what they are. A skilled deception backed by the geological survey cover might convince him for 6–12 hours. He will want to see survey equipment, geological logs, and permits.
+**His vulnerability:** He is not looking for foreign intelligence agents. He is a survey scientist who thinks the anomaly is probably a new volcanic seep. He is observant, methodical, and will document everything — but he will not immediately recognise BLIND COBRA for what they are. A skilled deception backed by the geological survey cover might convince him for 6–12 hours. He will want to see survey equipment, geological logs, and permits.
 
-**His secret sympathy:** Osei-Bonsu's mother was Solomani-born — a refugee from the Rim War who settled on Ganesh under Imperial administration. He has no love for SolSec and no love for the Confederation's politics, but he has complicated feelings about the border. He would not help BLIND SERPENT. But if he were convinced they were civilians in danger, he might delay his report by a few hours.
+**His secret sympathy:** Osei-Bonsu's mother was Solomani-born — a refugee from the Rim War who settled on Ganesh under Imperial administration. He has no love for SolSec and no love for the Confederation's politics, but he has complicated feelings about the border. He would not help BLIND COBRA. But if he were convinced they were civilians in danger, he might delay his report by a few hours.
 
 **What he does on confirmation:** Immediately transmits a contact report to the 291st Fleet duty officer and to Marchetti-Solis's vessel. Falls back to his air/raft and waits for military response. He is not brave. He is thorough.
 
@@ -129,7 +129,7 @@
 
 **Equipment:** Laser Pistol (3D, CRB22 p.129), Light Ballistic Cloth (+3 Protection, concealed), Naval Intelligence encrypted comms suite, personal signal analysis tablet (TL12, DM+2 Electronics (comms) when reviewing transmission data), two NI security agents as personal escort (Army stats, TL12 equipment, Gun Combat 2)
 
-**Role:** Marchetti-Solis runs the Lakamsal signals relay. She established it 14 months ago, manages its maintenance, and collects intelligence packages on every scheduled courier pass. She arrives in **72 hours** — the same window as BLIND SERPENT's extraction.
+**Role:** Marchetti-Solis runs the Lakamsal signals relay. She established it 14 months ago, manages its maintenance, and collects intelligence packages on every scheduled courier pass. She arrives in **72 hours** — the same window as BLIND COBRA's extraction.
 
 **Her courier vessel — NIS Haverford:** Modified TL12 Type S courier (100 tons), Armour 4, Military Grade sensors + signal analysis suite (DM+2 Electronics (comms), 200km radius), double turret with pulse lasers, two NI security agents. Not a warship — an intelligence gathering platform.
 
@@ -143,7 +143,7 @@ She does not know what it is. She has requested a briefing three times. She has 
 
 **Her connection to Pelczar:** Marchetti-Solis is one of the analysts whose intelligence product Pelczar has been quietly documenting in Partition 1. The relay's data has been used to suppress a Confederation fleet repositioning report. Pelczar does not know Marchetti-Solis by name — but she has the relay's transmission fingerprint. If Pelczar ever discovered who ran this relay, she would want to recruit her. Marchetti-Solis is not corrupt — she was never told what happened to her intelligence reports after she filed them.
 
-**Her assessment of the threat:** She does not believe this is a SolSec incursion. She believes it is most likely Imperial corporate espionage. This misassessment is the team's only exploitable gap — if BLIND SERPENT behaves like corporate thieves rather than military operators, she pursues corporate investigation procedure rather than military lockdown, buying 6–12 hours.
+**Her assessment of the threat:** She does not believe this is a SolSec incursion. She believes it is most likely Imperial corporate espionage. This misassessment is the team's only exploitable gap — if BLIND COBRA behaves like corporate thieves rather than military operators, she pursues corporate investigation procedure rather than military lockdown, buying 6–12 hours.
 
 **Personality:** Precise, cold-tempered, professionally driven. She has sacrificed two postings she actually wanted to pursue this operation. She takes the relay's security personally. She gathers evidence before acting — her greatest strength and the team's only window.
 

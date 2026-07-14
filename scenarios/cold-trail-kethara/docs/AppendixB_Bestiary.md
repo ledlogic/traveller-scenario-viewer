@@ -1,5 +1,5 @@
-# APPENDIX L — LAKAMSAL BESTIARY & VEHICLES
-## Full Stat Blocks, Vehicle Profiles, and Cross-References
+# APPENDIX M — LAKAMSAL BESTIARY
+## Full Stat Blocks and Cross-References
 
 *Cold Trail in Kethara Reach — Referee Reference Document*
 
@@ -10,7 +10,7 @@
 
 ---
 
-## L.1 — BESTIARY FORMAT NOTE
+## BESTIARY FORMAT NOTE
 
 All animal stat blocks follow the MGT2E Core Rulebook (CRB22) animal profile format (pp.154–157). Stats use the standard animal characteristics: Hits, Speed, Armour, Attack (damage type), and Skills. Traits follow CRB22 p.156 conventions.
 
@@ -20,7 +20,7 @@ All animal stat blocks follow the MGT2E Core Rulebook (CRB22) animal profile for
 
 ---
 
-## L.2 — THE KETHARA TYRANT
+## THE KETHARA TYRANT
 *Apex Predator — Kethara River Basin*
 
 **Binomial (informal):** Kethara Rex (IISS survey designation KR-ALPHA class)
@@ -80,16 +80,16 @@ Carnivore / Killer per CRB22 p.155 table. The Kethara Tyrant is territorial rath
 - 15 hits remaining: will attempt to disengage if able
 - 0 hits: incapacitated; death in 1D rounds without medical intervention (no scenario reason for this)
 
-**Sources:** CRB22 pp.154–160 (animal format, traits, attack types); Appendix C.2 (weapon effectiveness); Appendix F.5f (thermal attraction from port cleaning); Chapter 4 Section 4.3 (encounter options table).
+**Sources:** CRB22 pp.154–160 (animal format, traits, attack types); Appendix M.2 (weapon effectiveness); Appendix A.8f (thermal attraction from port cleaning); Chapter 4 Section 4.3 (encounter options table).
 
 ---
 
-## L.3 — THE KETHARA TYRANT (JUVENILE)
+## THE KETHARA TYRANT (JUVENILE)
 *Sub-Adult Apex Predator*
 
 **IISS Biotelemetry Tag:** Untagged (on Osei-Bonsu's "tag next season" list)
 
-The juvenile Tyrant is 3–4 years old, approximately 7 tonnes, and has not yet established a fixed territory. It lurks at the treeline and has been watching the BLIND SERPENT station for several days — attracted initially by the adult's attention to the cliff face, remaining out of juvenile curiosity and the scent of food waste.
+The juvenile Tyrant is 3–4 years old, approximately 7 tonnes, and has not yet established a fixed territory. It lurks at the treeline and has been watching the BLIND COBRA station for several days — attracted initially by the adult's attention to the cliff face, remaining out of juvenile curiosity and the scent of food waste.
 
 | Characteristic | Value |
 |---|---|
@@ -119,7 +119,7 @@ The juvenile Tyrant is 3–4 years old, approximately 7 tonnes, and has not yet 
 
 ---
 
-## L.4 — THE KETHARA STALKER
+## THE KETHARA STALKER
 *Pack Predator*
 
 **Binomial (informal):** Kethara Velociraptor (IISS informal; official designation KR-STALK class)
@@ -158,13 +158,13 @@ The juvenile Tyrant is 3–4 years old, approximately 7 tonnes, and has not yet 
 
 **Pack Composition:** Typically 3–6 adults, sometimes with 1–2 juveniles (treat as Hits 8, Speed 10m, Bite 1D+2, no special attacks). The pack has one dominant animal (INS 9, Recon 4) that coordinates ambush timing.
 
-**Ridgeline risk:** The 40km route from BLIND SERPENT to KR-7 passes through confirmed Stalker territory in the 15–35km stretch. Roll 1D per hour on foot: 1–2 = Stalker pack encounter. A Stalker that is aware of the Kethara Tyrant's presence in the area will avoid the cliff base — they give the Tyrant a 500m radius.
+**Ridgeline risk:** The 40km route from BLIND COBRA to KR-7 passes through confirmed Stalker territory in the 15–35km stretch. Roll 1D per hour on foot: 1–2 = Stalker pack encounter. A Stalker that is aware of the Kethara Tyrant's presence in the area will avoid the cliff base — they give the Tyrant a 500m radius.
 
 **Sources:** CRB22 pp.154–160; Chapter 4 Section 4.5 (encounter table); Chapter 5 Section 5.3 (ridgeline route risk).
 
 ---
 
-## L.5 — THE KETHARA GRAZER
+## THE KETHARA GRAZER
 *Herd Herbivore*
 
 **Binomial (informal):** Kethara Brontosaurid (IISS informal; official designation KR-GRAZE class)
@@ -201,100 +201,34 @@ The juvenile Tyrant is 3–4 years old, approximately 7 tonnes, and has not yet 
 
 ---
 
-## L.6 — KETHARA SHIELD BEETLE
-*(Full stat block in Appendix C — cross-reference)*
+## KETHARA SHIELD BEETLE
+*(Full stat block in Appendix M — cross-reference)*
 
-The Shield Beetle full stat block including all attack types, armour penetration by weapon, behaviour, and the vents encounter setup is documented in **Appendix C, Section C.1**. Key stats for quick reference:
+The Shield Beetle full stat block including all attack types, armour penetration by weapon, behaviour, and the vents encounter setup is documented in **Appendix M, Section M.1**. Key stats for quick reference:
 
 | Hits | Speed | Armour | Primary Attack |
 |---|---|---|---|
 | 40 | 8m/round | +10 | Mandible Snap 4D / Trample 2D |
 
-**Cross-reference:** Appendix C.1 (full profile), Appendix C.2 (weapon effectiveness table), Appendix F.5f (why port-cleaning attracts beetles specifically).
+**Cross-reference:** Appendix M.1 (full profile), Appendix M.2 (weapon effectiveness table), Appendix A.8f (why port-cleaning attracts beetles specifically).
 
 ---
 
-## L.7 — VEHICLES: KETHARA BASIN OPERATIONAL ASSETS
 
-### Format Note
+## SOURCE CITATIONS
 
-Vehicle stat blocks follow CRB22 vehicle profile format (pp.154 area, VH supplement). Key stats: Hull, Structure, Speed, Armour, Crew/Passengers, Weapons. Lakamsal is TL8, so most local vehicles are TL8–9. SolSec assets are TL10–11. Imperial military assets are TL12–13.
+All bestiary content in this appendix is original scenario material consistent with MGT2e format. No published supplement content is drawn upon for the Lakamsal fauna itself — the Kethara basin creatures are unique to this scenario; only the stat-block format and core mechanics are drawn from published rules.
 
----
-
-### BLIND SERPENT — Ground Scout Drone
-
-*(See Chapter 2 for full drone stats; abbreviated here for vehicle context)*
-
-| Stat | Value |
-|---|---|
-| Type | Wheeled scout drone, TL10 |
-| Hull | 4 |
-| Structure | 4 |
-| Speed | 40kph |
-| Armour | 3 |
-| Crew | 0 (remote operated) |
-| Passengers | 1 (seat pack) |
-| Range | 40km |
-| Weapons | None |
-
----
-
-### MERIDIAN RECOVERY — *Haul One* Ground Car
-
-*(Full profile in Appendix D.3; abbreviated here)*
-
-| Stat | Value |
-|---|---|
-| Type | TL9 enclosed civilian ground car |
-| Hull | 6 |
-| Structure | 6 |
-| Speed | 120kph road / 60kph off-road |
-| Armour | 2 |
-| Crew | 1 |
-| Passengers | 3 |
-| Range | 500km |
-| Weapons | None |
-
----
-
-### IMPERIAL MILITARY — G-Carrier (Ibáñez-Ochoa's Marines)
-
-| Stat | Value | Source |
-|---|---|---|
-| Type | Closed G-Carrier, TL13, grav-lift | CRB22 p.135 |
-| Hull | 36 | CRB22 |
-| Structure | 36 | CRB22 |
-| Speed | 300kph atmospheric | CRB22 |
-| Armour | 18 | CRB22 |
-| Crew | 2 (pilot + commander) | CRB22 |
-| Passengers | 8 (fully equipped Marines) | CRB22 |
-| Weapons | Pintle-mounted VRF Gauss Gun (4D, Auto 6) | CRB22 p.135 |
-| Sensors | Military Grade | HG22 |
-
----
-
-## L.8 — SOURCE CITATIONS
-
-All content in this appendix is original scenario material consistent with MGT2e format. No published supplement content is drawn upon for the Lakamsal bestiary — the Kethara basin fauna are unique to this scenario.
-
-**Core rules references used throughout:**
+**Core rules references used in this appendix:**
 
 | Abbreviation | Full Title | Used For |
 |---|---|---|
-| CRB22 | Mongoose Traveller 2nd Edition Core Rulebook (2022) | Animal format pp.154–160; vehicle stats p.135; weapon stats throughout |
-| HG22 | High Guard (2022 edition) | Military sensor ratings; *Resolute Purpose* specs (Appendix H) |
-| RH | Robot Handbook | Drone construction (Priya/Garner) — Chapter 2 |
-| VH | Vehicle Handbook | Drone construction >4 spaces |
-| FC | Field Catalogue | SolSec field kit — Chapter 2 |
-| SF | Solomani Front | SolSec doctrine, courier operations, border context — Chapter 1, Chapter 5 |
+| CRB22 | Mongoose Traveller 2nd Edition Core Rulebook (2022) | Animal format pp.154–160; weapon stats throughout |
+| SF | Solomani Front | SolSec doctrine and border context referenced in encounter framing — Chapter 1, Chapter 5 |
 
 ---
 
-*Appendix L — Lakamsal Bestiary & Vehicles*
-*Cold Trail in Kethara Reach — Referee Document*
-*Mongoose Traveller 2nd Edition — Imperial Year 1117*
-# APPENDIX C — ADDENDUM: SHIELD BEETLES
+# APPENDIX M — ADDENDUM: SHIELD BEETLES
 ## The Herbivore-at-the-Vents Encounter and the Crash Site Supply Gate
 
 *Cold Trail in Kethara Reach — Referee Reference Document*
@@ -306,7 +240,7 @@ All content in this appendix is original scenario material consistent with MGT2e
 
 ---
 
-## C.1 — THE KETHARA SHIELD BEETLE: REVISED PROFILE
+## M.1 — THE KETHARA SHIELD BEETLE: REVISED PROFILE
 
 The Shield Beetle is the smaller cousin of the Titanic Hercules Beetle — a herbivorous reducer species, 2 metres long and approximately 400 kilograms, feeding on rotting wood, fungal growth, and decomposing organic material. It is not a predator. It is not aggressive toward humans under normal circumstances.
 
@@ -329,13 +263,13 @@ Under abnormal circumstances — specifically, the circumstances created by a wa
 
 **Size and access:** 2m long, 1m wide, 0.8m high. Fits through the 3m × 2.5m entrance throat — barely, with 10cm clearance on each side. Fits through the motor pool / ops centre open floor plan. Cannot fit through standard interior doorways (0.9m width — the beetle is 1m wide). If a doorway is open and the beetle wants to go through it, it will try. The doorframe does not survive this attempt intact.
 
-**Behaviour:** Reducer/Herbivore. The beetle is attracted to: warmth, moisture, rotting organic material, fungal growth, and enclosed sheltered spaces. The cave interior of BLIND SERPENT, after 23 days, provides all of these. The waste storage sealed containers smell, to a Shield Beetle, like a very large and promising food source. The beetle is not coming in to hurt anyone. It is coming in because the cave smells like dinner.
+**Behaviour:** Reducer/Herbivore. The beetle is attracted to: warmth, moisture, rotting organic material, fungal growth, and enclosed sheltered spaces. The cave interior of BLIND COBRA, after 23 days, provides all of these. The waste storage sealed containers smell, to a Shield Beetle, like a very large and promising food source. The beetle is not coming in to hurt anyone. It is coming in because the cave smells like dinner.
 
 **Numbers:** Shield Beetles are semi-social — they do not form herds but they do aggregate around food sources. The initial group that investigates the base should be **2D3** (2–6 individuals). Each subsequent hour the base remains occupied and unsecured, roll 1D: on a 5–6, one additional beetle finds the entrance.
 
 ---
 
-## C.2 — THE SUPPLY GATE: WHY THE BEETLES MATTER FOR COMBAT
+## M.2 — THE SUPPLY GATE: WHY THE BEETLES MATTER FOR COMBAT
 
 The crash site (4km northeast) contains the only laser rifle available to the team: a **TL10 laser rifle (5D, Zero-G)** stored in the survey drone's geological sample extraction kit. Without it, the team's options against Shield Beetles are significantly constrained.
 
@@ -343,8 +277,8 @@ The crash site (4km northeast) contains the only laser rifle available to the te
 
 | Weapon | Damage | vs Armour 10 | Notes |
 |---|---|---|---|
-| Gauss Rifle (3D, AP5) | 3D vs eff. Armour 5 | Penetrates — average 5.5 net | Works. Messy inside the cave. Ricochets. Equipment damage risk (see C.6). |
-| Laser Pistol (3D) | 3D vs eff. Armour 7 (energy -3) | Penetrates — average 3.5 net | Slow. Each shot does limited damage. Port risk near vents (see Appendix F, F.8). |
+| Gauss Rifle (3D, AP5) | 3D vs eff. Armour 5 | Penetrates — average 5.5 net | Works. Messy inside the cave. Ricochets. Equipment damage risk (see M.6). |
+| Laser Pistol (3D) | 3D vs eff. Armour 7 (energy -3) | Penetrates — average 3.5 net | Slow. Each shot does limited damage. Port risk near vents (see Appendix A, A.11). |
 | Autopistol (3D-3) | 3D-3 vs Armour 10 | Does not penetrate | Ineffective. |
 | Advanced Combat Rifle (3D, Auto 3) | 3D vs Armour 10 on Auto | Does not reliably penetrate on single shots; Auto 3 bursts average one penetrating hit | Marginal. Loud. |
 | Blade (1D+2) | 1D+2 vs Armour 10 | Does not penetrate | Ineffective. Do not try this. |
@@ -358,7 +292,7 @@ The crash site (4km northeast) contains the only laser rifle available to the te
 
 ---
 
-## C.3 — THE VENTS ENCOUNTER: HOW IT HAPPENS
+## M.3 — THE VENTS ENCOUNTER: HOW IT HAPPENS
 
 Shield Beetles investigating the base do not simply walk in through the front door. The first beetles to arrive are drawn by smell and warmth — they follow the scent gradient up the east cliff face, toward the TSU-9 port array.
 
@@ -368,7 +302,7 @@ The ports are 22cm diameter holes in the cliff face, currently venting warm air 
 
 When Haramoto (and whoever is with her) is on the east cliff face servicing the TSU-9 ports, the following sequence unfolds:
 
-**The cleaning itself is part of the trigger.** A freshly reamed port — see Appendix F, Section F.5f — vents more heat and releases trapped organic volatiles for roughly 90 minutes after servicing. This is in addition to, not instead of, the general possibility of a beetle wandering up to investigate an unserviced port. Any port-cleaning action should be checked against the attraction table in F.5f before falling back on the standard hourly roll below.
+**The cleaning itself is part of the trigger.** A freshly reamed port — see Appendix A, Section A.8f — vents more heat and releases trapped organic volatiles for roughly 90 minutes after servicing. This is in addition to, not instead of, the general possibility of a beetle wandering up to investigate an unserviced port. Any port-cleaning action should be checked against the attraction table in A.8f before falling back on the standard hourly roll below.
 
 **First sign:** Haramoto notices one of the Zone A ports (8–12m AGL) has been partially occluded — the airflow sensor reads reduced. She investigates. The port cap has been pushed partially inward by something pressing against it from outside. There is a smear of dark, waxy organic residue around the port rim — beetle secretion.
 
@@ -384,13 +318,13 @@ The beetles are not a threat unless provoked or frightened. But:
 
 2. **They are curious about the humans.** A beetle at close range will extend its chemosensory appendages toward a human — tasting the air. This is not aggression. It feels like aggression. The chemical sensor appendages are 30cm long and move independently. They will brush against a human within arm's reach if the human does not move away. Haramoto is in a grav belt on a cliff face. Moving away means moving into open air.
 
-3. **Firing a laser near the ports.** See Appendix F, Section F.8. A laser pistol fired at a beetle on the cliff face has a 1-in-2 chance of hitting a port. A laser rifle (not yet retrieved) fired at a beetle 3 metres from a port cluster has a 1-in-3 chance. The beetle's Armour 10 means that a panicked shot with a laser pistol does limited damage to the beetle and potentially destroys a port permanently.
+3. **Firing a laser near the ports.** See Appendix A, Section A.11. A laser pistol fired at a beetle on the cliff face has a 1-in-2 chance of hitting a port. A laser rifle (not yet retrieved) fired at a beetle 3 metres from a port cluster has a 1-in-3 chance. The beetle's Armour 10 means that a panicked shot with a laser pistol does limited damage to the beetle and potentially destroys a port permanently.
 
 4. **Gauss rifles from below.** If Mouton is covering from ground level (standard security posture), he has an upward firing angle at beetles on the cliff face — this is a worse angle for accidental port hits (1-in-1 at close beetle-to-port proximity from below). Vasiliou should have told Mouton not to fire upward unless Haramoto is directly threatened. Whether Mouton received and retained that instruction is a player decision.
 
 ---
 
-## C.4 — HANDLING THE VENTS ENCOUNTER
+## M.4 — HANDLING THE VENTS ENCOUNTER
 
 ### Option 1 — Wait Them Out
 **No skill check.** The beetles will investigate the ports for 1D6 × 10 minutes, find nothing edible, and move on. During this time: Haramoto cannot service any ports the beetles are occupying (3–5 ports temporarily blocked per beetle). TSU-9 load ticks up slightly. No damage to ports. No injuries. Haramoto spends 10–60 minutes stationary on the cliff face, which is its own exposure problem during an Imperial sweep.
@@ -433,11 +367,11 @@ If the beetles arrive at the base entrance (not just the cliff face) before the 
 
 **Step 2 — Extract the crash site supplies while the base is sealed:** Someone goes out the back (west side, through the geological survey area — less visible, no perimeter wire). They take a truck (if fuelled) or go on foot (1 hour each way) to the crash site, retrieve the laser rifle, and return. The beetles are contained inside. The sealing crates will hold approximately 20–60 minutes. If the crash site run takes longer — Stalker encounter, bad rolls, Osei-Bonsu arriving in his air/raft at the same moment — the beetles are through the crates before the rifle arrives.
 
-**Step 3 — Clear the base with the laser rifle:** 5D vs effective Armour 7 (energy weapons). Two well-placed shots per beetle brings it down reliably. Work from the entrance inward, single file, no crossfire. Kowalski on standby for injuries. Haramoto monitors equipment damage throughout (see C.6).
+**Step 3 — Clear the base with the laser rifle:** 5D vs effective Armour 7 (energy weapons). Two well-placed shots per beetle brings it down reliably. Work from the entrance inward, single file, no crossfire. Kowalski on standby for injuries. Haramoto monitors equipment damage throughout (see M.6).
 
 ---
 
-## C.5 — THE CLIFF FACE AT NIGHT: COMPOUNDING FACTORS
+## M.5 — THE CLIFF FACE AT NIGHT: COMPOUNDING FACTORS
 
 The vents encounter is most likely to occur **at night or during the storm peak** — the beetles are more active in warm, humid conditions, and their approach from below the canopy line is invisible to perimeter sensors not specifically calibrated for small-profile ground contacts.
 
@@ -453,7 +387,7 @@ The vents encounter is most likely to occur **at night or during the storm peak*
 
 ---
 
-## C.6 — EQUIPMENT DAMAGE IN THE BEETLE ENCOUNTER
+## M.6 — EQUIPMENT DAMAGE IN THE BEETLE ENCOUNTER
 
 The cave interior is not designed for a firefight with armoured insects. The following equipment is at risk if any ranged weapons are discharged inside:
 
@@ -471,7 +405,7 @@ The cave interior is not designed for a firefight with armoured insects. The fol
 
 ---
 
-## C.7 — THE HERBIVORE'S PERSPECTIVE
+## M.7 — THE HERBIVORE'S PERSPECTIVE
 
 The Shield Beetle is not the scenario's enemy. It is a creature doing what its species has done for millions of years in the Kethara basin: following warmth and organic smell into sheltered spaces to feed. The cave smells like food. The cave is warm. The holes in the cliff face smell like the inside of the cave. This is completely rational beetle behaviour.
 
@@ -488,7 +422,7 @@ The most elegant outcomes with the Shield Beetles come from working with its nat
 
 ---
 
-## C.8 — REFEREE QUICK REFERENCE
+## M.8 — REFEREE QUICK REFERENCE
 
 ### Shield Beetle Key Numbers
 
@@ -503,7 +437,7 @@ The most elegant outcomes with the Shield Beetles come from working with its nat
 | 10+ | Recon to spot stationary beetle at night without thermal |
 | 5D vs eff. 7 | Laser rifle (crash site) damage against beetles — correct tool |
 | 3D vs eff. 5 | Gauss rifle (AP5) damage against beetles — works, with caveats |
-| 3D vs eff. 7 | Laser pistol damage against beetles — slow; port risk (see Appendix F) |
+| 3D vs eff. 7 | Laser pistol damage against beetles — slow; port risk (see Appendix A) |
 
 ### The Crash Site Gate — What It Unlocks
 
@@ -530,6 +464,7 @@ The most elegant outcomes with the Shield Beetles come from working with its nat
 
 ---
 
-*Appendix C (Addendum) — Shield Beetles: Herbivore-at-the-Vents Encounter*
+*Appendix M (Addendum) — Shield Beetles: Herbivore-at-the-Vents Encounter*
 *Cold Trail in Kethara Reach — Referee Document*
 *Mongoose Traveller 2nd Edition — Imperial Year 1117*
+

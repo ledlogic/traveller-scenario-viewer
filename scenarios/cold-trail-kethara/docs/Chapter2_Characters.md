@@ -1,21 +1,19 @@
 # TRAVELLER: COLD TRAIL IN KETHARA REACH
 ## Chapter 2 — Characters
 
-*A Mongoose Traveller 2nd Edition Convention Scenario*
-
 ---
 
 > *"They have worked together for 14 months — long enough to trust each other professionally, not long enough for it to feel easy."*
 
 ---
 
-## 2.0 — THE BLIND SERPENT CELL: OVERVIEW
+## 2.0 — THE BLIND COBRA CELL: OVERVIEW
 
-BLIND SERPENT is a SolSec Field Remote Operations Cell. Five operatives — six with the optional specialist — inserted under civilian cover, operating deniably on Imperial soil. They are not soldiers in the conventional sense. They are people with particular skills that SolSec requires in a particular place at a particular time. Most of them did not choose this work so much as find it choosing them.
+BLIND COBRA is a SolSec Field Remote Operations Cell. Five operatives — six with the optional specialist — inserted under civilian cover, operating deniably on Imperial soil. They are not soldiers in the conventional sense. They are people with particular skills that SolSec requires in a particular place at a particular time. Most of them did not choose this work so much as find it choosing them.
 
 **Standard SolSec Field Kit (all characters):**
-- Encrypted comms unit (TL10, scrambled — all traffic routed through BLIND SERPENT's secure relay node)
-- Cover identity documents (Kethara Geological Survey Partners — registered Alaston, Alpha Crucis)
+- Encrypted comms unit (TL10, scrambled — all traffic routed through BLIND COBRA's secure relay node)
+- Cover identity documents (Kethara Geological Survey Partners — registered Altiplano, Solomani Rim 3017, Imperial territory)
 - Personal medkit (1D healing, one use)
 - 1,000 Credits in untraceable currency chips
 
@@ -68,7 +66,7 @@ BLIND SERPENT is a SolSec Field Remote Operations Cell. Five operatives — six 
 
 **Background:** Grew up on Kukulcan — the founding world of its subsector, heavily Solomani Party in character, where SolSec was as visible as the police and children learned early that some conversations happened only indoors. Joined the Confederation Army at 18, served two terms on the Alpha Crucis frontier, and was recruited into SolSec Intelligence after noticing a covert operation her unit was being used to cover. They recruited her because she noticed. Twelve years in the service. Six deep-cover operations. No failures she has been permitted to know about.
 
-**Personality:** Controlled, direct, risk-aware without being risk-averse. She has nightmares she does not discuss. She keeps the mission moving by refusing to let the group argue longer than necessary. Trusts Pelczar's instincts even when she doubts Pelczar's conclusions. Personally selected each member of BLIND SERPENT and feels responsible for them — something she would not say aloud.
+**Personality:** Controlled, direct, risk-aware without being risk-averse. She has nightmares she does not discuss. She keeps the mission moving by refusing to let the group argue longer than necessary. Trusts Pelczar's instincts even when she doubts Pelczar's conclusions. Personally selected each member of BLIND COBRA and feels responsible for them — something she would not say aloud.
 
 **Physical appearance on Day 23:** The skin beneath and around her eyes carries a permanent deep ruddy-burgundy discolouration — not makeup, but the vascular mark of weeks of accumulated sleep debt and command stress. Her dark eyes remain sharp. The contrast between those alert eyes and the raw discolouration beneath them is the most honest thing about her face by Day 23. She is aware of it. She has not looked at a mirror in eleven days.
 
@@ -251,11 +249,11 @@ The second — six weeks old — is the data surge itself. The cipher identifier
 
 **Equipment:** Gauss Rifle (3D, AP5, 4 magazines, CRB22 p.126), Light Combat Armour (+5 Protection, TL10, CRB22 p.100), Advanced Toolkit (TL11, DM+2 all Mechanic and Engineer checks), Spare Parts Cache (sufficient for full TSU-9 repair if crash site parts retrieved), Emergency Medkit (Medic 2 equivalent, one major + two minor treatments), Grav Belt (TL11, 4-hour operation — for cliff face port access)
 
-**Background:** Cthonia is the kind of world where everything breaks and the nearest repair shop is an hour away. Haramoto learned engineering by necessity, joined the Army as a support tech, kept armoured vehicles functional in field conditions for two terms, then was headhunted by SolSec Technical Branch for her ability to improvise solutions under pressure. She is the reason BLIND SERPENT's equipment has lasted 23 days instead of eight.
+**Background:** Cthonia is the kind of world where everything breaks and the nearest repair shop is an hour away. Haramoto learned engineering by necessity, joined the Army as a support tech, kept armoured vehicles functional in field conditions for two terms, then was headhunted by SolSec Technical Branch for her ability to improvise solutions under pressure. She is the reason BLIND COBRA's equipment has lasted 23 days instead of eight.
 
 **Personality:** Practically optimistic — she sees every broken thing as a puzzle rather than a problem. Dark humour about equipment failures. Does not understand why anyone is scared of megafauna when the thermal spoofing unit is clearly the more pressing existential threat. Has an affectionate relationship with all of the station's equipment, including the equipment that is actively failing. Arguments with Okonkwo are friendly and frequent — they argue about the best way to fix the same problem and are both usually partly right.
 
-**Her central role in the scenario:** Haramoto is the only person who can competently service the TSU-9 port array. The grav belt is hers. The Advanced Toolkit is hers. The knowledge of exactly which ports need refilling in which order is hers. When Vasiliou needs the TSU-9 fixed, the conversation starts and ends with Haramoto. *Full TSU-9 technical reference and port servicing procedures: see Appendix F.*
+**Her central role in the scenario:** Haramoto is the only person who can competently service the TSU-9 port array. The grav belt is hers. The Advanced Toolkit is hers. The knowledge of exactly which ports need refilling in which order is hers. When Vasiliou needs the TSU-9 fixed, the conversation starts and ends with Haramoto. *Full TSU-9 technical reference and port servicing procedures: see Appendix A.*
 
 **What she noticed on Day 17 and didn't say until Day 21:** The storm cycles the TSU-9 was generating. She recognised what was happening. She sat with it for four days hoping she was wrong. She was not wrong. She told Vasiliou on Day 21. There is an entry in her private log from Day 19: *"Still hoping I'm wrong. I'm not wrong."*
 
@@ -365,7 +363,7 @@ The second — six weeks old — is the data surge itself. The cipher identifier
 
 SolSec recruited her not for her medical skills — though those are excellent — but for her xenobiological assessment capability. She has done this on four previous operations. She has never lost a team member to a biological threat. She has lost one to a gunshot wound, and she does not talk about that.
 
-**Why she is on this mission:** The original BLIND SERPENT team was five people. Kowalski was added 72 hours before insertion when updated IISS survey data flagged the Kethara basin megafauna as significantly larger and more aggressive than the original mission brief anticipated. She received her briefing packet on the freighter. She read the megafauna data. She packed three extra doses of chemical deterrent and said nothing.
+**Why she is on this mission:** The original BLIND COBRA team was five people. Kowalski was added 72 hours before insertion when updated IISS survey data flagged the Kethara basin megafauna as significantly larger and more aggressive than the original mission brief anticipated. She received her briefing packet on the freighter. She read the megafauna data. She packed three extra doses of chemical deterrent and said nothing.
 
 **Personality:** Calm under pressure in a way that reads as slightly detached — she observes before she acts, assesses before she speaks, and treats bullet wounds and biological threats with the same methodical professionalism. She is the only person on the team who actively studies the Kethara Reach megafauna rather than simply defending against them. She has been quietly cataloguing the apex predator's behaviour patterns from the perimeter sensor data for 23 days. She knows more about it than anyone — including what it eats, when it sleeps, and what chemical signatures trigger its territorial response.
 
@@ -424,6 +422,8 @@ She finds the apex predator professionally fascinating and personally terrifying
 
 **Appearance:** Mid-40s, Solomani ancestry, close-cropped grey hair, permanent dark circles under her eyes. Has not left the operations centre in twelve days. Eats at the console. Sleeps in a camp chair. Keeps three separate encrypted logs — one official, two personal.
 
+**A small habit, now broken.** Pelczar keeps a spare display rigged to project image files onto the basalt wall behind her console — mostly Solomani architecture and art, with a particular fondness for South Asian building traditions from roughly 500–1000 AD: temple complexes, stepwells, rock-cut sanctuaries. It is the one thing in the operations centre that isn't work. As station temperatures have climbed with the TSU-9's rising load, the spare display has overheated along with everything else and gone dark. She has not mentioned this to anyone. It is a small loss compared to what else is failing, but she notices it every time she looks up at the blank wall instead of a carved gopuram from a world she has never been to and probably never will.
+
 **Personality:** Brilliant, paranoid, and correct about most of what she is paranoid about. Twenty-two years in SolSec. Two burned identities. Trusts the team professionally and no one personally. Will argue tactical decisions but follow orders in a crisis. Dry black humour, deployed rarely and precisely.
 
 **Crucial information Pelczar is carrying:**
@@ -436,7 +436,7 @@ She finds the apex predator professionally fascinating and personally terrifying
 
 Pelczar carries a third data core that does not appear on the station manifest, worn on her person at all times. It contains three encrypted partitions:
 
-**Partition 1 — The Long Case:** Personal copies of every intelligence report she has filed for eight years, documenting a pattern of SolSec operations compromised by internal Confederation political factions suppressing intelligence that contradicts hard-liner policy. This is what she has been building for years. The relay feeds directly into the hard-liner suppression network she has been tracking. That is the real reason she volunteered for BLIND SERPENT.
+**Partition 1 — The Long Case:** Personal copies of every intelligence report she has filed for eight years, documenting a pattern of SolSec operations compromised by internal Confederation political factions suppressing intelligence that contradicts hard-liner policy. This is what she has been building for years. The relay feeds directly into the hard-liner suppression network she has been tracking. That is the real reason she volunteered for BLIND COBRA.
 
 **Partition 2 — The Unresolved File:** A twelve-year-old record on a burned Imperial asset — a Solomani-ancestry signals specialist from Patrent, fed three months of managed intelligence to Naval Intelligence before going silent. She pulled it two years ago because the operational signature matched an anomaly in a different context. She has not connected it to anyone on this team. She is three careful data comparisons away from connecting it to Breckenridge. The file bothers her in a way she has not yet resolved.
 
@@ -466,6 +466,7 @@ The following hidden information threads run through the cell. The referee shoul
 | Vasiliou | Stim supply exhausted; running on will alone | Kowalski knows; Mouton suspects |
 | Haramoto | Knew about the storm causation loop since Day 19; told Vasiliou Day 21 | Her private log; the delay matters if someone asks |
 | Okonkwo | Named his drones after the two xenobiologists killed in this valley in 1098 | Anyone who asks why |
+| Kowalski | Has been quietly tracking Vasiliou's stim use and physical decline since Day 14; has not raised it | Vasiliou, if she asks directly; Mouton, if he compares notes with her |
 
 ---
 
@@ -482,7 +483,7 @@ The following hidden information threads run through the cell. The referee shoul
 
 ---
 
-## 2.9 — GENDER IDENTITIES: BLIND SERPENT CELL
+## 2.9 — GENDER IDENTITIES: BLIND COBRA CELL
 
 | Character | Role | Gender |
 |---|---|---|
@@ -639,7 +640,7 @@ Each of these is a legitimate operational query. None of them required a comms t
 
 *[Long pause. She looks at them — at the player character, by their full name and rank. The referee fills in the name at the table.]*
 
-> "[Rank] [Full Name]. I have extracted from worse."
+> "Rank, name. I have extracted from worse."
 
 *It is not a yes. It is also not a no. It is said quietly and without performance. She holds eye contact for one beat after she says it, then returns to whatever she was doing.*
 
@@ -649,7 +650,7 @@ Each of these is a legitimate operational query. None of them required a comms t
 
 ## 2.13 — PER-CHARACTER ORDERS AND CALLOUTS
 
-Vasiliou knows every person in BLIND SERPENT. She knows what they are good at. She knows what they avoid. She knows which ones need to be pushed outside and which ones need to be pulled back in.
+Vasiliou knows every person in BLIND COBRA. She knows what they are good at. She knows what they avoid. She knows which ones need to be pushed outside and which ones need to be pulled back in.
 
 The following are scripted callouts for each character — orders that send them out of the base when the scenario needs them moving, praise that lands because it is specific, and the pressure she applies when someone is not where they need to be.
 
@@ -1032,7 +1033,7 @@ As important as her lines is what Vasiliou will not say, regardless of circumsta
 
 > *[Long pause. She looks at them — full name, rank.]*
 >
-> "[Rank] [Full Name]. I have extracted from worse."
+> "Rank, name. I have extracted from worse."
 
 *It is not a yes. It is also not a no. It is the most honest thing she will say.*
 
@@ -1086,12 +1087,6 @@ As important as her lines is what Vasiliou will not say, regardless of circumsta
 > "I told Okonkwo to keep comms to a minimum and then pinged him twice in the same hour. I noticed on the second one. I did not correct it. I should correct it."
 >
 > "I'll correct it tomorrow."
-
----
-
-*Appendix G — Vasiliou Command Voice*
-*Cold Trail in Kethara Reach — Referee Document*
-*Mongoose Traveller 2nd Edition — Imperial Year 1117*
 
 ---
 
