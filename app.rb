@@ -110,8 +110,20 @@ class UploadWatcher
       end
 
       docs_dirs.each do |src_docs|
-        slug = File.basename(File.dirname(src_docs))
-        dest_docs = File.join(scenarios_dir, slug, 'docs')
+        slug        = File.basename(File.dirname(src_docs))
+        src_root    = File.dirname(src_docs)
+        dest_root   = File.join(scenarios_dir, slug)
+        dest_docs   = File.join(dest_root, 'docs')
+
+        # Copy meta.json if present in the zip's scenario root
+        src_meta  = File.join(src_root, 'meta.json')
+        dest_meta = File.join(dest_root, 'meta.json')
+        if File.exist?(src_meta)
+          FileUtils.mkdir_p(dest_root) unless dry_run
+          FileUtils.cp(src_meta, dest_meta) unless dry_run
+          say "  [#{slug}] meta.json copied"
+        end
+
         sync_docs(src_docs, dest_docs, slug)
       end
 

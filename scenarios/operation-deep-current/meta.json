@@ -1,0 +1,31 @@
+{
+  "title": "Operation Deep Current",
+  "subtitle": "A Mongoose Traveller 2e Scenario",
+  "system": "Mongoose Traveller 2nd Edition",
+  "setting": "Gashidda, Dingir Subsector, Solomani Rim — Imperial Year 1116",
+  "color": "#2a6a8a",
+  "docs": [
+    { "file": "Chapter1_Introduction.md",         "label": "Ch 1 — Introduction & World Guide" },
+    { "file": "Chapter2_Characters_Cast.md",       "label": "Ch 2 — Cast of Characters & Skills" },
+    { "file": "Chapter3_Act_One.md",               "label": "Ch 3 — Act One: Descent" },
+    { "file": "Chapter4_Act_Two.md",               "label": "Ch 4 — Act Two: The Current Sets" },
+    { "file": "Chapter5_Act_Three.md",             "label": "Ch 5 — Act Three: Deep Water" },
+    { "file": "AppendixA_Combat_Stats.md",         "label": "App A — Quick-Reference Combat Stats" },
+    { "file": "AppendixB_Voss_Track.md",           "label": "App B — The Voss Suspicion Track" },
+    { "file": "AppendixC_Gear_Reference.md",       "label": "App C — Environmental Gear Reference" },
+    { "file": "AppendixD_Campaign_Seeds.md",       "label": "App D — Campaign Seeds" },
+    { "file": "AppendixE_Far_Horizon.md",          "label": "App E — The Far Horizon" },
+    { "file": "AppendixF_New_Mondulkiri.md",       "label": "App F — New Mondulkiri" },
+    { "file": "AppendixG_Specialist_Forces.md",    "label": "App G — Specialist Forces Mechanics" },
+    { "file": "AppendixH_Pregen_Characters.md",    "label": "App H — Pre-Generated Characters" },
+    { "file": "AppendixI_Reef_Consumer.md",        "label": "App I — Reef Consumer MG-2023-15" },
+    { "file": "AppendixJ_Void_Mantle.md",          "label": "App J — The Void Mantle" },
+    { "file": "AppendixK_Vanthara_Truth.md",       "label": "App K — The Vanthara Truth" },
+    { "file": "AppendixL_Picket_Station.md",       "label": "App L — Imperial Navy Reef Picket Station" },
+    { "file": "AppendixM_Gashidda_Bestiary.md",    "label": "App M — Gashidda Bestiary" },
+    { "file": "AppendixN_Lakamsal_Bestiary_Vehicles.md", "label": "App N — Bestiary & Vehicles Reference" },
+    { "file": "AppendixO_Visual_Renderings.md",    "label": "App O — Visual Rendering Prompts" },
+    { "file": "AppendixP_Far_Horizon_Ship_Specs.md","label": "App P — Far Horizon Ship Specs (Full)" },
+    { "file": "AppendixQ_Characters_Full.md",      "label": "App Q — Characters Full Detail" }
+  ]
+}
