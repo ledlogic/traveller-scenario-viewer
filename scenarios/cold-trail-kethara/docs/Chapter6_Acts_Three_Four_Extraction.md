@@ -376,13 +376,7 @@ All times are in-game hours from scenario start (Day 23, Hour 0).
 
 ---
 
-*Chapter 4 — The Scenario*
-*Cold Trail in Kethara Reach*
-*Mongoose Traveller 2nd Edition — Imperial Year 1117*
-# APPENDIX K — DATA STORAGE AND PHYSICAL EXTRACTION
 ## 6.7 — DATA STORAGE & PHYSICAL EXTRACTION
-
-*Cold Trail in Kethara Reach — Referee Reference Document*
 
 ---
 
@@ -504,12 +498,6 @@ Then she will request a meeting with the SolSec Director. She will bring Partiti
 And she will make her case.
 
 What the Director does with it is a story for a different table. But it starts in a cave in the Kethara basin on Day 23 of an operation that was supposed to take thirty days, with a woman who has not slept in six days running decryption passes on a SIGINT suite that doesn't belong to her, looking at something important enough to die for and not quite knowing yet what it is.
-
----
-
-*Appendix K — Data Storage and Physical Extraction*
-*Cold Trail in Kethara Reach — Referee Document*
-*Mongoose Traveller 2nd Edition — Imperial Year 1117*
 
 ---
 
@@ -859,7 +847,7 @@ The SolSec strike team that will physically destroy the relay is waiting at the 
 
 **What happens to Partition 3:** The intelligence product Pelczar has been working toward for six days — the evidence of the Imperial court's institutional panic, the forward strategy papers, the competing assessments of Solomani military capability written by analysts who believe something is coming — goes to SolSec intelligence analysis. It will be processed. It will be classified. It will be read by people who have the clearance to understand it.
 
-It will reach the right desks within two months. The assassination of Emperor Strephon occurred on 132-1116 — eight months ago. The analysts who read Pelczar's data will, in retrospect, recognise it as an early signal of what was already unravelling at the Imperial court. They will not be able to do anything useful with this information. The Rebellion is already in progress. Confederation forces have been conducting offensive operations along the Solomani Front since 325-1116. *(For sourcing on these dates — which are canon and which are scenario-original — see Chapter 1, §1.10, "Sources & Canon Status.")*
+It will reach the right desks within two months. The assassination of Emperor Strephon occurred on 132-1116 — eight months ago. The analysts who read Pelczar's data will, in retrospect, recognise it as an early signal of what was already unravelling at the Imperial court. They will not be able to do anything useful with this information. The Rebellion is already in progress. Confederation forces have been conducting offensive operations along the Solomani Front since 325-1116. *(For sourcing on these dates — which are canon and which are scenario-original — see Chapter 1, §1.9, "Sources & Canon Status.")*
 
 **Whether the strike team still considers the relay a priority target** after reading what Pelczar found in the Imperial court traffic — whether they destroy it, or decide the intelligence product is now more valuable than destroying the source, or simply proceed as ordered — is a decision that will be made by people who are not in the Kethara basin, for reasons that BLIND COBRA will never be briefed on.
 
@@ -888,9 +876,3 @@ Mouton at the viewport. Not watching anything. Just watching.
 - **The relay destruction:** Did the strike team do it? When? Quietly, or noisily? If Ibáñez-Ochoa connects the relay's destruction to the BLIND COBRA operation — and he will, given the timing — the diplomatic fallout begins. BLIND COBRA's deniability was always intended to be temporary.
 
 - **Osei-Bonsu's next survey pass:** He will be back at KR-4418 within a week of the operation. Whatever state BLIND COBRA left the station in — destroyed, intact, or simply abandoned — he will document it. He keeps immaculate records. He has Kowalski's chemical deterrent traces, Haramoto's coolant fluid in the cliff ports, Mouton's perimeter wire anchors, and possibly the carcass of a Shield Beetle or two. The truth is in the data. Osei-Bonsu always follows the data.
-
----
-
-*Chapter 5 — Extraction: SHEPHERD and the Way Out*
-*Cold Trail in Kethara Reach*
-*Mongoose Traveller 2nd Edition — Imperial Year 1117*

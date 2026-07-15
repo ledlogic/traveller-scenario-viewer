@@ -601,9 +601,3 @@ TARGET                       START   IMMINENT
 | Pelczar | Knows the TSU-9 is failing. Doesn't care in the way the others do — her concern is the three decryption passes. Considers the TSU-9 Haramoto's problem. |
 | Mouton | Knows it's failing. Understands "thermal signature = detectable = bad." Does not understand anything else about it and doesn't want to. Ready to do whatever physical task Haramoto asks of him. |
 | Okonkwo | Has read the technical specifications. Understands the theory. Cannot do the physical repairs (his skills are signals-focused) but can assist Haramoto with the console-side node resynchronisation during clearing. |
-
----
-
-*Appendix A — Blind Cobra Gear*  
-*Cold Trail in Kethara Reach — Referee Document*  
-*Mongoose Traveller 2nd Edition — Imperial Year 1117*

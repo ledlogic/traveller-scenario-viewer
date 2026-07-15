@@ -470,14 +470,6 @@ The following hidden information threads run through the cell. The referee shoul
 
 ---
 
-*Chapter 2 — Characters*
-*Cold Trail in Kethara Reach*
-*Mongoose Traveller 2nd Edition — Imperial Year 1117*
-
-*Cold Trail in Kethara Reach — Referee Reference Document*
-
----
-
 > *"She does not raise her voice. She has never needed to."*
 > — Haramoto, Day 9, personal log (encrypted)
 

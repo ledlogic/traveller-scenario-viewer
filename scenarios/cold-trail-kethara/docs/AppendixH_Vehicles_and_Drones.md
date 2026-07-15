@@ -93,9 +93,3 @@ All vehicle entries in this appendix use published MGT2e vehicle-profile convent
 | RH | Robot Handbook | Drone construction (Priya/Garner) — Chapter 2 |
 | VH | Vehicle Handbook | Drone construction >4 spaces |
 | FC | Field Catalogue | SolSec field kit — Chapter 2 |
-
----
-
-*Appendix H — Lakamsal Vehicles and Drones*
-*Cold Trail in Kethara Reach — Referee Document*
-*Mongoose Traveller 2nd Edition — Imperial Year 1117*

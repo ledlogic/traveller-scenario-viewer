@@ -466,9 +466,3 @@ What the IVRB filing **does**: creates a permanent, timestamped administrative r
 
 **Prompt:**
 > A tracked utility robot approximately the size and footprint of a large desk — 1.2 metres wide, 1.5 metres long, 0.9 metres high. **Tan composite chassis with dark brown trim panels and safety markings**, a Meridian Recovery Solutions logo stencilled in dark brown on the side — the same corporate palette as the ground car and the investigators' field clothes, making it look like part of a matched commercial fleet rather than a military asset. A heavy-duty cable winch is mounted on the front, the steel cable partially deployed and dragging on the ground. Two optical sensor clusters — simple, not military — at the front, giving it a blunt, purposeful face that communicates no intelligence whatsoever. The chassis is dented and scraped from years of frontier recovery work. It is moving along a jungle game trail, tracks gripping the volcanic grit, heading toward something with the patient single-mindedness of a machine that has one instruction and will execute it regardless of what else is happening. No humans visible — just the robot, the trail, and the alien jungle closing in on either side. Mood: the specific mechanical menace of something that will not be argued with, not because it is dangerous, but because it does not understand the word "stop" until someone with the right remote gives it. Style: photorealistic industrial concept art, naturalistic lighting, slightly ominous.
-
----
-
-*Appendix D — Corporate Security Forces*  
-*Cold Trail in Kethara Reach — Referee Document*  
-*Mongoose Traveller 2nd Edition — Imperial Year 1117*

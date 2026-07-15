@@ -192,9 +192,3 @@ The Marines secure the site. Marchetti-Solis arrives within 8 hours to supervise
 What she does not find: DC-3, if Pelczar has it on her. The data package, if it transmitted before capture. Anything Breckenridge encrypted before being taken.
 
 Her after-action report will note, with characteristic precision, that the operation was sophisticated, the equipment was high-end, and the operational tradecraft was consistent with a professional state intelligence service. She will not speculate publicly about which state. She will, privately, know.
-
----
-
-*Appendix B — The Road Not Taken*
-*Cold Trail in Kethara Reach — Referee Document*
-*Mongoose Traveller 2nd Edition — Imperial Year 1117*

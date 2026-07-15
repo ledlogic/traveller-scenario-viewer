@@ -495,9 +495,3 @@ She can also — theoretically — use a dose of chemical deterrent to redirect 
 The Imperial response has one systematic weakness: **it moves in sequence, not in parallel**, because each layer reports up to the next rather than laterally to peers. Marchetti-Solis does not share her signals analysis with Osei-Bonsu. Osei-Bonsu does not report directly to Ibáñez-Ochoa. Ibáñez-Ochoa does not know what is on DC-3.
 
 The team that forces each layer to move to the *next* layer's problem — while solving the *current* layer's problem just enough to prevent escalation — wins. The team that treats this as a siege to be defended will lose. This is an intelligence operation. The exit is through the seams.
-
----
-
-*Appendix E — Imperial Response Encounter*
-*Cold Trail in Kethara Reach — Referee Document*
-*Mongoose Traveller 2nd Edition — Imperial Year 1117*

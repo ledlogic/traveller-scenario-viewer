@@ -252,7 +252,7 @@ The Imperial Navy signals relay on Lakamsal has been compromising Confederation 
 
 **The Orichalc Regional Defense Association** is a real, canon Solomani institution: a mutual defense alliance of thirteen Confederation border worlds founded in 1014 by Cthonia (Alpha Crucis 0515), which leads it. ORDA maintains a large, sophisticated fleet oriented specifically against the Imperial threat — a fleet that operates **independent of Confederation government control**, legally entitled to do so under the Charter, and tolerated by Confederation officials (who are privately uneasy about its size) largely because Cthonia's leverage over Solomani politics makes it politically costly to challenge. *[Source: Traveller Wiki, "Cthonia (AC 0515) (world)"; Mongoose Traveller: Solomani / Alpha Crucis Sector, cited on Traveller Wiki, "Orichalc Subsector."]*
 
-That independence is exactly the problem IRON GATE creates. ORDA doesn't answer to Home the way the regular Confederation Navy does — its own leadership decides when its own fleet elements reposition, mass, or commit along the border, including the Banasdan Subsector stretch of the Solomani Front where Lakamsal sits. Every time an ORDA-linked squadron moves, IRON GATE reads it and Marchetti-Solis's reports go up the Imperial chain within 48 hours. That means the Imperium can see ORDA's hand tipping before ORDA itself has decided whether to commit. **SolSec's mission on Lakamsal is forward-ops work in service of ORDA's own decision cycle: destroy the relay, and ORDA regains the ability to choose its own moment.** The 325-1116 offensive along the Solomani Front (see 1.10, Timeline — "the Border Action") is the kind of operation this is meant to protect: whether it was ORDA's fleet, Confederation regulars, or some coordination of both is deliberately left unresolved in SolSec's own paperwork, and the referee is free to decide it either way without contradicting anything in this document.
+That independence is exactly the problem IRON GATE creates. ORDA doesn't answer to Home the way the regular Confederation Navy does — its own leadership decides when its own fleet elements reposition, mass, or commit along the border, including the Banasdan Subsector stretch of the Solomani Front where Lakamsal sits. Every time an ORDA-linked squadron moves, IRON GATE reads it and Marchetti-Solis's reports go up the Imperial chain within 48 hours. That means the Imperium can see ORDA's hand tipping before ORDA itself has decided whether to commit. **SolSec's mission on Lakamsal is forward-ops work in service of ORDA's own decision cycle: destroy the relay, and ORDA regains the ability to choose its own moment.** The 325-1116 offensive along the Solomani Front (see 1.9, Timeline — "the Border Action") is the kind of operation this is meant to protect: whether it was ORDA's fleet, Confederation regulars, or some coordination of both is deliberately left unresolved in SolSec's own paperwork, and the referee is free to decide it either way without contradicting anything in this document.
 
 SolSec has confirmed the compromise through the interrogation of a captured Imperial signals analyst. The relay has to be destroyed.
 
@@ -325,7 +325,7 @@ The scenario is set in Imperial Year 1117, day 010 — eight months after the as
 - Strephon was assassinated on **132-1116** in the Grand Reception Hall of the Imperial Palace above Capital/Core. The Empress Iolanthe and Grand Princess Iphegenia were also killed.
 - Word reached the Solomani Rim approximately at **311-1116** — about two months before this scenario.
 - Confederation forces began offensive operations along the Solomani Front on **325-1116** and have continued since. *(This is not the historical Solomani Rim War of 990–1002; it has no fixed name in wider Imperium historiography.)*
-- *For sourcing on the two canon-anchored dates above, and a note on which dates in this scenario are scenario-original rather than canon, see "Sources & Canon Status" in 1.10 — Time.*
+- *For sourcing on the two canon-anchored dates above, and a note on which dates in this scenario are scenario-original rather than canon, see "Sources & Canon Status" in 1.9 — Time.*
 - Ibáñez-Ochoa's sealed orders, Marchetti-Solis's surveillance authority, and the entire Imperial Navy chain of command above them is operating in a contested succession environment. Their orders are real, but the authority that issued them is no longer stable.
 - SolSec likewise: the Confederation government that inserted BLIND COBRA is making decisions in a rapidly changing strategic environment. The mission was planned before the assassination. Whether it still makes strategic sense is a question nobody in the Kethara basin is cleared to answer.
 
@@ -349,7 +349,7 @@ All page references in this document are confirmed directly from the source file
 
 ### Historical & Canon Sources (World Data, Timeline Dates & Adapted Flavor)
 
-Used to anchor Lakamsal's real-world UWP/trade data, Altiplano's UWP/allegiance data, ORDA's canon background, the two real-canon dates in 1.10 — Time (132-1116 and 311-1116/036-1117), and the Civil Service Bureaucracy flavor in §1.3. Full citation detail and a breakdown of which facts are canon, scenario-original, or adapted non-canon fan material is in "Sources & Canon Status" in 1.10 — Time.
+Used to anchor Lakamsal's real-world UWP/trade data, Altiplano's UWP/allegiance data, ORDA's canon background, the two real-canon dates in 1.9 — Time (132-1116 and 311-1116/036-1117), and the Civil Service Bureaucracy flavor in §1.3. Full citation detail and a breakdown of which facts are canon, scenario-original, or adapted non-canon fan material is in "Sources & Canon Status" in 1.9 — Time.
 
 | Source | Publisher / Site | What it supports |
 |---|---|---|
@@ -365,30 +365,7 @@ Used to anchor Lakamsal's real-world UWP/trade data, Altiplano's UWP/allegiance 
 
 ---
 
-## 1.9 — WHAT MAKES THIS SCENARIO WORK AT A CONVENTION TABLE
-
-Cold Trail in Kethara Reach is designed for 3–5 hours at a convention, with 3–6 players who may have no prior Traveller experience. It has been playtested at GenCon and RPG Day at The Source. These notes reflect what actually works at the table.
-
-**The scenario's three strongest elements:**
-- The **cascading pressure system** — problems compound rather than resolve, which creates the feeling of a professional team genuinely stretched
-- The **1117 dramatic irony** — players who know their Traveller history feel it immediately; players who don't feel it by the end
-- The **characters** — Vasiliou's controlled exhaustion, Breckenridge's silence, Pelczar's private certainty that she is looking at something important — these are characters players remember
-
-**What can go wrong at a convention:**
-- Players spend too long on Act One (the surveillance run and TSU-9 diagnosis) and run out of time before the sweep begins
-- The referee tries to resolve threats sequentially rather than simultaneously
-- Players engage the Tyrant in direct combat instead of managing it, triggering a cascade of consequences that confuse the middle of the scenario
-- The table loses track of the three simultaneous countdowns
-
-**Solutions to each:**
-- Run the surveillance roll as background — it succeeds unless Okonkwo is genuinely distracted by another task. The TSU-9 is the real Act One problem.
-- When three problems are active, cut between them every 60–90 seconds of real time. Don't resolve one fully before moving to the next.
-- When players reach for their weapons against the Tyrant, Kowalski (or Vasiliou) says: *"That thermal spike adds twenty-five percent to the TSU-9 load and logs an ECM failure. Your call."* Let them make the informed choice.
-- Put the three countdowns on a physical index card visible to all players: TSU-9 load (current %), ECM failures logged (0/2), extraction window (72 hours minus elapsed time).
-
----
-
-## 1.10 — TIME
+## 1.9 — TIME
 
 Local time on Lakamsal, the full BLIND COBRA and Lakamsal timeline, and the referee's pacing guide for running the scenario's Hour-count — all in one place.
 
@@ -522,80 +499,3 @@ Print or handwrite this card and place it in the centre of the table at scenario
 ```
 
 Update the TSU-9 load whenever it changes. Mark ECM failures as they occur. This single visual element transforms the scenario from abstract to tangible — players can see the pressure building in real time.
-
----
-
-## 1.11 — PHYSICAL TABLE SETUP
-
-### Character Reference Cards
-
-Each player needs a single card showing:
-- Character name and role
-- 3–4 key skills (the ones they will use)
-- Key equipment
-- One-line personality note
-- Their relationship to the group's secrets (optional — can be held back)
-
-These are simpler than full character sheets and faster for convention play. The full stat blocks in Chapter 2 are referee reference — players rarely need them.
-
-### The TSU-9 Load Dial
-
-For groups that enjoy physical props: a printed circular dial (10cm diameter) with the load percentages marked in amber (101–140%) and red (141–160%+). A split-pin fastener allows the indicator arrow to move as repairs and damage change the load. This is the most memorable physical element the scenario has produced at playtesting tables.
-
----
-
-## 1.12 — PITCHES AND SIGNAGE
-
-### Table Signage (Full Convention Card)
-
-```
-TRAVELLER: COLD TRAIL IN KETHARA REACH
-Mongoose Traveller 2nd Edition
-
-You are SolSec. You do not exist. Twenty-three days into
-enemy territory, your thermal spoofing unit is failing,
-something very large keeps visiting your perimeter at night,
-and extraction is 72 hours away.
-
-This is the easy part.
-
-3–6 players | 3–5 hours | Pre-generated characters provided
-No experience necessary — new players welcome
-```
-
-### Verbal Pitch (30 seconds)
-
-> "SolSec intelligence cell, twenty-three days on enemy Imperial soil, mission almost complete. Then their thermal spoofing unit starts failing, an Imperial sweep pattern activates, and a fifteen-tonne predator finds their heat signature. They're professionals — but this wasn't supposed to be this hard. Mongoose Traveller, pre-gen characters, no experience needed."
-
-### Verbal Pitch for Traveller Players (15 seconds)
-
-> "SolSec field cell, Year 1117, Solomani Rim. Eight months after the assassination (132-1116). They're looking at the first signals of the Rebellion and they don't know it yet."
-
-### One-Line Pitch
-
-> "Up to six SolSec agents. One failing thermal unit. Imperial Marines in orbit. And the megafauna don't care whose side you're on."
-
----
-
-## 1.13 — POST-SESSION NOTES
-
-### What to Leave Players With
-
-At session close, the team should have:
-- The data package transmitted (or a clear understanding of why it wasn't)
-- SHEPHERD's delay acknowledged
-- At least one open question about what Pelczar actually found
-
-The best sessions end with a player asking: *"So what was actually in Partition Three?"* The correct answer is: *"That's the campaign."*
-
-### The One Thing Referees Get Wrong
-
-The most common referee error in playtesting: **treating the Tyrant as a monster encounter rather than an environmental hazard.** The Tyrant is not the enemy. It is a 15-tonne animal that has found a warm cliff in its territory and is investigating. Players who are given the choice between "fight the dinosaur" and "manage the dinosaur without triggering a thermal spike that exposes the base" make dramatically more interesting decisions. Frame it correctly and the Tyrant encounter becomes the scenario's best scene.
-
-The second most common error: **pausing the Imperial sweep clock while players discuss the Tyrant.** In the scenario, time is continuous. While the players are deciding what to do about the predator, the next ECM pass is ticking closer. The referee should note this — *"You have about four minutes before the next drone pass window"* — without resolving it for them.
-
----
-
-*Chapter 1 — Introduction*
-*Cold Trail in Kethara Reach — Referee Document*
-*Mongoose Traveller 2nd Edition — Imperial Year 1117*

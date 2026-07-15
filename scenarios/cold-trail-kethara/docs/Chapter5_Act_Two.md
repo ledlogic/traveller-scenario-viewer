@@ -49,8 +49,6 @@ Marchetti-Solis's atmospheric survey drones have shifted to active search patter
 
 ---
 
----
-
 ## 5.2 — THE CRASH SITE RUN (HOURS 2–5): ACT TWO BRANCH A
 
 **Trigger:** Haramoto's TSU-9 diagnosis at Hour 1 — jury-rig buys 6 hours but only the crash site coolant canister enables full repair.

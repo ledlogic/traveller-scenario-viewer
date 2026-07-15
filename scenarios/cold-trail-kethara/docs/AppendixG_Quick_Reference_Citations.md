@@ -87,14 +87,14 @@
 
 ### Weapons Quick Reference
 
-Consolidated from every weapon appearing in this scenario, across all character sheets and appendices. TL and Range columns are supplied here where the character sheets didn't already give them; Damage and Traits are kept as written on each character sheet (these can vary slightly between individual copies of the rules) rather than overridden. *[TL/Range source: Central Supply Catalogue (Update 2023.2) weapon tables, cross-checked against CRB22 page citations already used throughout this document.]*
+Consolidated from every weapon appearing in this scenario, across all character sheets and appendices. TL and Range columns are supplied here where the character sheets didn't already give them; Damage and Traits are kept as written on each character sheet (these can vary slightly between individual copies of the rules) rather than overridden. *[TL/Range source: Central Supply Catalogue (Update 2023.2) weapon tables, cross-checked against CRB22 page citations already used throughout this document. Gauss Rifle range corrected to CRB22's qualitative range band ("Long") rather than a flat meter figure — the CSC and CRB22 gauss weapon tables are known to diverge on exact figures; see community discussion, e.g. r/traveller, "AP on custom Gauss MFC vs CRB/CSC seems off." Other weapons below still use the CSC's numeric meter figures and haven't been re-verified against this same discrepancy — flag if you want the whole table converted to range bands for consistency.]*
 
-| Weapon | TL | Range (m) | Damage (as used in this doc) | Ammo / Magazine | Traits | Who carries it |
+| Weapon | TL | Range | Damage (as used in this doc) | Ammo / Magazine | Traits | Who carries it |
 |---|---|---|---|---|---|---|
 | Stunner | 8 | 5 | 2D | 100 (power pack) | Stun, Zero-G | Chen |
 | Autopistol | 5 | 10 | 3D-3 | 15 rounds | — | Okonkwo, Kaur, Kowalski, Osei-Bonsu |
 | Gauss Pistol | 13 | 20 | 3D-3, AP3, Auto 2 | 40 rounds | AP 3, Auto 2 | Ibáñez-Ochoa's Marines (sidearm) |
-| Gauss Rifle | 12 | 150 | 3D, AP5 | 80 rounds (4 magazines) | AP 5, Auto 2–3, Scope | Haramoto |
+| Gauss Rifle | 12 | Long | 3D, AP5 | 80 rounds (4 magazines) | AP 5, Auto 2–3, Scope | Haramoto |
 | Gauss pistol (drone-mounted) | 12 | 20 | 2D | Fixed mount | — | Priya, Garner (recon drones) |
 | Laser Pistol | 9 | 20 | 3D | 100 shots (power pack) | Zero-G | Mouton (backup), Vasiliou/Yeva-class NPCs |
 | Laser Carbine | 9 | 150 | 4D | 50 shots (power pack) | Scope, Zero-G | Vasiliou |
@@ -254,10 +254,3 @@ Three months later Strephon is dead and the Imperium begins its collapse. SolSec
 
 *"The Solomani Front held because both sides believed the other was stable. When that belief broke, the Front broke with it."*
 — Pelczar, M., Personal Log, 1118.
-
----
-
-*Appendix G — Weather, Reference Tables & Confirmed Stats*
-*Cold Trail in Kethara Reach — Referee Document*
-*Mongoose Traveller 2nd Edition — Imperial Year 1117*
-

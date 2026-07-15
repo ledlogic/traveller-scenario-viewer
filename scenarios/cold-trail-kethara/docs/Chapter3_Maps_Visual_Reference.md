@@ -413,14 +413,6 @@ The **TSU-9 load indicator** — a visible counter or dial tracking percentage f
 
 ---
 
-*Chapter 3 — Maps & Visual Reference*
-*Cold Trail in Kethara Reach*
-*Mongoose Traveller 2nd Edition — Imperial Year 1117*
-
-*Cold Trail in Kethara Reach — Referee Reference Document*
-
----
-
 ## 3.8 — KETHARA REACH WEATHER SYSTEM
 
 ### The Meteorological Shift
@@ -515,5 +507,3 @@ This assessment was correct for the first 16 days. The seasonal shift was a know
 Nobody at SolSec planning division read Osei-Bonsu's survey notes on monsoon onset. If they had, they would have scheduled the insertion 30 days earlier.
 
 Pelczar has a copy of the mission brief weather assessment in her data core. Below it, she has added a single annotation, timestamped Day 17: *"Wrong."*
-
----

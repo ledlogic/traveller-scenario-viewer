@@ -102,8 +102,6 @@ She is wrong about the timing shift — it is a storm-cycle calibration burst fr
 
 ---
 
----
-
 ### Problem Two — TSU-9 Failure
 
 **If jury-rig used at Hour 1:** The jury-rig expires at Hour 7. The load returns to 140% and climbing. Haramoto must act now — the full repair or the unit enters Failing status.
@@ -118,8 +116,6 @@ She is wrong about the timing shift — it is a storm-cycle calibration burst fr
 
 ---
 
----
-
 ### The Shield Beetles Inside the Base (Optional)
 
 If the base entrance has not been secured against wildlife intrusion, Shield Beetles may enter the motor pool — attracted by the same warmth and organic material that draws them to the cliff face. The entrance throat fits one beetle with 10cm clearance.
@@ -131,5 +127,3 @@ Two beetles in the motor pool is an inconvenience. Three beetles in the motor po
 > *"Then the beetles are an inconvenience. Deal with them. Carefully."*
 
 *Equipment damage risk table for interior beetle encounters: Appendix I Addendum, Section I.6.*
-
----

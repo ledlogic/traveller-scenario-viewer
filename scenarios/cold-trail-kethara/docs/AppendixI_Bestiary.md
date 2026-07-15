@@ -461,10 +461,3 @@ The most elegant outcomes with the Shield Beetles come from working with its nat
 | Gauss rifle (from below) | Gun Combat (slug) 8+ | Kills beetle — AP5 penetrates | Upward angle = port risk 1-in-1 |
 | Laser rifle (crash site required) | Gun Combat (energy) 8+ | Kills reliably — correct tool | None, if used from entrance |
 | Base lockdown + retrieve rifle | Group STR 30+ (barrier) | Buys time for crash site run | Barrier holds 20–60 min only |
-
----
-
-*Appendix I (Addendum) — Shield Beetles: Herbivore-at-the-Vents Encounter*
-*Cold Trail in Kethara Reach — Referee Document*
-*Mongoose Traveller 2nd Edition — Imperial Year 1117*
-

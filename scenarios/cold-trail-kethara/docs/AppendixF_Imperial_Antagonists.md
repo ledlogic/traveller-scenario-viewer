@@ -319,9 +319,3 @@ She has briefed her Marines: minimum force, take prisoners, do not engage local 
 
 **Prompt 3 — Marines Deploying:**
 > A squad of Imperial Marines in TL13 full combat armour — dark grey sealed suits, gold squad markings, tactical HUD visors down — disembarking from a sleek military ship's boat on a basalt plateau on a frontier world at dawn. Thin hazy atmosphere, pale blue sky. Dense alien jungle at the plateau edge, enormous tree canopy rising beyond. Marines move in disciplined fire teams, gauss rifles at ready-carry, not firing. One female officer stands at the ramp pointing toward the treeline, tablet in hand. In the far distance, the glint of a river valley barely visible. Mood: professional and purposeful. Style: photorealistic military concept art, Aliens aesthetic, early morning alien light, no explosions.
-
----
-
-*Appendix F — Imperial Antagonists*
-*Cold Trail in Kethara Reach — Referee Document*
-*Mongoose Traveller 2nd Edition — Imperial Year 1117*
