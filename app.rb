@@ -32,7 +32,7 @@ set :port, 8090
 # in from here. It's now inlined directly below so app.rb is a single
 # self-contained file with no other Ruby files to keep track of.
 class UploadWatcher
-  DEFAULT_PATTERN = /\Atraveller-viewer.*\.zip\z/i.freeze
+  DEFAULT_PATTERN = /\Atraveller[- ](?:scenario[- ])?viewer.*\.zip\z/i.freeze
 
   attr_reader :uploads_dir, :scenarios_dir, :pattern, :mirror, :keep, :dry_run, :log
 
