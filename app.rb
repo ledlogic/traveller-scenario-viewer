@@ -125,6 +125,7 @@ class UploadWatcher
         end
 
         sync_docs(src_docs, dest_docs, slug)
+        prune_unlisted_docs(dest_docs, dest_meta, slug)
       end
 
       archive_or_delete(zip_path)
@@ -474,4 +475,31 @@ get '/s/:slug/:filename' do
     next_href:         next_href,
     print_title:       label,
   )
+end
+
+# Injected: prune_unlisted_docs — remove .md files in dest_docs not listed in meta.json
+# Called from process_zip after sync_docs
+class UploadWatcher
+  def prune_unlisted_docs(dest_docs, dest_meta, slug)
+    return unless File.exist?(dest_meta) && Dir.exist?(dest_docs)
+    begin
+      meta = JSON.parse(File.read(dest_meta))
+    rescue JSON::ParserError => e
+      say "  [#{slug}] prune skipped — could not parse meta.json: #{e.message}"
+      return
+    end
+    listed = Array(meta['docs']).map { |d| d['file'] }.compact.to_set
+    return if listed.empty?
+    on_disk = Dir.glob(File.join(dest_docs, '*.md')).map { |f| File.basename(f) }
+    unlisted = on_disk.reject { |name| listed.include?(name) }
+    if unlisted.empty?
+      say "  [#{slug}] prune: nothing to remove"
+    else
+      unlisted.each do |name|
+        say "  [#{slug}] prune: removing unlisted #{name}"
+        FileUtils.rm(File.join(dest_docs, name)) unless dry_run
+      end
+      say "  [#{slug}] prune: removed #{unlisted.size} unlisted file(s)"
+    end
+  end
 end
