@@ -1,4 +1,12 @@
-# OPERATION DEEP CURRENT — PRE-GENERATED CHARACTERS
+# TRAVELLER: OPERATION DEEP CURRENT
+# APPENDIX G — PRE-GENERATED CHARACTERS
+## Six SolSec Field Agents — Full Stat Blocks, Backgrounds, and Connections
+
+*Operation Deep Current — Referee Reference Document*
+
+---
+
+OPERATION DEEP CURRENT — PRE-GENERATED CHARACTERS
 ### Six SolSec Field Agents · Imperial Year 1116
 *Mongoose Traveller 2nd Edition · Ready-to-Play*
 

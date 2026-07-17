@@ -1,4 +1,12 @@
-# OPERATION DEEP CURRENT — CHARACTER VISUAL RENDERINGS
+# TRAVELLER: OPERATION DEEP CURRENT
+# APPENDIX I — VISUAL RENDERING PROMPTS
+## Neural.love AI Image Generation Prompts — Agents, NPCs, and Locations
+
+*Operation Deep Current — Referee Reference Document*
+
+---
+
+OPERATION DEEP CURRENT — CHARACTER VISUAL RENDERINGS
 ### Neural.love Image Generation Prompts
 *All Player Agents and Major NPCs · Imperial Year 1116*
 

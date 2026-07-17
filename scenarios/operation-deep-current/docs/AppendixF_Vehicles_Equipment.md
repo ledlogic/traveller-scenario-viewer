@@ -1,5 +1,7 @@
-# WATER VEHICLES, EQUIPMENT & CROSS-REFERENCES
-### Canonical Submarines, Surface Vessels, Diving Equipment and Hiroshima Sources
+# TRAVELLER: OPERATION DEEP CURRENT
+# APPENDIX F — WATER VEHICLES AND EQUIPMENT
+## Canonical Submarines, Surface Vessels, and Diving Equipment
+
 *Operation Deep Current — Referee Reference Document*
 
 ---

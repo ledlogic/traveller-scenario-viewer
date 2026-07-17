@@ -1,4 +1,12 @@
-## APPENDIX L: IMPERIAL NAVY REEF PICKET STATION — STRUCTURE AND BOARDING `[OC]`
+# TRAVELLER: OPERATION DEEP CURRENT
+# APPENDIX C — IMPERIAL FORCES
+## RSP-7-G Reef Picket Station — Structure, Crew, and Boarding Reference
+
+*Operation Deep Current — Referee Reference Document*
+
+---
+
+APPENDIX L: IMPERIAL NAVY REEF PICKET STATION — STRUCTURE AND BOARDING `[OC]`
 
 ### Overview
 
