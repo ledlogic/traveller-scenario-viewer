@@ -2,11 +2,9 @@
 # APPENDIX F — WATER VEHICLES AND EQUIPMENT
 ## Canonical Submarines, Surface Vessels, and Diving Equipment
 
-*Operation Deep Current — Referee Reference Document*
-
 ---
 
-## L.8 — CANONICAL WATER VEHICLES: SUBMARINES
+## SUBMARINES
 
 *Source: Traveller Water Vehicles Volume 1, Northern Edge / Travellers' Aid Society. Author: Colin Dunn. All stats quoted directly from this supplement.*
 
@@ -125,7 +123,7 @@ The Highline is the canonical closest match to Three-Fin's vessel in *Operation 
 | Speed for extraction | High (cruise) — best speed class available for this displacement ✓ |
 | Not traceable as military | No weapons, no military sensor suite ✓ |
 
-**Three-Fin's modifications (OC):** Her specific vessel carries a Light Laser Cannon (L.8 — `[WV]` p.14) on a retractable ventral mount for Void Mantle deterrence, and has the Basic Sensor suite swapped for Improved Sensors (+1) at her own expense. The Driftweb acoustic filter noted in the RSP-7-G boarding section (Appendix L — main scenario) is a software modification to the sonar suite, not a hardware change.
+**Three-Fin's modifications (OC):** Her specific vessel carries a Light Laser Cannon (L.8 — `[WV]` p.14) on a retractable ventral mount for Void Mantle deterrence, and has the Basic Sensor suite swapped for Improved Sensors (+1) at her own expense. The Driftweb acoustic filter noted in the RSP-7-G boarding section (Appendix C) is a software modification to the sonar suite, not a hardware change.
 
 **Hiroshima cross-reference:** The Highline's design philosophy — sealed pressurised interior, airlock for hazardous external environment, semi-modular cargo configuration — directly parallels the Kuro-Hoshi Syndicate's shuttle operations in *Hiroshima* (p.27 `[HC]`), which use modified utility craft for rapid cargo extraction from the Shinsei orbital station dock's sensor blind spots. The social role is identical: a fast, capable, uncommitted vessel whose operator knows the routes that don't appear on official charts.
 
@@ -169,7 +167,7 @@ The Highline is the canonical closest match to Three-Fin's vessel in *Operation 
 
 Shafin-class or analogous patrol boats provide the Imperial Navy's surface presence in the New Mondulkiri harbour and the outer reef approaches. They are not the threat; they are the *visible* threat — the presence that makes civilian vessels comply with traffic patterns and keeps the surface approaches to the naval base orderly. The real enforcement capability is the naval base itself and the larger vessels in dry dock.
 
-For the RSP-7-G boarding scenario (Appendix L, main scenario), a Shafin-equivalent is the most likely **response vessel** once an alert is triggered at the picket station. Response time from New Mondulkiri to RSP-7-G's position on the outer reef shelf: approximately 45 minutes at cruise speed. At maximum speed (Shafin can push above Medium band briefly): 25–30 minutes. This is the extraction window if hard alert is triggered.
+For the RSP-7-G boarding scenario (Appendix C), a Shafin-equivalent is the most likely **response vessel** once an alert is triggered at the picket station. Response time from New Mondulkiri to RSP-7-G's position on the outer reef shelf: approximately 45 minutes at cruise speed. At maximum speed (Shafin can push above Medium band briefly): 25–30 minutes. This is the extraction window if hard alert is triggered.
 
 **Hiroshima cross-reference:** The Shafin's crew-composition and rules-of-engagement model — armed for cover, not combat; falls back on military assets if serious weapons appear — is identical to the Iron Tally Security Group's maritime patrol contract profile in *Hiroshima* (p.21 `[HC]`). Corporate security patrols on Hiroshima's acidic seas use the same tactical doctrine: presence and compliance, not engagement. The patrol boat is a deterrent, not a combatant.
 
@@ -205,7 +203,6 @@ For the RSP-7-G boarding scenario (Appendix L, main scenario), a Shafin-equivale
 **Scenario role:** The Sea Ranger is what the Shafin deploys for close-quarters work — boarding suspicious vessels, inspecting the outer reef shelf, reaching the RSP-7-G surface platform if the response vessel cannot come alongside directly. Four naval personnel in a Sea Ranger on the surface above the picket station represent the soonest possible *surface* response; getting personnel into the water and down to the Level 2 docking collars requires additional dive gear and time (minimum 20 minutes).
 
 ---
-
 
 *From Traveller Water Vehicles Volume 1, p.15*
 
@@ -257,7 +254,7 @@ Any Ground Vehicle, Grav Vehicle, or Watercraft can have the Submersible option 
 
 ---
 
-## L.9 — MICROWHEEL SAMPLE CONTAINER
+## MICROWHEEL SAMPLE CONTAINER
 
 The Microwheel is a standard **sample collection canister with integrated micro-life-support**, designed for transporting living biological specimens from deep-sea environments to surface or shipboard laboratory conditions. The name comes from the tiny impeller wheel that circulates the internal water column.
 
@@ -282,7 +279,7 @@ The Microwheel is a standard **sample collection canister with integrated micro-
 
 ---
 
-## L.10 — VOID MANTLE ENCOUNTER MECHANICS FOR SUBMERSIBLES
+## VOID MANTLE — SUBMERSIBLE ENCOUNTER MECHANICS
 
 *(Cross-reference: Operation Deep Current Gashidda Bestiary — Void Mantle full profile)*
 
@@ -328,7 +325,7 @@ The Void Mantle's tentacles can **shrink and thicken as they retract**, converti
 
 ---
 
-## L.11 — DRIFTWEB — ATMOSPHERIC FILAMENT ORGANISM
+## DRIFTWEB — ATMOSPHERIC PROPERTIES
 
 *(Primary ecology: Gashidda upper atmosphere. Cross-reference: Operation Deep Current supplement.)*
 
@@ -390,7 +387,7 @@ On worlds where Driftweb is present, it is typically a **primary oxygen producer
 
 ---
 
-## L.12 — ATMOSPHERE PROCESSOR: HARVESTER CONFIGURATION
+## ATMOSPHERE PROCESSOR: HARVESTER CONFIGURATION
 
 *Private Aerospace Development — IHJEA Architecture*
 
@@ -445,7 +442,7 @@ The IHJEA processor is primarily background in the Operation Deep Current scenar
 
 ---
 
-## HIROSHIMA COLONY SUPPLEMENT — SOURCES AND CROSS-REFERENCES
+## HIROSHIMA COLONY — SOURCES AND CROSS-REFERENCES
 
 **Citation:** *Traveller Water Vehicles Volume 1* by Colin Dunn, Northern Edge / Travellers' Aid Society (TAS). MGT2e compatible. Surface vessels TL6–TL12, submarines TL6–TL14, new modifications and weapons. Used as the source for canonical submarine and surface vessel stats in Section L.8 of this appendix, replacing homebrew vehicle stats with published figures.
 

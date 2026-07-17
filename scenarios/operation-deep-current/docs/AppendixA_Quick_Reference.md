@@ -2,8 +2,6 @@
 # APPENDIX A — REFEREE QUICK REFERENCE
 ## Combat Stats, Suspicion Track, Gear, and Campaign Seeds
 
-*Operation Deep Current — Referee Reference Document*
-
 ---
 
 APPENDIX A: QUICK-REFERENCE COMBAT STATS
@@ -16,10 +14,6 @@ APPENDIX A: QUICK-REFERENCE COMBAT STATS
 | Warden-Elder Tarquin | None | None | Can call 1D6 devoted followers |
 | Harada Mitsuko | Env. Suit Prot. 5 (env. only) | Autopistol 3D–3 | Will fight if cornered |
 | **Void Mantle** *(environmental)* | **Armour 2** | **Tentacles 2D + necrosis; Recon 10+ to detect** | **Full stats Appendix J; electrostatic rod repels** |
-
----
-
-
 
 ---
 
@@ -37,10 +31,6 @@ APPENDIX B: THE VOSS SUSPICION TRACK
 
 ---
 
-
-
----
-
 APPENDIX C: ENVIRONMENTAL GEAR REFERENCE
 
 | Item | TL | Cost (Cr) | Effect |
@@ -51,10 +41,6 @@ APPENDIX C: ENVIRONMENTAL GEAR REFERENCE
 | Covert imaging suite (SolSec) | 12 | 3,000 | DM+2 Electronics (sensors) for covert photography |
 | Subdermal data store | 12 | 1,500 | 10TB; undetectable below TL13 scanner |
 | Emergency extraction transponder | 12 | SolSec issue | KEH recovery; 24-hour response; single use |
-
----
-
-
 
 ---
 
@@ -74,3 +60,25 @@ APPENDIX D: CAMPAIGN SEEDS
 
 ---
 
+## SKILL REFERENCE TABLE
+
+| Category | Skill | Acts Used | Notes |
+|----------|-------|-----------|-------|
+| **Social** | Persuade | All | Recruitment, Tarquin negotiation, talking out of confrontations |
+| | Deception | All | Cover maintenance, the frame, false documentation |
+| | Carouse | 1, 2 | Reading social environments, not being conspicuous |
+| | Streetwise | All | Navigating Makara's grey economy and resistance networks |
+| | Leadership | 3 | Stabilising Kofi; coordinating under pressure |
+| **Technical** | Electronics (computers) | 1, 2 | Decrypting Kofi's package; installing frame evidence |
+| | Electronics (sensors) | 2 | REEF LIGHT photography from moving submersible |
+| | Engineer (power/life support) | 2 | Pressure seal repair in SOUNDING LINE |
+| | Mechanic | 2 | Backup engineering; maintaining covert equipment |
+| **Field Craft** | Stealth | All | Every operation rewards stealth over confrontation |
+| | Recon | All | Spotting surveillance; managing Voss suspicion |
+| | Athletics (dexterity) | 3 | Extraction through industrial lower levels |
+| **Support** | Admin or Broker | 2, 3 | Frame financial authenticity; port clearance |
+| | Pilot (watercraft) | 2 | Optional — operating the submersible in REEF LIGHT |
+| | Medic | 1, 2 | Environmental hazard ID; industrial accident complications |
+| | Investigate | 2 | Researching Achterberg's financial vulnerabilities |
+
+---

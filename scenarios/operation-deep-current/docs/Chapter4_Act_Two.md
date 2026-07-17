@@ -1,11 +1,7 @@
 # TRAVELLER: OPERATION DEEP CURRENT
 ## Chapter 4 — Act Two: The Current Sets
 
-*Operation Deep Current — Referee Reference Document*
-
 ---
-
-## 4.0 — ACT TWO: THE CURRENT SETS
 
 **Estimated table time: 75–90 minutes**
 

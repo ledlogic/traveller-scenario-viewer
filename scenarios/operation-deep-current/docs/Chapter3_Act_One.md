@@ -1,11 +1,7 @@
 # TRAVELLER: OPERATION DEEP CURRENT
 ## Chapter 3 — Act One: Descent
 
-*Operation Deep Current — Referee Reference Document*
-
 ---
-
-## 3.0 — ACT ONE: DESCENT
 
 **Estimated table time: 45–60 minutes**
 

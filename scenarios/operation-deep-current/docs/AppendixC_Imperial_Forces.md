@@ -2,11 +2,7 @@
 # APPENDIX C — IMPERIAL FORCES
 ## RSP-7-G Reef Picket Station — Structure, Crew, and Boarding Reference
 
-*Operation Deep Current — Referee Reference Document*
-
 ---
-
-APPENDIX L: IMPERIAL NAVY REEF PICKET STATION — STRUCTURE AND BOARDING `[OC]`
 
 ### Overview
 
@@ -230,8 +226,6 @@ A successful extraction of the RSP-7-G data archive yields the following, graded
 
 ---
 
----
-
 ### Neural.love Rendering Prompts — RSP-7-G `[OC]`
 
 **EXTERIOR — Surface approach, establishing shot**
@@ -250,11 +244,6 @@ A successful extraction of the RSP-7-G data archive yields the following, graded
 
 *"Interior of a cramped circular command centre inside an Imperial Navy sensor station, hard alert in progress. Four console stations arranged around a central space, screens displaying sonar data and alert indicators in red and amber. Low curved ceiling, exposed conduit runs, the aesthetic of a submarine command room crossed with TL12 military electronics. Two naval crew in grey Imperial Navy duty coveralls at the consoles, one standing with hand on a weapons locker. Red alert lighting. A reinforced viewport on one wall shows dark water outside with faint bioluminescent reef light. The room feels pressurised, sealed, and slightly too small. Photorealistic military sci-fi interior, tense atmosphere, red and amber light, claustrophobic geometry, 4K cinematic."*
 
----
-
-*End of Appendix L*
-
----
 ---
 
 **Sources:**
@@ -299,3 +288,31 @@ A successful extraction of the RSP-7-G data archive yields the following, graded
 
 - All remaining scenario content — original material created for this scenario. Cited as `[OC]`.
 
+---
+
+## LOCATIONS — RSP-7-G IMPERIAL NAVY REEF PICKET STATION
+
+### RSP-7-G Exterior — Surface Approach
+> *Imperial Navy sensor picket station on an alien ocean world, semi-submerged cylindrical grey-green alloy tower rising 8 metres above a cold dark sea. Upper platform crowded with sensor mast clusters, communications dome, retractable laser turret housing. Hull coated in pale green filamentous algae — drifting biological strands trailing down the wet metal flanks into the water. Grey-green overcast sky filtered through atmospheric algae layer, diffuse cold light, no direct sun. Distant storm front visible on the horizon. The tower looks industrial, functional, and very alone. Photorealistic military sci-fi architecture, cold colour palette, wide establishing shot from low water level, station occupying centre-right frame with open alien ocean to the left, 4K cinematic.*
+
+---
+
+### RSP-7-G Exterior — Underwater Approach, Submersible POV
+> *Looking upward from beneath an alien ocean toward the underside of a cylindrical Imperial Navy sensor station anchored to a coral-like alien reef. The station hull tapers slightly toward the reef anchor bolts below. Two circular docking collars visible on the mid-section hull, one illuminated by a faint running light. Above, the waterline shimmers with grey-green light filtered through atmospheric algae. Bioluminescent reef organisms glow amber and blue on the reef face to the right. The submersible forward floodlights illuminate the station hull in a cone of cold white light. Photorealistic deep-sea sci-fi, tense and claustrophobic, upward perspective, dark water, alien reef biology, 4K.*
+
+---
+
+### RSP-7-G Interior — Level 4 Command Centre, Hard Alert
+> *Interior of a cramped circular command centre inside an Imperial Navy sensor station, hard alert in progress. Four console stations arranged around a central space, screens displaying sonar data and alert indicators in red and amber. Low curved ceiling, exposed conduit runs, the aesthetic of a submarine command room crossed with TL12 military electronics. Two naval crew in grey Imperial Navy duty coveralls at the consoles, one standing with hand on a weapons locker. Red alert lighting. A reinforced viewport on one wall shows dark water outside with faint bioluminescent reef light. The room feels pressurised, sealed, and slightly too small. Photorealistic military sci-fi interior, tense atmosphere, red and amber light, claustrophobic geometry, 4K cinematic.*
+
+---
+
+*End of Character Visual Rendering Document*
+
+---
+
+*Operation Deep Current · Imperial Year 1116*
+*All prompts formatted for neural.love AI image generation platform.*
+*Player agent descriptions written for pre-generated characters. NPC descriptions written for scenario cast.*
+
+*End of Appendix C*

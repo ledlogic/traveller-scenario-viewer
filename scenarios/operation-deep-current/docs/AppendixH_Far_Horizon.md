@@ -2,11 +2,8 @@
 # APPENDIX H — THE FAR HORIZON
 ## Ship Specification, Full Stats, and Neural.love Rendering Prompts
 
-*Operation Deep Current — Referee Reference Document*
-
 ---
 
-APPENDIX E: THE *FAR HORIZON* — SHIP SPECIFICATION
 ### Type R Subsidised Merchant (Modified) · Cover Vessel
 
 ---
@@ -120,16 +117,12 @@ One concealed single turret hardpoint, ventral-aft, disguised as sensor housing.
 
 ---
 
----
-
-
-
----
-
 Mongoose Traveller 2nd Edition · Type R Subsidised Merchant (Modified)
 *Cover Vessel for Operation Deep Current · Registered to Kanzaki Extraplanetary Holdings*
 
 ---
+
+## FULL TECHNICAL SPECIFICATION
 
 ## IDENTIFICATION
 
@@ -287,7 +280,6 @@ Forward: Cargo bay — main space, 200-ton capacity, currently holding survey su
 **Document:** Operation Deep Current · Ship Specs
 **Registry:** Kanzaki Extraplanetary Holdings (cover) · SolSec Field Operations (actual)
 **Imperial Year 1116**
-
 
 ---
 

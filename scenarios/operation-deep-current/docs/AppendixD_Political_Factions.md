@@ -2,11 +2,8 @@
 # APPENDIX D — POLITICAL FACTIONS
 ## The Vanthara Truth, SolSec Subversion Doctrine, and Specialist Forces Mechanics
 
-*Operation Deep Current — Referee Reference Document*
-
 ---
 
-APPENDIX K: THE VANTHARA TRUTH — SOURCE DESCRIPTION AND SOLSEC SUBVERSION DOCTRINE
 ### Canon Reference and Operational Analysis `[SF]`
 
 ---
@@ -201,11 +198,7 @@ The scenario is set in spring/autumn by default (the default season in the tempe
 
 ---
 
-*End of Appendix K*
-
----
-
-
+*End of Appendix D*
 
 ---
 
@@ -216,6 +209,8 @@ APPENDIX G: SPECIALIST FORCES — APPLICABLE MECHANICS `[SF2]`
 The *Specialist Forces* supplement contains no underwater or aquatic operations content. However four of its mechanics apply directly to this scenario and are reproduced here with scenario-specific guidance.
 
 ---
+
+## SPECIALIST FORCES — APPLICABLE MECHANICS `[SF2]`
 
 ### 1. The Pinch — Intelligence Commando Resolution `[SF2]`
 

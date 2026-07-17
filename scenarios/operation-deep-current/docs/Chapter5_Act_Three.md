@@ -1,11 +1,7 @@
 # TRAVELLER: OPERATION DEEP CURRENT
 ## Chapter 5 — Act Three: Deep Water
 
-*Operation Deep Current — Referee Reference Document*
-
 ---
-
-## 5.0 — ACT THREE: DEEP WATER
 
 **Estimated table time: 45–60 minutes**
 
@@ -62,6 +58,3 @@ Port clearance: **Deception 8+**. DM–2 if Voss Suspicion 4+; DM–4 if Suspici
 | 1 objective + Kofi safe | **Partial success.** Groundwork established for the next team. Pay Cr 10,000 each. |
 | Kofi captured or killed | **Strategic failure.** Voss pulls the thread. Network unravels within weeks. |
 | Cover burned | **Emergency extraction.** Alive. SolSec needs people who survived a burned cover and know what burned it. |
-
----
-

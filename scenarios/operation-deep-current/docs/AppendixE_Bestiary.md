@@ -2,8 +2,6 @@
 # APPENDIX E — GASHIDDA BESTIARY
 ## Driftweb, Reef Consumer, Void Mantle, and Full Organism Reference
 
-*Operation Deep Current — Referee Reference Document*
-
 ---
 
 **World:** Gashidda (UWP: A56A969-E) · Dingir Subsector · Solomani Rim  
@@ -352,9 +350,6 @@ Species nomenclature follows Third Imperium Xenobiological Registry conventions 
 
 ---
 
-
----
-
 APPENDIX I: ORGANISM MG-2023-15 — THE REEF CONSUMER
 ### Proposed Bio-Intelligence Asset · Confederate Naval Interest `[OC]`
 
@@ -499,12 +494,6 @@ Confederate Naval Intelligence's assessment of this dynamic remains incomplete. 
 ---
 
 *Reference: Organism MG-2023-15 first described in "My Gawd, It's Full of Slugs" (companion scenario, Macrogenesis/Merganser setting). Buoyancy mechanism, secondary mucous hazard, eutrophic environment behaviour, and Gashiddan predator regulation are original extrapolations for this deployment scenario.*
-
----
-
----
-
-
 
 ---
 
@@ -719,8 +708,6 @@ The bloom is the scenario's most effective single image. Violet-purple light ign
 ### AI Rendering Prompt — Neural.love
 
 > *Photorealistic deep-sea underwater photography on an alien ocean world. A small one-person carbon-composite survey submersible — dark grey, utilitarian survey markings, Kanzaki Extraplanetary Holdings logo barely visible — held motionless in dark ocean water by the tentacle curtain of a massive near-invisible medusa creature. The submersible's running lights illuminate the tentacles from below: hair-thin silver threads wrapped multiple times around the hull, trailing away into darkness. The mantle's bell floats above the vehicle — two metres across, nearly perfectly transparent, visible only as a faint distortion. Across the bell's upper surface, a deep violet-purple bioluminescent bloom is fully active — intense points of purple light spreading across the surface in living patterns, casting violet light down onto the held submersible below. Through the submersible's small forward viewport: the shadow of a single figure, motionless, hands on the controls. The air gauge on the dashboard is just barely visible in the viewport light. Bioluminescent reef columns glow faintly in the background distance — the only other light source in absolute deep-ocean black. Mood: trapped, beautiful, terrifying, the worst kind of stillness. Style: photorealistic deep-sea documentary, 8K, volumetric underwater light, natural ocean darkness, no artificial lighting except vehicle running lights and bloom. Colour palette: absolute black, cold grey vehicle, violet-purple bloom, silver tentacle threads, distant blue-green reef.*
-
-
 
 ---
 
