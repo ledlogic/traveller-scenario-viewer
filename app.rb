@@ -281,6 +281,7 @@ def render_shell(opts = {})
             <div class="print-scenario">#{opts[:scenario_title]}</div>
             <div class="print-doc">#{opts[:print_title] || opts[:title]}</div>
           </div>
+          <style>:root { --print-scenario-title: #{opts[:scenario_title].to_s.gsub('"','\"').inspect}; }</style>
           <article class="document">
             #{opts[:content_html]}
           </article>

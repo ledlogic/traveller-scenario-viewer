@@ -551,7 +551,7 @@ body.index-page { background: #0f1115; color: #d0d3db; }
       color: #888;
     }
     @bottom-right {
-      content: "Cold Trail in Kethara Reach";
+      content: var(--print-scenario-title, "Traveller Scenario");
       font-size: 8pt;
       color: #bbb;
     }
