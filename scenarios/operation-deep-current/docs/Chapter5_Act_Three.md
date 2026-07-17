@@ -1,4 +1,11 @@
-## ACT THREE: DEEP WATER
+# TRAVELLER: OPERATION DEEP CURRENT
+## Chapter 5 — Act Three: Deep Water
+
+*Operation Deep Current — Referee Reference Document*
+
+---
+
+## 5.0 — ACT THREE: DEEP WATER
 
 **Estimated table time: 45–60 minutes**
 
@@ -10,7 +17,7 @@ Warning arrives via: Harada's union contacts, Tarquin's network, or Kofi's emerg
 
 ---
 
-### Scene 3-A: Kofi's Compromise
+### 5.1 — Scene 3-A: Kofi's Compromise
 
 Kofi is moving through the submersible dock district with a two-agent plainclothes tail. Agents must extract him to Tarquin's network and a sealed reef-survey station safe house.
 
@@ -26,7 +33,7 @@ Note: if combat occurs, the operation is severely compromised regardless of outc
 
 ---
 
-### Scene 3-B: The Final Calculation
+### 5.2 — Scene 3-B: The Final Calculation
 
 **Accelerated completion:** All primary skill checks increase by one difficulty band during the Act 3 crisis window. Penalty waived for objectives where all preparatory steps were completed in Act 2.
 
@@ -34,7 +41,7 @@ Note: if combat occurs, the operation is severely compromised regardless of outc
 
 ---
 
-### Scene 3-C: Departure
+### 5.3 — Scene 3-C: Departure
 
 Port clearance: **Deception 8+**. DM–2 if Voss Suspicion 4+; DM–4 if Suspicion 5.
 
@@ -46,7 +53,7 @@ Port clearance: **Deception 8+**. DM–2 if Voss Suspicion 4+; DM–4 if Suspici
 
 ---
 
-### Outcome Summary
+### 5.4 — Outcome Summary
 
 | Result | Outcome |
 |--------|---------|

@@ -1,4 +1,11 @@
-## ACT TWO: THE CURRENT SETS
+# TRAVELLER: OPERATION DEEP CURRENT
+## Chapter 4 — Act Two: The Current Sets
+
+*Operation Deep Current — Referee Reference Document*
+
+---
+
+## 4.0 — ACT TWO: THE CURRENT SETS
 
 **Estimated table time: 75–90 minutes**
 
@@ -6,7 +13,7 @@
 
 ---
 
-### Operation TIDE MARK — The Frame
+### 4.1 — Operation TIDE MARK — The Frame
 
 **Objective:** Install fabricated financial records in Achterberg's private terminal implicating him in receiving Confederation payments via KEH subsidiaries — suggesting he took kickbacks for steering Imperial Navy infrastructure contracts away from local firms.
 
@@ -20,7 +27,7 @@
 
 ---
 
-### Operation SOUNDING LINE — The Recruitment
+### 4.2 — Operation SOUNDING LINE — The Recruitment
 
 **Objective:** Recruit Chief Technician Harada Mitsuko as a long-term SolSec asset.
 
@@ -36,7 +43,7 @@
 
 ---
 
-### Operation REEF LIGHT — The Photograph
+### 4.3 — Operation REEF LIGHT — The Photograph
 
 **Objective:** Photograph sensor array configurations of two Imperial Navy cruisers in maintenance berths at New Mondulkiri shipyard.
 
@@ -82,7 +89,7 @@ Full Void Mantle combat statistics and encounter rules are in **Appendix J**.
 
 ---
 
-### Act 2 Complications
+### 4.4 — Act 2 Complications
 
 Roll 1D per in-game day or select dramatically:
 

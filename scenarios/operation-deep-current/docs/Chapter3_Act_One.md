@@ -1,4 +1,11 @@
-## ACT ONE: DESCENT
+# TRAVELLER: OPERATION DEEP CURRENT
+## Chapter 3 — Act One: Descent
+
+*Operation Deep Current — Referee Reference Document*
+
+---
+
+## 3.0 — ACT ONE: DESCENT
 
 **Estimated table time: 45–60 minutes**
 
@@ -6,7 +13,7 @@
 
 ---
 
-### Scene 1-A: Arrival and Cover Establishment
+### 3.1 — Scene 1-A: Arrival and Cover Establishment
 
 The agents process through administrative intake as a legitimate survey crew. The intake official — Harbour Officer **Desh Pramanik** — is thorough but bored. He is also on Director Voss's informant list, though the agents don't know this yet. Simultaneously, Kofi makes contact carrying a sealed packet of gikhi-eel eggs — the recognition signal. The operational package handoff happens in a 90-second encounter that looks like a commercial transaction.
 
@@ -17,7 +24,7 @@ The agents process through administrative intake as a legitimate survey crew. Th
 
 ---
 
-### Scene 1-B: Safe House Briefing
+### 3.2 — Scene 1-B: Safe House Briefing
 
 A maintenance contractor's apartment in the mid-tier hab-ring. Recycled air tasting faintly of ocean, kelp-protein cooking from a neighbour. Kofi provides full operational context and warns of unfamiliar watchers near the reactor complex.
 
@@ -46,7 +53,7 @@ A maintenance contractor's apartment in the mid-tier hab-ring. Recycled air tast
 
 ---
 
-### Scene 1-C: First Contact with the Vanthara Truth
+### 3.3 — Scene 1-C: First Contact with the Vanthara Truth
 
 Kofi has arranged a meeting with Priya Selvaratnam at a communal eating area. She tests the agents with coded Vanthara Truth theological probes: the "first sky," the "second breath," the "returning current." SolSec training covers this material.
 
@@ -59,7 +66,7 @@ Kofi has arranged a meeting with Priya Selvaratnam at a communal eating area. Sh
 
 ---
 
-### Act 1 Complications
+### 3.4 — Act 1 Complications
 
 Roll 1D at any dramatically appropriate moment during Act 1 — on a failed skill check, during a tense transition between scenes, or when the referee wants to add pressure. Each complication is designed to cost time or attention without derailing the act.
 
@@ -74,7 +81,7 @@ Roll 1D at any dramatically appropriate moment during Act 1 — on a failed skil
 
 ---
 
-### Act 1 Resolution
+### 3.5 — Act 1 Resolution
 
 | Scenes Passed | Starting Position for Act 2 |
 |--------------|----------------------------|

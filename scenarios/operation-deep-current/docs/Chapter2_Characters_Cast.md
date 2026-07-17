@@ -1,4 +1,11 @@
-## PLAYER BRIEFING
+# TRAVELLER: OPERATION DEEP CURRENT
+## Chapter 2 — Cast of Characters & Skills
+
+*Operation Deep Current — Referee Reference Document*
+
+---
+
+## 2.1 — PLAYER BRIEFING
 
 *Read or paraphrase to players before play begins.*
 
@@ -18,7 +25,7 @@ Operational security is paramount. The *Far Horizon* departs in fourteen days.
 
 ---
 
-## CAST OF CHARACTERS
+## 2.2 — CAST OF CHARACTERS
 
 ---
 
@@ -231,7 +238,7 @@ The Gashiddan academic community has a wary, largely respectful relationship wit
 
 ---
 
-## SKILL REFERENCE TABLE
+## 2.3 — SKILL REFERENCE TABLE
 
 | Category | Skill | Acts Used | Notes |
 |----------|-------|-----------|-------|

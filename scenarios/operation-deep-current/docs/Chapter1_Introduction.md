@@ -1,5 +1,7 @@
-# OPERATION DEEP CURRENT
-### A Mongoose Traveller 2nd Edition Scenario
+# TRAVELLER: OPERATION DEEP CURRENT
+## Chapter 1 — Introduction & World Guide
+
+*Operation Deep Current — Referee Reference Document*
 
 ---
 
@@ -15,7 +17,7 @@
 
 ---
 
-## ATTRIBUTION KEY
+## 1.1 — ATTRIBUTION KEY
 
 > Content drawn from published sources is marked inline throughout this document using the following codes:
 >
@@ -25,7 +27,7 @@
 
 ---
 
-## HISTORICAL TIMELINE — GASHIDDA AND THE SOLOMANI FRONT
+## 1.2 — HISTORICAL TIMELINE — GASHIDDA AND THE SOLOMANI FRONT
 
 *This timeline provides essential context for the scenario. The year 1116 is chosen deliberately: the Third Imperium stands at the apparent height of its power, yet the Solomani Confederation has never stopped fighting — and in the corridors of SolSec, intelligence assessments from 1115 and early 1116 suggest something is shifting at the highest levels of Imperial politics. The agents do not know what. SolSec's analysts do not know what. But the briefings carry a new urgency that wasn't there two years ago.*
 
@@ -85,7 +87,7 @@
 
 ---
 
-## REFEREE OVERVIEW
+## 1.3 — REFEREE OVERVIEW
 
 Operation Deep Current is a social-heavy covert operations scenario in which the players portray SolSec field agents tasked with destabilising Imperial control over **Gashidda** through subversion — social, economic, and political — rather than violence. Gashidda is an Amber Zone under Imperial military occupation, its population deeply sympathetic to the Solomani Cause despite the defeat of all active resistance.
 
@@ -100,7 +102,7 @@ The scenario takes place primarily in **Makara**, one of Gashidda's largest unde
 
 ---
 
-## MILESTONE — SOURCE ARTIFACTS
+## 1.4 — MILESTONE — SOURCE ARTIFACTS
 
 > *The following entries record the key source details from the Solomani Front supplement (Mongoose Publishing, 2022) and the Hiroshima Colony supplement (Zozer Games, 2026) that informed this scenario's design.*
 
@@ -125,7 +127,7 @@ The scenario takes place primarily in **Makara**, one of Gashidda's largest unde
 
 ---
 
-## WORLD GUIDE — GASHIDDA AND MAKARA
+## 1.5 — WORLD GUIDE — GASHIDDA AND MAKARA
 
 **TravellerMap:** [Gashidda system — Dingir Subsector, Solomani Rim](https://travellermap.com/?p=8.227%21-106.5%217&style=mongoose)
 
