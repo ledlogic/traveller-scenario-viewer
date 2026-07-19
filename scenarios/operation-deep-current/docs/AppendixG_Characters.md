@@ -43,10 +43,10 @@ OPERATION DEEP CURRENT — PRE-GENERATED CHARACTERS
 
 ### Characteristics
 
-| STR | DEX | END | INT | EDU | SOC |
-|-----|-----|-----|-----|-----|-----|
-| 7 | 8 | 8 | 11 | 12 | 10 |
-|  +0 |  +0 |  +0 |  +1 |  +2 |  +1 |
+| | STR | DEX | END | INT | EDU | SOC |
+|--|-----|-----|-----|-----|-----|-----|
+| Score | 7 | 8 | 8 | 11 | 12 | 10 |
+| DM | +0 | +0 | +0 | +1 | +2 | +1 |
 
 *Aging checks applied at terms 3 and 4: no characteristic loss.*
 
@@ -58,12 +58,12 @@ OPERATION DEEP CURRENT — PRE-GENERATED CHARACTERS
 |-------|-----|-------|-----|
 | Admin | 2 | Advocate | 2 |
 | Carouse | 1 | Deception | 3 |
-| Electronics (computers) | 1 | Gun Combat (slug) | 1 |
-| Investigate | 2 | Language (Anglic) | 2 |
-| Language (Vilani) | 1 | Leadership | 2 |
-| Persuade | 3 | Recon | 1 |
-| Streetwise | 1 |  |  |*Gun Combat 1 from rank 4 (Special Agent) bonus.*
-
+| Electronics | 0 | Electronics (computers) | 1 |
+| Gun Combat | 0 | Gun Combat (slug) | 1 |
+| Investigate | 2 | Language | 0 |
+| Language (Anglic) | 2 | Language (Vilani) | 1 |
+| Leadership | 2 | Persuade | 3 |
+| Recon | 1 | Streetwise | 1 |
 ---
 
 ### Background Skills
@@ -132,7 +132,7 @@ Sera spent twelve years at SolSec's analytical division before requesting field 
 
 **Personality:** Controlled and warm in equal measure. She leads by giving her team the information they need to make their own decisions. She takes the mission's moral complexity seriously and will not pretend it isn't there.
 
-**Player Note:** Primary social operative and team spokesperson. Best placed to notice Kofi's psychological deterioration. Her personal history with the 1090 Makara Crisis is a role-play hook — the referee is encouraged to use it.
+**Player Note:** Primary social operative and team spokesperson. Best placed to notice Kofi's psychological deterioration. Her personal history with the 1090 Makara Crisis is a role-play hook — use it.
 
 ---
 
@@ -151,10 +151,10 @@ Sera spent twelve years at SolSec's analytical division before requesting field 
 
 ### Characteristics
 
-| STR | DEX | END | INT | EDU | SOC |
-|-----|-----|-----|-----|-----|-----|
-| 9 | 10 | 10 | 11 | 13 | 7 |
-|  +1 |  +1 |  +1 |  +1 |  +2 |  +0 |
+| | STR | DEX | END | INT | EDU | SOC |
+|--|-----|-----|-----|-----|-----|-----|
+| Score | 9 | 10 | 10 | 11 | 13 | 7 |
+| DM | +1 | +1 | +1 | +1 | +2 | +0 |
 
 *No aging checks required (under 34 at mustering out).*
 
@@ -164,13 +164,14 @@ Sera spent twelve years at SolSec's analytical division before requesting field 
 
 | Skill | Lvl | Skill | Lvl |
 |-------|-----|-------|-----|
-| Athletics (dexterity) | 1 | Deception | 1 |
+| Athletics | 0 | Athletics (dexterity) | 1 |
+| Deception | 1 | Electronics | 0 |
 | Electronics (computers) | 3 | Electronics (remote ops) | 1 |
-| Electronics (sensors) | 2 | Engineer (life support) | 2 |
-| Engineer (power) | 3 | Gun Combat (energy) | 1 |
-| Mechanic | 3 | Pilot (small craft) | 1 |
-| Vacc Suit | 1 |  |  |*Gun Combat (energy) 1 from Navy Rank 1 (Able Spacehand) bonus.*
-
+| Electronics (sensors) | 2 | Engineer | 0 |
+| Engineer (life support) | 2 | Engineer (power) | 3 |
+| Gun Combat | 0 | Gun Combat (energy) | 1 |
+| Mechanic | 3 | Pilot | 0 |
+| Pilot (small craft) | 1 | Vacc Suit | 1 |
 ---
 
 ### Background Skills
@@ -255,10 +256,10 @@ Two terms in the Imperial Navy gave Ikaika skills that SolSec found immediately 
 
 ### Characteristics
 
-| STR | DEX | END | INT | EDU | SOC |
-|-----|-----|-----|-----|-----|-----|
-| 10 | 12 | 11 | 9 | 8 | 7 |
-|  +1 |  +2 |  +1 |  +1 |  +0 |  +0 |
+| | STR | DEX | END | INT | EDU | SOC |
+|--|-----|-----|-----|-----|-----|-----|
+| Score | 10 | 12 | 11 | 9 | 8 | 7 |
+| DM | +1 | +2 | +1 | +1 | +0 | +0 |
 
 *No aging checks required (under 34 at mustering out).*
 
@@ -268,12 +269,13 @@ Two terms in the Imperial Navy gave Ikaika skills that SolSec found immediately 
 
 | Skill | Lvl | Skill | Lvl |
 |-------|-----|-------|-----|
-| Athletics (dexterity) | 3 | Athletics (strength) | 2 |
-| Deception | 1 | Electronics (sensors) | 1 |
-| Gun Combat (slug) | 2 | Melee (unarmed) | 2 |
+| Athletics | 0 | Athletics (dexterity) | 3 |
+| Athletics (strength) | 2 | Deception | 1 |
+| Electronics | 0 | Electronics (sensors) | 1 |
+| Gun Combat | 0 | Gun Combat (slug) | 2 |
+| Melee | 0 | Melee (unarmed) | 2 |
 | Recon | 3 | Stealth | 4 |
-| Streetwise | 1 | Survival | 2 |*Gun Combat (slug) 1 from Army Rank 0 (Private) bonus; Recon 1 from Army Rank 1 (Lance Corporal) bonus — both merged into higher career levels.*
-
+| Streetwise | 1 | Survival | 2 |
 ---
 
 ### Background Skills
@@ -357,10 +359,10 @@ Two terms as a Confederation Army recon specialist, two terms in SolSec field op
 
 ### Characteristics
 
-| STR | DEX | END | INT | EDU | SOC |
-|-----|-----|-----|-----|-----|-----|
-| 6 | 8 | 7 | 13 | 14 | 9 |
-|  +0 |  +0 |  +0 |  +2 |  +2 |  +1 |
+| | STR | DEX | END | INT | EDU | SOC |
+|--|-----|-----|-----|-----|-----|-----|
+| Score | 6 | 8 | 7 | 13 | 14 | 9 |
+| DM | +0 | +0 | +0 | +2 | +2 | +1 |
 
 *Aging check at term 4: no characteristic loss.*
 
@@ -372,11 +374,11 @@ Two terms as a Confederation Army recon specialist, two terms in SolSec field op
 |-------|-----|-------|-----|
 | Admin | 3 | Advocate | 2 |
 | Broker | 4 | Carouse | 1 |
-| Deception | 3 | Electronics (computers) | 2 |
+| Deception | 3 | Electronics | 0 |
+| Electronics (computers) | 2 | Gun Combat | 0 |
 | Gun Combat (slug) | 1 | Investigate | 3 |
-| Language (Gashiddan dialect) | 2 | Persuade | 2 |
-| Streetwise | 1 |  |  |---
-
+| Language | 0 | Language (Gashiddan dialect) | 2 |
+| Persuade | 2 | | |
 ### Background Skills
 *EDU 14 → 4 background skills. Born on Gashidda (ocean world, high population, occupied) — grew up in the Confederation from age 9 (corporate high-pop world).*
 
@@ -461,10 +463,10 @@ Ananya was born on Gashidda, in Makara, before her family emigrated to the Confe
 
 ### Characteristics
 
-| STR | DEX | END | INT | EDU | SOC |
-|-----|-----|-----|-----|-----|-----|
-| 8 | 11 | 10 | 9 | 7 | 8 |
-|  +0 |  +1 |  +1 |  +1 |  +0 |  +0 |
+| | STR | DEX | END | INT | EDU | SOC |
+|--|-----|-----|-----|-----|-----|-----|
+| Score | 8 | 11 | 10 | 9 | 7 | 8 |
+| DM | +0 | +1 | +1 | +1 | +0 | +0 |
 
 *No aging checks required.*
 
@@ -474,13 +476,14 @@ Ananya was born on Gashidda, in Makara, before her family emigrated to the Confe
 
 | Skill | Lvl | Skill | Lvl |
 |-------|-----|-------|-----|
-| Athletics (dexterity) | 2 | Broker | 2 |
-| Carouse | 3 | Deception | 2 |
-| Gambler | 1 | Gun Combat (slug) | 1 |
-| Mechanic | 1 | Pilot (watercraft) | 3 |
-| Recon | 1 | Seafarer (submarine) | 1 |
-| Stealth | 2 | Streetwise | 3 |*Seafarer (submarine) 1 added to reflect three years operating submersibles as a paid informant — directly relevant to REEF LIGHT.*
-
+| Athletics | 0 | Athletics (dexterity) | 2 |
+| Broker | 2 | Carouse | 3 |
+| Deception | 2 | Gambler | 1 |
+| Gun Combat | 0 | Gun Combat (slug) | 1 |
+| Mechanic | 1 | Pilot | 0 |
+| Pilot (watercraft) | 3 | Recon | 1 |
+| Seafarer | 0 | Seafarer (submarine) | 1 |
+| Stealth | 2 | Streetwise | 3 |
 ---
 
 ### Background Skills
@@ -562,10 +565,10 @@ Tern spent two terms drifting — working cargo, submersibles, and whatever paid
 
 ### Characteristics
 
-| STR | DEX | END | INT | EDU | SOC |
-|-----|-----|-----|-----|-----|-----|
-| 12 | 9 | 12 | 9 | 10 | 7 |
-|  +2 |  +1 |  +2 |  +1 |  +1 |  +0 |
+| | STR | DEX | END | INT | EDU | SOC |
+|--|-----|-----|-----|-----|-----|-----|
+| Score | 12 | 9 | 12 | 9 | 10 | 7 |
+| DM | +2 | +1 | +2 | +1 | +1 | +0 |
 
 *Aging check at term 4: no characteristic loss.*
 
@@ -575,13 +578,14 @@ Tern spent two terms drifting — working cargo, submersibles, and whatever paid
 
 | Skill | Lvl | Skill | Lvl |
 |-------|-----|-------|-----|
-| Athletics (dexterity) | 2 | Athletics (strength) | 3 |
-| Electronics (sensors) | 1 | Gun Combat (slug) | 3 |
-| Medic | 3 | Melee (unarmed) | 3 |
+| Athletics | 0 | Athletics (dexterity) | 2 |
+| Athletics (strength) | 3 | Electronics | 0 |
+| Electronics (sensors) | 1 | Gun Combat | 0 |
+| Gun Combat (slug) | 3 | Medic | 3 |
+| Melee | 0 | Melee (unarmed) | 3 |
 | Recon | 1 | Stealth | 1 |
-| Survival | 1 | Tactics (military) | 2 |
-| Vacc Suit | 1 |  |  |*Gun Combat (slug) 1 from Marine Rank 0 bonus — merged into career level 3.*
-
+| Survival | 1 | Tactics | 0 |
+| Tactics (military) | 2 | Vacc Suit | 1 |
 ---
 
 ### Background Skills
