@@ -67,7 +67,7 @@ At TL E the Driftweb has attracted significant commercial interest as a biofuel 
 | 1 | +13°C | +17°C | +7°C |
 | 0 (equatorial) | +20°C | +20°C | +20°C |
 
-**Referee notes on the temperature profile:**
+**Temperature profile notes:**
 
 The equatorial band (rows 0–1) is thermally stable year-round — the ocean buffers seasonal swing almost entirely at the equator, where the Shelf Architect reef platform and New Mondulkiri sit. Surface temperatures here range from 13°C to 22°C depending on latitude and season — cool temperate, perpetually overcast, with a grey-green sky filtered through biological aerosols and cloud cover driven by the warm-cold ocean boundary. This is why the equatorial reef shelf supports complex biology and human habitation without environmental gear.
 
@@ -81,7 +81,7 @@ Low gravity shapes everything about Gashidda and its people in ways the agents w
 
 The Gashiddan population — particularly those whose families have lived here for multiple generations — are visibly adapted: lean, long-limbed, with the light bone density and fluid movement of people who have never had to fight gravity the way standard-world inhabitants do. Tarquin's physical presence owes something to this; he is large by Gashiddan standards, which means something different here than it would elsewhere. Harada moves through the reactor complex with an economy of motion that is partly professional habit and partly the unselfconscious grace of someone born into 0.45G.
 
-The agents, most of them from standard-gravity worlds, will feel the difference. Movement is slightly floaty. Jumps carry further than expected. Thrown objects arc differently. The referee should not make this a mechanical burden — no penalties unless characters are actively doing something gravity-sensitive — but should use it as texture. A character who overcorrects on a leap in the lower industrial tier during Act 3 is a small, vivid detail that costs nothing and earns the table something.
+The agents, most of them from standard-gravity worlds, will feel the difference. Movement is slightly floaty. Jumps carry further than expected. Thrown objects arc differently. you should not make this a mechanical burden — no penalties unless characters are actively doing something gravity-sensitive — but should use it as texture. A character who overcorrects on a leap in the lower industrial tier during Act 3 is a small, vivid detail that costs nothing and earns the table something.
 
 **Low-gravity and cover identity:** Long-term Gashiddan residents can spot off-worlders by how they move. Not reliably, not as a skill check, but as a social tell. The agents have been briefed on this. Moving consciously in 0.45G is something they can train — Athletics (dexterity) 8+ as a one-time check at the start of the scenario represents whether each agent has calibrated well enough to pass casual observation. Failure doesn't blow cover; it just means a Gashiddan who is paying attention might remark that the survey crew moves like people who grew up somewhere heavier.
 

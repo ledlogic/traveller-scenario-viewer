@@ -279,7 +279,7 @@ The Microwheel is a standard **sample collection canister with integrated micro-
 
 *(Cross-reference: Operation Deep Current Gashidda Bestiary — Void Mantle full profile)*
 
-The Void Mantle's predatory grip on a small submersible is one of the distinctive hazard scenarios in the Deep Current campaign. This section provides consolidated game mechanics for referee use.
+The Void Mantle's predatory grip on a small submersible is one of the distinctive hazard scenarios in the Deep Current campaign. This section provides consolidated game mechanics .
 
 ### F.3.1 — Can the Void Mantle Crush a Carbon-Composite Hull?
 
@@ -393,7 +393,7 @@ The atmosphere processor described here is an early-development-stage system des
 
 ```
 INLET → HARVESTER → (PFR Reactor) → JET → EXHAUST → AFTERBURNER
-  I         H              J          E        A
+ I H J E A
 ```
 
 **Full expansion:**
@@ -456,9 +456,9 @@ The IHJEA processor is primarily background in the Operation Deep Current scenar
 
 ---
 
-**Citation:** *Hiroshima: Corporate Exploitation on a Poison-Planet* by Etges Press.  
-An unofficial worldbook for the **Hostile** RPG by Zozer Games, written for Cepheus Engine.  
-Free to access. All content is Open Game Content except Hostile setting proper nouns.  
+**Citation:** *Hiroshima: Corporate Exploitation on a Poison-Planet* by Etges Press. 
+An unofficial worldbook for the **Hostile** RPG by Zozer Games, written for Cepheus Engine. 
+Free to access. All content is Open Game Content except Hostile setting proper nouns. 
 Author: Etges Press. © 2026 Zozer Games (Hostile setting); Etges Press (this supplement).
 
 **System note:** Hiroshima is Cepheus Engine, not MGT2e. Stat blocks in that supplement use Cepheus conventions (STR/DEX/END expressed as modifiers, Attack/Flee notation, speed as multiples). Where Hiroshima creatures are cited below, MGT2e equivalents are provided for cross-system use.
@@ -535,5 +535,5 @@ The Burrow Serpent is a desert apex predator with no direct Gashidda analogue. I
 ---
 
 *Water Vehicles, Equipment & Cross-References*
-*Operation Deep Current — Referee Document*
+
 *Mongoose Traveller 2nd Edition — Imperial Year 1116*

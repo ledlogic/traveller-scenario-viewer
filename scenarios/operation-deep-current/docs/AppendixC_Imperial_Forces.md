@@ -36,33 +36,33 @@ External colour is the **grey-green anti-corrosion coating** standard to Imperia
 The station is divided into **five operational levels** plus a basement mechanical section. Levels are numbered from the bottom (Level 1 = deepest) to the top (Level 5 = surface platform).
 
 ```
-┌─────────────────────────────────────────┐  ← SURFACE
-│  LEVEL 5 — SURFACE PLATFORM             │  8m above waterline
-│  Landing pad · Sensor masts · Turret    │
-│  Comms dome · External access hatches   │  Diameter: 12m external
-├─────────────────────────────────────────┤  ← WATERLINE
-│  LEVEL 4 — COMMAND AND WATCH            │  2m above waterline
-│  Operations centre · Watch station      │  (pressurised; flood risk
-│  Duty officer quarters · Armoury        │   in storm conditions)
+┌─────────────────────────────────────────┐ ← SURFACE
+│ LEVEL 5 — SURFACE PLATFORM │ 8m above waterline
+│ Landing pad · Sensor masts · Turret │
+│ Comms dome · External access hatches │ Diameter: 12m external
+├─────────────────────────────────────────┤ ← WATERLINE
+│ LEVEL 4 — COMMAND AND WATCH │ 2m above waterline
+│ Operations centre · Watch station │ (pressurised; flood risk
+│ Duty officer quarters · Armoury │ in storm conditions)
 ├─────────────────────────────────────────┤
-│  LEVEL 3 — CREW QUARTERS AND SUPPORT   │  4m below waterline
-│  Berthing (8 bunks) · Galley           │
-│  Medical bay · Escape pod bay          │
+│ LEVEL 3 — CREW QUARTERS AND SUPPORT │ 4m below waterline
+│ Berthing (8 bunks) · Galley │
+│ Medical bay · Escape pod bay │
 ├─────────────────────────────────────────┤
-│  LEVEL 2 — ENGINEERING AND ACCESS      │  8m below waterline
-│  Docking collars (×2) · Airlock        │
-│  Power plant · Life support            │
-│  Wet storage · Equipment lockers       │
+│ LEVEL 2 — ENGINEERING AND ACCESS │ 8m below waterline
+│ Docking collars (×2) · Airlock │
+│ Power plant · Life support │
+│ Wet storage · Equipment lockers │
 ├─────────────────────────────────────────┤
-│  LEVEL 1 — SENSOR CORE                 │  14m below waterline
-│  Primary sonar array processing        │
-│  Data archive · Signal intelligence    │
-│  Hardline cable terminus               │
+│ LEVEL 1 — SENSOR CORE │ 14m below waterline
+│ Primary sonar array processing │
+│ Data archive · Signal intelligence │
+│ Hardline cable terminus │
 ├─────────────────────────────────────────┤
-│  MECHANICAL BASEMENT                   │  20m below waterline
-│  Anchor system · Secondary power       │  (not normally accessed;
-│  Ballast tanks · Reef anchor bolts     │   maintenance hatch only)
-└─────────────────────────────────────────┘  ← REEF CAP (80–120m depth)
+│ MECHANICAL BASEMENT │ 20m below waterline
+│ Anchor system · Secondary power │ (not normally accessed;
+│ Ballast tanks · Reef anchor bolts │ maintenance hatch only)
+└─────────────────────────────────────────┘ ← REEF CAP (80–120m depth)
 ```
 
 ---
@@ -89,7 +89,7 @@ The operational heart of the station. A circular compartment divided into three 
 
 *Armoury* (east alcove): Weapons locker (biometric, same code as primary hatch). Standard loadout: 4 × ACR with underslung grenade launcher (4D frag, 4D stun rounds, 4 each), 2 × snub pistol, 4 × combination mask, 4 × cloth armour vest, 1 × PGMP-12 (locked separately; requires two-person authentication). `[MGT2]` The PGMP is present because the station's rules of engagement explicitly cover the possibility of capturing hostile vessels attempting to board — it is a deterrent, not expected to be used in the confined interior.
 
-**Referee note — PGMP inside a pressure hull:** The PGMP deals 2DD damage (roll 2D then double the result — average 14, maximum 24). In open field conditions this makes it a crew-served anti-armour weapon. Inside RSP-7-G it is effectively a last resort that destroys the station along with everything in it. The compartments are 10m diameter at most; plasma discharge at that range superheats the atmosphere, risks rupturing internal conduits and life support plumbing, and creates fire and pressure hazard in a sealed environment with no external venting. Any crew member who fires a PGMP inside the station has committed to killing everyone aboard including themselves. The duty watch knows this. The PGMP's presence in the armoury is about signalling to boarders what the crew are *prepared* to do — not what they *intend* to do. A referee who wants to raise the stakes in the final phase of a boarding encounter can have the duty officer unlock the PGMP safe on hard alert and let the players see it happen.
+**PGMP inside a pressure hull:** The PGMP deals 2DD damage (roll 2D then double the result — average 14, maximum 24). In open field conditions this makes it a crew-served anti-armour weapon. Inside RSP-7-G it is effectively a last resort that destroys the station along with everything in it. The compartments are 10m diameter at most; plasma discharge at that range superheats the atmosphere, risks rupturing internal conduits and life support plumbing, and creates fire and pressure hazard in a sealed environment with no external venting. Any crew member who fires a PGMP inside the station has committed to killing everyone aboard including themselves. The duty watch knows this. The PGMP's presence in the armoury is about signalling to boarders what the crew are *prepared* to do — not what they *intend* to do. To raise the stakes in the final phase of a boarding encounter have the duty officer unlock the PGMP safe on hard alert and let the players see it happen.
 
 *Stairwell* and *ladder access* connect Level 4 to Level 3 (down) and Level 5 (up). The stairwell is 0.9m wide.
 
@@ -192,7 +192,7 @@ For a group that chooses to go in hard — accepting that stealth is over and th
 
 **Loud Entry Cost:** New Mondulkiri response vessel (Shafin-class) launches immediately on naval base alert. **25–30 minutes** to station arrival at maximum speed. Extraction window is hard. Voss Suspicion track goes to 5 automatically. Any future scenario appearance at New Mondulkiri requires new cover identities.
 
-**Combat Note — confined spaces:** The station's 10m diameter compartments make ranged combat at Medium range the maximum. ACRs are slightly unwieldy (−1 to hit in confined quarters at referee's discretion). Snub pistols and melee are better suited. The duty officer knows this — she will try to close to melee range with the PGMP rather than fire it, using it as a threat rather than a weapon. She is not suicidal.
+**Combat Note — confined spaces:** The station's 10m diameter compartments make ranged combat at Medium range the maximum. ACRs are slightly unwieldy (−1 to hit in confined quarters at your discretion). Snub pistols and melee are better suited. The duty officer knows this — she will try to close to melee range with the PGMP rather than fire it, using it as a threat rather than a weapon. She is not suicidal.
 
 **The PGMP moment:** If the duty officer reaches the PGMP safe and opens it, the room changes. She holds 2DD average-14 damage in a confined space and everyone in the room knows what happens if she fires it. This is the scenario's highest-stakes negotiation moment. What does she want? She wants her crew alive and the station intact. What do the agents want? The archive. There is a deal here if someone thinks to make it.
 
@@ -242,7 +242,7 @@ A successful extraction of the RSP-7-G data archive yields the following, graded
 
 ### C.1.10 — Connections to the Main Scenario
 
-**REEF LIGHT upgrade:** RSP-7-G boarding can replace or significantly enhance the REEF LIGHT photography mission. The patrol schedule data recovered from the archive is what allows the agents to time the REEF LIGHT submersible approach safely in the first place — making it a natural prequel to the shipyard photography, if the referee wants to add a multi-stage operation.
+**REEF LIGHT upgrade:** RSP-7-G boarding can replace or significantly enhance the REEF LIGHT photography mission. The patrol schedule data recovered from the archive is what allows the agents to time the REEF LIGHT submersible approach safely in the first place — making it a natural prequel to the shipyard photography, if if you want to add a multi-stage operation.
 
 **Three-Fin Valdez:** Already the agents' submersible pilot for REEF LIGHT. She knows the outer reef shelf well enough to approach RSP-7-G from below. She will not board — she stays with the submersible — but her local knowledge gives DM+1 to the approach navigation check.
 
@@ -275,38 +275,38 @@ A successful extraction of the RSP-7-G data archive yields the following, graded
 **Sources:**
 
 - *Solomani Front*, Martin J. Dougherty, Mongoose Publishing, 2022 (MGP40051). Cited as `[SF]`.
-  - p.14 — Vegan Autonomous District overview; Vegan sophont description
-  - p.18–19 — SolSec operational doctrine and structure in occupied Imperial territory
-  - p.26–27 — SolSec Internal and External Directorates; infiltration methodology
-  - p.83 — Ling Standard Products corporate profile
-  - p.91 — Seaharvester LIC corporate description and marine exploitation operations
-  - p.95 — Makara Crisis 1090; Confederation resistance networks on Gashidda
-  - p.115 — Naval vessel disposition doctrine; subsector fleet composition
-  - p.180 — Dingir subsector table; Gashidda UWP listing (A56A969-E)
-  - p.185–187 — Gashidda world description; New Mondulkiri; gikhi; Imperial Navy base; Imperial Army occupation figures (160,000 NAFCOM troops); Vanthara Noy; Vanthara Truth movement; Makara undersea arcology
+ - p.14 — Vegan Autonomous District overview; Vegan sophont description
+ - p.18–19 — SolSec operational doctrine and structure in occupied Imperial territory
+ - p.26–27 — SolSec Internal and External Directorates; infiltration methodology
+ - p.83 — Ling Standard Products corporate profile
+ - p.91 — Seaharvester LIC corporate description and marine exploitation operations
+ - p.95 — Makara Crisis 1090; Confederation resistance networks on Gashidda
+ - p.115 — Naval vessel disposition doctrine; subsector fleet composition
+ - p.180 — Dingir subsector table; Gashidda UWP listing (A56A969-E)
+ - p.185–187 — Gashidda world description; New Mondulkiri; gikhi; Imperial Navy base; Imperial Army occupation figures (160,000 NAFCOM troops); Vanthara Noy; Vanthara Truth movement; Makara undersea arcology
 
 - *Hiroshima Colony*, Paul Elliott, Zozer Games, 2026. Cited as `[HC]`.
-  - p.9–10 — Corporate infrastructure control in colonial habitat environments; industrial hazard protocols as everyday life; economy actors in sealed habitat social structures
+ - p.9–10 — Corporate infrastructure control in colonial habitat environments; industrial hazard protocols as everyday life; economy actors in sealed habitat social structures
 
 - *Specialist Forces*, M.J. Dougherty, Mongoose Publishing. Cited as `[SF2]`.
-  - p.4 — Recon specialist doctrine; reconnaissance-before-strike methodology
-  - p.15 — Intelligence commando role and training profile
-  - p.17 — Pinch mechanic; small-scale intelligence raids
-  - p.84 — Armed Security Cordon and Sweep mechanics
-  - p.91 — General Intelligence Indicator (GII) system; intelligence degradation rules
+ - p.4 — Recon specialist doctrine; reconnaissance-before-strike methodology
+ - p.15 — Intelligence commando role and training profile
+ - p.17 — Pinch mechanic; small-scale intelligence raids
+ - p.84 — Armed Security Cordon and Sweep mechanics
+ - p.91 — General Intelligence Indicator (GII) system; intelligence degradation rules
 
 - *Central Supply Catalogue Update 2023*, Mongoose Publishing. Cited as `[CSC]`.
-  - p.23 — Rebreather equipment
-  - p.97 — Combination mask (Cr200)
-  - p.98 — Artificial gills; underwater breathing equipment overview
-  - p.111 — Deep-diving suit specifications
-  - p.113 — Underwater air tanks
+ - p.23 — Rebreather equipment
+ - p.97 — Combination mask (Cr200)
+ - p.98 — Artificial gills; underwater breathing equipment overview
+ - p.111 — Deep-diving suit specifications
+ - p.113 — Underwater air tanks
 
 - *Mongoose Traveller 2nd Edition Core Rulebook Update 2022*, Mongoose Publishing. Cited as `[MGT2]`.
-  - p.67 — Heavy Weapons skill
-  - p.101 — Cloth armour
-  - p.123–125 — Personal weapons table; snub pistol stats
-  - p.132 — PGMP (Plasma Gun, Man Portable); grenade launcher; ACR — heavy weapons table
+ - p.67 — Heavy Weapons skill
+ - p.101 — Cloth armour
+ - p.123–125 — Personal weapons table; snub pistol stats
+ - p.132 — PGMP (Plasma Gun, Man Portable); grenade launcher; ACR — heavy weapons table
 
 - *"My Gawd, It's Full of Slugs"* (companion scenario, draft) — Organism MG-2023-15 origin, Macrogenesis corporation, biofiber material context. No page reference (draft manuscript).
 

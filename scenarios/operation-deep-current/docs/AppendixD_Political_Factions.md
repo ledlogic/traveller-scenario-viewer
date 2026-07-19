@@ -53,7 +53,7 @@ This is also why the scenario's moral texture is what it is. The Vanthara Truth 
 
 ---
 
-### D.1.6 — Referee Notes — Using This in Play
+### D.1.6 — Using This in Play
 
 The Vanthara Truth should feel like a real institution, not an asset. Its members have lives, beliefs, and community obligations that exist entirely independently of SolSec's operational needs. The twice-daily Deep Bell migration observance is a genuine religious practice. The grief over Tenzin's death is genuine. The ordinary Gashiddans who attend Vanthara Truth meetings are not Solomani militants — they are people trying to maintain cultural identity under occupation.
 
@@ -225,7 +225,7 @@ The commander of the covert operation makes a **Tactics (military) or Deception 
 | +3 to +5 | She suspects an operation occurred but cannot confirm |
 | +6 or more | She is unaware the operation took place |
 
-**Referee guidance:** Roll this after each primary objective is completed. Results accumulate — a +2 on TIDE MARK and a –1 on REEF LIGHT leaves Voss with partial suspicion she must resolve. This feeds directly into the Voss Suspicion Track in the main scenario body.
+Roll this after each primary objective is completed. Results accumulate — a +2 on TIDE MARK and a –1 on REEF LIGHT leaves Voss with partial suspicion she must resolve. This feeds directly into the Voss Suspicion Track in the main scenario body.
 
 ---
 

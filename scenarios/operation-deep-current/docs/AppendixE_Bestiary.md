@@ -1,8 +1,8 @@
 # APPENDIX E — GASHIDDA BESTIARY
 
-**World:** Gashidda (UWP: A56A969-E) · Dingir Subsector · Solomani Rim  
-**Environment:** Cool water world; equatorial reef shelf (depth 20m–4,000m); lower atmosphere (0–12km)  
-**Compiled by:** Makara Arcology Marine Science Institute, Imperial Survey Branch  
+**World:** Gashidda (UWP: A56A969-E) · Dingir Subsector · Solomani Rim 
+**Environment:** Cool water world; equatorial reef shelf (depth 20m–4,000m); lower atmosphere (0–12km) 
+**Compiled by:** Makara Arcology Marine Science Institute, Imperial Survey Branch 
 **Classification standard:** Third Imperium Xenobiological Registry (TIXReg)
 
 ---
@@ -37,10 +37,10 @@ Four ecological zones are relevant to this bestiary:
 ### E.2.0 — DRIFTWEB
 *Gashidda Atmospheric Filament Algae · Filamentophyta atmospherica gashiddana*
 
-**Ecological Zone:** Lower and mid atmosphere (2–12km altitude)  
-**Size:** Individual filaments 0.1–4mm diameter, 2–80cm length; mat structures up to several metres across  
-**Behaviour:** Passive suspension; photosynthetic; colonial aggregation in thermal updraft zones  
-**Threat Level:** None (non-motile microorganism)  
+**Ecological Zone:** Lower and mid atmosphere (2–12km altitude) 
+**Size:** Individual filaments 0.1–4mm diameter, 2–80cm length; mat structures up to several metres across 
+**Behaviour:** Passive suspension; photosynthetic; colonial aggregation in thermal updraft zones 
+**Threat Level:** None (non-motile microorganism) 
 **Commercial Value:** ★★★★☆ — Emerging biofuel feedstock; significant industrial interest at TL E
 
 ---
@@ -71,7 +71,7 @@ The Wheel of Earth movement takes this further. In Wheel theology the Driftweb i
 
 *Navigational:* Any scene involving atmospheric flight or vehicle transit should note that the Driftweb layer at 4–8km provides sensor cover. A chase scene, an extraction flight, or an emergency transit could legitimately use the Driftweb layer as cover — at the cost of some navigational precision and at the risk of engine fouling if intake filters are not maintained.
 
-*Plot hook:* Seluun Mian-Ashta's research interests, as noted in the scenario, extend to novel organic chemistry. The Driftweb lipid fraction has properties — specifically its atmospheric stability across the temperature and pressure range of Gashidda's weather systems — that interest Vegan biochemists for reasons that go beyond fuel applications. What exactly those reasons are is left to the referee.
+*Plot hook:* Seluun Mian-Ashta's research interests, as noted in the scenario, extend to novel organic chemistry. The Driftweb lipid fraction has properties — specifically its atmospheric stability across the temperature and pressure range of Gashidda's weather systems — that interest Vegan biochemists for reasons that go beyond fuel applications. What exactly those reasons are is left to you.
 
 ---
 
@@ -84,10 +84,10 @@ The Wheel of Earth movement takes this further. In Wheel theology the Driftweb i
 ### E.2.1 — GIKHI
 *Gashidda Common Reef Eel · Elongichthys gashiddanus*
 
-**Ecological Zone:** Shelf Shallows and Mid-Shelf (0–800m)  
-**Size:** 1.2–2.4m length; 8–22kg  
-**Behaviour:** Semi-territorial; forms loose feeding aggregations  
-**Threat Level:** Negligible (non-aggressive unless cornered)  
+**Ecological Zone:** Shelf Shallows and Mid-Shelf (0–800m) 
+**Size:** 1.2–2.4m length; 8–22kg 
+**Behaviour:** Semi-territorial; forms loose feeding aggregations 
+**Threat Level:** Negligible (non-aggressive unless cornered) 
 **Commercial Value:** ★★★★★ — Primary protein export; eggs are a subsector luxury delicacy
 
 ---
@@ -113,10 +113,10 @@ Gikhi eggs — laid in clutches of 200–400 in deep reef crevices — are appro
 ### E.2.2 — REEF LANTERN
 *Aggregating Colonial Polyp · Luminocolonia makara*
 
-**Ecological Zone:** Mid-Shelf reef columns (200–2,000m)  
-**Size:** Individual polyp 2–4mm; colonies form structures 0.5m–40m tall  
-**Behaviour:** Sessile filter feeder; colonial organism  
-**Threat Level:** None  
+**Ecological Zone:** Mid-Shelf reef columns (200–2,000m) 
+**Size:** Individual polyp 2–4mm; colonies form structures 0.5m–40m tall 
+**Behaviour:** Sessile filter feeder; colonial organism 
+**Threat Level:** None 
 **Commercial Value:** ★★ — Bioluminescent compounds used in medical imaging; reef-column tourism (pre-occupation); arcology aesthetic lighting extracts
 
 ---
@@ -144,10 +144,10 @@ Imperial development pressures have damaged reef lantern colonies near the New M
 ### E.2.3 — VOID MANTLE
 *Pelagic Ambush Predator · Abyssocephalus velatus*
 
-**Ecological Zone:** Mid-Shelf open water adjacent to reef columns (400–1,800m)  
-**Size:** Bell diameter 0.8–3.2m; trailing tentacle curtain 4–12m  
-**Behaviour:** Solitary ambush predator; nearly invisible at rest  
-**Threat Level:** ★★★ — Dangerous to unprotected divers; tentacles cause severe tissue necrosis  
+**Ecological Zone:** Mid-Shelf open water adjacent to reef columns (400–1,800m) 
+**Size:** Bell diameter 0.8–3.2m; trailing tentacle curtain 4–12m 
+**Behaviour:** Solitary ambush predator; nearly invisible at rest 
+**Threat Level:** ★★★ — Dangerous to unprotected divers; tentacles cause severe tissue necrosis 
 **Commercial Value:** ★ — Tentacle toxin compounds under medical research; not commercially harvested
 
 ---
@@ -160,7 +160,7 @@ The bell's upper surface is lined with chemoreceptors of extraordinary sensitivi
 
 The Void Mantle's bell does produce bioluminescence, but only during feeding or apparent stress — a sudden bloom of deep violet-purple light across the bell surface that diving contractors call "the bloom." Seeing the bloom from outside the tentacle radius is a survival warning. Seeing it from inside is typically a sign that the situation has already deteriorated.
 
-**Game Notes:**  
+**Game Notes:** 
 - **Detection:** Recon 10+ (Difficult) to spot a motionless Void Mantle before entering tentacle range. DM+2 if the diver is specifically watching for fauna displacement patterns. DM–2 in low-visibility conditions or if distracted.
 - **Tentacle contact:** END 8+ or suffer the following: immediate 2D damage; Medic 8+ within 10 minutes to neutralise spreading tissue necrosis (otherwise 1D damage/hour for 1D6 hours); DEX–2 for 2D hours from early systemic effects.
 - **Avoidance:** A motionless diver who has not yet contacted tentacles and who does not exhale bubbles (sealed rebreather required) may avoid triggering the contraction reflex: Athletics (dexterity) 8+ to back out slowly.
@@ -177,10 +177,10 @@ The Void Mantle's bell does produce bioluminescence, but only during feeding or 
 ### E.2.4 — DEEP BELL
 *Schooling Mid-Water Grazer · Bathypelagus campanulus*
 
-**Ecological Zone:** Mid-Shelf and Shelf Shallows (50–1,200m; vertical migration)  
-**Size:** Individual 15–35cm bell diameter  
-**Behaviour:** Schools of 500–50,000 individuals; daily vertical migration  
-**Threat Level:** None  
+**Ecological Zone:** Mid-Shelf and Shelf Shallows (50–1,200m; vertical migration) 
+**Size:** Individual 15–35cm bell diameter 
+**Behaviour:** Schools of 500–50,000 individuals; daily vertical migration 
+**Threat Level:** None 
 **Commercial Value:** ★★★ — Significant food source for commercially harvested species; bell-tissue used in filter membrane manufacturing; photogenic (pre-occupation tourism)
 
 ---
@@ -208,10 +208,10 @@ The blue drift is also a significant cultural and emotional reference for Gashid
 ### E.2.5 — SHELF ARCHITECT
 *Reef-Building Colonial Organism · Constructans gashiddanus*
 
-**Ecological Zone:** Shelf bedrock and column bases (200–600m)  
-**Size:** Individual organism microscopic; colony masses 0.1m–several tonnes  
-**Behaviour:** Sessile; chemosynthetic and filter-feeding  
-**Threat Level:** None directly — colony edge structures are razor-sharp  
+**Ecological Zone:** Shelf bedrock and column bases (200–600m) 
+**Size:** Individual organism microscopic; colony masses 0.1m–several tonnes 
+**Behaviour:** Sessile; chemosynthetic and filter-feeding 
+**Threat Level:** None directly — colony edge structures are razor-sharp 
 **Commercial Value:** ★★★★ — Shell-mineral compounds used in high-tensile construction materials; primary structural substrate of the undersea arcologies
 
 ---
@@ -239,10 +239,10 @@ Active colony growth is visually identifiable by a faint orange-brown biofilm on
 ### E.2.6 — THERMAL ANGEL
 *Deep Vent Chemosynthetic Swimmer · Thermovola gashiddanus*
 
-**Ecological Zone:** Deep Vent Fields (1,500–4,000m)  
-**Size:** 0.6–1.1m wingspan equivalent; body mass 0.4–1.2kg  
-**Behaviour:** Solitary; closely associated with geothermal vent systems  
-**Threat Level:** ★ — Defensive electric discharge if handled; not aggressive  
+**Ecological Zone:** Deep Vent Fields (1,500–4,000m) 
+**Size:** 0.6–1.1m wingspan equivalent; body mass 0.4–1.2kg 
+**Behaviour:** Solitary; closely associated with geothermal vent systems 
+**Threat Level:** ★ — Defensive electric discharge if handled; not aggressive 
 **Commercial Value:** ★★ — Bioelectric compounds under research; vent-zone survey indicator organism; extreme rarity makes harvest uneconomic and legally restricted
 
 ---
@@ -285,40 +285,40 @@ The electric discharge it produces when physically handled is approximately 40�
 ## E.4 — ECOLOGICAL RELATIONSHIP DIAGRAM
 
 ```
-  ATMOSPHERE (2–12km altitude)
-  ┌──────────────────────────────────────┐
-  │  Driftweb (filament algae)           │◄── photosynthetic; O2 producer
-  │  ← scoop-jet harvest zone 4–8km →   │    lipid fraction → biofuel
-  └──────────────┬───────────────────────┘
-                 │ precipitation / spore fall
-                 ▼
-  SURFACE / SHALLOWS (0–200m)
-  ┌─────────────────────────────────┐
-  │  Reef Consumer MG-2023-15       │◄── eutrophic regulator
-  │  Gikhi (predator)               │◄── feeds on reef invertebrates
-  │  Deep Bell (grazer)             │◄── feeds on reef lantern compounds
-  └──────────┬──────────────────────┘
-             │ migration path
-             ▼
-  MID-SHELF REEF COLUMNS (200–1,800m)
-  ┌────────────────────────────────┐
-  │  Reef Lantern (colonial base)  │◄── foundation species
-  │  Shelf Architect (structural)  │◄── builds the reef substrate
-  │  Void Mantle (apex ambush)     │◄── feeds on gikhi, deep bell
-  │  Deep Bell (migrating grazer)  │
-  └──────────────┬─────────────────┘
-                 │
-                 ▼
-  DEEP VENT FIELDS (1,500m–4,000m)
-  ┌──────────────────────────┐
-  │  Thermal Angel (vent     │◄── chemosynthetic; vent-dependent
-  │  associated swimmer)     │
-  └──────────────────────────┘
+ ATMOSPHERE (2–12km altitude)
+ ┌──────────────────────────────────────┐
+ │ Driftweb (filament algae) │◄── photosynthetic; O2 producer
+ │ ← scoop-jet harvest zone 4–8km → │ lipid fraction → biofuel
+ └──────────────┬───────────────────────┘
+ │ precipitation / spore fall
+ ▼
+ SURFACE / SHALLOWS (0–200m)
+ ┌─────────────────────────────────┐
+ │ Reef Consumer MG-2023-15 │◄── eutrophic regulator
+ │ Gikhi (predator) │◄── feeds on reef invertebrates
+ │ Deep Bell (grazer) │◄── feeds on reef lantern compounds
+ └──────────┬──────────────────────┘
+ │ migration path
+ ▼
+ MID-SHELF REEF COLUMNS (200–1,800m)
+ ┌────────────────────────────────┐
+ │ Reef Lantern (colonial base) │◄── foundation species
+ │ Shelf Architect (structural) │◄── builds the reef substrate
+ │ Void Mantle (apex ambush) │◄── feeds on gikhi, deep bell
+ │ Deep Bell (migrating grazer) │
+ └──────────────┬─────────────────┘
+ │
+ ▼
+ DEEP VENT FIELDS (1,500m–4,000m)
+ ┌──────────────────────────┐
+ │ Thermal Angel (vent │◄── chemosynthetic; vent-dependent
+ │ associated swimmer) │
+ └──────────────────────────┘
 ```
 
 ---
 
-## E.5 — NOTES FOR REFEREES
+## E.5 — SCENARIO NOTES
 
 **Using the bestiary in play:**
 
@@ -338,10 +338,10 @@ The deep-sea fauna of Gashidda should function primarily as **atmosphere and wor
 
 ---
 
-**Sources:**  
-World data: *Solomani Front* supplement, Mongoose Publishing.  
-Environmental framework adapted from: *Hiroshima Colony* supplement, Zozer Games (OGL).  
-Neural.love rendering descriptions written for use with neural.love AI image generation platform.  
+**Sources:** 
+World data: *Solomani Front* supplement, Mongoose Publishing. 
+Environmental framework adapted from: *Hiroshima Colony* supplement, Zozer Games (OGL). 
+Neural.love rendering descriptions written for use with neural.love AI image generation platform. 
 Species nomenclature follows Third Imperium Xenobiological Registry conventions (fictional standard).
 
 ---
@@ -623,7 +623,7 @@ Standard metal hulls are inert in a Void Mantle grip. Carbon-composite hulls are
 | 60–120 minutes | 2D structural damage; safe depth rating reduced by 200m; Mechanic 8+ check required before next deep approach or risk seal failure |
 | Over 120 minutes | Hull integrity critically compromised; immediate surfacing required; Seafarer (submarine) 10+ to reach surface without catastrophic seal failure |
 
-**Referee note:** The agents almost certainly do not know their hull is carbon-composite when they board Three-Fin's submersible. Ikaika would notice the construction material on inspection (Mechanic 8+ or Engineer (any) 6+). The revelation that the hull they are trapped inside is being slowly degraded by the creature holding them — the same process they just discovered happening to the Imperial cruiser rudders — is a scenario moment that should land hard.
+The agents almost certainly do not know their hull is carbon-composite when they board Three-Fin's submersible. Ikaika would notice the construction material on inspection (Mechanic 8+ or Engineer (any) 6+). The revelation that the hull they are trapped inside is being slowly degraded by the creature holding them — the same process they just discovered happening to the Imperial cruiser rudders — is a scenario moment that should land hard.
 
 ---
 
@@ -738,7 +738,7 @@ The Void Mantle requires a large-base, translucent or near-translucent bell form
 **Option 3 — For a large centrepiece encounter: Giant Jellyfish by 1BUCK3D**
 - **Platform:** Cults3D (free)
 - **URL:** cults3d.com/en/3d-model/art/giant-jellyfish
-- **Why it works:** Free file, scalable to any size required. Less detailed than the Mini Monster Mayhem or Epic-Miniatures options but serviceable for a large environmental hazard piece. Good for a referee who wants to represent the creature's overwhelming scale — print at 300%+ and use as a terrain piece rather than a miniature.
+- **Why it works:** Free file, scalable to any size required. Less detailed than the Mini Monster Mayhem or Epic-Miniatures options but serviceable for a large environmental hazard piece. Good for representing the creature's overwhelming scale — print at 300%+ and use as a terrain piece rather than a miniature.
 - **Printing note:** At large scale use FDM filament in clear PETG; at standard mini scale use resin.
 
 ---
