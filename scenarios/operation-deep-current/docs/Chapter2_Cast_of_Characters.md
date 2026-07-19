@@ -7,7 +7,7 @@
 
 ---
 
-You are SolSec field agents. Your covers are those of a freelance technical survey crew aboard the subsidised merchant *Far Horizon*, arrived at Gashidda's New Mondulkiri starport on a routine contract to audit deep-sea infrastructure integrity on behalf of **Kanzaki Extraplanetary Holdings (KEH)** — a legitimate-looking off-world investment consortium that is, in practice, a SolSec financial front.
+You are SolSec field agents. Your covers are those of a freelance technical survey crew aboard the subsidised merchant *Far Horizon*, arrived at Gashidda's New Mondulkiri starport on a routine contract to audit deep-sea infrastructure integrity on behalf of **Kanzaki Extraplanetary Holdings (KEH)** `[HC p.24–25]` — a Kyoto-based speculative investment house specialising in frontier resource financing, operating through modest financial liaison offices in working colonies. Its low profile and avoidance of direct extraction operations makes it attract less scrutiny than major conglomerate movements. On Gashidda it serves as a SolSec financial front. `[OC]`
 
 The year is **1116**. Gashidda has been under Imperial military occupation for over a century. The Imperium is unpopular and its counter-intelligence apparatus is alert and capable. Your local contact is **Kofi Mensah-Tran**, a six-year deep-cover SolSec sleeper showing signs of psychological strain. Treat him carefully.
 
@@ -18,6 +18,21 @@ The year is **1116**. Gashidda has been under Imperial military occupation for o
 3. **REEF LIGHT:** Photograph Imperial Navy warship sensor array configurations at New Mondulkiri shipyard.
 
 Operational security is paramount. The *Far Horizon* departs in fourteen days.
+
+**Your SolSec handler is CASE OFFICER YUSUF ADEYEMI-CROSS**, External Directorate, currently operating from the Solomani Confederation courier vessel *Tamsin Reach* at the Dingir system jump point — six days out from Gashidda at standard transit speeds. He authorised the operation and conducted the mission briefing before departure. He knows the objectives, the assets, and the cover. He does not know what you will find when you get there.
+
+**Communication protocol — COMM SILENCE:**
+
+SolSec doctrine for occupied-world operations is strict: **no outbound communication to handler during the operational window.** Every transmission from Gashidda to a Confederation vessel is a potential intercept. Voss's Naval Intelligence section monitors all non-commercial encrypted traffic departing New Mondulkiri and the arcology comm relays.
+
+| Situation | Protocol |
+|-----------|----------|
+| Routine progress | No contact. The *Far Horizon*'s departure is the acknowledgement. |
+| Mission abort required | Single burst on KEH emergency transponder — triggers 24-hour extraction response, no verbal content |
+| Handler contact before departure | Not permitted under standard doctrine — requires Effect 4+ on a Deception check at the New Mondulkiri comm relay to avoid flagging |
+| Post-mission debrief | Adeyemi-Cross will rendezvous with the *Far Horizon* at the Dingir jump point on departure |
+
+The emergency transponder is a single-use device. Using it ends the operation. Adeyemi-Cross will extract the team — but the objectives become someone else's problem, on someone else's timeline, with a burned cover and a alerted Voss.
 
 ---
 
@@ -30,7 +45,7 @@ Operational security is paramount. The *Far Horizon* departs in fourteen days.
 
 **Role:** Primary antagonist. Five SolSec cells broken in fourteen years. She suspects a network is active in Makara. She is not wrong.
 
-**Locations:** Naval Intelligence offices, Upper Tier administrative complex; the Makara transit corridors during ID sweeps; the mid-tier cultural district observation radius around Tarquin's chapter house; anywhere a compromised scene has been flagged.
+**Locations:** Naval Intelligence section, New Mondulkiri island-capital (primary base — she controls all arrival surveillance from here); deploys to Makara for active ID sweeps and complication scenes; her agents operate the transit corridors and mid-tier observation radius around Tarquin's chapter house when she triggers a sweep.
 
 **AI Art Direction:** *South Asian woman, mid-50s. Close-cropped silver-streaked black hair, severe centre parting. Sharp dark eyes under heavy expressive brows — the look of someone doing complex calculations at all times. Crisp dark charcoal Imperial Navy intelligence uniform with deliberately subdued rank insignia; a small silver pin at the collar her only decoration. Jaw set with controlled tension. Lit by cold blue-white holographic display glow. Photorealistic, cinematic lighting. Atmosphere: controlled authority, chronic vigilance.*
 
@@ -39,12 +54,17 @@ Operational security is paramount. The *Far Horizon* departs in fourteen days.
 | Score | 7 | 8 | 7 | 11 | 12 | 10 |
 | DM | +0 | +0 | +0 | +1 | +2 | +1 |
 
-| Skill | Lvl | Skill | Lvl |
-|-------|-----|-------|-----|
-| Admin | 3 | Deception | 3 |
-| Gun Combat | 0 | Gun Combat (energy) | 1 |
-| Investigate | 3 | Persuade | 2 |
-| Recon | 2 | Streetwise | 2 |
+| Skill | Lvl |
+|-------|-----|
+| Admin | 3 |
+| Deception | 3 |
+| Gun Combat | 0 |
+| Gun Combat (energy) | 1 |
+| Investigate | 3 |
+| Persuade | 2 |
+| Recon | 2 |
+| Streetwise | 2 |
+
 **Armor:** Diplo-weave suit (Protection 3, concealed) · **Weapon:** Laser Pistol (3D), concealed
 **Equipment:** TL12 neural surveillance implant, encrypted comms suite, fake ID analysis toolkit, Naval Infantry backup authority (2-hour response)
 
@@ -66,11 +86,15 @@ Operational security is paramount. The *Far Horizon* departs in fourteen days.
 | Score | 6 | 5 | 7 | 9 | 10 | 11 |
 | DM | +0 | -1 | +0 | +1 | +1 | +1 |
 
-| Skill | Lvl | Skill | Lvl |
-|-------|-----|-------|-----|
-| Advocate | 2 | Deception | 2 |
-| Leadership | 3 | Medic | 1 |
-| Persuade | 4 | Streetwise | 2 |
+| Skill | Lvl |
+|-------|-----|
+| Advocate | 2 |
+| Deception | 2 |
+| Leadership | 3 |
+| Medic | 1 |
+| Persuade | 4 |
+| Streetwise | 2 |
+
 **Armor:** None · **Weapons:** None
 **Equipment:** Encrypted prayer-disc (10TB covert data store), Vanthara Truth secure comm network, fishing-trawler documentation (surface harbour access)
 
@@ -90,13 +114,18 @@ Operational security is paramount. The *Far Horizon* departs in fourteen days.
 | Score | 7 | 9 | 8 | 10 | 11 | 7 |
 | DM | +0 | +1 | +0 | +1 | +1 | +0 |
 
-| Skill | Lvl | Skill | Lvl |
-|-------|-----|-------|-----|
-| Electronics | 0 | Electronics (sensors) | 2 |
-| Engineer | 0 | Engineer (power) | 4 |
-| Gun Combat | 0 | Gun Combat (slug) | 1 |
-| Mechanic | 3 | Persuade | 2 |
-| Streetwise | 1 | | |
+| Skill | Lvl |
+|-------|-----|
+| Electronics | 0 |
+| Electronics (sensors) | 2 |
+| Engineer | 0 |
+| Engineer (power) | 4 |
+| Gun Combat | 0 |
+| Gun Combat (slug) | 1 |
+| Mechanic | 3 |
+| Persuade | 2 |
+| Streetwise | 1 |
+
 **Armor:** Hazard environment suit (Protection 5 vs env. hazards; not combat-optimised)
 **Weapon:** Autopistol (3D–3) — reactor security requirement
 **Equipment:** Master reactor access codes (all sections), union contact network, encrypted union comm channel
@@ -117,11 +146,15 @@ Operational security is paramount. The *Far Horizon* departs in fourteen days.
 | Score | 5 | 6 | 7 | 8 | 10 | 12 |
 | DM | -1 | +0 | +0 | +0 | +1 | +2 |
 
-| Skill | Lvl | Skill | Lvl |
-|-------|-----|-------|-----|
-| Admin | 3 | Advocate | 2 |
-| Broker | 2 | Carouse | 2 |
-| Deception | 3 | Persuade | 3 |
+| Skill | Lvl |
+|-------|-----|
+| Admin | 3 |
+| Advocate | 2 |
+| Broker | 2 |
+| Carouse | 2 |
+| Deception | 3 |
+| Persuade | 3 |
+
 **Escape vehicle:** The *Manta* — a custom armed submersible/grav hybrid berthed at RSP-7-G Level 4, registered under his city council security authorisation. See **Appendix F.1.9**.
 **Armor:** None · **Weapons:** None (protected by bodyguards)
 **Equipment:** Encrypted financial terminal, city council connections, LSP corporate liaison access, modest personal debt (useful for the frame)
@@ -142,13 +175,18 @@ Operational security is paramount. The *Far Horizon* departs in fourteen days.
 | Score | 8 | 10 | 9 | 9 | 8 | 6 |
 | DM | +0 | +1 | +1 | +1 | +0 | +0 |
 
-| Skill | Lvl | Skill | Lvl |
-|-------|-----|-------|-----|
-| Broker | 2 | Deception | 3 |
-| Gun Combat | 0 | Gun Combat (slug) | 1 |
-| Melee | 0 | Melee (unarmed) | 2 |
-| Recon | 2 | Stealth | 3 |
-| Streetwise | 3 | | |
+| Skill | Lvl |
+|-------|-----|
+| Broker | 2 |
+| Deception | 3 |
+| Gun Combat | 0 |
+| Gun Combat (slug) | 1 |
+| Melee | 0 |
+| Melee (unarmed) | 2 |
+| Recon | 2 |
+| Stealth | 3 |
+| Streetwise | 3 |
+
 **Armor:** Subdermal mesh (Protection 2, concealed, TL11 — undetectable below TL13)
 **Weapons:** Snub Pistol (3D–3), concealed; Blade (2D), boot sheath
 **Equipment:** High-quality forged ID (DM+2 vs forgery detection), dead drop network, safe house keys and codes, operational package for agents
@@ -170,13 +208,18 @@ Operational security is paramount. The *Far Horizon* departs in fourteen days.
 | Score | 9 | 9 | 10 | 7 | 7 | 7 |
 | DM | +1 | +1 | +1 | +0 | +0 | +0 |
 
-| Skill | Lvl | Skill | Lvl |
-|-------|-----|-------|-----|
-| Athletics | 0 | Athletics (strength) | 2 |
-| Gun Combat | 0 | Gun Combat (slug) | 3 |
-| Melee | 0 | Melee (unarmed) | 2 |
-| Recon | 2 | Tactics | 0 |
-| Tactics (military) | 1 | | |
+| Skill | Lvl |
+|-------|-----|
+| Athletics | 0 |
+| Athletics (strength) | 2 |
+| Gun Combat | 0 |
+| Gun Combat (slug) | 3 |
+| Melee | 0 |
+| Melee (unarmed) | 2 |
+| Recon | 2 |
+| Tactics | 0 |
+| Tactics (military) | 1 |
+
 **Armor:** Cloth armor under clothing (Protection 5)
 **Weapons:** Autopistol (3D–3); Stunner (2D stun) backup; Blade (2D)
 **Equipment:** Encrypted comms (Achterberg + Naval Infantry duty officer), restraints, emergency medical kit
@@ -197,11 +240,12 @@ Operational security is paramount. The *Far Horizon* departs in fourteen days.
 | Score | 5 | 7 | 6 | 9 | 8 | 7 |
 | DM | -1 | +0 | +0 | +1 | +0 | +0 |
 
-| Skill | Lvl | Skill | Lvl |
-|-------|-----|-------|-----|
-| Deception | 2 | Persuade | 2 |
-| Recon | 1 | Streetwise | 1 |
-
+| Skill | Lvl |
+|-------|-----|
+| Deception | 2 |
+| Persuade | 2 |
+| Recon | 1 |
+| Streetwise | 1 |
 ---
 
 ### LIAISON-ADMINISTRATOR DZHUUR VE-ASHTUK (Vegan)
@@ -218,14 +262,21 @@ Operational security is paramount. The *Far Horizon* departs in fourteen days.
 | Score | 5 | 10 | 7 | 13 | 14 | 11 |
 | DM | -1 | +1 | +0 | +2 | +2 | +1 |
 
-| Skill | Lvl | Skill | Lvl |
-|-------|-----|-------|-----|
-| Admin | 4 | Advocate | 3 |
-| Broker | 2 | Deception | 3 |
-| Diplomat | 3 | Electronics | 0 |
-| Electronics (computers) | 2 | Investigate | 3 |
-| Language | 0 | Language (Anglic) | 3 |
-| Persuade | 2 | Recon | 2 |
+| Skill | Lvl |
+|-------|-----|
+| Admin | 4 |
+| Advocate | 3 |
+| Broker | 2 |
+| Deception | 3 |
+| Diplomat | 3 |
+| Electronics | 0 |
+| Electronics (computers) | 2 |
+| Investigate | 3 |
+| Language | 0 |
+| Language (Anglic) | 3 |
+| Persuade | 2 |
+| Recon | 2 |
+
 **Armor:** None — Dzhuur considers armour an admission of poor planning
 **Weapons:** None carried
 **Equipment:** Vegan Administrative Service encrypted comms (bypasses Imperial Navy monitoring channels — a legal carve-out in the Autonomous District treaty); formal authority to inspect commercial vessel manifests at New Mondulkiri; access to 160 years of accumulated personal intelligence about the Dingir subsector's political and commercial landscape
@@ -260,14 +311,20 @@ What Dzhuur has noticed: the *Far Horizon*'s crew moves like off-worlders, their
 | Score | 4 | 10 | 6 | 14 | 15 | 9 |
 | DM | -1 | +1 | +0 | +2 | +3 | +1 |
 
-| Skill | Lvl | Skill | Lvl |
-|-------|-----|-------|-----|
-| Electronics | 0 | Electronics (sensors) | 2 |
-| Investigate | 2 | Language | 0 |
-| Language (Anglic) | 3 | Medic | 2 |
-| Persuade | 1 | Recon | 1 |
-| Science | 0 | Science (oceanography) | 3 |
-| Science (xenobiology) | 5 | | |
+| Skill | Lvl |
+|-------|-----|
+| Electronics | 0 |
+| Electronics (sensors) | 2 |
+| Investigate | 2 |
+| Language | 0 |
+| Language (Anglic) | 3 |
+| Medic | 2 |
+| Persuade | 1 |
+| Recon | 1 |
+| Science | 0 |
+| Science (oceanography) | 3 |
+| Science (xenobiology) | 5 |
+
 **Armor:** None · **Weapons:** None
 **Equipment:** University research access card (all marine biology labs and specimen vaults); submersible research vessel booking privileges (legitimately available — useful cover for REEF LIGHT if agents need an alternative route to the shipyard approach); extraordinary knowledge of Gashidda's deep-sea biology including the full reef ecosystem, current migration patterns of the Deep Bell schools, and the location of every Thermal Angel survey site in the equatorial shelf
 

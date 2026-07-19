@@ -1,6 +1,5 @@
 # APPENDIX G — PRE-GENERATED CHARACTERS
 
-OPERATION DEEP CURRENT — PRE-GENERATED CHARACTERS
 *Mongoose Traveller 2nd Edition · Ready-to-Play*
 
 ---
@@ -54,17 +53,24 @@ OPERATION DEEP CURRENT — PRE-GENERATED CHARACTERS
 
 ### Skills
 
-| Skill | Lvl | Skill | Lvl |
-|-------|-----|-------|-----|
-| Admin | 2 | Advocate | 2 |
-| Carouse | 1 | Deception | 3 |
-| Electronics | 0 | Electronics (computers) | 1 |
-| Gun Combat | 0 | Gun Combat (slug) | 1 |
-| Investigate | 2 | Language | 0 |
-| Language (Anglic) | 2 | Language (Vilani) | 1 |
-| Leadership | 2 | Persuade | 3 |
-| Recon | 1 | Streetwise | 1 |
----
+| Skill | Lvl |
+|-------|-----|
+| Admin | 2 |
+| Advocate | 2 |
+| Carouse | 1 |
+| Deception | 3 |
+| Electronics | 0 |
+| Electronics (computers) | 1 |
+| Gun Combat | 0 |
+| Gun Combat (slug) | 1 |
+| Investigate | 2 |
+| Language | 0 |
+| Language (Anglic) | 2 |
+| Language (Vilani) | 1 |
+| Leadership | 2 |
+| Persuade | 3 |
+| Recon | 1 |
+| Streetwise | 1 |---
 
 ### Background Skills
 *EDU 12 → 4 background skills. Albadawi is a high-population industrial Confederation world — academic and corporate background.*
@@ -162,17 +168,24 @@ Sera spent twelve years at SolSec's analytical division before requesting field 
 
 ### Skills
 
-| Skill | Lvl | Skill | Lvl |
-|-------|-----|-------|-----|
-| Athletics | 0 | Athletics (dexterity) | 1 |
-| Deception | 1 | Electronics | 0 |
-| Electronics (computers) | 3 | Electronics (remote ops) | 1 |
-| Electronics (sensors) | 2 | Engineer | 0 |
-| Engineer (life support) | 2 | Engineer (power) | 3 |
-| Gun Combat | 0 | Gun Combat (energy) | 1 |
-| Mechanic | 3 | Pilot | 0 |
-| Pilot (small craft) | 1 | Vacc Suit | 1 |
----
+| Skill | Lvl |
+|-------|-----|
+| Athletics | 0 |
+| Athletics (dexterity) | 1 |
+| Deception | 1 |
+| Electronics | 0 |
+| Electronics (computers) | 3 |
+| Electronics (remote ops) | 1 |
+| Electronics (sensors) | 2 |
+| Engineer | 0 |
+| Engineer (life support) | 2 |
+| Engineer (power) | 3 |
+| Gun Combat | 0 |
+| Gun Combat (energy) | 1 |
+| Mechanic | 3 |
+| Pilot | 0 |
+| Pilot (small craft) | 1 |
+| Vacc Suit | 1 |---
 
 ### Background Skills
 *EDU 13 → 4 background skills. Samoa Station is a space habitat — zero-G environment, high technology, engineering culture.*
@@ -267,16 +280,22 @@ Two terms in the Imperial Navy gave Ikaika skills that SolSec found immediately 
 
 ### Skills
 
-| Skill | Lvl | Skill | Lvl |
-|-------|-----|-------|-----|
-| Athletics | 0 | Athletics (dexterity) | 3 |
-| Athletics (strength) | 2 | Deception | 1 |
-| Electronics | 0 | Electronics (sensors) | 1 |
-| Gun Combat | 0 | Gun Combat (slug) | 2 |
-| Melee | 0 | Melee (unarmed) | 2 |
-| Recon | 3 | Stealth | 4 |
-| Streetwise | 1 | Survival | 2 |
----
+| Skill | Lvl |
+|-------|-----|
+| Athletics | 0 |
+| Athletics (dexterity) | 3 |
+| Athletics (strength) | 2 |
+| Deception | 1 |
+| Electronics | 0 |
+| Electronics (sensors) | 1 |
+| Gun Combat | 0 |
+| Gun Combat (slug) | 2 |
+| Melee | 0 |
+| Melee (unarmed) | 2 |
+| Recon | 3 |
+| Stealth | 4 |
+| Streetwise | 1 |
+| Survival | 2 |---
 
 ### Background Skills
 *EDU 8 → 2 background skills. Novaya Moskva is a standard military-culture Confederation world.*
@@ -370,15 +389,22 @@ Two terms as a Confederation Army recon specialist, two terms in SolSec field op
 
 ### Skills
 
-| Skill | Lvl | Skill | Lvl |
-|-------|-----|-------|-----|
-| Admin | 3 | Advocate | 2 |
-| Broker | 4 | Carouse | 1 |
-| Deception | 3 | Electronics | 0 |
-| Electronics (computers) | 2 | Gun Combat | 0 |
-| Gun Combat (slug) | 1 | Investigate | 3 |
-| Language | 0 | Language (Gashiddan dialect) | 2 |
-| Persuade | 2 | | |
+| Skill | Lvl |
+|-------|-----|
+| Admin | 3 |
+| Advocate | 2 |
+| Broker | 4 |
+| Carouse | 1 |
+| Deception | 3 |
+| Electronics | 0 |
+| Electronics (computers) | 2 |
+| Gun Combat | 0 |
+| Gun Combat (slug) | 1 |
+| Investigate | 3 |
+| Language | 0 |
+| Language (Gashiddan dialect) | 2 |
+| Persuade | 2 |
+
 ### Background Skills
 *EDU 14 → 4 background skills. Born on Gashidda (ocean world, high population, occupied) — grew up in the Confederation from age 9 (corporate high-pop world).*
 
@@ -474,17 +500,24 @@ Ananya was born on Gashidda, in Makara, before her family emigrated to the Confe
 
 ### Skills
 
-| Skill | Lvl | Skill | Lvl |
-|-------|-----|-------|-----|
-| Athletics | 0 | Athletics (dexterity) | 2 |
-| Broker | 2 | Carouse | 3 |
-| Deception | 2 | Gambler | 1 |
-| Gun Combat | 0 | Gun Combat (slug) | 1 |
-| Mechanic | 1 | Pilot | 0 |
-| Pilot (watercraft) | 3 | Recon | 1 |
-| Seafarer | 0 | Seafarer (submarine) | 1 |
-| Stealth | 2 | Streetwise | 3 |
----
+| Skill | Lvl |
+|-------|-----|
+| Athletics | 0 |
+| Athletics (dexterity) | 2 |
+| Broker | 2 |
+| Carouse | 3 |
+| Deception | 2 |
+| Gambler | 1 |
+| Gun Combat | 0 |
+| Gun Combat (slug) | 1 |
+| Mechanic | 1 |
+| Pilot | 0 |
+| Pilot (watercraft) | 3 |
+| Recon | 1 |
+| Seafarer | 0 |
+| Seafarer (submarine) | 1 |
+| Stealth | 2 |
+| Streetwise | 3 |---
 
 ### Background Skills
 *EDU 7 → 2 background skills. Itaipava is a border world — rough, mixed economy, maritime trade culture.*
@@ -576,17 +609,24 @@ Tern spent two terms drifting — working cargo, submersibles, and whatever paid
 
 ### Skills
 
-| Skill | Lvl | Skill | Lvl |
-|-------|-----|-------|-----|
-| Athletics | 0 | Athletics (dexterity) | 2 |
-| Athletics (strength) | 3 | Electronics | 0 |
-| Electronics (sensors) | 1 | Gun Combat | 0 |
-| Gun Combat (slug) | 3 | Medic | 3 |
-| Melee | 0 | Melee (unarmed) | 3 |
-| Recon | 1 | Stealth | 1 |
-| Survival | 1 | Tactics | 0 |
-| Tactics (military) | 2 | Vacc Suit | 1 |
----
+| Skill | Lvl |
+|-------|-----|
+| Athletics | 0 |
+| Athletics (dexterity) | 2 |
+| Athletics (strength) | 3 |
+| Electronics | 0 |
+| Electronics (sensors) | 1 |
+| Gun Combat | 0 |
+| Gun Combat (slug) | 3 |
+| Medic | 3 |
+| Melee | 0 |
+| Melee (unarmed) | 3 |
+| Recon | 1 |
+| Stealth | 1 |
+| Survival | 1 |
+| Tactics | 0 |
+| Tactics (military) | 2 |
+| Vacc Suit | 1 |---
 
 ### Background Skills
 *EDU 10 → 3 background skills. Lomé Prime is a high-population standard Confederation world.*

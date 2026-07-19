@@ -757,7 +757,7 @@ The Void Mantle requires a large-base, translucent or near-translucent bell form
 
 ---
 
-*End of Appendix J*
+*End of Appendix E*
 
 ---
 

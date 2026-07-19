@@ -10,7 +10,7 @@ APPENDIX A: QUICK-REFERENCE COMBAT STATS
 | Kofi Mensah-Tran | Protection 2 (subdermal) | Snub Pistol 3D–3; Blade 2D | Unreliable under pressure in Act 3 |
 | Warden-Elder Tarquin | None | None | Can call 1D6 devoted followers |
 | Harada Mitsuko | Env. Suit Prot. 5 (env. only) | Autopistol 3D–3 | Will fight if cornered |
-| **Void Mantle** *(environmental)* | **Armour 2** | **Tentacles 2D + necrosis; Recon 10+ to detect** | **Full stats Appendix J; electrostatic rod repels** |
+| **Void Mantle** *(environmental)* | **Armour 2** | **Tentacles 2D + necrosis; Recon 10+ to detect** | **Full stats Appendix E; electrostatic rod repels** |
 
 ---
 
