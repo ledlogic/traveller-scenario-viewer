@@ -30,6 +30,8 @@ Operational security is paramount. The *Far Horizon* departs in fourteen days.
 
 **Role:** Primary antagonist. Five SolSec cells broken in fourteen years. She suspects a network is active in Makara. She is not wrong.
 
+**Locations:** Naval Intelligence offices, Upper Tier administrative complex; the Makara transit corridors during ID sweeps; the mid-tier cultural district observation radius around Tarquin's chapter house; anywhere a compromised scene has been flagged.
+
 **AI Art Direction:** *South Asian woman, mid-50s. Close-cropped silver-streaked black hair, severe centre parting. Sharp dark eyes under heavy expressive brows — the look of someone doing complex calculations at all times. Crisp dark charcoal Imperial Navy intelligence uniform with deliberately subdued rank insignia; a small silver pin at the collar her only decoration. Jaw set with controlled tension. Lit by cold blue-white holographic display glow. Photorealistic, cinematic lighting. Atmosphere: controlled authority, chronic vigilance.*
 
 | | STR | DEX | END | INT | EDU | SOC |
@@ -37,13 +39,12 @@ Operational security is paramount. The *Far Horizon* departs in fourteen days.
 | Score | 7 | 8 | 7 | 11 | 12 | 10 |
 | DM | +0 | +0 | +0 | +1 | +2 | +1 |
 
-| Skill | Level | | Skill | Level |
-|-------|-------|-|-------|-------|
-| Admin | 3 | | Recon | 2 |
-| Deception | 3 | | Persuade | 2 |
-| Investigate | 3 | | Streetwise | 2 |
-| Gun Combat (energy) | 1 | | | |
-
+| Skill | Lvl | Skill | Lvl |
+|-------|-----|-------|-----|
+| Admin | 3 | Deception | 3 |
+| Gun Combat | 0 | Gun Combat (energy) | 1 |
+| Investigate | 3 | Persuade | 2 |
+| Recon | 2 | Streetwise | 2 |
 **Armor:** Diplo-weave suit (Protection 3, concealed) · **Weapon:** Laser Pistol (3D), concealed
 **Equipment:** TL12 neural surveillance implant, encrypted comms suite, fake ID analysis toolkit, Naval Infantry backup authority (2-hour response)
 
@@ -56,6 +57,8 @@ Operational security is paramount. The *Far Horizon* departs in fourteen days.
 
 **Role:** Ambiguous ally. Knows the agents are not who they claim. Will help — for a price.
 
+**Locations:** Vanthara Truth chapter house, Lower Mid-Tier (registered as a cultural meeting hall); the communal eating halls of the mid-tier residential district; the undersea temple chamber for formal meetings; never the upper tiers, rarely the lower industrial zone.
+
 **AI Art Direction:** *Heavyset Solomani man, mid-60s. Shaved head covered crown to collar in intricate tattoos — ocean currents spiralling into galaxy-arm patterns, blue-green ink on dark brown skin, craftsman-precise. Flowing grey robes with a Wheel of Earth medallion: a blue circle with a stylised spiral arm. Eyes: warm, intensely calm, the brown of deep water. Standing in a dim undersea temple chamber. Through the curved viewport behind him, bioluminescent reef columns glow faintly in black water. Digital art, expressive warm-cool contrast lighting.*
 
 | | STR | DEX | END | INT | EDU | SOC |
@@ -63,12 +66,11 @@ Operational security is paramount. The *Far Horizon* departs in fourteen days.
 | Score | 6 | 5 | 7 | 9 | 10 | 11 |
 | DM | +0 | -1 | +0 | +1 | +1 | +1 |
 
-| Skill | Level | | Skill | Level |
-|-------|-------|-|-------|-------|
-| Persuade | 4 | | Advocate | 2 |
-| Leadership | 3 | | Streetwise | 2 |
-| Deception | 2 | | Medic | 1 |
-
+| Skill | Lvl | Skill | Lvl |
+|-------|-----|-------|-----|
+| Advocate | 2 | Deception | 2 |
+| Leadership | 3 | Medic | 1 |
+| Persuade | 4 | Streetwise | 2 |
 **Armor:** None · **Weapons:** None
 **Equipment:** Encrypted prayer-disc (10TB covert data store), Vanthara Truth secure comm network, fishing-trawler documentation (surface harbour access)
 
@@ -79,6 +81,8 @@ Operational security is paramount. The *Far Horizon* departs in fourteen days.
 
 **Role:** Primary recruitment target for SOUNDING LINE.
 
+**Locations:** Makara Fusion Reactor Complex, lower industrial tier (primary work location); the reactor crew residential block; the union workers' informal gathering point in the adjacent maintenance corridor; occasionally the mid-tier eating halls during shift changes.
+
 **AI Art Direction:** *Japanese-heritage woman, late 30s. Angular face, tired eyes behind scratched safety goggles pushed up on her forehead — she never quite removes them. Grimy yellow hazard coveralls with reactor-crew patches on both shoulders and a half-hidden union organiser's pin at the collar fold. Carrying a diagnostics tablet with cracked casing. Short black hair pulled back with a rubber band. Standing in a corridor of exposed conduit and hazard-marked hatches under long amber warning-light shadows. Gritty industrial realism, photorealistic. Expression: exhausted, suspicious, quietly furious.*
 
 | | STR | DEX | END | INT | EDU | SOC |
@@ -86,12 +90,13 @@ Operational security is paramount. The *Far Horizon* departs in fourteen days.
 | Score | 7 | 9 | 8 | 10 | 11 | 7 |
 | DM | +0 | +1 | +0 | +1 | +1 | +0 |
 
-| Skill | Level | | Skill | Level |
-|-------|-------|-|-------|-------|
-| Engineer (power) | 4 | | Persuade | 2 |
-| Mechanic | 3 | | Streetwise | 1 |
-| Electronics (sensors) | 2 | | Gun Combat (slug) | 1 |
-
+| Skill | Lvl | Skill | Lvl |
+|-------|-----|-------|-----|
+| Electronics | 0 | Electronics (sensors) | 2 |
+| Engineer | 0 | Engineer (power) | 4 |
+| Gun Combat | 0 | Gun Combat (slug) | 1 |
+| Mechanic | 3 | Persuade | 2 |
+| Streetwise | 1 | | |
 **Armor:** Hazard environment suit (Protection 5 vs env. hazards; not combat-optimised)
 **Weapon:** Autopistol (3D–3) — reactor security requirement
 **Equipment:** Master reactor access codes (all sections), union contact network, encrypted union comm channel
@@ -103,6 +108,8 @@ Operational security is paramount. The *Far Horizon* departs in fourteen days.
 
 **Role:** Target for TIDE MARK. Not a villain — a flawed man being destroyed for strategic reasons.
 
+**Locations:** Upper Tier commercial district — corporate restaurants, LSP offices, city council chambers; the upper-tier residential arcology (private quarters); rarely below the mid-tier transition level.
+
 **AI Art Direction:** *Mixed-heritage man, late 40s. Polished and corporate-handsome, with the comfortable slight softness of someone who has lived well. Expensive pale grey suit, Imperial crest lapel pin worn with quiet pride. Manicured nails, thinning hair immaculate. Seated at a restaurant table in the arcology's upper-tier commercial district — white tablecloths, viewports showing dark clear ocean. Behind him, bioluminescent reef columns glow at distance. Expression: warm, slightly calculating ease of a man always working the room. Cinematic warm lighting. Atmosphere: privilege, slight menace, entirely unaware.*
 
 | | STR | DEX | END | INT | EDU | SOC |
@@ -110,12 +117,12 @@ Operational security is paramount. The *Far Horizon* departs in fourteen days.
 | Score | 5 | 6 | 7 | 8 | 10 | 12 |
 | DM | -1 | +0 | +0 | +0 | +1 | +2 |
 
-| Skill | Level | | Skill | Level |
-|-------|-------|-|-------|-------|
-| Admin | 3 | | Broker | 2 |
-| Persuade | 3 | | Advocate | 2 |
-| Deception | 3 | | Carouse | 2 |
-
+| Skill | Lvl | Skill | Lvl |
+|-------|-----|-------|-----|
+| Admin | 3 | Advocate | 2 |
+| Broker | 2 | Carouse | 2 |
+| Deception | 3 | Persuade | 3 |
+**Escape vehicle:** The *Manta* — a custom armed submersible/grav hybrid berthed at RSP-7-G Level 4, registered under his city council security authorisation. See **Appendix F.1.9**.
 **Armor:** None · **Weapons:** None (protected by bodyguards)
 **Equipment:** Encrypted financial terminal, city council connections, LSP corporate liaison access, modest personal debt (useful for the frame)
 
@@ -126,6 +133,8 @@ Operational security is paramount. The *Far Horizon* departs in fourteen days.
 
 **Role:** Primary local contact. Reliable but fraying.
 
+**Locations:** Cargo-submersible dock district, lower industrial tier (cover employment); the gikhi-eel vendor corridor of the undersea market (recognition signal point); dead drop locations in the transit hub and the lower-mid maintenance level; safe house in a sealed reef-survey station outside Makara.
+
 **AI Art Direction:** *West African-heritage man, early 40s. Wiry, watchful build. Close-cropped hair, neatly trimmed beard with a touch of grey at the jaw. Grey-and-navy cargo-submersible dock worker coveralls. Moving through a crowded undersea market corridor — gikhi-eel vendors, dripping conduit pipes, neon signage in three languages. Glancing over his shoulder with the practiced casualness of someone who has been doing it for six years and can't quite make it look natural anymore. Photorealistic, documentary-style lighting. Expression: controlled, competent, thin-lipped with exhaustion.*
 
 | | STR | DEX | END | INT | EDU | SOC |
@@ -133,13 +142,13 @@ Operational security is paramount. The *Far Horizon* departs in fourteen days.
 | Score | 8 | 10 | 9 | 9 | 8 | 6 |
 | DM | +0 | +1 | +1 | +1 | +0 | +0 |
 
-| Skill | Level | | Skill | Level |
-|-------|-------|-|-------|-------|
-| Streetwise | 3 | | Recon | 2 |
-| Stealth | 3 | | Melee (unarmed) | 2 |
-| Deception | 3 | | Gun Combat (slug) | 1 |
-| Broker | 2 | | | |
-
+| Skill | Lvl | Skill | Lvl |
+|-------|-----|-------|-----|
+| Broker | 2 | Deception | 3 |
+| Gun Combat | 0 | Gun Combat (slug) | 1 |
+| Melee | 0 | Melee (unarmed) | 2 |
+| Recon | 2 | Stealth | 3 |
+| Streetwise | 3 | | |
 **Armor:** Subdermal mesh (Protection 2, concealed, TL11 — undetectable below TL13)
 **Weapons:** Snub Pistol (3D–3), concealed; Blade (2D), boot sheath
 **Equipment:** High-quality forged ID (DM+2 vs forgery detection), dead drop network, safe house keys and codes, operational package for agents
@@ -152,6 +161,8 @@ Operational security is paramount. The *Far Horizon* departs in fourteen days.
 
 **Role:** Obstacle in Acts 2 and 3. Professional, not fanatical.
 
+**Locations:** Wherever Achterberg is; primarily the upper-tier commercial district and his residential level. One is always with Achterberg; the other patrols a 50-metre radius. During complication 4 they are in the commercial tier at street level.
+
 **AI Art Direction:** *Two Imperial Army veterans in plain clothes. First: tall, broad-shouldered, close-cropped blonde hair, military posture that no civilian clothing disguises. Second: compact, dark-eyed, restless scanning behaviour, never quite faces the direction he watches. Both in smart business attire cut slightly wrong at the shoulders — fitted over concealed body armour. Standing slightly apart near their employer's table, performing boredom. Cinematic, security-conscious body language. Atmosphere: professional threat, contained.*
 
 | | STR | DEX | END | INT | EDU | SOC |
@@ -159,12 +170,13 @@ Operational security is paramount. The *Far Horizon* departs in fourteen days.
 | Score | 9 | 9 | 10 | 7 | 7 | 7 |
 | DM | +1 | +1 | +1 | +0 | +0 | +0 |
 
-| Skill | Level | | Skill | Level |
-|-------|-------|-|-------|-------|
-| Gun Combat (slug) | 3 | | Athletics (strength) | 2 |
-| Melee (unarmed) | 2 | | Tactics (military) | 1 |
-| Recon | 2 | | | |
-
+| Skill | Lvl | Skill | Lvl |
+|-------|-----|-------|-----|
+| Athletics | 0 | Athletics (strength) | 2 |
+| Gun Combat | 0 | Gun Combat (slug) | 3 |
+| Melee | 0 | Melee (unarmed) | 2 |
+| Recon | 2 | Tactics | 0 |
+| Tactics (military) | 1 | | |
 **Armor:** Cloth armor under clothing (Protection 5)
 **Weapons:** Autopistol (3D–3); Stunner (2D stun) backup; Blade (2D)
 **Equipment:** Encrypted comms (Achterberg + Naval Infantry duty officer), restraints, emergency medical kit
@@ -176,6 +188,8 @@ Operational security is paramount. The *Far Horizon* departs in fourteen days.
 
 **Role:** First contact with Vanthara Truth. Tests the agents.
 
+**Locations:** Mid-tier communal eating area (first contact point); the approaches to the Vanthara Truth chapter house; transit corridors in the mid-residential district. She does not go to the upper or lower tiers unless Tarquin directs her.
+
 **AI Art Direction:** *Young Tamil-heritage woman, mid-20s. Serious face, dark eyes with the watchful intensity of someone taught to evaluate everything. Plain mid-tier civilian clothing — nothing marking her as religious — but a small Wheel of Earth symbol worked into her bracelet. Seated at a communal eating area table, a bowl of noodle soup in front of her. Expression: politely neutral, actively assessing. Soft overhead market lighting, background noise of a busy eating hall.*
 
 | | STR | DEX | END | INT | EDU | SOC |
@@ -183,7 +197,10 @@ Operational security is paramount. The *Far Horizon* departs in fourteen days.
 | Score | 5 | 7 | 6 | 9 | 8 | 7 |
 | DM | -1 | +0 | +0 | +1 | +0 | +0 |
 
-*Persuade 2, Deception 2, Recon 1, Streetwise 1*
+| Skill | Lvl | Skill | Lvl |
+|-------|-----|-------|-----|
+| Deception | 2 | Persuade | 2 |
+| Recon | 1 | Streetwise | 1 |
 
 ---
 
@@ -192,6 +209,8 @@ Operational security is paramount. The *Far Horizon* departs in fourteen days.
 
 **Role:** Ambiguous wildcard. Not an enemy. Not an ally. A very old, very perceptive person who has noticed something.
 
+**Locations:** New Mondulkiri starport — upper administrative tier, Vegan Autonomous District office (primary); the starport commercial concourse during working hours; the *Far Horizon*'s berth during formal manifest inspection. Does not travel to Makara.
+
 **AI Art Direction:** *Vegan sophont, approximately 160 years old by Human reckoning — though Vegans live over 200 years and Dzhuur shows no particular sign of age beyond the absolute stillness of someone who has stopped hurrying. Tall and extremely thin, 2.2 metres, bilaterally symmetrical, moving with the unhurried precision of a being adapted to low gravity. Smooth pale grey-blue skin with faint bioluminescent undertones at the temples and jawline — a Vegan characteristic that intensifies subtly with emotional response. No external sexual dimorphism. Dark, large eyes with elongated pupils. Wearing a precisely fitted Vegan Administrative Service uniform — deep teal with silver meridian-line trim, the Autonomous District insignia at the collar. Seated at a desk in the starport's upper administrative tier, hands folded with unnatural stillness. Through the viewport: the island landing pads, grey ocean beyond. Expression: polite attentiveness masking something considerably more alert. Photorealistic, 8K, cool institutional lighting. Mood: patient intelligence, the calm of someone who has seen empires rise and fall and is in no hurry.*
 
 | | STR | DEX | END | INT | EDU | SOC |
@@ -199,14 +218,14 @@ Operational security is paramount. The *Far Horizon* departs in fourteen days.
 | Score | 5 | 10 | 7 | 13 | 14 | 11 |
 | DM | -1 | +1 | +0 | +2 | +2 | +1 |
 
-| Skill | Level | | Skill | Level |
-|-------|-------|-|-------|-------|
-| Admin | 4 | | Investigate | 3 |
-| Diplomat | 3 | | Deception | 3 |
-| Advocate | 3 | | Recon | 2 |
-| Broker | 2 | | Persuade | 2 |
-| Language (Anglic) | 3 | | Electronics (computers) | 2 |
-
+| Skill | Lvl | Skill | Lvl |
+|-------|-----|-------|-----|
+| Admin | 4 | Advocate | 3 |
+| Broker | 2 | Deception | 3 |
+| Diplomat | 3 | Electronics | 0 |
+| Electronics (computers) | 2 | Investigate | 3 |
+| Language | 0 | Language (Anglic) | 3 |
+| Persuade | 2 | Recon | 2 |
 **Armor:** None — Dzhuur considers armour an admission of poor planning
 **Weapons:** None carried
 **Equipment:** Vegan Administrative Service encrypted comms (bypasses Imperial Navy monitoring channels — a legal carve-out in the Autonomous District treaty); formal authority to inspect commercial vessel manifests at New Mondulkiri; access to 160 years of accumulated personal intelligence about the Dingir subsector's political and commercial landscape
@@ -232,6 +251,8 @@ What Dzhuur has noticed: the *Far Horizon*'s crew moves like off-worlders, their
 
 **Role:** Minor NPC, optional complication. Present in the scenario's mid-tier university district. Becomes significant if the agents need deep knowledge of the local marine environment — or if their movements through the university bring them into contact with someone who is not part of any human factional alignment.
 
+**Locations:** Makara University, mid-tier university district — marine xenobiology department, specimen laboratories, faculty corridors; the mid-tier transit corridors between university and the reef-access dive facilities; occasionally the lower reef-survey airlocks for fieldwork.
+
 **AI Art Direction:** *Vegan sophont, approximately 80 years old — middle-aged by Vegan reckoning, at the height of their intellectual powers. Tall, thin, with the long dexterous fingers common to the species, currently stained faintly with bioluminescent marking compound from a specimen sample. Wearing a marine researcher's practical clothing — dark utility jacket over a plain shirt, sample cases on a belt, a data tablet tucked under one arm. Moving through the mid-tier university corridor with the confident ease of someone who has lived in 0.45G their whole adult life and finds it entirely natural. Large dark eyes with an expression of genuine intellectual curiosity — the look of a person who finds the world interesting regardless of its politics. A small Vegan tuhuir medallion at the collar: a simple silver ring with an asymmetric notch, the mark of a philosophical school the agents would need EDU 10+ to identify. Photorealistic, 8K, academic institutional lighting. Mood: absorbed, non-threatening, entirely at home in a city that has complicated feelings about their presence.*
 
 | | STR | DEX | END | INT | EDU | SOC |
@@ -239,13 +260,14 @@ What Dzhuur has noticed: the *Far Horizon*'s crew moves like off-worlders, their
 | Score | 4 | 10 | 6 | 14 | 15 | 9 |
 | DM | -1 | +1 | +0 | +2 | +3 | +1 |
 
-| Skill | Level | | Skill | Level |
-|-------|-------|-|-------|-------|
-| Science (xenobiology) | 5 | | Science (oceanography) | 3 |
-| Electronics (sensors) | 2 | | Medic | 2 |
-| Investigate | 2 | | Language (Anglic) | 3 |
-| Persuade | 1 | | Recon | 1 |
-
+| Skill | Lvl | Skill | Lvl |
+|-------|-----|-------|-----|
+| Electronics | 0 | Electronics (sensors) | 2 |
+| Investigate | 2 | Language | 0 |
+| Language (Anglic) | 3 | Medic | 2 |
+| Persuade | 1 | Recon | 1 |
+| Science | 0 | Science (oceanography) | 3 |
+| Science (xenobiology) | 5 | | |
 **Armor:** None · **Weapons:** None
 **Equipment:** University research access card (all marine biology labs and specimen vaults); submersible research vessel booking privileges (legitimately available — useful cover for REEF LIGHT if agents need an alternative route to the shipyard approach); extraordinary knowledge of Gashidda's deep-sea biology including the full reef ecosystem, current migration patterns of the Deep Bell schools, and the location of every Thermal Angel survey site in the equatorial shelf
 

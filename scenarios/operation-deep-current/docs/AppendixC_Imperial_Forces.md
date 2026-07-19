@@ -242,6 +242,14 @@ A successful extraction of the RSP-7-G data archive yields the following, graded
 
 ### C.1.10 — Connections to the Main Scenario
 
+**The Manta — Achterberg's Escape Vehicle:** The station's Level 4 upper docking collar contains a private vehicle berth registered to Councillor Achterberg under city council emergency evacuation protocols. It holds a custom armed Noricum-pattern submersible/grav hybrid — a **Manta** (see **Appendix F.1.9**). This information appears in the Level 1 data archive and in the TIDE MARK financial terminal files.
+
+The Manta's presence has three scenario implications:
+
+- **Intelligence value:** Its registration confirms Achterberg has a private relationship with the RSP-7-G command staff beyond the public council liaison role — a useful detail for the frame operation.
+- **Tactical complication:** If Achterberg is alerted during a boarding action and reaches the station, he can launch in the Manta before agents can stop him. Disable the docking collar (Engineering (power) 10+ or Electronics (computers) 10+, 2 rounds) or occupy the bay to prevent this.
+- **The PGMP link:** The duty officer's PGMP, if fired inside the docking collar, would destroy the Manta along with its occupants. She knows this. It gives her leverage she has not yet chosen to use.
+
 **REEF LIGHT upgrade:** RSP-7-G boarding can replace or significantly enhance the REEF LIGHT photography mission. The patrol schedule data recovered from the archive is what allows the agents to time the REEF LIGHT submersible approach safely in the first place — making it a natural prequel to the shipyard photography, if if you want to add a multi-stage operation.
 
 **Three-Fin Valdez:** Already the agents' submersible pilot for REEF LIGHT. She knows the outer reef shelf well enough to approach RSP-7-G from below. She will not board — she stays with the submersible — but her local knowledge gives DM+1 to the approach navigation check.

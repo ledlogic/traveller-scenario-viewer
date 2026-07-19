@@ -15,19 +15,13 @@
 
 ## 1.1 — ATTRIBUTION KEY
 
-> Content drawn from published sources is marked inline throughout this document using the following codes:
->
-> **`[SF]`** — *Solomani Front*, Martin J. Dougherty, Mongoose Publishing, 2022
-> **`[HC]`** — *Hiroshima Colony*, Paul Elliott, Zozer Games, 2026
-> **`[OC]`** — Original content created for this scenario
+Content drawn from published sources is marked inline using short codes: `[SF]`, `[HC]`, `[WV]`, `[SF2]`, `[CSC]`, `[MGT2]`, `[OC]`. Full source details, page references, and usage notes are in **Appendix A.3**.
 
 ---
 
 ## 1.2 — HISTORICAL TIMELINE — GASHIDDA AND THE SOLOMANI FRONT
 
 *This timeline provides essential context for the scenario. The year 1116 is chosen deliberately: the Third Imperium stands at the apparent height of its power, yet the Solomani Confederation has never stopped fighting — and in the corridors of SolSec, intelligence assessments from 1115 and early 1116 suggest something is shifting at the highest levels of Imperial politics. The agents do not know what. SolSec's analysts do not know what. But the briefings carry a new urgency that wasn't there two years ago.*
-
----
 
 ### Deep History
 
@@ -40,8 +34,6 @@
 | **–1400 to –600** | The Long Night. Interstellar civilisation collapses. Gashidda's undersea cities survive in isolation. By the end of this period the world is entirely Solomani in culture and identity — one of the most purely Solomani worlds in what will become the Solomani Rim. `[SF p.185]` |
 | **–600 to 0** | Gashidda joins the expanding Third Imperium as a willing partner. Its population are proud of their Solomani heritage but comfortable within the new order. `[SF p.185–186]` |
 
----
-
 ### The Solomani Era and the Rim War
 
 | Date | Event |
@@ -53,8 +45,6 @@
 | **1002** | Imperial forces turn the tide of the war. Gashidda refuses to surrender even as neighbouring systems fall. `[SF p.103, p.116]` |
 | **1004–1008** | Imperial assault on Gashidda. A four-year campaign combining orbital bombardment, amphibious assault on New Mondulkiri, and systematic reduction of the undersea cities. The population fights for every level of every arcology. The Imperium wins. The cost is significant and the hatred runs deep. `[SF p.186]` |
 | **1008** | The Solomani Rim War formally ends. The Confederation survives, diminished. The peace settlement leaves Gashidda on the Imperial side of the new border. `[SF p.116, p.234]` |
-
----
 
 ### The Occupation Period (1008–1116)
 
@@ -69,8 +59,6 @@
 | **1100** | The Imperial military government blocks a Makara fusion reactor workers' unionisation drive, citing credible intelligence that it is controlled by Solomani agitators. The crackdown radicalises the workforce, elevates **Harada Mitsuko** as an unofficial union leader, and intensifies anti-Imperial sentiment throughout the industrial working class. `[SF p.186; Harada Mitsuko is OC]` |
 | **1110–1115** | Relative stability — the quiet of a pressure vessel. No major incidents. Imperial patrols continue. The Vanthara Truth continues to grow. Kofi Mensah-Tran continues his deep-cover assignment, showing increasing signs of psychological strain in annual check-in reports. SolSec's updated assessments begin to use the phrase *"readiness window approaching."* `[OC]` |
 
----
-
 ### The Year 1116 — Why Now
 
 | Date | Event |
@@ -79,7 +67,7 @@
 | **Mid-1116** | The *Far Horizon* is prepared. Cover identities are established under the Kanzaki Extraplanetary Holdings shell. The agent team is briefed and dispatched toward Gashidda. `[OC]` |
 | **Scenario present day: latter half of 1116** | The agents have fourteen days on Gashidda. `[OC]` |
 
-> What the agents do not know — what no one outside a small circle of Imperial insiders knows — is that **Emperor Strephon will be assassinated in 1116**, triggering the Rebellion that will tear the Third Imperium apart. The occupation of Gashidda, the Solomani Front, the entire strategic context of the scenario — all of it is standing on the edge of a cliff that only you can see. You do not need to use the Rebellion in this scenario; it runs cleanly as a standalone. But if you want to deepen the experience, consider: the slight distraction in Imperial counter-intelligence posture, the urgency in SolSec's briefings, the agents' sense that history is accelerating without knowing why. The deep current is moving. Even SolSec doesn't know how fast.
+> What the agents do not know — what no one outside a small circle of Imperial insiders knows — is that **Emperor Strephon will be assassinated in 1116**, triggering the Rebellion that will tear the Third Imperium apart. The occupation of Gashidda, the Solomani Front, the entire strategic context of the scenario — all of it is standing on the edge of a continental shelf break. The slight distraction in Imperial counter-intelligence posture, the urgency in SolSec's briefings, the agents' sense that history is accelerating without knowing why. The deep current is moving. Even SolSec doesn't know how fast.
 
 ---
 

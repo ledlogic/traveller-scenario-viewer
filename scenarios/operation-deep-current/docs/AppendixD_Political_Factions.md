@@ -201,7 +201,7 @@ The scenario is set in spring/autumn by default (the default season in the tempe
 
 APPENDIX G: SPECIALIST FORCES — APPLICABLE MECHANICS `[SF2]`
 
-> *Attribution: Specialist Forces, M.J. Dougherty, Mongoose Publishing. Cited as* `[SF2]` *in this appendix to distinguish from Solomani Front* `[SF]`.
+> *Mechanics cited as `[SF2]` — see **Appendix A.3** for full source details.*
 
 The *Specialist Forces* supplement contains no underwater or aquatic operations content. However four of its mechanics apply directly to this scenario and are reproduced here with scenario-specific guidance.
 

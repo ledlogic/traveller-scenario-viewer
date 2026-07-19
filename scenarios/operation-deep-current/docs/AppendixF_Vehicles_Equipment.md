@@ -1,4 +1,4 @@
-# APPENDIX F — WATER VEHICLES AND EQUIPMENT
+# APPENDIX F — WATER VEHICLES & EQUIPMENT
 
 ## F.1 — SUBMARINES
 
@@ -250,6 +250,45 @@ Any Ground Vehicle, Grav Vehicle, or Watercraft can have the Submersible option 
 
 ---
 
+### F.1.9 — ACHTERBERG MANTA — PERSONAL ESCAPE VEHICLE `[OC / SF p.173–174]`
+
+The Manta is a custom-built variant of the **Noricum Submersible Personal Transport** `[SF p.173–174]`, a class of hybrid vehicle developed on the water world of Noricum (Solomani Rim) where the local population routinely moves between aerial and underwater environments. The standard civilian model uses a **Supercavitating Gravitic Drive** — effectively a grav vehicle's hull built for submarine operation, controlled identically in both environments via Flyer (grav) or Seafarer (submersible). Achterberg's vehicle is a single-seat armed variant, privately commissioned and registered as an emergency evacuation craft under his city council security authorisation.
+
+**TL:** 14 | **Type:** Submersible Personal Transport (Armed Variant) | **Skill:** Flyer (grav) *or* Seafarer (submersible) — identical controls in both environments `[SF p.174]`
+
+|  | Stat | Value |
+|--|------|-------|
+| Agility | | +2 |
+| Speed (Cruise) | | Subsonic (Very Fast) |
+| Range (Cruise) | | 1,500 (2,250) km |
+| Crew | | 1 |
+| Passengers | | 0 (single-seat variant) |
+| Hull | | 30 |
+| Shipping Size | | 5 tons |
+| Cost | | MCr3.2 (estimated; custom build) |
+
+**Armour:** Front 6 / Left 6 / Right 6 / Back 6 *(military-grade over civilian base 4)*
+
+**Safe Depth:** 800 m | **Crush Depth:** 2,400 m *(reduced from standard Noricum model due to armour mass)*
+
+**Equipment:** Enhanced Autopilot (+2), Advanced Navigation (+3), Advanced Communications (1,000 km encrypted), Computer/3, Improved Sensors (+1) Range 5 km, Improved Underwater Sensors (+1) Range 10 km, Life Support (72 hours), Hostile Environment Protection
+
+**Weapons:** 2× Pulse Laser in fixed forward mounts (3D, AP 2, Range 1.2 km — effective against small craft and watercraft; not turret-mounted, requires pilot aim)
+
+**Defences:** Prismatic Aerosol Dispenser (1 use), Decoy Dispenser (2 uses)
+
+**Surface/Air transition:** Crossing the water surface at speed requires a Flyer (grav) or Seafarer (submersible) 8+ check. Failure: 1D hull damage per point of negative Effect. At slow speed (Very Slow band): no check required. `[SF p.174]`
+
+**In play — the escape vehicle problem:**
+
+The Manta is berthed in a **private vehicle bay on Level 4 of the RSP-7-G Reef Picket Station** — specifically in the upper docking collar on the starboard side, registered as Achterberg's security-authorised evacuation asset. This is not publicly listed information; it appears in the station's administrative database (Level 1 data archive) and in the city council emergency protocol files accessible via the TIDE MARK terminal.
+
+This creates a specific tactical situation: the agents may discover the Manta's existence during the TIDE MARK terminal access before they have any reason to board RSP-7-G. During the RSP-7-G boarding, they may find the Manta in its berth. In the Act 3 hot extraction, if Achterberg is somehow alerted and reaches the station before the agents depart, he arrives in the Manta — and leaves in it, unless stopped.
+
+**The Manta as extraction vehicle:** A Highline-class submersible cannot outrun a Manta at speed. If Achterberg launches from RSP-7-G in the Manta during a boarding action, he is gone — the only option is to disable the docking collar before he reaches it, or to have someone already in the bay. The Manta's Subsonic top speed in both air and water means he can be at the New Mondulkiri surface within minutes. Once above the Driftweb layer his sensors clear and he can call in the Shafin.
+
+**The PGMP alternative:** The duty watch officer's PGMP would destroy the Manta in its berth if fired inside the docking collar. She knows this. This is one reason the PGMP negotiation moment (see **C.1.7**) has additional weight — if she fires and misses the agents, she also destroys Achterberg's escape route.
+
 ## F.2 — MICROWHEEL SAMPLE CONTAINER
 
 The Microwheel is a standard **sample collection canister with integrated micro-life-support**, designed for transporting living biological specimens from deep-sea environments to surface or shipboard laboratory conditions. The name comes from the tiny impeller wheel that circulates the internal water column.
@@ -438,32 +477,9 @@ The IHJEA processor is primarily background in the Operation Deep Current scenar
 
 ---
 
-## HIROSHIMA COLONY — SOURCES AND CROSS-REFERENCES
+## HIROSHIMA COLONY — DESIGN PARALLELS
 
-**Citation:** *Traveller Water Vehicles Volume 1* by Colin Dunn, Northern Edge / Travellers' Aid Society (TAS). MGT2e compatible. Surface vessels TL6–TL12, submarines TL6–TL14, new modifications and weapons. Used as the source for canonical submarine and surface vessel stats in Section L.8 of this appendix, replacing homebrew vehicle stats with published figures.
-
-| Vehicle / Weapon | Source Page | Used In |
-|---|---|---|
-| GP 'Hsu' Class Research Sub | p.8 | L.8 — primary research submarine reference |
-| Highline Utility Submarine | p.9 | L.8 — Three-Fin's vessel analogue |
-| InstellArms 'Shield' Submarine | p.11 | L.8 — military/planetary defence submarine |
-| Shafin Patrol Boat | p.3 | L.8 — Imperial Navy surface enforcement |
-| Vanguard Sea Ranger (RIB) | p.2 | L.8 — carried aboard Shafin; boarding craft |
-| Sprint Torpedo | p.15 | L.8 weapons table |
-| Laser Buoy | p.15 | L.8 weapons table |
-| Light Laser Cannon | p.14 | L.8 — civilian animal deterrence weapon |
-| Submersible Modification rules | p.13 | L.8 — modification for surface vessels |
-
----
-
-**Citation:** *Hiroshima: Corporate Exploitation on a Poison-Planet* by Etges Press. 
-An unofficial worldbook for the **Hostile** RPG by Zozer Games, written for Cepheus Engine. 
-Free to access. All content is Open Game Content except Hostile setting proper nouns. 
-Author: Etges Press. © 2026 Zozer Games (Hostile setting); Etges Press (this supplement).
-
-**System note:** Hiroshima is Cepheus Engine, not MGT2e. Stat blocks in that supplement use Cepheus conventions (STR/DEX/END expressed as modifiers, Attack/Flee notation, speed as multiples). Where Hiroshima creatures are cited below, MGT2e equivalents are provided for cross-system use.
-
----
+*Full source citations for all vehicles and Hiroshima references are in **Appendix A.3**.*
 
 ### What Hiroshima Contributed to the Gashidda / Operation Deep Current Campaign
 
