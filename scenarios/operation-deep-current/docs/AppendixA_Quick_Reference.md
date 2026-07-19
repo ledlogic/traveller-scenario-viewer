@@ -1,4 +1,4 @@
-# APPENDIX A — REFEREE QUICK REFERENCE
+# APPENDIX A — QUICK REFERENCE
 ## A.1 — COMBAT STATS AND SUSPICION TRACK
 
 APPENDIX A: QUICK-REFERENCE COMBAT STATS
@@ -24,7 +24,7 @@ APPENDIX B: THE VOSS SUSPICION TRACK
 | 4 | Active surveillance authorised | Tail assigned to identified agent |
 | 5 | Arrest order issued | Naval Infantry deployed; Kofi burned |
 
-**Modifiers:** Scene compromised +1 · Failed witnessed check +1 · Major deception success Effect 3+ (–1, referee discretion) · Kofi's dead drop used twice +1 · Violence in public +3 (escalates to 5 within 4 hours)
+**Modifiers:** Scene compromised +1 · Failed witnessed check +1 · Major deception success Effect 3+ (–1, discretion) · Kofi's dead drop used twice +1 · Violence in public +3 (escalates to 5 within 4 hours)
 
 ---
 
