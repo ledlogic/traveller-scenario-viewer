@@ -63,7 +63,7 @@ During the REEF LIGHT approach, an agent with **Science (engineering) 1+**, **El
 
 **What Seluun Mian-Ashta knows (if the agents have made contact):** The Gashiddan reef ecosystem contains organisms whose digestive chemistry is specifically adapted to processing carbon-silicate mineral compounds — the Shelf Architects themselves, and the reef-gas biochemistry that derives from them. An organism that evolved to process Shelf Architect arcite mineral would find carbon-composite ship components nutritionally interesting. Seluun has, in fact, been observing unusual patterns of Shelf Architect growth concentration near the New Mondulkiri naval base for approximately eighteen months. They have not yet connected this to the vessels' construction materials. The agents can connect it for them — or draw their own conclusions.
 
-**Referee note — the longer game:** If the agents report the composite rudder finding to SolSec, Confederate Naval Intelligence will task a follow-up operation to investigate whether the Gashiddan deep reef ecosystem is actively degrading Imperial naval infrastructure — and whether this process can be accelerated or directed. This is a campaign seed, not a scenario objective. Plant the seed; let it grow.
+**The longer game:** If the agents report the composite rudder finding to SolSec, Confederate Naval Intelligence will task a follow-up operation to investigate whether the Gashiddan deep reef ecosystem is actively degrading Imperial naval infrastructure — and whether this process can be accelerated or directed. This is a campaign seed, not a scenario objective. Plant the seed; let it grow.
 
 ---
 
