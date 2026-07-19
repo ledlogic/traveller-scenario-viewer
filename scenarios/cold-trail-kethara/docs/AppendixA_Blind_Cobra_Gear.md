@@ -199,7 +199,7 @@ The 49 ports are distributed across a 200-metre section of the east cliff face:
 | 13–18m AGL (Zone B) | 19 ports | Mid tier — requires rope system or Haramoto's grav belt. These are the ports showing the most coolant degradation (middle of the thermal cycling zone). |
 | 19–24m AGL (Zone C) | 13 ports | Upper tier — grav belt required. Exposed position, visible from the delta floor if anyone is looking east. These ports see the highest wind loading during storms. |
 
-**Access during the scenario:** Checking a port requires physical access to the port face. The ports are sealed caps flush with the basalt, 22cm diameter, with a tool-operated quarter-turn release. From the outside, they are nearly invisible unless you know where to look (Recon 10+ to spot without guidance, or Haramoto can lead anyone directly to them).
+**Access during the scenario:** Checking a port requires physical access to the port face. The ports are sealed caps flush with the basalt, 22cm diameter, dull grey-black composite ringed with a rust-amber heat-oxidation stain from air-cooled operation, with a tool-operated quarter-turn release. From the outside, they are nearly invisible unless you know where to look (Recon 10+ to spot without guidance, or Haramoto can lead anyone directly to them).
 
 ---
 

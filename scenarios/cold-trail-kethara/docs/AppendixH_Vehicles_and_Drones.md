@@ -45,6 +45,26 @@ Vehicle stat blocks follow CRB22 vehicle profile format (pp.154 area, VH supplem
 
 ---
 
+### SHULGI & ENKI — Rental Truck ("the 454")
+
+Registration codes KL-441 and KL-442. The "454" isn't an official model designation — it's what everyone on Lakamsal calls this chassis, after a legendary big-block engine design from Terra's own early automotive history. The name stuck through at least three generations of retrofit: the current production run swapped the drivetrain to a TL9 fuel cell stack decades ago, but kept the same oversized, mechanically simple chassis, because that's what actually survives regular impact with Kethara basin wildlife. Nobody on Lakamsal wants a delicate truck.
+
+| Stat | Value |
+|---|---|
+| Type | Civilian utility truck, TL9 (fuel cell drivetrain, TL5-analog chassis design) |
+| Hull | 6 |
+| Structure | 6 |
+| Speed | 90kph (road), 40kph (off-road) |
+| Armour | 1 (bodywork only — not armoured, just heavy-gauge) |
+| Crew | 1 |
+| Passengers | 2 (cab) + open cargo bed |
+| Range | 400km per fuel cell charge |
+| Weapons | None |
+
+*Full acquisition context: Chapter 1, §1.6 (Solomani Security: Background & the Mission).*
+
+---
+
 ### MERIDIAN RECOVERY — *Haul One* Ground Car
 
 *(Full profile in Appendix D.3; abbreviated here)*
