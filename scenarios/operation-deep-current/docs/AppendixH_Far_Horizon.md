@@ -1,7 +1,6 @@
 # APPENDIX H — THE FAR HORIZON
 ## H.1 — SHIP SPECIFICATION
 
-
 ---
 
 ### H.1.1 — IDENTIFICATION
@@ -256,7 +255,7 @@ The turret is a contingency fitting. It is not armed and cannot provide fire sup
 ---
 
 ## DECK PLAN — WRITTEN DESCRIPTION
-*(For referee reference; no map produced)*
+*(No map produced)*
 
 **Upper Deck (Bridge Level):**
 Forward: Bridge — two pilot stations, navigator console, engineering monitor station. Panoramic viewport forward. Captain's stateroom immediately aft of bridge on port side. Navigator's stateroom starboard.
