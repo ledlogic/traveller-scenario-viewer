@@ -1,11 +1,6 @@
-# TRAVELLER: OPERATION DEEP CURRENT
 # APPENDIX G — PRE-GENERATED CHARACTERS
-## Six SolSec Field Agents — Full Stat Blocks, Backgrounds, and Connections
-
----
 
 OPERATION DEEP CURRENT — PRE-GENERATED CHARACTERS
-### Six SolSec Field Agents · Imperial Year 1116
 *Mongoose Traveller 2nd Edition · Ready-to-Play*
 
 ---
@@ -20,7 +15,7 @@ OPERATION DEEP CURRENT — PRE-GENERATED CHARACTERS
 
 ---
 
-## CHARACTER ROSTER OVERVIEW
+## G.1 — CHARACTER ROSTER OVERVIEW
 
 | # | Name | Role | Key Skills | Priority Objectives |
 |---|------|------|------------|---------------------|
@@ -33,7 +28,7 @@ OPERATION DEEP CURRENT — PRE-GENERATED CHARACTERS
 
 ---
 
-## CHARACTER 1 — SERA VIDAL-OSEI
+## G.2 — CHARACTER 1 — SERA VIDAL-OSEI
 **Team Leader · Social Operative · SolSec Intelligence Branch**
 
 *"Intelligence is not what you know. It is what you make other people believe."*
@@ -141,7 +136,7 @@ Sera spent twelve years at SolSec's analytical division before requesting field 
 
 ---
 
-## CHARACTER 2 — IKAIKA NOHARA
+## G.3 — CHARACTER 2 — IKAIKA NOHARA
 **Technical Specialist · Former Imperial Navy Engineer (Turned)**
 
 *"Every system has a failure point. I find them for a living."*
@@ -245,7 +240,7 @@ Two terms in the Imperial Navy gave Ikaika skills that SolSec found immediately 
 
 ---
 
-## CHARACTER 3 — DMITRI VOLKONSKY
+## G.4 — CHARACTER 3 — DMITRI VOLKONSKY
 **Field Agent · Surveillance and Extraction Specialist**
 
 *"If they see me, I have already made an error."*
@@ -347,7 +342,7 @@ Two terms as a Confederation Army recon specialist, two terms in SolSec field op
 
 ---
 
-## CHARACTER 4 — ANANYA KRISHNAMURTHY
+## G.5 — CHARACTER 4 — ANANYA KRISHNAMURTHY
 **Financial Operative · Forgery Specialist · Cover Identity Expert**
 
 *"Money is just a story. I write better stories than most."*
@@ -445,13 +440,13 @@ Two terms as a Confederation Army recon specialist, two terms in SolSec field op
 
 Ananya was born on Gashidda, in Makara, before her family emigrated to the Confederation when she was nine years old — old enough to remember what the arcology looked like before the heaviest phase of corporate consolidation. She has not been back in thirty-six years. This assignment is personal. SolSec knows it. They assigned her anyway.
 
-**Personality:** Intellectually formidable, slightly impatient with people who don't keep up, carrying a lifetime of controlled grief about her homeworld. She is the character most likely to find framing Achterberg emotionally uncomplicated — and the referee should note this as a moral data point, not an endorsement.
+**Personality:** Intellectually formidable, slightly impatient with people who don't keep up, carrying a lifetime of controlled grief about her homeworld. She is the character most likely to find framing Achterberg emotionally uncomplicated
 
 **Player Note:** Primary TIDE MARK financial authenticity operator and port clearance in Act 3. Gashiddan dialect gives DM+1 to Persuade with Makara residents when she reveals she grew up here — but this also risks compromising her cover. The moment the elevator descends into Makara for the first time: give her player a moment with this.
 
 ---
 
-## CHARACTER 5 — "TERN" FALCÃO
+## G.6 — CHARACTER 5 — "TERN" FALCÃO
 **Maritime Specialist · Pilot · Underworld Navigator**
 
 *"Every port has a back door. I know where they all are."*
@@ -552,7 +547,7 @@ Tern spent two terms drifting — working cargo, submersibles, and whatever paid
 
 ---
 
-## CHARACTER 6 — CASIMIR OBUOBI
+## G.7 — CHARACTER 6 — CASIMIR OBUOBI
 **Combat Medic · Physical Security · SolSec Field Security Branch**
 
 *"My job is to make sure everyone comes home. Whatever that takes."*
@@ -718,7 +713,7 @@ Two terms as a Confederation Marine gave Casimir the skills; two terms in SolSec
 *Operation Deep Current · Imperial Year 1116 · Mongoose Traveller 2nd Edition*
 ---
 
-## VISUAL RENDERING PROMPTS
+## G.8 — VISUAL RENDERING PROMPTS
 
 ### Neural.love Image Generation Prompts
 *All Player Agents and Major NPCs · Imperial Year 1116*

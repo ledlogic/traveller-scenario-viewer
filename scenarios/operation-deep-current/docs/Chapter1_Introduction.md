@@ -1,8 +1,6 @@
 # TRAVELLER: OPERATION DEEP CURRENT
 ## Chapter 1 — Introduction & World Guide
 
----
-
 **Setting:** Gashidda System, Dingir Subsector, Solomani Rim
 **Year:** 1116 Imperial Calendar — *The Last Year of the Long Peace*
 **Players:** 4–5 | **Duration:** 3–4 hours | **Structure:** Three Acts

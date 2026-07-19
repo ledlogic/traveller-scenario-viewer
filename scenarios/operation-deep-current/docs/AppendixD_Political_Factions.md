@@ -1,14 +1,11 @@
-# TRAVELLER: OPERATION DEEP CURRENT
 # APPENDIX D — POLITICAL FACTIONS
-## The Vanthara Truth, SolSec Subversion Doctrine, and Specialist Forces Mechanics
+## D.1 — THE VANTHARA TRUTH
+
+### D.1.1 — Canon Reference and Operational Analysis `[SF]`
 
 ---
 
-### Canon Reference and Operational Analysis `[SF]`
-
----
-
-### Where the Vanthara Truth Appears in Canon
+### D.1.2 — Where the Vanthara Truth Appears in Canon
 
 The Vanthara Truth is described in the *Solomani Front* supplement specifically within the **Gashidda world entry**. The full canon passage reads:
 
@@ -20,7 +17,7 @@ Everything beyond this in the scenario — Vanthara Noy as the founding philosop
 
 ---
 
-### SolSec's Operational View of the Vanthara Truth
+### D.1.3 — SolSec's Operational View of the Vanthara Truth
 
 **The External Directorate doctrine** `[SF]`
 
@@ -32,7 +29,7 @@ The Directorate is also noted for its long-term thinking: *"a SolSec agent may t
 
 ---
 
-### Why the Vanthara Truth Specifically
+### D.1.4 — Why the Vanthara Truth Specifically
 
 The Vanthara Truth fits SolSec's asset profile for four reasons, all grounded in the source:
 
@@ -46,7 +43,7 @@ The Vanthara Truth fits SolSec's asset profile for four reasons, all grounded in
 
 ---
 
-### The Long Timeline — Why 1116
+### D.1.5 — The Long Timeline — Why 1116
 
 The strategic assessment identifying the Vanthara Truth, the reactor workers' union, and the organised crime networks as Gashidda's three primary subversion vectors was filed in 1078. Kofi Mensah-Tran was placed as a sleeper agent the same year. Operation Deep Current is authorised in early 1116 — 38 years later.
 
@@ -56,7 +53,7 @@ This is also why the scenario's moral texture is what it is. The Vanthara Truth 
 
 ---
 
-### Referee Notes — Using This in Play
+### D.1.6 — Referee Notes — Using This in Play
 
 The Vanthara Truth should feel like a real institution, not an asset. Its members have lives, beliefs, and community obligations that exist entirely independently of SolSec's operational needs. The twice-daily Deep Bell migration observance is a genuine religious practice. The grief over Tenzin's death is genuine. The ordinary Gashiddans who attend Vanthara Truth meetings are not Solomani militants — they are people trying to maintain cultural identity under occupation.
 
@@ -70,7 +67,7 @@ The agents' use of this institution as an operational resource should feel like 
 
 ---
 
-### The Vanthara Truth — Cultural Practice Reference `[OC]`
+### D.1.7 — The Vanthara Truth — Cultural Practice Reference `[OC]`
 
 *The following section provides concrete cultural detail for running Vanthara Truth encounters at the table. All material is original extrapolation from the canon foundation of South Asian Terran heritage and Solomani spiritual philosophy.*
 
@@ -210,9 +207,9 @@ The *Specialist Forces* supplement contains no underwater or aquatic operations 
 
 ---
 
-## SPECIALIST FORCES — APPLICABLE MECHANICS `[SF2]`
+## D.2 — SPECIALIST FORCES — APPLICABLE MECHANICS `[SF2]`
 
-### 1. The Pinch — Intelligence Commando Resolution `[SF2]`
+### D.2.1 — The Pinch — Intelligence Commando Resolution `[SF2]`
 
 The "pinch" mechanic formalises the seizure of intelligence from an enemy installation. It maps directly onto Operations TIDE MARK (evidence plant) and REEF LIGHT (sensor photography). After the primary skill checks resolve, use the **Covert Operation Resolution** table to determine whether Director Voss traces the operation back to the agents.
 
@@ -232,7 +229,7 @@ The commander of the covert operation makes a **Tactics (military) or Deception 
 
 ---
 
-### 2. General Intel Indicator (GII) — Kofi's Six Years `[SF2]`
+### D.2.2 — General Intel Indicator (GII) — Kofi's Six Years `[SF2]`
 
 The GII abstraction gives mechanical weight to Kofi's intelligence-gathering. His six years of deep cover on Gashidda represent sustained, patient intelligence accumulation.
 
@@ -248,7 +245,7 @@ This GII is what allows the agents to have detailed briefing packages — Achter
 
 ---
 
-### 3. Cordon and Sweep — Modelling Voss's ID Sweeps `[SF2]`
+### D.2.3 — Cordon and Sweep — Modelling Voss's ID Sweeps `[SF2]`
 
 Act 2 Complication #1 (Sweep) can be resolved using the cordon and sweep framework. Voss's sweep of the mid-tier hab-ring is an armed security operation against a population with firmly negative Population Reaction baseline.
 
@@ -258,7 +255,7 @@ The agents can exploit this: if they can engineer a reason for the sweep to be c
 
 ---
 
-### 4. Recon Specialist Principle — The Submersible Approach `[SF2]`
+### D.2.4 — Recon Specialist Principle — The Submersible Approach `[SF2]`
 
 The book notes that an alert enemy may have sensor posts watching for grav vehicles but can be *"taken entirely by surprise by a team that uses canoes or just walks."* This directly validates Three-Fin Valdez's submersible approach for REEF LIGHT.
 

@@ -1,8 +1,6 @@
 # TRAVELLER: OPERATION DEEP CURRENT
 ## Chapter 4 — Act Two: The Current Sets
 
----
-
 **Estimated table time: 75–90 minutes**
 
 *Act 2 is the operational core. Three objectives run concurrently over several in-game days. Intercut between threads. Apply time pressure. Every choice consumes time. Fourteen days sounds like plenty. It isn't.*
@@ -81,7 +79,22 @@ If any agent leaves the submersible during REEF LIGHT — to attach equipment, c
 | 5 | One present at 20–40m distance; Recon 10+ to detect before entering tentacle range |
 | 6 | One present within tentacle range of the berth approach; automatic encounter unless Recon 10+ (DM+2 if diver carries electrostatic deterrent rod) |
 
-Full Void Mantle combat statistics and encounter rules are in **Appendix J**.
+Full Void Mantle combat statistics and encounter rules are in **Appendix E**.
+
+**ACTIVE DETERRENCE — Combat-Capable Divers**
+
+A character who takes an **active role** against the Void Mantle rather than evading it can create space for the rest of the team. This is mechanically meaningful for combat-oriented characters who otherwise have nothing to engage during the REEF LIGHT approach.
+
+| Action | Skill | Difficulty | Effect |
+|--------|-------|-----------|--------|
+| Drive off with electrostatic rod (requires rod) | Melee (unarmed) | 8+ | Void Mantle withdraws; encounter ends |
+| Wound a tentacle to create a gap | Gun Combat (any — snub pistol waterproofed) | 10+ | Team passes; Void Mantle re-engages in 1D rounds |
+| Position as rear-guard while team completes hull-walk | Tactics (military) | 8+ | DM+2 on all team Athletics checks this scene |
+| Bioluminescent lure (improvised from reef equipment) | Science (biology) 1+ or Survival 8+ | — | Draws Void Mantle away; 2D6 minutes before it returns |
+
+**Snub pistols underwater:** Waterproofed snub pistols (Cr 150 modification, available from dive gear suppliers) fire normally at Short range underwater. Standard snub pistols jam on a natural 2. Flechette rounds lose 2D penetration underwater. Tranq rounds work normally — though tranquilising a Void Mantle requires 3 successful hits on the same tentacle cluster.
+
+**Reward:** A character who successfully drives off or wounds a Void Mantle while protecting the team earns a +1 DM on the next social check with Three-Fin (she was watching on the submersible's external cameras and she is not easy to impress).
 
 ---
 

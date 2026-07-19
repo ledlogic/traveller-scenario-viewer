@@ -1,8 +1,5 @@
-# TRAVELLER: OPERATION DEEP CURRENT
 # APPENDIX A — REFEREE QUICK REFERENCE
-## Combat Stats, Suspicion Track, Gear, and Campaign Seeds
-
----
+## A.1 — COMBAT STATS AND SUSPICION TRACK
 
 APPENDIX A: QUICK-REFERENCE COMBAT STATS
 
@@ -60,7 +57,7 @@ APPENDIX D: CAMPAIGN SEEDS
 
 ---
 
-## SKILL REFERENCE TABLE
+## A.2 — SKILL REFERENCE TABLE
 
 | Category | Skill | Acts Used | Notes |
 |----------|-------|-----------|-------|

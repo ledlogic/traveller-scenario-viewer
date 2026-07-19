@@ -1,8 +1,4 @@
-# TRAVELLER: OPERATION DEEP CURRENT
 # APPENDIX E — GASHIDDA BESTIARY
-## Driftweb, Reef Consumer, Void Mantle, and Full Organism Reference
-
----
 
 **World:** Gashidda (UWP: A56A969-E) · Dingir Subsector · Solomani Rim  
 **Environment:** Cool water world; equatorial reef shelf (depth 20m–4,000m); lower atmosphere (0–12km)  
@@ -15,7 +11,7 @@
 
 ---
 
-## ECOLOGICAL OVERVIEW
+## E.1 — ECOLOGICAL OVERVIEW
 
 Gashidda's biosphere operates across two domains that most inhabited worlds treat as entirely separate: the ocean and the sky. On Gashidda they are connected. The same biological productivity that drives the deep reef ecosystem generates the atmospheric layer of filamentous microorganisms — the Driftweb — that gives the sky its characteristic grey-green colour and filters the already-dim light of the G8 IV primary into something dimmer still.
 
@@ -34,11 +30,11 @@ Four ecological zones are relevant to this bestiary:
 
 ---
 
-## SPECIES ENTRIES
+## E.2 — SPECIES ENTRIES
 
 ---
 
-### 00 · DRIFTWEB
+### E.2.0 — DRIFTWEB
 *Gashidda Atmospheric Filament Algae · Filamentophyta atmospherica gashiddana*
 
 **Ecological Zone:** Lower and mid atmosphere (2–12km altitude)  
@@ -85,7 +81,7 @@ The Wheel of Earth movement takes this further. In Wheel theology the Driftweb i
 
 ---
 
-### 01 · GIKHI
+### E.2.1 — GIKHI
 *Gashidda Common Reef Eel · Elongichthys gashiddanus*
 
 **Ecological Zone:** Shelf Shallows and Mid-Shelf (0–800m)  
@@ -114,7 +110,7 @@ Gikhi eggs — laid in clutches of 200–400 in deep reef crevices — are appro
 
 ---
 
-### 02 · REEF LANTERN
+### E.2.2 — REEF LANTERN
 *Aggregating Colonial Polyp · Luminocolonia makara*
 
 **Ecological Zone:** Mid-Shelf reef columns (200–2,000m)  
@@ -145,7 +141,7 @@ Imperial development pressures have damaged reef lantern colonies near the New M
 
 ---
 
-### 03 · VOID MANTLE
+### E.2.3 — VOID MANTLE
 *Pelagic Ambush Predator · Abyssocephalus velatus*
 
 **Ecological Zone:** Mid-Shelf open water adjacent to reef columns (400–1,800m)  
@@ -178,7 +174,7 @@ The Void Mantle's bell does produce bioluminescence, but only during feeding or 
 
 ---
 
-### 04 · DEEP BELL
+### E.2.4 — DEEP BELL
 *Schooling Mid-Water Grazer · Bathypelagus campanulus*
 
 **Ecological Zone:** Mid-Shelf and Shelf Shallows (50–1,200m; vertical migration)  
@@ -209,7 +205,7 @@ The blue drift is also a significant cultural and emotional reference for Gashid
 
 ---
 
-### 05 · SHELF ARCHITECT
+### E.2.5 — SHELF ARCHITECT
 *Reef-Building Colonial Organism · Constructans gashiddanus*
 
 **Ecological Zone:** Shelf bedrock and column bases (200–600m)  
@@ -240,7 +236,7 @@ Active colony growth is visually identifiable by a faint orange-brown biofilm on
 
 ---
 
-### 06 · THERMAL ANGEL
+### E.2.6 — THERMAL ANGEL
 *Deep Vent Chemosynthetic Swimmer · Thermovola gashiddanus*
 
 **Ecological Zone:** Deep Vent Fields (1,500–4,000m)  
@@ -273,7 +269,7 @@ The electric discharge it produces when physically handled is approximately 40�
 
 ---
 
-## BESTIARY SUMMARY TABLE
+## E.3 — BESTIARY SUMMARY TABLE
 
 | Species | Common Name | Size | Zone (depth) | Threat | Commercial Value |
 |---------|-------------|------|-------------|--------|-----------------|
@@ -286,7 +282,7 @@ The electric discharge it produces when physically handled is approximately 40�
 
 ---
 
-## ECOLOGICAL RELATIONSHIP DIAGRAM
+## E.4 — ECOLOGICAL RELATIONSHIP DIAGRAM
 
 ```
   ATMOSPHERE (2–12km altitude)
@@ -322,7 +318,7 @@ The electric discharge it produces when physically handled is approximately 40�
 
 ---
 
-## NOTES FOR REFEREES
+## E.5 — NOTES FOR REFEREES
 
 **Using the bestiary in play:**
 
@@ -351,7 +347,7 @@ Species nomenclature follows Third Imperium Xenobiological Registry conventions 
 ---
 
 APPENDIX I: ORGANISM MG-2023-15 — THE REEF CONSUMER
-### Proposed Bio-Intelligence Asset · Confederate Naval Interest `[OC]`
+### E.5.1 — Proposed Bio-Intelligence Asset · Confederate Naval Interest `[OC]`
 
 ---
 
@@ -359,7 +355,7 @@ APPENDIX I: ORGANISM MG-2023-15 — THE REEF CONSUMER
 
 ---
 
-### Background — The Connection
+### E.5.2 — Background — The Connection
 
 The discovery of carbon-composite rudder assemblies on Imperial Navy cruisers in New Mondulkiri's maintenance berths (see REEF LIGHT Optional Discovery) raises an immediate strategic question for Confederate Naval Intelligence: if Imperial garrison fleet vessels are being fitted with carbon-composite structural components, can the deep reef biome of Gashidda be induced to degrade those components faster than the Imperial maintenance schedule can compensate?
 
@@ -369,7 +365,7 @@ The answer depends on finding an organism with the right biochemical profile —
 
 ---
 
-### Organism Profile — MG-2023-15
+### E.5.3 — Organism Profile — MG-2023-15
 **Common designation:** Reef Consumer (proposed operational name) · **Origin designation:** Slug beast `[OC/companion scenario]`
 **Classification:** Bioengineered semi-conscious lifeform, Macrogenesis Corporation, Solomani Confederation
 
@@ -389,7 +385,7 @@ The answer depends on finding an organism with the right biochemical profile —
 
 ---
 
-### Biology — Metabolic Architecture
+### E.5.4 — Biology — Metabolic Architecture
 
 MG-2023-15 was originally designed by Macrogenesis Corporation as a biosludge processor — a bioengineered organism to consume the acrid gel deposits on agricultural worlds in the Vegan Autonomous District, converting them into soil nutrients compatible with standard Solomani grain agriculture. The design is a simplified worm-like body with a high-efficiency reactor-like digestive system capable of processing carbon-rich compounds, including carbon-silicate minerals and, critically, carbon-fibre composite materials.
 
@@ -401,7 +397,7 @@ This is both a constraint and an operational advantage: New Mondulkiri's mainten
 
 ---
 
-### Biology — Buoyancy and the Mucous Bubble System `[OC]`
+### E.5.5 — Biology — Buoyancy and the Mucous Bubble System `[OC]`
 
 MG-2023-15 possesses a secondary biological system with no analogue in the organism's Merganser agricultural deployment: **active buoyancy regulation via hydrocarbon mucous bubbles.**
 
@@ -417,7 +413,7 @@ A single organism at rest will typically carry 40–200 bubbles distributed acro
 
 ---
 
-### The Carbon Composite Connection
+### E.5.6 — The Carbon Composite Connection
 
 Carbon-fibre composite materials — including the type identified on Imperial Navy cruiser rudders at New Mondulkiri — are processed by MG-2023-15's digestive system as an accessible carbon source in mineral-rich environments. In laboratory conditions, a single organism can degrade approximately 0.3 kg of carbon-composite material per day under optimal conditions.
 
@@ -427,7 +423,7 @@ A colony of 50–100 organisms in sustained contact with a vessel's rudder assem
 
 ---
 
-### Secondary Hazard — The Mucous Release Problem `[OC]`
+### E.5.7 — Secondary Hazard — The Mucous Release Problem `[OC]`
 
 The buoyancy bubble system creates a significant secondary threat to Imperial naval operations that Confederate Naval Intelligence has not yet fully modelled.
 

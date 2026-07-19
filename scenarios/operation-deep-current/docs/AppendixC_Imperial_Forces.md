@@ -1,10 +1,7 @@
-# TRAVELLER: OPERATION DEEP CURRENT
 # APPENDIX C — IMPERIAL FORCES
-## RSP-7-G Reef Picket Station — Structure, Crew, and Boarding Reference
+## C.1 — RSP-7-G REEF PICKET STATION
 
----
-
-### Overview
+### C.1.1 — Overview
 
 The Imperial Navy maintains a network of fixed sensor picket stations on the outer reef shelf surrounding New Mondulkiri, monitoring sonar coverage of the deep-water approaches that the shipyard's vessel traffic cannot adequately screen. These stations fill the gap between the base's active sonar arrays and the acoustic noise floor created by legitimate reef-shelf commercial traffic in the inner approaches.
 
@@ -16,7 +13,7 @@ A typical outer-shelf picket station is a **semi-submerged fixed installation** 
 
 ---
 
-### Physical Description
+### C.1.2 — Physical Description
 
 RSP-7-G is a **cylindrical pressure structure** approximately **28 metres tall and 12 metres in external diameter**, anchored vertically to the reef cap. The lower 20 metres are permanently submerged; the upper 8 metres extend above the waterline as a low surface platform with sensor masts, communications arrays, and a landing pad sized for one small atmospheric or aquatic craft.
 
@@ -34,7 +31,7 @@ External colour is the **grey-green anti-corrosion coating** standard to Imperia
 
 ---
 
-### Level Layout
+### C.1.3 — Level Layout
 
 The station is divided into **five operational levels** plus a basement mechanical section. Levels are numbered from the bottom (Level 1 = deepest) to the top (Level 5 = surface platform).
 
@@ -70,7 +67,7 @@ The station is divided into **five operational levels** plus a basement mechanic
 
 ---
 
-### Level Detail
+### C.1.4 — Level Detail
 
 **LEVEL 5 — Surface Platform** *(8m above waterline, open to atmosphere)*
 
@@ -132,7 +129,7 @@ Not normally crewed. Contains the anchor system (four reef bolts rated to 800 to
 
 ---
 
-### Crew — Standard Complement
+### C.1.5 — Crew — Standard Complement
 
 **Duty rotation: 9 crew (8 + 1 officer), 60-day assignment**
 
@@ -150,7 +147,7 @@ Not normally crewed. Contains the anchor system (four reef bolts rated to 800 to
 
 ---
 
-### Approach and Entry Options
+### C.1.6 — Approach and Entry Options
 
 **Option A — Underwater docking (recommended)** `[OC]`
 
@@ -170,9 +167,38 @@ Entry via the primary hatch requires either the biometric code (from the duty of
 
 Create a situation that draws the watch officer's attention to the surface (a false contact on the sensor screens, a debris strike on the hull, a fabricated sonar anomaly) while agents enter via the docking collar. Requires an external asset to generate the distraction. Kofi's network has one contact with access to a maintenance submersible — the contact can create acoustic noise on a specific bearing if given 4 hours advance notice. This draws the watch team's active attention outward while agents enter from below.
 
+**Option D — Loud Entry** `[OC]`
+
+For a group that chooses to go in hard — accepting that stealth is over and the mission clock starts immediately.
+
+**Precondition:** Agents must first acquire weapons. Three legal sources exist within the scenario:
+
+| Source | What's Available | How |
+|--------|-----------------|-----|
+| RSP-7-G armoury (Level 4) | 4× ACR, 2× snub pistol, 4× cloth armour | Must reach Level 4 undetected first — contradicts loud entry unless one agent goes ahead |
+| Three-Fin's emergency cache | 2× snub pistol (waterproofed), 1× electrostatic rod | Three-Fin has these. She will loan them for the boarding. She wants them back. |
+| Tarquin's network | 2× blade weapon (illegal, Law 9 violation if caught) | Requires prior contact with Tarquin and a specific request — he will provide without comment |
+
+**Loud Entry Sequence:**
+
+1. Surface approach to landing pad (Option B rules apply for turret)
+2. **Force primary hatch:** STR 10+ or cutting tools (2 min, loud). Hatch forced triggers soft alert immediately.
+3. **45-second window:** Agents descend to Level 4 before hard alert fires. **Athletics (dexterity) 8+** each to reach Level 4 in time.
+4. **Hard alert fires** when agents are visible on internal sensors. Duty officer arms crew. Console destruct sequence initiated (90 seconds).
+5. **Combat resolution:** 9 crew. Security ratings fight (Gun Combat 2, Melee 1). Sensor techs and engineering staff retreat to Level 1 or Level 3. Watch officer goes for the PGMP safe if not restrained within 2 rounds.
+6. **Data archive wipe** initiates at hard alert +90 seconds. Must reach Level 1 and cancel within 4 minutes.
+
+**Loud Entry Advantage:** Speed. The entire station is under agent control in 3–5 minutes if the combat goes well. No deception checks, no intercom queries, no slow-burn tension.
+
+**Loud Entry Cost:** New Mondulkiri response vessel (Shafin-class) launches immediately on naval base alert. **25–30 minutes** to station arrival at maximum speed. Extraction window is hard. Voss Suspicion track goes to 5 automatically. Any future scenario appearance at New Mondulkiri requires new cover identities.
+
+**Combat Note — confined spaces:** The station's 10m diameter compartments make ranged combat at Medium range the maximum. ACRs are slightly unwieldy (−1 to hit in confined quarters at referee's discretion). Snub pistols and melee are better suited. The duty officer knows this — she will try to close to melee range with the PGMP rather than fire it, using it as a threat rather than a weapon. She is not suicidal.
+
+**The PGMP moment:** If the duty officer reaches the PGMP safe and opens it, the room changes. She holds 2DD average-14 damage in a confined space and everyone in the room knows what happens if she fires it. This is the scenario's highest-stakes negotiation moment. What does she want? She wants her crew alive and the station intact. What do the agents want? The archive. There is a deal here if someone thinks to make it.
+
 ---
 
-### Alert States and Response
+### C.1.7 — Alert States and Response
 
 | State | Trigger | Response |
 |-------|---------|---------|
@@ -185,7 +211,7 @@ Create a situation that draws the watch officer's attention to the surface (a fa
 
 ---
 
-### Intelligence Package — What the Archive Contains
+### C.1.8 — Intelligence Package — What the Archive Contains
 
 A successful extraction of the RSP-7-G data archive yields the following, graded by mission outcome:
 
@@ -198,7 +224,7 @@ A successful extraction of the RSP-7-G data archive yields the following, graded
 
 ---
 
-### Boarding Scenario — Skill Checks Summary
+### C.1.9 — Boarding Scenario — Skill Checks Summary
 
 | Phase | Task | Skill | Difficulty | Notes |
 |-------|------|-------|-----------|-------|
@@ -214,7 +240,7 @@ A successful extraction of the RSP-7-G data archive yields the following, graded
 
 ---
 
-### Connections to the Main Scenario
+### C.1.10 — Connections to the Main Scenario
 
 **REEF LIGHT upgrade:** RSP-7-G boarding can replace or significantly enhance the REEF LIGHT photography mission. The patrol schedule data recovered from the archive is what allows the agents to time the REEF LIGHT submersible approach safely in the first place — making it a natural prequel to the shipyard photography, if the referee wants to add a multi-stage operation.
 
@@ -226,7 +252,7 @@ A successful extraction of the RSP-7-G data archive yields the following, graded
 
 ---
 
-### Neural.love Rendering Prompts — RSP-7-G `[OC]`
+### C.1.11 — Neural.love Rendering Prompts — RSP-7-G `[OC]`
 
 **EXTERIOR — Surface approach, establishing shot**
 
@@ -290,19 +316,19 @@ A successful extraction of the RSP-7-G data archive yields the following, graded
 
 ---
 
-## LOCATIONS — RSP-7-G IMPERIAL NAVY REEF PICKET STATION
+## C.2 — LOCATIONS — RSP-7-G VISUAL REFERENCE
 
-### RSP-7-G Exterior — Surface Approach
+### C.2.1 — RSP-7-G Exterior — Surface Approach
 > *Imperial Navy sensor picket station on an alien ocean world, semi-submerged cylindrical grey-green alloy tower rising 8 metres above a cold dark sea. Upper platform crowded with sensor mast clusters, communications dome, retractable laser turret housing. Hull coated in pale green filamentous algae — drifting biological strands trailing down the wet metal flanks into the water. Grey-green overcast sky filtered through atmospheric algae layer, diffuse cold light, no direct sun. Distant storm front visible on the horizon. The tower looks industrial, functional, and very alone. Photorealistic military sci-fi architecture, cold colour palette, wide establishing shot from low water level, station occupying centre-right frame with open alien ocean to the left, 4K cinematic.*
 
 ---
 
-### RSP-7-G Exterior — Underwater Approach, Submersible POV
+### C.2.2 — RSP-7-G Exterior — Underwater Approach
 > *Looking upward from beneath an alien ocean toward the underside of a cylindrical Imperial Navy sensor station anchored to a coral-like alien reef. The station hull tapers slightly toward the reef anchor bolts below. Two circular docking collars visible on the mid-section hull, one illuminated by a faint running light. Above, the waterline shimmers with grey-green light filtered through atmospheric algae. Bioluminescent reef organisms glow amber and blue on the reef face to the right. The submersible forward floodlights illuminate the station hull in a cone of cold white light. Photorealistic deep-sea sci-fi, tense and claustrophobic, upward perspective, dark water, alien reef biology, 4K.*
 
 ---
 
-### RSP-7-G Interior — Level 4 Command Centre, Hard Alert
+### C.2.3 — RSP-7-G Interior — Level 4 Command Centre
 > *Interior of a cramped circular command centre inside an Imperial Navy sensor station, hard alert in progress. Four console stations arranged around a central space, screens displaying sonar data and alert indicators in red and amber. Low curved ceiling, exposed conduit runs, the aesthetic of a submarine command room crossed with TL12 military electronics. Two naval crew in grey Imperial Navy duty coveralls at the consoles, one standing with hand on a weapons locker. Red alert lighting. A reinforced viewport on one wall shows dark water outside with faint bioluminescent reef light. The room feels pressurised, sealed, and slightly too small. Photorealistic military sci-fi interior, tense atmosphere, red and amber light, claustrophobic geometry, 4K cinematic.*
 
 ---

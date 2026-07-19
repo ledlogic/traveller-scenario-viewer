@@ -1,8 +1,6 @@
 # TRAVELLER: OPERATION DEEP CURRENT
 ## Chapter 3 — Act One: Descent
 
----
-
 **Estimated table time: 45–60 minutes**
 
 *The arcology elevator descends from the island starport into the equatorial reef shelf, and Makara comes into view through the hull viewports — a vast pressurised city built into the living rock of the reef, its lights casting warm colour into the surrounding blackness of the deep ocean. Bioluminescent reef columns glow blue-green in the distance. The elevator hisses as pressure seals engage. Welcome to Makara.*

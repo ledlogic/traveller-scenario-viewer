@@ -1,10 +1,6 @@
-# TRAVELLER: OPERATION DEEP CURRENT
 # APPENDIX F — WATER VEHICLES AND EQUIPMENT
-## Canonical Submarines, Surface Vessels, and Diving Equipment
 
----
-
-## SUBMARINES
+## F.1 — SUBMARINES
 
 *Source: Traveller Water Vehicles Volume 1, Northern Edge / Travellers' Aid Society. Author: Colin Dunn. All stats quoted directly from this supplement.*
 
@@ -12,7 +8,7 @@
 
 ---
 
-### GP 'HSU' CLASS RESEARCH SUBMARINE
+### F.1.1 — GP 'HSU' CLASS RESEARCH SUBMARINE
 *The closest canonical analogue to the scenario's Crab-class dive operations vehicle*
 
 **TL:** 14 | **Type:** Research Submarine | **Skill:** Seafarer (submarine)
@@ -43,7 +39,7 @@
 
 ---
 
-### INSTELLARMS 'SHIELD' SUBMARINE
+### F.1.2 — INSTELLARMS 'SHIELD' SUBMARINE
 *Planetary defence submarine — anti-spacecraft capable*
 
 **TL:** 13 | **Type:** Military Submarine | **Skill:** Seafarer (submarine)
@@ -80,7 +76,7 @@
 
 ---
 
-### HIGHLINE UTILITY SUBMARINE
+### F.1.3 — HIGHLINE UTILITY SUBMARINE
 *Three-Fin's operational analogue — the workhorse sub for Gashidda's undersea city network*
 
 **Source:** *Traveller Water Vehicles Volume 1*, p.9 `[WV]`
@@ -129,7 +125,7 @@ The Highline is the canonical closest match to Three-Fin's vessel in *Operation 
 
 ---
 
-### SHAFIN PATROL BOAT
+### F.1.4 — SHAFIN PATROL BOAT
 *Imperial Navy surface presence — coastal and harbour enforcement*
 
 **Source:** *Traveller Water Vehicles Volume 1*, p.3 `[WV]`
@@ -173,7 +169,7 @@ For the RSP-7-G boarding scenario (Appendix C), a Shafin-equivalent is the most 
 
 ---
 
-### VANGUARD SYSTEMS SEA RANGER (RIB)
+### F.1.5 — VANGUARD SYSTEMS SEA RANGER (RIB)
 *Carried aboard the Shafin — boarding and rapid response craft*
 
 **Source:** *Traveller Water Vehicles Volume 1*, p.2 `[WV]`
@@ -216,7 +212,7 @@ Sprint torpedoes are advanced super-cavitating weapons. They create a gas bubble
 
 ---
 
-### LASER BUOY (NEW WEAPON)
+### F.1.6 — LASER BUOY (NEW WEAPON)
 *From Traveller Water Vehicles Volume 1, p.15*
 
 An anti-ship laser in a buoy that can be released from depths up to 100 m beneath the surface. Connected to the controlling submarine by large-gauge power/data cable. Used to engage targets in low orbit.
@@ -227,7 +223,7 @@ An anti-ship laser in a buoy that can be released from depths up to 100 m beneat
 
 ---
 
-### LIGHT LASER CANNON (NEW WEAPON)
+### F.1.7 — LIGHT LASER CANNON (NEW WEAPON)
 *From Traveller Water Vehicles Volume 1, p.14 — civilian exploration vehicle mount*
 
 Based on a laser sniper rifle in a robust housing with improved focal optics. Often found on civilian exploration vehicles, powered off the vehicle's plant. Used to repel aggressive animals, destroy light barriers, and deter wildlife at long range.
@@ -240,7 +236,7 @@ Based on a laser sniper rifle in a robust housing with improved focal optics. Of
 
 ---
 
-### SUBMERSIBLE MODIFICATION
+### F.1.8 — SUBMERSIBLE MODIFICATION
 *From Traveller Water Vehicles Volume 1, p.13 — vehicle modification rules*
 
 Any Ground Vehicle, Grav Vehicle, or Watercraft can have the Submersible option added at time of construction. Usually combined with an Aquatic Drive and Life Support. Hostile Environment Protection required; Corrosive Environment Protection required if submerging in corrosive or insidious fluid (relevant to Hiroshima's hydrochloric seas).
@@ -254,7 +250,7 @@ Any Ground Vehicle, Grav Vehicle, or Watercraft can have the Submersible option 
 
 ---
 
-## MICROWHEEL SAMPLE CONTAINER
+## F.2 — MICROWHEEL SAMPLE CONTAINER
 
 The Microwheel is a standard **sample collection canister with integrated micro-life-support**, designed for transporting living biological specimens from deep-sea environments to surface or shipboard laboratory conditions. The name comes from the tiny impeller wheel that circulates the internal water column.
 
@@ -279,13 +275,13 @@ The Microwheel is a standard **sample collection canister with integrated micro-
 
 ---
 
-## VOID MANTLE — SUBMERSIBLE ENCOUNTER MECHANICS
+## F.3 — VOID MANTLE — SUBMERSIBLE ENCOUNTER MECHANICS
 
 *(Cross-reference: Operation Deep Current Gashidda Bestiary — Void Mantle full profile)*
 
 The Void Mantle's predatory grip on a small submersible is one of the distinctive hazard scenarios in the Deep Current campaign. This section provides consolidated game mechanics for referee use.
 
-### Can the Void Mantle Crush a Carbon-Composite Hull?
+### F.3.1 — Can the Void Mantle Crush a Carbon-Composite Hull?
 
 **Short answer: No — on the timescale of an encounter.**
 
@@ -303,7 +299,7 @@ The Void Mantle (STR 14) generates significant constriction force through tentac
 
 **The real danger is not crushing — it is immobilisation.** A Void Mantle holding a Crab-class submersible at 200m depth, in absolute darkness, with a 6-hour air supply now counting down faster because the pilot is stressed and breathing harder, is a deeply threatening situation with no violence involved.
 
-### Breaking Free
+### F.3.2 — Breaking Free
 
 | Situation | Mechanic | Result |
 |---|---|---|
@@ -313,7 +309,7 @@ The Void Mantle (STR 14) generates significant constriction force through tentac
 | Wait out feeding instinct | 2D×10 minutes | Void Mantle eventually loses interest and releases |
 | Damage the creature | See Void Mantle stats | At 50% Hits remaining, creature releases and retreats |
 
-### Shrink-and-Thicken: Tentacle Mechanics
+### F.3.3 — Shrink-and-Thicken: Tentacle Mechanics
 
 The Void Mantle's tentacles can **shrink and thicken as they retract**, converting the small cilia that line each tentacle from sensory/swimming organs into constriction-assist muscles. This is the mechanism by which a soft-bodied medusan organism achieves the grip strength to hold a submersible.
 
@@ -325,19 +321,19 @@ The Void Mantle's tentacles can **shrink and thicken as they retract**, converti
 
 ---
 
-## DRIFTWEB — ATMOSPHERIC PROPERTIES
+## F.4 — DRIFTWEB — ATMOSPHERIC PROPERTIES
 
 *(Primary ecology: Gashidda upper atmosphere. Cross-reference: Operation Deep Current supplement.)*
 
 *The Driftweb was first identified as a distinct organism type on Gashidda, but the ecological niche — atmospheric filamentous algae forming extensive drift networks — has since been identified on several worlds in the subsector with comparable atmospheric conditions. The following section consolidates game-relevant properties across all contexts.*
 
-### Biological Description
+### F.4.1 — Biological Description
 
 Driftweb is a **filamentous photosynthetic organism** — technically a colonial cyanobacterial mat that has evolved to maintain altitude through aerodynamic adaptation rather than gas bladders or active propulsion. Individual filaments range from 0.1mm to 3mm in diameter and 2cm to 80cm in length. They interlink electrostatically to form larger structures that can range from gossamer wisps to dense mats several metres across.
 
 **The Bernoulli wing mechanism:** Each individual filament cilia is shaped in cross-section as a micro-scale asymmetric aerofoil — the classic Bernoulli wing profile, generating lift on the upper surface relative to the lower. This is why Driftweb maintains altitude: millions of microscopic wing-blade cilia, each generating fractional lift, add up to a network that is genuinely aerodynamically supported rather than simply drifting on thermals. The network actively orients itself — the colony responds to light gradients and adjusts its collective cilia angle to optimise altitude and solar exposure.
 
-### Physical Properties
+### F.4.2 — Physical Properties
 
 | Property | Value |
 |---|---|
@@ -350,7 +346,7 @@ Driftweb is a **filamentous photosynthetic organism** — technically a colonial
 | Flammability | Low — high water content; burns reluctantly at ground level, more readily at altitude |
 | Electrical conductivity | Low baseline; some mat formations develop static charge from cilia friction |
 
-### Flight Hazards
+### F.4.3 — Flight Hazards
 
 Driftweb poses **three distinct hazards to aircraft**:
 
@@ -373,7 +369,7 @@ Driftweb's cilia create both physical occlusion and electromagnetic scatter effe
 
 These modifiers apply to active sensors (radar, lidar, sonar equivalent). Passive thermal/IR sensors are degraded less severely (-1 to -2 for moderate/dense). This makes dense Driftweb formations **natural sensor-degraded zones** — with tactical implications (see below).
 
-### Tactical Value
+### F.4.4 — Tactical Value
 
 **Military stealth:** Aircraft flying through or below a dense Driftweb layer are effectively masked from ground-based or low-altitude radar. The -3 to -4 sensor modifier at the layer boundary means a small aircraft (already a marginal return) becomes essentially undetectable from outside. Gashidda's independence movement has exploited this — the Driftweb layer is why their covert courier flights between islands are not routinely tracked by Imperial sensor networks.
 

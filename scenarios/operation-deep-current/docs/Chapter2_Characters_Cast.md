@@ -1,8 +1,6 @@
 # TRAVELLER: OPERATION DEEP CURRENT
 ## Chapter 2 — Cast of Characters & Skills
 
----
-
 ## 2.1 — PLAYER BRIEFING
 
 *Read or paraphrase to players before play begins.*

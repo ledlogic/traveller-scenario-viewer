@@ -1,14 +1,10 @@
-# TRAVELLER: OPERATION DEEP CURRENT
 # APPENDIX H — THE FAR HORIZON
-## Ship Specification, Full Stats, and Neural.love Rendering Prompts
+## H.1 — SHIP SPECIFICATION
+
 
 ---
 
-### Type R Subsidised Merchant (Modified) · Cover Vessel
-
----
-
-### IDENTIFICATION
+### H.1.1 — IDENTIFICATION
 
 | Field | Detail |
 |-------|--------|
@@ -22,7 +18,7 @@
 
 ---
 
-### HULL AND PERFORMANCE
+### H.1.2 — HULL AND PERFORMANCE
 
 | Field | Detail |
 |-------|--------|
@@ -39,7 +35,7 @@
 
 ---
 
-### CREW AND ACCOMMODATION
+### H.1.3 — CREW AND ACCOMMODATION
 
 | Role | Cover Identity | Agent |
 |------|---------------|-------|
@@ -54,7 +50,7 @@
 
 ---
 
-### CARGO AND COVER EQUIPMENT
+### H.1.4 — CARGO AND COVER EQUIPMENT
 
 | Allocation | Tonnage | Contents |
 |------------|---------|----------|
@@ -68,7 +64,7 @@ The two survey submersible pods are fully functional and provide legitimate oper
 
 ---
 
-### SENSORS, ELECTRONICS AND SECURITY
+### H.1.5 — SENSORS, ELECTRONICS AND SECURITY
 
 | System | Detail |
 |--------|--------|
@@ -84,13 +80,13 @@ The two survey submersible pods are fully functional and provide legitimate oper
 
 ---
 
-### ARMAMENT
+### H.1.6 — ARMAMENT
 
 One concealed single turret hardpoint, ventral-aft, disguised as sensor housing. **Empty — no weapons fitted.** Passes TL10 visual inspection; requires TL12 detailed scan to identify as turret housing. Cannot be armed at Gashidda — all available ordnance is Imperial Navy controlled. Post-mission refit option only.
 
 ---
 
-### FINANCIAL AND LEGAL STATUS
+### H.1.7 — FINANCIAL AND LEGAL STATUS
 
 | Field | Detail |
 |-------|--------|
@@ -102,7 +98,7 @@ One concealed single turret hardpoint, ventral-aft, disguised as sensor housing.
 
 ---
 
-### RUNNING THE SHIP IN PLAY
+### H.1.8 — RUNNING THE SHIP IN PLAY
 
 **Day-to-day:** The *Far Horizon* should feel like a working ship — rotating cover duties, port authority check-ins, occasional legitimate cargo queries. It is the team's one safe space and their exit. Protecting it is as important as any objective.
 
@@ -122,9 +118,9 @@ Mongoose Traveller 2nd Edition · Type R Subsidised Merchant (Modified)
 
 ---
 
-## FULL TECHNICAL SPECIFICATION
+## H.2 — FULL TECHNICAL SPECIFICATION
 
-## IDENTIFICATION
+### H.2.1 — IDENTIFICATION
 
 | Field | Detail |
 |-------|--------|
@@ -138,7 +134,7 @@ Mongoose Traveller 2nd Edition · Type R Subsidised Merchant (Modified)
 
 ---
 
-## HULL
+### H.2.2 — HULL
 
 | Field | Detail |
 |-------|--------|
@@ -151,7 +147,7 @@ Mongoose Traveller 2nd Edition · Type R Subsidised Merchant (Modified)
 
 ---
 
-## PERFORMANCE
+### H.2.3 — PERFORMANCE
 
 | Field | Detail |
 |-------|--------|
@@ -167,7 +163,7 @@ Mongoose Traveller 2nd Edition · Type R Subsidised Merchant (Modified)
 
 ---
 
-## CREW AND ACCOMMODATION
+### H.2.4 — CREW AND ACCOMMODATION
 
 | Role | Cover Identity | Notes |
 |------|---------------|-------|
@@ -183,7 +179,7 @@ Mongoose Traveller 2nd Edition · Type R Subsidised Merchant (Modified)
 
 ---
 
-## CARGO AND SURVEY EQUIPMENT
+### H.2.5 — CARGO AND SURVEY EQUIPMENT
 
 | Category | Tonnage | Contents |
 |----------|---------|----------|
@@ -197,7 +193,7 @@ The survey submersible pods are fully functional and provide legitimate operatio
 
 ---
 
-## SENSORS AND ELECTRONICS
+### H.2.6 — SENSORS AND ELECTRONICS
 
 | System | Spec | Notes |
 |--------|------|-------|
@@ -210,7 +206,7 @@ The survey submersible pods are fully functional and provide legitimate operatio
 
 ---
 
-## ARMAMENT
+### H.2.7 — ARMAMENT
 
 | System | Status | Notes |
 |--------|--------|-------|
@@ -222,7 +218,7 @@ The turret is a contingency fitting. It is not armed and cannot provide fire sup
 
 ---
 
-## SECURITY AND COVERT SYSTEMS
+### H.2.8 — SECURITY AND COVERT SYSTEMS
 
 | System | TL | Detail |
 |--------|----|--------|
@@ -234,7 +230,7 @@ The turret is a contingency fitting. It is not armed and cannot provide fire sup
 
 ---
 
-## FINANCIAL AND LEGAL STATUS
+### H.2.9 — FINANCIAL AND LEGAL STATUS
 
 | Field | Detail |
 |-------|--------|
