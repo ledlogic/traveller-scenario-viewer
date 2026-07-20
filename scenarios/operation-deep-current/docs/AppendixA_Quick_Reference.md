@@ -57,7 +57,26 @@ APPENDIX D: CAMPAIGN SEEDS
 
 ---
 
-## A.2 — SKILL REFERENCE TABLE
+
+## A.2 — STARTING FUNDS
+
+All characters begin the scenario with personal savings from mustering out, plus shared access to the KEH mission operational account.
+
+| Character | Personal Savings | Notes |
+|-----------|-----------------|-------|
+| 1 — Sera Vidal-Osei | Cr 40,000 | 3 cash rolls — senior analyst career |
+| 2 — Ikaika Nohara | Cr 30,000 | 2 cash rolls — Navy + Agent |
+| 3 — Dmitri Volkonsky | Cr 20,000 | 2 cash rolls |
+| 4 — Ananya Krishnamurthy | Cr 50,000 | 3 cash rolls — highest earner |
+| 5 — "Tern" Falcão | Cr 15,000 + remainder | 2 cash rolls + Cr 5,000 windfall (Life Event); most of windfall spent |
+| 6 — Casimir Obuobi | Cr 20,000 | 2 cash rolls |
+
+**Shared mission account:** Cr 5,000 KEH operational expenses — mission-funded, not personal savings. Available for cover-related purchases; accounted for by KEH financial records and subject to SolSec audit on return.
+
+**On Gashidda:** Law Level 9. Personal weapons, military equipment, and most surveillance gear cannot be purchased through legitimate channels. Seaharvester LIC procurement covers diving and survey equipment cleanly. Anything else routes through Kofi's lower hab-ring contacts at 20% above listed price with a 48-hour delay.
+
+
+## A.3 — SKILL REFERENCE TABLE
 
 | Category | Skill | Acts Used | Notes |
 |----------|-------|-----------|-------|
@@ -80,7 +99,7 @@ APPENDIX D: CAMPAIGN SEEDS
 
 ---
 
-## A.3 — SOURCE CITATIONS & ATTRIBUTION
+## A.4 — SOURCE CITATIONS & ATTRIBUTION
 
 All published content cited in this scenario is marked inline using the codes below. Original content is marked `[OC]`.
 
@@ -93,6 +112,8 @@ All published content cited in this scenario is marked inline using the codes be
 | `[CSC]` | *Central Supply Catalogue Update 2023* | — | Mongoose Publishing | 2023 | Diving equipment and personal gear referenced in environmental gear table |
 | `[MGT2]` | *Mongoose Traveller 2nd Edition Core Rulebook (2022)* | — | Mongoose Publishing | 2022 | Vehicle profile format; characteristic modifier table; skill check conventions throughout |
 | `[OC]` | Original content | — | Created for this scenario | 2026 | All scenario structure, NPCs, Driftweb organism, RSP-7-G picket station, Manta vehicle (armed variant), Kofi Mensah-Tran, Harada Mitsuko, combat additions, Vanthara Truth cultural practice detail, all act and scene content |
+
+**Corporate suffix note:** *LIC* — Limited Interstellar Company — is the standard Traveller corporate designation for a company incorporated under interstellar law. Equivalent to Ltd or Corp in contemporary usage. Used throughout this scenario for Seaharvester LIC, Ling Standard Products (LSP), and similar entities. Not to be confused with LLC (a real-world US legal structure with no Traveller equivalent).
 
 **Page reference format:** `[SF p.186]` indicates a specific page; `[SF]` without page number indicates general thematic influence or content spread across multiple pages.
 
