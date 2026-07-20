@@ -258,8 +258,8 @@ def render_shell(opts = {})
     <div class="app">
       <header class="topbar no-print">
         <div class="topbar-left">
-          <button id="sidebar-toggle" title="Toggle sidebar">☰</button>
           <a class="topbar-home" href="/" title="All scenarios">⌂</a>
+          <button id="sidebar-toggle" title="Toggle sidebar">☰</button>
           <span class="topbar-sep">·</span>
           <span class="topbar-title">#{opts[:scenario_title]}</span>
           #{opts[:scenario_subtitle] ? "<span class=\"topbar-sub\">#{opts[:scenario_subtitle]}</span>" : ''}
