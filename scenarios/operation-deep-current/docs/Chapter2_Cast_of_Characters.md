@@ -340,4 +340,35 @@ The Gashiddan academic community has a wary, largely respectful relationship wit
 
 **Characteristic notes:** `[SF]` As a Vegan, Seluun has EDU+2 applied (reflected in EDU 15 — exceptional even by Vegan standards), SOC-2 applied, IR vision, heat tolerance, and high gravity intolerance. Gashidda at 0.45G is ideal for them physically. Their three manipulator tentacles (in place of fingers) make delicate specimen work natural; the cracked sample staining on their hands is a permanent feature of their working life.
 
+### HARBOUR OFFICER DESH PRAMANIK
+
+**Role:** Administrative intake officer, New Mondulkiri transit hub. Processes all arriving vessel manifests and crew documentation. On Director Voss's informant list — not an active agent, but files supplementary arrival reports on anything that strikes him as irregular. He does not know he is being monitored in return.
+
+**Locations:** New Mondulkiri transit hub, administrative intake level; the harbour authority offices adjacent to the starport commercial concourse; occasional visits to the upper-tier Naval Intelligence liaison office to deliver physical documentation.
+
+|  | STR | DEX | END | INT | EDU | SOC |
+|--|-----|-----|-----|-----|-----|-----|
+| Score | 6 | 7 | 8 | 10 | 11 | 8 |
+| DM | +0 | +0 | +0 | +1 | +1 | +0 |
+
+| Skill | Lvl |
+|-------|-----|
+| Admin | 3 |
+| Advocate | 1 |
+| Broker | 1 |
+| Deception | 0 |
+| Investigate | 2 |
+| Persuade | 1 |
+| Recon | 1 |
+| Streetwise | 1 |
+
+**Armor:** None · **Weapons:** None (civilian official)
+**Equipment:** Harbour authority terminal access (arrival manifests, cargo declarations, vessel registration database), encrypted report uplink to Naval Intelligence, personal seal of the New Mondulkiri Harbour Authority
+
+**In play:** Pramanik is not hostile. He is thorough. He has seen every legitimate cover story and every bad one, and he files what he notices without drawing conclusions. The agents process through him in Scene 1-A; if Complication 1 fires, he asks specific questions about the KEH survey contract scope. A Deception 8+ or Broker 8+ satisfies him. Success: no record beyond standard intake. Failure: supplementary arrival note to Naval Intelligence within 6 hours — Voss +1 Suspicion.
+
+He can be cultivated. A second encounter in the starport concourse — casual, not operational — with Carouse 8+ or Persuade 8+ builds enough goodwill that he will warn the agents informally if Naval Intelligence puts a flag on the *Far Horizon*'s departure clearance. He will not risk his position to help them; he will risk a quiet word.
+
+**Rendering prompt:** *Mid-shot portrait. A heavyset man in his mid-fifties, South Asian features, close-cropped grey beard, wearing the dark blue-grey uniform of the New Mondulkiri Harbour Authority — functional, slightly worn at the cuffs. He is seated at an intake terminal in the New Mondulkiri transit hub, reviewing a document on a datareader. His expression is professionally neutral — not unkind, not welcoming. Behind him through a reinforced viewport: the grey-green ocean sky of Gashidda, low cloud, a starport approach channel visible in the middle distance. Fluorescent overhead lighting, institutional. The posture of a man who has done this job for twenty years and expects to do it for twenty more. Style: photorealistic, documentary portraiture, natural institutional lighting, muted blue-grey colour palette.*
+
 ---
