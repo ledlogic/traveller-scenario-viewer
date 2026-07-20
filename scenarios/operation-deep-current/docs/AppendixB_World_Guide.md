@@ -181,3 +181,36 @@ The Vegan trade attaché Dzhuur Ve-Ashtuk's office is here, in the starport's di
 | LSP political context | Shipyard control traces back to the 1100 union suppression that radicalised Harada |
 
 ---
+
+## B.4 — MAKARA UNIVERSITY `[OC]`
+
+Makara University occupies a cluster of interconnected reef-cap chambers in the mid-tier university district, positioned between the upper-tier corporate and administrative levels and the lower industrial zone. Some chambers are carved directly into the living coral limestone; others extend outward into the water column with reinforced transparent observation panels. The marine xenobiology and oceanography departments have direct observation bays looking into the equatorial reef shelf. At depth the light through those panels is diffuse blue-green, interrupted by the bioluminescent pulse of passing reef organisms.
+
+The architecture dates from the mid-occupation period — built and expanded between 1030 and 1090, when the Imperial military government needed to demonstrate that the occupation was civilising rather than extractive. The buildings have an imposed grandeur: high ceilings, formal corridor proportions, institutional stonework, in uncomfortable contrast to the reef-carved walls and the waterlogged informality of the surrounding mid-tier. The Imperium built a university that looks like a university. The Gashiddan population staffed it and quietly made it something else.
+
+### B.4.1 — Academic Character
+
+Makara University is genuinely excellent at what the ocean forces it to be: marine biology, xenoecology, deep-pressure engineering, and arcology systems design. Its oceanography faculty is among the best in the Solomani Rim for deep-water organism study — Gashidda provides field conditions no other institution can replicate. The Void Mantle, the Reef Consumer, and the Driftweb were all formally described and classified by Makara University researchers, in papers that reached the Imperial scientific press and were quietly stripped of their Solomani institutional affiliation before publication.
+
+The humanities and social science departments are a different matter. History is taught carefully. Political science is taught very carefully. The faculty know which lectures are attended by Naval Intelligence observers and which are not. There is a thriving informal seminar culture in the reef-access dive preparation rooms — conversations that would not survive in a formal lecture theatre.
+
+### B.4.2 — The Occupation Layer
+
+Makara University is nominally administered by an Imperial Education Authority liaison office in the upper tier, which sets curriculum standards, controls degree accreditation, and can defund entire departments. In practice it exercises this power rarely — the technical faculties are too valuable to the Imperial Navy's own deep-water infrastructure — but the threat is permanent and understood by everyone.
+
+Faculty who are known Vanthara Truth members hold their positions on the tolerance of whoever currently commands the Naval Intelligence section. Voss has so far considered the university more useful as an observation point than a purge target. This calculation could change.
+
+### B.4.3 — Dr. Mian-Ashta's Position
+
+Dr. Seluun Mian-Ashta holds the marine xenobiology chair — one of the few positions the Imperial administration cannot easily fill from off-world, because the field knowledge required takes fifteen years of Gashidda-specific fieldwork to acquire. This gives her unusual job security relative to colleagues in softer disciplines. Her research on Reef Consumer carbon-composite integration is funded partly by LSP infrastructure contracts, which gives her access to the lower reef-shelf dive facilities without requiring Naval Intelligence clearance for each excursion.
+
+### B.4.4 — In Play
+
+The university district provides a mid-tier contact point that is socially distinct from the Vanthara Truth chapter house, the cargo dock district, and the upper-tier corporate zone. Meetings here carry a cover rationale — survey crews legitimately consult marine biology faculty on deep-water safety conditions. Dr. Mian-Ashta is the primary connection; she can introduce agents to other faculty if trust is established, and her laboratory provides a location for secure conversation that Voss has not yet flagged as sensitive.
+
+| Location | Notes |
+|----------|-------|
+| Marine Xenobiology Department | Dr. Mian-Ashta's primary location; specimen labs adjacent |
+| Reef-access dive preparation rooms | Informal meeting point; Naval Intelligence does not monitor routinely |
+| Faculty corridor, mid-tier | Transit route between university and dive facilities; low surveillance |
+| Deep observation bay (Dept. 7) | Direct view into reef shelf; used for fieldwork briefings |
