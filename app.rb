@@ -307,16 +307,18 @@ get '/' do
     return redirect(first ? "/s/#{s['slug']}/#{first['file']}" : '/')
   end
 
-  cards = scenarios.values.map do |s|
+  cards = scenarios.values.sort_by { |s| s['inception_date'] || '9999-99-99' }.map do |s|
     first = (s['docs'] || []).first
     href  = first ? "/s/#{s['slug']}/#{first['file']}" : "/s/#{s['slug']}"
     acc   = s['color'] || '#c8a96e'
+    date  = s['inception_date']
     <<~CARD
       <a class="scenario-card" href="#{href}" style="--card-accent:#{acc}">
         <div class="card-system">#{s['system'] || 'RPG Scenario'}</div>
         <div class="card-title">#{s['title']}</div>
         #{s['subtitle'] ? "<div class=\"card-sub\">#{s['subtitle']}</div>" : ''}
         #{s['setting']  ? "<div class=\"card-setting\">#{s['setting']}</div>"  : ''}
+        #{date ? "<div class=\"card-date\">Started #{date}</div>" : ''}
         <div class="card-count">#{(s['docs'] || []).size} documents</div>
       </a>
     CARD

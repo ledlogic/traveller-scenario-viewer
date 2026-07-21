@@ -3,21 +3,45 @@
 A clean multi-scenario Markdown reader for Traveller RPG referee documents.
 Dark/light theme, sidebar navigation, print-optimised output, keyboard shortcuts.
 
-## Quick start (Node)
+## Requirements
 
+Ruby 2.7+ and Bundler. If you don't have Ruby installed:
+
+**Windows**
+Download and run the installer from [rubyinstaller.org](https://rubyinstaller.org) (pick the "WITH DEVKIT" version). Accept the defaults, and let it run the `ridk install` step at the end.
+
+**macOS**
 ```bash
-npm install
-npm start
-# → http://localhost:4567
+brew install ruby
+```
+(macOS ships an old system Ruby — Homebrew's is more reliable. If `ruby -v` still shows the system version afterward, add Homebrew's Ruby to your PATH per the `brew info ruby` instructions.)
+
+**Linux (Debian/Ubuntu)**
+```bash
+sudo apt update
+sudo apt install ruby-full build-essential ruby-bundler
+```
+(`ruby-bundler` installs Bundler system-wide correctly on Debian/Ubuntu — avoids the `Gem::FilePermissionError` you'll hit running `gem install bundler` directly, since apt's Ruby gem directory isn't user-writable.)
+
+**Any other platform, once Ruby is installed:**
+```bash
+gem install bundler
 ```
 
-## Quick start (Sinatra / Ruby)
+Verify with `ruby -v` (should print 2.7 or higher) and `bundler -v`.
+
+Dependencies (in `Gemfile`): `sinatra ~> 3.0`, `kramdown ~> 2.4`, `kramdown-parser-gfm ~> 1.1`, `webrick`.
+
+## Quick start
 
 ```bash
+bundle config set --local path 'vendor/bundle'
 bundle install
-ruby app.rb
+bundle exec ruby app.rb
 # → http://localhost:4567
 ```
+
+(The `bundle config` line installs gems into a `vendor/bundle` folder inside the project instead of the system gem directory — needed on Debian/Ubuntu, where `/var/lib/gems` isn't user-writable and a plain `bundle install` will fail with a `PermissionError`.)
 
 ---
 
@@ -25,10 +49,8 @@ ruby app.rb
 
 ```
 traveller-viewer/
-├── server.js              ← Node/Express server
-├── app.rb                 ← Sinatra server (Ruby alternative)
+├── app.rb                 ← Sinatra server
 ├── Gemfile
-├── package.json
 ├── public/
 │   ├── style.css          ← All styling (screen + print)
 │   └── app.js             ← Theme, sidebar, keyboard shortcuts
@@ -107,19 +129,3 @@ The print stylesheet:
 
 For best results use **Chrome** or **Edge** — they have the most complete CSS print support.
 Firefox works well too. Safari has limited `@page` support.
-
----
-
-## Sinatra version (app.rb)
-
-Requires Ruby 2.7+ and Bundler.
-
-```ruby
-# Gemfile
-gem 'sinatra',             '~> 3.0'
-gem 'kramdown',            '~> 2.4'
-gem 'kramdown-parser-gfm', '~> 1.1'
-```
-
-The Sinatra version reads the same `scenarios/` folder structure
-and `meta.json` files — no code changes needed between the two servers.
