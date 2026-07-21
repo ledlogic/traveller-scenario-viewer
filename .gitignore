@@ -1,0 +1,24 @@
+# Bundler
+/vendor/bundle/
+/.bundle/
+
+# Ruby
+*.gem
+/tmp/
+/log/
+*.log
+
+# Editor / IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+.project
+
+# OS cruft
+.DS_Store
+Thumbs.db
+
+# Uploaded scenario content the app writes at runtime (if any lands here)
+/uploads/*
+!/uploads/.gitkeep

@@ -432,7 +432,22 @@ body.index-page { background: #0f1115; color: #d0d3db; }
   margin-bottom: 6px;
 }
 
-.index-hint { font-size: 14px; color: #555; }
+.index-hint { font-size: 14px; color: #555; display: flex; align-items: center; justify-content: center; gap: 10px; flex-wrap: wrap; }
+
+.ref-lib-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  padding: 6px 14px;
+  background: #1a1d24;
+  border: 1px solid #2a2e38;
+  border-radius: 999px;
+  color: #a8adb8;
+  text-decoration: none;
+  font-size: 13px;
+  transition: background 0.15s, border-color 0.15s, color 0.15s;
+}
+.ref-lib-btn:hover { background: #21252e; border-color: var(--accent, #c8a96e); color: #e8eaf0; }
 
 .scenario-grid {
   display: grid;
@@ -463,6 +478,47 @@ body.index-page { background: #0f1115; color: #d0d3db; }
 .card-setting { font-size: 11px; color: #555; margin-top: 4px; }
 .card-date    { font-size: 11px; color: #6a6a5a; margin-top: 4px; font-style: italic; }
 .card-count   { font-size: 11px; color: #444; margin-top: auto; padding-top: 12px; border-top: 1px solid #252830; }
+
+/* Reference library */
+.topbar-refs {
+  font-size: 13px;
+  margin-right: 12px;
+  text-decoration: none;
+  color: #8a8f9a;
+  height: 28px;
+  display: inline-flex;
+  align-items: center;
+  padding: 0 12px;
+  border: 1px solid #2a2d35;
+  border-radius: 999px;
+  transition: background 0.15s, color 0.15s, border-color 0.15s;
+}
+.topbar-refs:hover { background: #1e222a; color: #c8cad0; border-color: var(--accent); }
+.ref-body { width: 100%; max-width: 720px; }
+.ref-card {
+  background: #1a1d24;
+  border: 1px solid #252830;
+  border-top: 3px solid var(--accent, #c8a96e);
+  border-radius: 6px;
+  padding: 24px;
+}
+.ref-dir { font-size: 12px; color: #7a7f8a; margin: 0 0 16px; }
+.ref-dir code { color: #a8adb8; }
+.ref-list { list-style: none; padding: 0; margin: 0; }
+.ref-row {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  gap: 16px;
+  padding: 12px 6px;
+  border-bottom: 1px solid #252830;
+}
+.ref-row:last-child { border-bottom: none; }
+.ref-row a { color: #e8eaf0; text-decoration: none; font-weight: 600; font-size: 14px; }
+.ref-row a:hover { color: var(--accent, #c8a96e); }
+.ref-path { font-size: 11px; color: #555; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+.ref-card pre { background: #14161b; border: 1px solid #252830; border-radius: 4px; padding: 12px; overflow-x: auto; color: #d0d3db; font-size: 12px; }
+.ref-card code { background: #14161b; padding: 1px 5px; border-radius: 3px; font-size: 12px; }
 
 .index-footer {
   margin-top: 48px;

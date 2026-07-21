@@ -8,6 +8,7 @@ require 'json'
 require 'fileutils'
 require 'tmpdir'
 require 'time'
+require 'erb'
 
 begin
   require 'zip'
@@ -17,6 +18,25 @@ rescue LoadError
 end
 
 SCENARIOS_DIR = File.join(__dir__, 'scenarios')
+
+# ── PDF reference library ──────────────────────────────────────
+# Points at a local folder of rulebook PDFs (not shipped in this repo —
+# these are your own purchased/owned files). Checked in order; first
+# one that actually exists on this machine wins. Override with the
+# TRAVELLER_PDF_DIR environment variable if none of these fit — e.g.
+#   TRAVELLER_PDF_DIR="/some/other/path" bundle exec ruby app.rb
+PDF_DIR_CANDIDATES = [
+  ENV['TRAVELLER_PDF_DIR'],
+  'G:/My Drive/Games/Traveller/Traveller Mongoose',
+  'G:\\My Drive\\Games\\Traveller\\Traveller Mongoose',
+  '/mnt/g/My Drive/Games/Traveller/Traveller Mongoose',        # WSL-mounted G:
+  File.expand_path('~/Google Drive/Games/Traveller/Traveller Mongoose')
+].compact
+
+def pdf_reference_dir
+  PDF_DIR_CANDIDATES.find { |d| Dir.exist?(d) }
+end
+
 
 set :public_folder, File.join(__dir__, 'public')
 set :port, 8090
@@ -265,6 +285,7 @@ def render_shell(opts = {})
           #{opts[:scenario_subtitle] ? "<span class=\"topbar-sub\">#{opts[:scenario_subtitle]}</span>" : ''}
         </div>
         <div class="topbar-right">
+          <a class="topbar-refs" href="/references" title="Rulebook PDF reference library">References</a>
           <button id="print-btn">⎙ Print</button>
           <button id="theme-toggle">☾</button>
         </div>
@@ -299,6 +320,76 @@ def render_shell(opts = {})
 end
 
 # ── Routes ──────────────────────────────────────────────────────
+get '/references/pdf/*' do
+  dir = pdf_reference_dir
+  halt 404, 'No reference directory configured' unless dir
+
+  rel_parts = params[:splat].first.to_s.split('/')
+  halt 400, 'Bad path' if rel_parts.any? { |p| p == '..' || p.empty? }
+
+  full_path = File.expand_path(File.join(dir, *rel_parts))
+  halt 403, 'Forbidden' unless full_path.start_with?(File.expand_path(dir) + File::SEPARATOR)
+  halt 404, 'Not found' unless File.file?(full_path) && full_path.downcase.end_with?('.pdf')
+
+  send_file full_path, type: 'application/pdf', disposition: 'inline'
+end
+
+get '/references' do
+  dir = pdf_reference_dir
+  pdfs = dir ? Dir.glob(File.join(dir, '**', '*.pdf')).sort : []
+
+  rows = pdfs.map do |path|
+    rel_fs   = path.sub(/\A#{Regexp.escape(dir)}[\/\\]/, '')
+    rel_web  = rel_fs.split(/[\/\\]/).map { |p| ERB::Util.url_encode(p) }.join('/')
+    href     = "/references/pdf/#{rel_web}"
+    <<~ROW
+      <li class="ref-row">
+        <a href="#{href}" target="_blank" rel="noopener">📄 #{Rack::Utils.escape_html(File.basename(path, '.pdf'))}</a>
+        <span class="ref-path">#{Rack::Utils.escape_html(rel_fs)}</span>
+      </li>
+    ROW
+  end.join
+
+  body_html = if dir.nil?
+    checked = PDF_DIR_CANDIDATES.map { |d| "<code>#{Rack::Utils.escape_html(d)}</code>" }.join('<br>')
+    <<~HTML
+      <div class="ref-card">
+        <p>No PDF reference folder found on this machine. Checked, in order:</p>
+        <p>#{checked}</p>
+        <p>If your rulebooks live somewhere else, set the <code>TRAVELLER_PDF_DIR</code>
+        environment variable before starting the server, e.g.:</p>
+        <pre>TRAVELLER_PDF_DIR="/path/to/your/pdfs" bundle exec ruby app.rb</pre>
+      </div>
+    HTML
+  elsif pdfs.empty?
+    "<div class=\"ref-card\"><p>Found the folder (<code>#{Rack::Utils.escape_html(dir)}</code>) but no PDFs in it.</p></div>"
+  else
+    "<div class=\"ref-card\"><p class=\"ref-dir\">Source: <code>#{Rack::Utils.escape_html(dir)}</code></p><ul class=\"ref-list\">#{rows}</ul></div>"
+  end
+
+  <<~HTML
+    <!DOCTYPE html>
+    <html lang="en">
+    <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Reference Library</title>
+    <link rel="stylesheet" href="/style.css">
+    </head>
+    <body class="index-page">
+    <div class="index-shell">
+      <header class="index-header">
+        <div class="index-logo">TRAVELLER</div>
+        <h1 class="index-title">Reference Library</h1>
+        <p class="index-hint"><a class="ref-lib-btn" href="/">← Back to scenarios</a></p>
+      </header>
+      <div class="ref-body">#{body_html}</div>
+    </div>
+    </body>
+    </html>
+  HTML
+end
+
 get '/' do
   scenarios = load_scenarios
   if scenarios.size == 1
@@ -338,7 +429,7 @@ get '/' do
       <header class="index-header">
         <div class="index-logo">TRAVELLER</div>
         <h1 class="index-title">Scenario Library</h1>
-        <p class="index-hint">Select a scenario to begin reading</p>
+        <p class="index-hint">Select a scenario to begin reading<a class="ref-lib-btn" href="/references">Reference Library</a></p>
       </header>
       <div class="scenario-grid">#{cards}</div>
       <footer class="index-footer">
