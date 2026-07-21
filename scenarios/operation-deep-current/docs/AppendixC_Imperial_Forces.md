@@ -149,6 +149,8 @@ Not normally crewed. Contains the anchor system (four reef bolts rated to 800 to
 
 ### C.1.6 — Approach and Entry Options
 
+**Bobcrab approach (Option E — Pre-planned):** A Seaharvester LIC maintenance window arranged 24 hours in advance allows agents to approach in a Bobcrab work pod without triggering the unscheduled-vessel alert. The station logs maintenance visits from Seaharvester routinely. This provides legitimate exterior access to the Level 3 sensor housing collar and the Level 2 vehicle lock. Requires advance planning via Kofi's contacts. See **Appendix F.1.10** for full Bobcrab rules, access costs, and skill checks.
+
 **Option A — Underwater docking (recommended)** `[OC]`
 
 Approach via submersible along the reef shelf below the station's sonar coverage threshold. RSP-7-G's own sonar is aimed outward and downward — toward the deep-water channel it monitors. It does not have good close-range coverage directly underneath itself. Three-Fin's submersible can approach from below, dock at one of the Level 2 collars, and agents can enter through the airlock.

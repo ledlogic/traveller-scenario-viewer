@@ -1,0 +1,18 @@
+{
+  "title": "Operation Ashfall",
+  "subtitle": "A Mongoose Traveller 2e Scenario",
+  "system": "Mongoose Traveller 2nd Edition",
+  "setting": "Ys, Gemini Subsector, Solomani Rim — Imperial Year 1117",
+  "color": "#a13d2b",
+  "docs": [
+    { "file": "Chapter1_Introduction.md", "label": "Ch 1 — Introduction & Situation" },
+    { "file": "Chapter2_Characters.md", "label": "Ch 2 — Characters" },
+    { "file": "Chapter3_Act_One_City_of_Static.md", "label": "Ch 3 — Act One: City of Static" },
+    { "file": "Chapter4_Maps_Visual_Reference.md", "label": "Ch 4 — Maps & Visual Reference" },
+    { "file": "Chapter5_Act_Two_The_Reach.md", "label": "Ch 5 — Act Two: The Reach" },
+    { "file": "Chapter6_Act_Three_Ashfall.md", "label": "Ch 6 — Act Three: Ashfall" },
+    { "file": "AppendixA_Antagonist_Krein.md", "label": "App A — Antagonist: Governor Krein" },
+    { "file": "AppendixB_Equipment_Battle_Dress.md", "label": "App B — Equipment: SolSec Battle Dress" },
+    { "file": "AppendixC_Imperial_Security_Service.md", "label": "App C — Imperial Security Service" }
+  ]
+}

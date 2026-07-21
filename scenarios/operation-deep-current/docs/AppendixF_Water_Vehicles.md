@@ -289,6 +289,90 @@ This creates a specific tactical situation: the agents may discover the Manta's 
 
 **The PGMP alternative:** The duty watch officer's PGMP would destroy the Manta in its berth if fired inside the docking collar. She knows this. This is one reason the PGMP negotiation moment (see **C.1.7**) has additional weight — if she fires and misses the agents, she also destroys Achterberg's escape route.
 
+---
+
+### F.1.10 — SEAHARVESTER 'BOBCRAB' MARK IV WORK POD `[OC / VH p.22]`
+
+*1–2 person enclosed maintenance submersible — the standard workhorse of Makara arcology infrastructure*
+
+Built to the VH submersible chassis specification `[VH p.22]`, the Bobcrab Mark IV is a compact 2-person enclosed work pod designed for hull inspection, infrastructure maintenance, power conduit repair, and structural survey work around undersea arcologies and reef-shelf installations. Seaharvester LIC maintains a fleet of twelve at Makara and six at New Mondulkiri. They are a common sight around the arcology exterior, the Driftweb harvest rigs, and the outer reef shelf survey stations. Seeing one near RSP-7-G during a routine maintenance window raises no flags.
+
+**TL:** 10 | **Type:** Submersible (Work Pod) | **Skill:** Seafarer (submarine) | **Source:** `[OC / VH p.22]`
+
+|  | Stat | Value |
+|--|------|-------|
+| Agility | | −2 |
+| Speed (Cruise) | | Slow (Very Slow) |
+| Range (Cruise) | | 150 (225) km |
+| Crew | | 1 |
+| Passengers | | 1 |
+| Cargo | | 100 kg (external tool rack) |
+| Hull | | 12 |
+| Shipping Size | | 2 tons |
+| Cost | | Cr406,000 (Seaharvester fleet rate: Cr380,000) |
+
+**Armour:** Front 6 / Left 6 / Right 6 / Back 6 *(depth-enhanced hull — 50% structural upcharge for extended reef shelf operations)*
+
+**Safe Depth:** 900 m | **Crush Depth:** 2,700 m *(standard TL10 chassis enhanced for Gashidda reef shelf operations — RSP-7-G at ~120m is trivial)*
+
+**Equipment:** Hostile Environment Protection, Corrosive Environment Modification *(Gashidda's mildly acidic ocean — ceramic hull coating and corrosion-resistant seals)*, Short Term Life Support *(4 days — 1 Space for 2 crew)*, Airlock *(ventral — diver egress at depth)*, 2× Improved Manipulator Arms TL8 *(STR 15, DEX 7 — port and starboard, independently operated from pilot/co-pilot stations)*, Improved Navigation (+2), Basic Communications (500 km), Computer/2, Exterior Flood Lighting *(4× high-output LED arrays, essential below 200m)*, External Tool Mount Points *(4 hardpoints: accepts drill, hydraulic cutter, welding torch, or sample container — swapped at surface, 10 min each)*
+
+**Weapons:** None *(civilian maintenance vessel; tool mounts are not weapon hardpoints)*
+
+**Physical description:** Roughly ovoid, 3.5m long, 2m wide, 1.8m tall — approximately the size of a large van compressed into a rounded form. The two manipulator arms extend forward from the bow like articulated crabs' claws, hence the name. A domed forward viewport provides pilot visibility; a secondary viewport on the starboard side serves the co-pilot/operator station. Hull is typically painted Seaharvester LIC orange with black identification markings. Running lights amber when manoeuvring, white when stationary. The ventral airlock hatch is recessed flush with the hull when closed.
+
+**In play — availability and access:**
+
+Bobcrabs are common enough that a stationary one near the RSP-7-G hull during a documented maintenance window is not remarkable. Seaharvester LIC schedules quarterly hull inspection cycles for all reef shelf installations — including the picket station, under a standard Imperial Navy infrastructure contract.
+
+| Access method | Notes |
+|---|---|
+| Seaharvester LIC hire | Cr800/day + operator deposit Cr5,000 — requires survey licence (Seafarer (submarine) 1+ or Seaharvester crew ID) |
+| Three-Fin's contacts | Kofi can arrange an unlogged Bobcrab through a Seaharvester maintenance crew contact — Cr1,200/day, no paperwork, 24hr notice |
+| RSP-7-G Level 2 dock | The station's own Bobcrab (one unit) is accessible from Level 2 — if agents control Level 2, they have a Bobcrab |
+| Kofi's safe house | Kofi has access to a damaged Bobcrab Mark III at the reef survey station — one manipulator arm non-functional, hull patch on port side, operational but conspicuous |
+
+**Maintenance operations — what the Bobcrab actually does:**
+
+Understanding what a legitimate Bobcrab crew does is essential for cover. The standard maintenance cycle for an installation like RSP-7-G involves:
+
+- **Hull inspection:** Slow circuit of the exterior at 1–2m standoff, manipulator arms running a contact sensor along weld seams and attachment points. Takes 3–4 hours for a structure RSP-7-G's size.
+- **Biofouling clearance:** Reef organisms colonise any fixed structure. The manipulator arms carry a scraper attachment; removing Shelf Architect adhesion clusters from sensor housings is routine quarterly work.
+- **Power conduit access:** External conduits between levels are accessed via dedicated maintenance hatches. A legitimate crew can open these with standard Seaharvester codes; the conduits run adjacent to internal structural passages.
+- **Sensor housing service:** The picket station's external sensor arrays require quarterly calibration checks performed from outside. A Bobcrab with an operator who has Electronics (sensors) 1+ can request docking at the Level 3 sensor housing access collar — standard procedure, logged but not flagged.
+
+**The infiltration angle:**
+
+A Bobcrab on a legitimate hull inspection window provides plausible access to RSP-7-G's exterior, including the Level 3 sensor housing collar and the Level 2 vehicle lock. Agents who have arranged a Seaharvester maintenance window through Kofi's contacts (24hr notice, Cr1,200) can approach the station in a work pod without triggering the approach alert that an unscheduled submersible would cause. This is the quiet entry option — slower than Option A (stealth approach), more legitimate, but it requires advance planning and burns the cover if anything goes wrong inside.
+
+**Skill requirements and party coverage:**
+
+Operating the Bobcrab requires Seafarer (submarine). Without it, DM−3 applies to all vehicle checks — routine transit becomes genuinely risky and fine manipulator work at depth is nearly impossible.
+
+| Character | Submarine skill | Bobcrab role |
+|-----------|----------------|-------------|
+| Tern Falcão | Seafarer (submarine) 1 | Primary pilot — only fully trained operator in the party |
+| Ananya Krishnamurthy | Seafarer 0 (general) | Can pilot in an emergency — no DM bonus but no penalty if using general skill for basic tasks |
+| Everyone else | None — DM−3 | Passenger/operator only; can work manipulator arms under Tern's supervision |
+| Three-Fin Valdez | Seafarer (submarine) 3 | Will crew a Bobcrab if asked and the mission requires it — she has operated Seaharvester equipment before |
+
+**Untrained operation:** A character with no Seafarer skill and no Seafarer (submarine) who must pilot the Bobcrab makes all checks at DM−3. Easy (4+) becomes 7+. Standard docking becomes 9+. Fine manipulator work at the sensor housing collar becomes 13+ — effectively impossible without assistance or exceptional luck.
+
+**Assisted operation:** A character with Electronics (computers) 2+ can engage the Bobcrab's Computer/2 autopilot for simple transit tasks — straight-line navigation to a known waypoint only. The autopilot cannot dock, cannot operate manipulators, and disengages if it detects an obstacle or current anomaly.
+
+**Seafarer (submarine) skill check summary:**
+
+| Task | Difficulty | Notes |
+|------|-----------|-------|
+| Routine transit to RSP-7-G | Easy (4+) | Straight-line navigation, known waypoints |
+| Docking at Level 2 vehicle lock | Routine (6+) | Standard collar approach — tight but documented |
+| Operating manipulator arms (inspection) | Routine (6+) | Standard maintenance task |
+| Operating manipulator arms (fine work — conduit access) | Average (8+) | Requires steady hands at depth |
+| Emergency egress through ventral airlock at depth | Average (8+) | Hostile environment — cold, dark, pressure |
+| Docking at Level 3 sensor housing collar (non-standard) | Difficult (10+) | Tighter collar, crosscurrent from thermal vent nearby |
+
+---
+
 ## F.2 — MICROWHEEL SAMPLE CONTAINER
 
 The Microwheel is a standard **sample collection canister with integrated micro-life-support**, designed for transporting living biological specimens from deep-sea environments to surface or shipboard laboratory conditions. The name comes from the tiny impeller wheel that circulates the internal water column.

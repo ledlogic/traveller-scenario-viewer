@@ -36,6 +36,7 @@ A maintenance contractor's apartment in the mid-tier hab-ring. Recycled air tast
 | Artificial Gill | 8 | Cr4,000 | Available via Seaharvester contact (2-day wait) | Unlimited underwater breathing in oxygenated water |
 | Heated Dive Suit | 8 | Cr650 | Available via Seaharvester contact | Required for extended work in Gashidda's cold deep water |
 | HEV Suit + Submarine Mod (TL9, 600m) | 9 | varies | Kofi's criminal network — not Seaharvester | Protection value × Cr200 for mod; procurement takes 48 hours |
+| Bobcrab Mark IV Work Pod (hire) | 10 | Cr800/day + Cr5,000 deposit | Seaharvester LIC — legitimate survey licence required; Kofi's contact: Cr1,200/day, no paperwork, 24hr notice | See **Appendix F.1.10**; essential for quiet RSP-7-G approach |
 
 **Procurement note:** All Seaharvester equipment is purchased under the KEH survey contract account and raises no flags. HEV suits with submarine modification are military-adjacent and must be sourced grey-market through Kofi's lower hab-ring contacts — this takes 48 hours and costs 20% above listed price. `[CSC]`
 
