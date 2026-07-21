@@ -117,7 +117,7 @@ Reaching the control bunker does **not** stop the clock. Disarming the network i
 
 ## 1.6 — TEAM UNDERTOW
 
-A SolSec Heavy Response Cell, inserted covertly under a Confederation flag of convenience twelve hours before the uprising began — officially to monitor Imperial fleet movements, unofficially because someone in the Directorate suspected exactly this kind of contingency existed and wanted eyes nearby. They are the only Confederation asset on-world, they have no extraction guaranteed, and no one back home will admit they exist if this goes wrong.
+A SolSec Heavy Response Cell, inserted covertly under a Solomani flag of convenience twelve hours before the uprising began — officially to monitor Imperial fleet movements, unofficially because someone in the Directorate suspected exactly this kind of contingency existed and wanted eyes nearby. They are the only Confederation asset on-world, they have no extraction guaranteed, and no one back home will admit they exist if this goes wrong.
 
 Equipment, vehicle loadout, and pre-generated character sheets for the six-person Battle Dress cell are detailed in **Chapter 2 — Characters**, alongside the heavy armor and vehicle specs the team will need to cross a planet in open revolt.
 
