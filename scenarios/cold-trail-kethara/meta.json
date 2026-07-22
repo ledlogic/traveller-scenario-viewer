@@ -4,67 +4,21 @@
   "system": "Mongoose Traveller 2nd Edition",
   "setting": "Lakamsal, Imperial Year 1117",
   "color": "#c8a96e",
-  "inception_date": "2026-04-12",
   "docs": [
-    {
-      "file": "Chapter1_Introduction.md",
-      "label": "Ch 1 — Introduction"
-    },
-    {
-      "file": "Chapter2_Characters.md",
-      "label": "Ch 2 — Characters"
-    },
-    {
-      "file": "Chapter3_Maps_Visual_Reference.md",
-      "label": "Ch 3 — Maps, Reference & Weather"
-    },
-    {
-      "file": "Chapter4_Act_One.md",
-      "label": "Ch 4 — Act One: Mission Almost Complete"
-    },
-    {
-      "file": "Chapter5_Act_Two.md",
-      "label": "Ch 5 — Act Two: Crash Site & Civilians"
-    },
-    {
-      "file": "Chapter6_Acts_Three_Four_Extraction.md",
-      "label": "Ch 6 — Acts Three, Four & Extraction"
-    },
-    {
-      "file": "AppendixA_Blind_Cobra_Gear.md",
-      "label": "App A — Blind Cobra Gear"
-    },
-    {
-      "file": "AppendixB_Road_Not_Taken.md",
-      "label": "App B — The Road Not Taken"
-    },
-    {
-      "file": "AppendixC_Sample_Combat_Act.md",
-      "label": "App C — Sample Remote Combat Act"
-    },
-    {
-      "file": "AppendixD_Corporate_Security_Forces.md",
-      "label": "App D — Corporate Security Forces"
-    },
-    {
-      "file": "AppendixE_Imperial_Response_Encounter.md",
-      "label": "App E — Imperial Response Encounter"
-    },
-    {
-      "file": "AppendixF_Imperial_Antagonists.md",
-      "label": "App F — Imperial Antagonists"
-    },
-    {
-      "file": "AppendixG_Quick_Reference_Citations.md",
-      "label": "App G — Quick Reference & Citations"
-    },
-    {
-      "file": "AppendixH_Vehicles_and_Drones.md",
-      "label": "App H — Lakamsal Vehicles and Drones"
-    },
-    {
-      "file": "AppendixI_Bestiary.md",
-      "label": "App I — Lakamsal Bestiary"
-    }
+    { "file": "Chapter1_Introduction.md",                   "label": "Ch 1 — Introduction" },
+    { "file": "Chapter2_Characters.md",                     "label": "Ch 2 — Characters" },
+    { "file": "Chapter3_Maps_Visual_Reference.md",          "label": "Ch 3 — Maps, Reference & Weather" },
+    { "file": "Chapter4_Act_One.md",                        "label": "Ch 4 — Act One: Mission Almost Complete" },
+    { "file": "Chapter5_Act_Two.md",                        "label": "Ch 5 — Act Two: Crash Site & Civilians" },
+    { "file": "Chapter6_Acts_Three_Four_Extraction.md",     "label": "Ch 6 — Acts Three, Four & Extraction" },
+    { "file": "AppendixA_Blind_Cobra_Gear.md",              "label": "App A — Blind Cobra Gear" },
+    { "file": "AppendixB_Road_Not_Taken.md",                "label": "App B — The Road Not Taken" },
+    { "file": "AppendixC_Sample_Combat_Act.md",             "label": "App C — Sample Remote Combat Act" },
+    { "file": "AppendixD_Corporate_Security_Forces.md",     "label": "App D — Corporate Security Forces" },
+    { "file": "AppendixE_Imperial_Response_Encounter.md",   "label": "App E — Imperial Response Encounter" },
+    { "file": "AppendixF_Imperial_Antagonists.md",          "label": "App F — Imperial Antagonists" },
+    { "file": "AppendixG_Quick_Reference_Citations.md",     "label": "App G — Quick Reference & Citations" },
+    { "file": "AppendixH_Vehicles_and_Drones.md",           "label": "App H — Lakamsal Vehicles and Drones" },
+    { "file": "AppendixI_Bestiary.md",                      "label": "App I — Lakamsal Bestiary" }
   ]
 }

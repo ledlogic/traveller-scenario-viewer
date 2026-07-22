@@ -214,3 +214,47 @@ The university district provides a mid-tier contact point that is socially disti
 | Reef-access dive preparation rooms | Informal meeting point; Naval Intelligence does not monitor routinely |
 | Faculty corridor, mid-tier | Transit route between university and dive facilities; low surveillance |
 | Deep observation bay (Dept. 7) | Direct view into reef shelf; used for fieldwork briefings |
+
+---
+
+## B.5 — NAVAL AND VESSEL MANIFEST
+
+All named and placed vessels operating in the Gashidda system during the scenario window (IY1116).
+
+### B.5.1 — Confirmed Vessel Locations
+
+| Vessel | Class | Location | Quantity | Notes |
+|--------|-------|----------|----------|-------|
+| *Far Horizon* | Type R Subsidised Merchant (modified) | New Mondulkiri starport berth | 1 | Agents' cover vessel — Appendix H |
+| *Tamsin Reach* | Confederation courier vessel | Dingir system jump point | 1 | Handler Adeyemi-Cross's vessel; 6 days out |
+| Bobcrab fleet (yellow — 二十一 to 二十九, odd) | Seaharvester Mark IV work pod | Makara arcology dock | 10 | Hull numbers 21, 23, 25, 27, 29 — yellow livery |
+| Bobcrab fleet (orange — 三十一 to 三十九, odd) | Seaharvester Mark IV work pod | New Mondulkiri harbour | 8 | Hull numbers 31, 33, 35, 37, 39 — orange livery |
+| Kofi's Bobcrab | Mark III work pod (damaged) | Reef survey station safe house | 1 | One manipulator arm non-functional; hull patch port side |
+| RSP-7-G station Bobcrab | Mark III work pod | RSP-7-G Level 2 vehicle dock | 1 | Station maintenance unit |
+| Three-Fin's submarine | Highline utility submarine | Kofi's submersible dock berth, Makara lower industrial | 1 | Primary REEF LIGHT transport — Appendix F.1.3 |
+| Achterberg's *Manta* | Noricum armed submersible/grav hybrid (modified) | RSP-7-G Level 4 docking collar | 1 | Private escape vehicle — Appendix F.1.9 |
+| Shafin patrol boat(s) | Shafin-class | New Mondulkiri naval base, ready berth | 2 | One on standby alert at all times; response time 25–30 min to RSP-7-G |
+| Sea Rangers (RIBs) | Vanguard Systems Sea Ranger | New Mondulkiri naval base, surface dock | 4 | Two deployed in hot extraction scenario (Scene 5.5); two held in reserve |
+| *Resolute Purpose* | Shield-class military submarine | New Mondulkiri naval base, deep berth | 1 | Heavy deterrent asset; not deployed during scenario unless hard alert escalates beyond Shafin response |
+| *Kanemitsu* and *Aokigahara* | GP Hsu-class research submarine | Makara University marine research dock | 2 | Operated by Makara University xenobiology faculty; Dr. Mian-Ashta has access authorisation |
+
+### B.5.2 — Bobcrab Fleet Detail
+
+Seaharvester LIC operates 18 Bobcrab Mark IV work pods across Gashidda, numbered in odd hull numbers and colour-coded by base location. Hull numbers are marked in kanji on both flanks.
+
+| Colour | Hull Numbers | Kanji | Base | Count |
+|--------|-------------|-------|------|-------|
+| Yellow | 21, 23, 25, 27, 29 | 二十一　二十三　二十五　二十七　二十九 | Makara arcology dock | 5 |
+| Orange | 31, 33, 35, 37, 39 | 三十一　三十三　三十五　三十七　三十九 | New Mondulkiri harbour | 5 |
+
+*Note: The full fleet of 18 includes additional even-numbered units on the Driftweb harvest rigs and outer survey stations not relevant to the scenario.*
+
+### B.5.3 — Unplaced Assets
+
+The following vessel classes have stat blocks in Appendix F but no fixed scenario placement. They exist in the Gashidda system and may be introduced at your discretion.
+
+| Class | Notes |
+|-------|-------|
+| Additional Shafin-class patrol boats | New Mondulkiri base likely has 4–6 total; 2 confirmed on scenario-relevant standby |
+| Additional Hsu-class research submarines | Makara University may have up to 4; 2 named above |
+| Imperial Navy surface escort vessels | New Mondulkiri has surface naval assets not detailed in this scenario |
