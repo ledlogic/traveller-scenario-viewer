@@ -637,3 +637,53 @@ The Burrow Serpent is a desert apex predator with no direct Gashidda analogue. I
 *Water Vehicles, Equipment & Cross-References*
 
 *Mongoose Traveller 2nd Edition — Imperial Year 1116*
+
+---
+
+## F.5 — VESSEL DIMENSIONS AND MAP REFERENCE
+
+Physical dimensions derived from MGT2 displacement tonnage (1 ton = 14 m³, cylindrical hull at 5:1 L:D ratio). Map squares use **1.5m per square** — standard Traveller battle scale.
+
+| Vessel | Ref | Tons | Vol (m³) | Length | Diameter | Floors | Map squares (L×W) | Squares/floor |
+|--------|-----|------|----------|--------|----------|--------|-------------------|---------------|
+| GP 'Hsu' Class Research Submarine | F.1.1 | 7.5 | 105 | 15.0m | 3.0m | 1 | 10 × 2 | ~4 |
+| Instellarms 'Shield' Submarine | F.1.2 | 300 | 4,200 | 51.1m | 10.2m | 5 | 35 × 7 | ~37 |
+| Highline Utility Submarine | F.1.3 | 30 | 420 | 23.7m | 4.7m | 2 | 16 × 4 | ~8 |
+| Shafin Patrol Boat | F.1.4 | 25 | 350 | 22.3m | 4.5m | 2 | 15 × 3 | ~7 |
+| Achterberg Manta | F.1.9 | 5 | 70 | 14.7m | 2.5m | 1 | 10 × 2 | ~3 |
+| Seaharvester 'Bobcrab' Mark IV | F.1.10 | 2 | 28 | 3.5m | 2.0m | 1 | 3 × 2 | ~2 |
+
+**Notes:**
+- **Bobcrab** is ovoid, not cylindrical — dimensions are fixed design spec (3.5m × 2.0m × 1.8m), not derived from tonnage
+- **Manta** uses 6:1 L:D ratio (sleeker grav/sub hybrid profile vs standard 5:1 for pure submarines)
+- **Shield** floors: Deck 1 (keel/engineering), Deck 2 (torpedo/weapons), Deck 3 (crew quarters/mess), Deck 4 (command/sensors), Deck 5 (conning/bridge)
+- **Highline** floors: Lower (cargo bay/airlock/engineering), Upper (crew/passenger/controls)
+- **Shafin** floors: Lower (engineering/RIB berth/weapons), Upper (crew/bridge/comms)
+- **1 map square = 1.5m** — consistent with MGT2e personal combat scale
+- All dimensions are approximate — internal layout varies by operator fit-out
+
+### F.5.1 — Comparative Scale Reference
+
+To help visualise at the table:
+
+| Vessel | Real-world analogue |
+|--------|-------------------|
+| Bobcrab (3.5m) | Slightly longer than a standard car |
+| Manta (14.7m) | Roughly the length of a city bus |
+| Hsu (15.0m) | City bus — more cylindrical, cramped interior |
+| Shafin (22.3m) | Semi-trailer truck in length |
+| Highline (23.7m) | Semi-trailer truck, wider and taller |
+| Shield (51.1m) | Half a football field — WWII U-boat comparable |
+
+### F.5.2 — Transit Times to RSP-7-G
+
+Assuming RSP-7-G is positioned 15km from Makara on the outer reef shelf at ~120m depth.
+
+| Vessel | Speed band | Approx km/h | Transit time |
+|--------|-----------|-------------|-------------|
+| Bobcrab | Slow | ~10 km/h | ~90 minutes |
+| Hsu | Medium | ~30 km/h | ~30 minutes |
+| Shafin | Medium (surface) | ~30 km/h | ~30 minutes |
+| Highline | High | ~200 km/h | ~4 minutes |
+| Manta | Subsonic | ~600 km/h | ~90 seconds |
+| Shield | Subsonic | ~600 km/h | ~90 seconds |
