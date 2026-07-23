@@ -4,58 +4,20 @@
   "system": "Mongoose Traveller 2nd Edition",
   "setting": "Gashidda, Dingir Subsector, Solomani Rim \u2014 Imperial Year 1116",
   "color": "#2a6a8a",
+  "inception_date": "2026-02-27",
   "docs": [
-    {
-      "file": "Chapter1_Introduction.md",
-      "label": "Ch 1 \u2014 Introduction & World Guide"
-    },
-    {
-      "file": "Chapter2_Cast_of_Characters.md",
-      "label": "Ch 2 \u2014 Cast of Characters & Skills"
-    },
-    {
-      "file": "Chapter3_Act_One.md",
-      "label": "Ch 3 \u2014 Act One: Descent"
-    },
-    {
-      "file": "Chapter4_Act_Two.md",
-      "label": "Ch 4 \u2014 Act Two: The Current Sets"
-    },
-    {
-      "file": "Chapter5_Act_Three.md",
-      "label": "Ch 5 \u2014 Act Three: Deep Water"
-    },
-    {
-      "file": "AppendixA_Quick_Reference.md",
-      "label": "App A \u2014 Quick Reference"
-    },
-    {
-      "file": "AppendixB_World_Guide.md",
-      "label": "App B \u2014 World Guide: Gashidda"
-    },
-    {
-      "file": "AppendixC_Imperial_Forces.md",
-      "label": "App C \u2014 Imperial Forces"
-    },
-    {
-      "file": "AppendixD_Political_Factions.md",
-      "label": "App D \u2014 Political Factions"
-    },
-    {
-      "file": "AppendixE_Gashidda_Bestiary.md",
-      "label": "App E \u2014 Gashidda Bestiary"
-    },
-    {
-      "file": "AppendixF_Water_Vehicles.md",
-      "label": "App F \u2014 Water Vehicles & Equipment"
-    },
-    {
-      "file": "AppendixG_Pregen_Characters.md",
-      "label": "App G \u2014 Pre-Generated Characters"
-    },
-    {
-      "file": "AppendixH_Far_Horizon.md",
-      "label": "App H \u2014 The Far Horizon"
-    }
+    { "file": "Chapter1_Introduction.md"       ,  "label": "Ch 1 \u2014 Introduction & World Guide" },
+    { "file": "Chapter2_Cast_of_Characters.md" ,  "label": "Ch 2 \u2014 Cast of Characters & Skills" },
+    { "file": "Chapter3_Act_One.md"            ,  "label": "Ch 3 \u2014 Act One: Descent" },
+    { "file": "Chapter4_Act_Two.md"            ,  "label": "Ch 4 \u2014 Act Two: The Current Sets" },
+    { "file": "Chapter5_Act_Three.md"          ,  "label": "Ch 5 \u2014 Act Three: Deep Water" },
+    { "file": "AppendixA_Quick_Reference.md"   ,  "label": "App A \u2014 Quick Reference" },
+    { "file": "AppendixB_World_Guide.md"       ,  "label": "App B \u2014 World Guide: Gashidda" },
+    { "file": "AppendixC_Imperial_Forces.md"   ,  "label": "App C \u2014 Imperial Forces" },
+    { "file": "AppendixD_Political_Factions.md",  "label": "App D \u2014 Political Factions" },
+    { "file": "AppendixE_Gashidda_Bestiary.md" ,  "label": "App E \u2014 Gashidda Bestiary" },
+    { "file": "AppendixF_Water_Vehicles.md"    ,  "label": "App F \u2014 Water Vehicles & Equipment" },
+    { "file": "AppendixG_Pregen_Characters.md" ,  "label": "App G \u2014 Pre-Generated Characters" },
+    { "file": "AppendixH_Far_Horizon.md"       ,  "label": "App H \u2014 The Far Horizon" }
   ]
 }
