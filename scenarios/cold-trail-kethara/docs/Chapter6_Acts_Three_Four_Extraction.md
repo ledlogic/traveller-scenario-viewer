@@ -800,9 +800,12 @@ If Mrazová aborts her descent — KR-7 occupied, patrol pattern unfavourable, t
 |---|---|
 | Astrogation | 3 |
 | Deception | 1 |
+| Electronics | 0 |
 | Electronics (comms) | 2 |
+| Gun Combat | 0 |
 | Gun Combat (energy) | 1 |
 | Mechanic | 2 |
+| Pilot | 0 |
 | Pilot (spacecraft) | 3 |
 | Stealth | 1 |
 | Vacc Suit | 1 |

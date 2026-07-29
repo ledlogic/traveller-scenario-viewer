@@ -43,7 +43,9 @@ All animal stat blocks follow the MGT2E Core Rulebook (CRB22) animal profile for
 | Pack | 1 |
 
 **Skills:**
+- Athletics 0
 - Athletics (strength) 4
+- Melee 0
 - Melee (natural) 4
 - Recon 3
 - Stealth 1 (surprisingly quiet for its size — CRB22 animal behaviour note)
@@ -102,7 +104,9 @@ The juvenile Tyrant is 3–4 years old, approximately 7 tonnes, and has not yet 
 | END | 12 |
 
 **Skills:**
+- Athletics 0
 - Athletics (strength) 2
+- Melee 0
 - Melee (natural) 2
 - Recon 2
 - Survival 2
@@ -140,8 +144,10 @@ The juvenile Tyrant is 3–4 years old, approximately 7 tonnes, and has not yet 
 | Pack | 4 (hunts in groups of 3–6) |
 
 **Skills:**
+- Athletics 0
 - Athletics (dexterity) 3
 - Athletics (endurance) 2
+- Melee 0
 - Melee (natural) 2
 - Recon 3
 - Stealth 3
@@ -185,6 +191,7 @@ The juvenile Tyrant is 3–4 years old, approximately 7 tonnes, and has not yet 
 | Pack | 12 (herd animal, rarely alone) |
 
 **Skills:**
+- Athletics 0
 - Athletics (strength) 3
 - Recon 1
 - Survival 2
@@ -252,7 +259,7 @@ Under abnormal circumstances — specifically, the circumstances created by a wa
 |---|---|---|---|
 | Kethara Shield Beetle | 40 | 8m/round | +10 |
 
-**Skills:** Athletics (dexterity) 1, Athletics (strength) 3, Survival 2
+**Skills:** Athletics 0, Athletics (dexterity) 1, Athletics (strength) 3, Survival 2
 
 **Attacks:**
 - Mandible Snap: 4D (when cornered or defending itself from perceived threat)
@@ -490,7 +497,7 @@ The Shield Beetle (I.1–I.8, above) is the small, tolerable cousin of two much 
 |---|---|---|---|
 | Titanic Stag Beetle | 220 | 9m | +18 |
 
-**Skills:** Athletics (endurance) 4, Athletics (strength) 5, Recon 1, Survival 3
+**Skills:** Athletics 0, Athletics (endurance) 4, Athletics (strength) 5, Recon 1, Survival 3
 
 **Attacks:** Mandible Grab 12D; Trample 8D (targets up to 4m — Recon or Athletics (dexterity) 8+ to avoid)
 
@@ -515,7 +522,7 @@ At 18 metres in length, the Hercules Beetle is the largest arthropod in the Keth
 |---|---|---|---|
 | Titanic Hercules Beetle | 260 | 6m | +20 |
 
-**Skills:** Athletics (endurance) 4, Athletics (strength) 6, Recon 1, Survival 3
+**Skills:** Athletics 0, Athletics (endurance) 4, Athletics (strength) 6, Recon 1, Survival 3
 
 **Attacks:** Gore 14D (see Horn Toss); Trample 10D
 

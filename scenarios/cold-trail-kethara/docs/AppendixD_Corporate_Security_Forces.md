@@ -50,7 +50,9 @@ They are not a military threat. They are something worse: a *civilian complicati
 | Admin | 2 |
 | Advocate | 1 |
 | Deception | 1 |
+| Drive | 0 |
 | Drive (wheeled) | 2 |
+| Electronics | 0 |
 | Electronics (comms) | 1 |
 | Gun Combat (slug) | 0 |
 | Investigate | 3 |
@@ -120,10 +122,14 @@ He does not want a confrontation. He is not a hero. If someone with obvious mili
 
 | Skill | Level |
 |---|---|
+| Athletics | 0 |
 | Athletics (dexterity) | 2 |
+| Drive | 0 |
 | Drive (wheeled) | 1 |
+| Gun Combat | 0 |
 | Gun Combat (slug) | 2 |
 | Investigate | 1 |
+| Melee | 0 |
 | Melee (unarmed) | 1 |
 | Persuade | 0 |
 | Recon | 2 |
@@ -221,7 +227,9 @@ If she gets a clean line of sight to anything that confirms military operation â
 **Skills (built-in):**
 | Skill | Level |
 |---|---|
+| Athletics | 0 |
 | Athletics (strength) | 2 |
+| Drive | 0 |
 | Drive (tracked) | 1 |
 | Mechanic | 1 |
 

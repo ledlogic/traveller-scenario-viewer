@@ -52,14 +52,18 @@ BLIND COBRA is a SolSec Field Remote Operations Cell. Five operatives — six wi
 |---|---|
 | Admin | 0 |
 | Deception | 2 |
+| Electronics | 0 |
 | Electronics (comms) | 1 |
+| Gun Combat | 0 |
 | Gun Combat (energy) | 1 |
 | Investigate | 1 |
 | Leadership | 2 |
+| Melee | 0 |
 | Melee (unarmed) | 1 |
 | Persuade | 0 |
 | Recon | 2 |
 | Stealth | 1 |
+| Tactics | 0 |
 | Tactics (military) | 2 |
 
 **Equipment:** Laser Carbine (4D, scope, Zero-G, CRB22 p.129), Diplo Vest (+3 Protection, concealable, CRB22 p.100), Tactical HUD (DM+1 Tactics when linked to sensor net), SolSec Encrypted Comms, **Stimulants ×0 — supply exhausted** *(see below)*
@@ -116,13 +120,19 @@ She does not explain why. If given one, she pockets it immediately and uses it w
 
 | Skill | Level |
 |---|---|
+| Athletics | 0 |
 | Athletics (dexterity) | 1 |
+| Electronics | 0 |
 | Electronics (remote ops) | 3 |
 | Electronics (sensors) | 2 |
+| Flyer | 0 |
 | Flyer (rotor) | 2 |
+| Gun Combat | 0 |
 | Gun Combat (slug) | 1 |
+| Gunner | 0 |
 | Gunner (turrets) | 2 |
 | Mechanic | 1 |
+| Pilot | 0 |
 | Pilot (small craft) | 1 |
 | Recon | 1 |
 | Vacc Suit | 0 |
@@ -176,11 +186,14 @@ She does not explain why. If given one, she pockets it immediately and uses it w
 |---|---|
 | Admin | 0 |
 | Deception | 2 |
+| Electronics | 0 |
 | Electronics (comms) | 3 |
 | Electronics (computers) | 3 |
 | Electronics (sensors) | 1 |
+| Gun Combat | 0 |
 | Gun Combat (energy) | 1 |
 | Investigate | 2 |
+| Language | 0 |
 | Language (Imperial Standard) | 2 |
 | Persuade | 1 |
 | Stealth | 1 |
@@ -236,12 +249,17 @@ The second — six weeks old — is the data surge itself. The cipher identifier
 
 | Skill | Level |
 |---|---|
+| Athletics | 0 |
 | Athletics (strength) | 1 |
+| Drive | 0 |
 | Drive (wheeled) | 1 |
+| Electronics | 0 |
 | Electronics (sensors) | 2 |
+| Engineer | 0 |
 | Engineer (electronics) | 2 |
 | Engineer (power) | 1 |
 | Explosives | 1 |
+| Gun Combat | 0 |
 | Gun Combat (slug) | 1 |
 | Mechanic | 3 |
 | Medic | 1 |
@@ -287,13 +305,19 @@ The second — six weeks old — is the data surge itself. The cipher identifier
 
 | Skill | Level |
 |---|---|
+| Athletics | 0 |
 | Athletics (endurance) | 2 |
+| Drive | 0 |
 | Drive (wheeled) | 1 |
+| Electronics | 0 |
 | Electronics (sensors) | 1 |
 | Explosives | 0 |
+| Gun Combat | 0 |
 | Gun Combat (energy) | 3 |
+| Heavy Weapons | 0 |
 | Heavy Weapons (portable) | 1 |
 | Medic | 0 |
+| Melee | 0 |
 | Melee (blade) | 2 |
 | Recon | 3 |
 | Stealth | 2 |
@@ -340,12 +364,16 @@ The second — six weeks old — is the data surge itself. The cipher identifier
 | Skill | Level |
 |---|---|
 | Admin | 0 |
+| Athletics | 0 |
 | Athletics (endurance) | 1 |
+| Electronics | 0 |
 | Electronics (sensors) | 1 |
+| Gun Combat | 0 |
 | Gun Combat (slug) | 1 |
 | Investigate | 2 |
 | Medic | 3 |
 | Recon | 2 |
+| Science | 0 |
 | Science (biology) | 2 |
 | Science (chemistry) | 1 |
 | Stealth | 1 |
@@ -411,8 +439,10 @@ She finds the apex predator professionally fascinating and personally terrifying
 |---|---|
 | Admin | 1 |
 | Deception | 2 |
+| Electronics | 0 |
 | Electronics (comms) | 4 |
 | Electronics (computers) | 3 |
+| Gun Combat | 0 |
 | Gun Combat (energy) | 1 |
 | Investigate | 3 |
 | Persuade | 1 |

@@ -45,11 +45,14 @@
 | Skill | Level |
 |---|---|
 | Astrogation | 2 |
+| Electronics | 0 |
 | Electronics (sensors) | 3 |
+| Gun Combat | 0 |
 | Gun Combat (slug) | 1 |
 | Mechanic | 0 |
 | Medic | 0 |
 | Navigation | 1 |
+| Pilot | 0 |
 | Pilot (small craft) | 2 |
 | Recon | 2 |
 | Survival | 1 |
@@ -118,15 +121,19 @@
 | Skill | Level |
 |---|---|
 | Deception | 2 |
+| Electronics | 0 |
 | Electronics (comms) | 3 |
 | Electronics (sensors) | 1 |
+| Gun Combat | 0 |
 | Gun Combat (energy) | 2 |
 | Investigate | 3 |
 | Melee (unarmed) | 0 |
 | Persuade | 1 |
+| Pilot | 0 |
 | Pilot (spacecraft) | 1 |
 | Recon | 1 |
 | Stealth | 1 |
+| Tactics | 0 |
 | Tactics (naval) | 2 |
 
 **Equipment:** Laser Pistol (3D, CRB22 p.129), Light Ballistic Cloth (+3 Protection, concealed), Naval Intelligence encrypted comms suite, personal signal analysis tablet (TL12, DM+2 Electronics (comms) when reviewing transmission data), two NI security agents as personal escort (Army stats, TL12 equipment, Gun Combat 2)
@@ -181,12 +188,18 @@ She does not know what it is. She has requested a briefing three times. She has 
 |---|---|
 | Admin | 1 |
 | Astrogation | 1 |
+| Electronics | 0 |
 | Electronics (sensors) | 2 |
+| Engineer | 0 |
 | Engineer (jump) | 2 |
+| Gun Combat | 0 |
 | Gun Combat (energy) | 1 |
 | Leadership | 2 |
+| Melee | 0 |
 | Melee (blade) | 1 |
+| Pilot | 0 |
 | Pilot (spacecraft) | 1 |
+| Tactics | 0 |
 | Tactics (naval) | 3 |
 
 **Equipment:** Laser Pistol (3D, CRB22 p.129), Naval Officer's dress uniform (formal occasions), Standard naval command kit, Sealed orders (opened once Marchetti-Solis confirms hostile contact), Ceremonial cutlass (carried in dress configuration — it has been used)
@@ -231,15 +244,20 @@ His sealed orders tell him what to do once Marchetti-Solis confirms hostile cont
 
 | Skill | Level |
 |---|---|
+| Athletics | 0 |
 | Athletics (endurance) | 2 |
+| Electronics | 0 |
 | Electronics (sensors) | 1 |
+| Gun Combat | 0 |
 | Gun Combat (energy) | 3 |
 | Leadership | 2 |
 | Medic | 1 |
+| Melee | 0 |
 | Melee (blade) | 1 |
 | Recon | 2 |
 | Stealth | 1 |
 | Survival | 0 |
+| Tactics | 0 |
 | Tactics (military) | 2 |
 | Vacc Suit | 1 |
 

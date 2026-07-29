@@ -52,7 +52,7 @@ A cautious, by-the-book officer running Lakamsal's resupply circuit. She receive
 |---|---|---|---|---|---|
 | 6 (+0) | 9 (+1) | 8 (+0) | 10 (+0) | 11 (+1) | 8 (+0) |
 
-**Skills:** Pilot (spacecraft) 3, Astrogation 2, Electronics (sensors) 2, Gunner (turret) 2, Recon 1, Tactics (naval) 1
+**Skills:** Pilot 0, Pilot (spacecraft) 3, Astrogation 2, Electronics 0, Electronics (sensors) 2, Gunner 0, Gunner (turret) 2, Recon 1, Tactics 0, Tactics (naval) 1
 
 **Equipment:** *Quiet Meridian* (Type S Scout/Courier, standard IISS livery, CRB22 p.189), turret-mounted pulse laser
 
@@ -67,7 +67,7 @@ Passing through on a routine sector patrol when the same Message 1 reaches him â
 |---|---|---|---|---|---|
 | 7 (+0) | 8 (+0) | 9 (+1) | 9 (+0) | 10 (+0) | 7 (+0) |
 
-**Skills:** Pilot (spacecraft) 2, Astrogation 3, Electronics (sensors) 1, Survey 3, Recon 1
+**Skills:** Pilot 0, Pilot (spacecraft) 2, Astrogation 3, Electronics 0, Electronics (sensors) 1, Survey 3, Recon 1
 
 **Equipment:** *Patient Archive* (Type S Scout/Courier variant, survey fit, CRB22 p.189), no offensive armament â€” a survey ship, not a warship
 
