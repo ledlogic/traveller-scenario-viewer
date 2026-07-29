@@ -461,3 +461,175 @@ The most elegant outcomes with the Shield Beetles come from working with its nat
 | Gauss rifle (from below) | Gun Combat (slug) 8+ | Kills beetle — AP5 penetrates | Upward angle = port risk 1-in-1 |
 | Laser rifle (crash site required) | Gun Combat (energy) 8+ | Kills reliably — correct tool | None, if used from entrance |
 | Base lockdown + retrieve rifle | Group STR 30+ (barrier) | Buys time for crash site run | Barrier holds 20–60 min only |
+
+---
+
+# APPENDIX I — ADDENDUM TWO: THE TITANIC BEETLES
+## Full Stat Blocks, Cliff-Face Nesting, and the Ecological Cascade
+
+*Cold Trail in Kethara Reach — Referee Reference Document*
+
+---
+
+> *"It's not aggressive. It's just very large, and very interested, and it has climbed twenty metres of cliff face to investigate a warm hole in the rock, which means it is also apparently quite good at climbing."*
+> — Kowalski, field notes, Day 23
+
+> *"The team has been looking at these for 23 days. Haramoto logged them as 'mineral accretion.' Nobody recognised them as nests."*
+> — Referee note
+
+---
+
+## I.9 — THE TITANIC SPECIES: FULL STAT BLOCKS
+
+The Shield Beetle (I.1–I.8, above) is the small, tolerable cousin of two much larger arthropods native to the Kethara basin's deep interior. Both are adapted from the standard IISS xenobiological catalogue. Encounters near BLIND COBRA are rare under normal circumstances — the station sits at the edge of their range — but the TSU-9's heat signature and, more specifically, the nesting behaviour documented below (I.10–I.11) bring them much closer than the team's mission brief accounted for.
+
+### TITANIC STAG BEETLE
+*Deep forest variant — grapples and crushes*
+
+| Animal | Hits | Speed | Armour |
+|---|---|---|---|
+| Titanic Stag Beetle | 220 | 9m | +18 |
+
+**Skills:** Athletics (endurance) 4, Athletics (strength) 5, Recon 1, Survival 3
+
+**Attacks:** Mandible Grab 12D; Trample 8D (targets up to 4m — Recon or Athletics (dexterity) 8+ to avoid)
+
+**Traits:** Armour (+18), Large (+6), Flyer (6m, clumsy), Heightened Senses, Camouflaged (forest), Slow Metabolism (-2)
+
+**Behaviour:** Herbivore, Grazer
+
+- **Armour (+18):** Layered chitinous plates. Energy weapons reduce Armour by 2 against laser or plasma. Small arms are effectively useless — this is not the Shield Beetle.
+- **Large (+6):** 15m length, 6×6m footprint. All ranged attacks gain DM+6.
+- **Flyer (6m, clumsy):** Limited flight — can cross obstacles up to 50m wide. Cannot sustain more than 10 rounds without rest.
+- **Camouflaged (forest):** DM+3 to Stealth in forest. Almost always encountered at Close range.
+- **Mandible Grab:** On success, target (or vehicle up to 4 tons) is grappled — 6D damage each round until escape (Athletics (strength) or (dexterity) 10+). Can grapple two targets simultaneously.
+- **Trample:** Moves through occupied spaces, 8D damage to everything in path. Recon or Athletics (dexterity) 8+ to dodge.
+- **Driven Off:** Retreats at 110 Hits unless defending a nest (fights to death).
+
+### TITANIC HERCULES BEETLE
+*Valley edge variant — bulldozes rather than grapples*
+
+At 18 metres in length, the Hercules Beetle is the largest arthropod in the Kethara basin — immediately distinguished from the Stag Beetle by its single curved thoracic horn and total absence of flight capability. It is entirely herbivorous, feeding on rotting fruit, sap flows, and decomposing wood, and attacks intruders only when perceiving territorial rivals. Ground vibration, industrial solvents, and certain radio frequencies trigger aggressive responses — the TSU-9's low-power port-node emissions fall within that trigger range.
+
+| Animal | Hits | Speed | Armour |
+|---|---|---|---|
+| Titanic Hercules Beetle | 260 | 6m | +20 |
+
+**Skills:** Athletics (endurance) 4, Athletics (strength) 6, Recon 1, Survival 3
+
+**Attacks:** Gore 14D (see Horn Toss); Trample 10D
+
+**Traits:** Armour (+20), Large (+6), Heightened Senses, Camouflaged (forest), Slow Metabolism (-2), Unstoppable
+
+**Behaviour:** Herbivore, Grazer/Reducer
+
+- **Armour (+20):** Layered chitinous shell. Small arms negligible. Reduce Armour by 3 against anti-materiel rifles, PGMP, FGMP, or vehicle weapons.
+- **Large (+6):** 18×10m footprint. All ranged attacks gain DM+6.
+- **Camouflaged (forest):** DM+3 to Stealth in forest. Almost always encountered at Close range.
+- **Unstoppable:** Ignores difficult terrain. Moves through structures with Armour 10 or less without reducing Speed — structures take 10D damage automatically.
+- **Horn Toss:** On Gore with Effect 2+, target (or vehicle up to 6 tons) is hurled 2D×2 metres. Impact with a solid object: additional 4D damage. Athletics (strength) 10+ to brace and halve distance.
+- **Trample:** Moves up to Speed in a straight line, 10D damage to everything in path. Athletics (dexterity) or Recon 9+ to dodge. Demolishes light structures automatically.
+- **Driven Off:** Retreats at 130 Hits unless defending a nest or mate (fights to zero).
+
+**Juvenile Hercules Beetle:** Hits 80, Gore 8D, Trample 5D, Armour +12, Large +3. Appears alone; the parent is never far.
+
+---
+
+## I.10 — WHY THE BEETLES ARE ALREADY HERE: CLIFF-FACE NESTING
+
+The Titanic Hercules Beetle builds **suspended egg cradles** on vertical rock faces — hardened organic-cement structures anchored between basalt columns, sheltered overhangs, and any protruding hardware it can grip. The behaviour is a scaled-up analogue of a Terran mud dauber wasp, at the mass of a small grav vehicle.
+
+**Why the cliff face:** the beetle's eggs are vulnerable to ground-level scavengers, flooding, and Stalker packs. Building 8–24m up a sheer basalt face puts them out of reach of everything else in the basin.
+
+**Why the TSU-9 ports specifically:** the 49 port covers on the east cliff face (Appendix A, §A.8) are metal discs bolted flush into the basalt, protruding 2–3mm, with a slightly elevated thermal signature from the coolant fluid behind them. To a nesting beetle, that is the finest construction substrate on the cliff — a metal lip for superior cement grip and residual warmth that accelerates curing. From the beetle's perspective, BLIND COBRA installed forty-nine ideal nest anchors and has been quietly heating them for it ever since.
+
+**This escalates past the routine Shield Beetle attraction problem** documented at A.8f. That mechanic covers a smaller cousin investigating a warm hole. This is the apex species building permanent structures on the infrastructure the team depends on to survive.
+
+### The Nest Structures
+
+Each nest is a suspended pod or tube, 1.5–2.5m long and 0.8–1.2m diameter, built from volcanic soil, chewed plant fibre from the megaflora understory, the beetle's own secreted chitinous resin, and water carried from the river in its mandibles.
+
+| Age | State | Notes |
+|---|---|---|
+| Fresh (0–48 hours) | Wet, grey-brown, malleable | Scrapable with hand tools |
+| Cured (3–5 days) | Hardened to ~Armour 4 equivalent | Requires pry bar or power tools |
+
+Each pod contains **4–8 eggs**, ~15cm long, pale amber, translucent, suspended on fibrous internal webbing — viable for 60–90 days. From a distance the nests read as rough organic growths clustered around the port locations: textured grey-brown pods and tubes, ridged with mandible marks like pottery scored by enormous tools, some sealed, some still open. The team has been looking at these for 23 days. Haramoto logged them as mineral accretion.
+
+---
+
+## I.11 — CLEARING A NESTED PORT & THE PHEROMONE CASCADE
+
+**Roll 3d6** for how many of the 49 TSU-9 ports have been nested over, around, or onto.
+
+| 3d6 | Ports Clogged | Severity |
+|---|---|---|
+| 3–6 | Light | 3–6 ports, 30–60 min clearing |
+| 7–11 | Moderate | 7–11 ports, 1–2 hours exposed on the cliff face |
+| 12–15 | Heavy | 12–15 ports, 2–3 hours, nest clusters |
+| 16–18 | Severe | 16–18 ports — nearly a third of the array |
+
+**Plus** the 6 ports already failed from mineral blockage, weather damage, and Tyrant scratching (Appendix A). Total ports requiring attention = nest-clogged + 6.
+
+**Clearing a nested port, step by step:**
+
+1. **Break the cement** — STR 10+ with hand tools (15 min/port) or Mechanic 8+ with power tools (8 min/port). Loud, dusty, and drops debris to the ground below.
+2. **Remove the eggs** — Science (biology) 8+ (Kowalski at +4 total) per pod, without rupturing. **A ruptured egg releases a pheromone burst detectable at 3km downwind.**
+3. **Service the port cover** — Mechanic 8+, 5 min/port, standard TSU-9 maintenance per Appendix A.
+
+**If an egg ruptures:** the parent Hercules Beetle returns to the cliff face within **1d6 × 30 minutes**, defending the nest to the death (mated-pair behaviour). An 18-metre, 260-Hit, Armour 20 beetle climbing toward personnel on grav belts or ladders at 8–24m height is the single most dangerous image this scenario can put in front of a table.
+
+**What the drone footage shows, in retrospect:** reviewing Okonkwo's 23 days of surveillance (Electronics (remote ops) 6+, 30 minutes) reveals the beetle visiting the cliff face every 3 days for the past 2–3 weeks — nearly invisible in thermal against the rock, but the wet cement reads as a faint warm patch on cold basalt. It correlates exactly with Haramoto's logged "mineral deposit" port failures.
+
+---
+
+## I.12 — THE ECOLOGICAL CASCADE: BEETLES AND THE TYRANT
+
+**Does clearing the nests attract the Kethara Tyrant? Yes — in five ways.**
+
+1. **Egg pheromones attract everything.** The rupture signal is not species-specific — any predator with Heightened Senses reads it. The Tyrant detects it at **2km**. It cannot bite through Armour 20 to eat an adult beetle, but beetle eggs are unarmoured, pure protein, and 15cm each. The Tyrant has likely been eating them off this cliff for years — the "unusual site fidelity" Osei-Bonsu already has on file for KR-ALPHA-7 (Appendix F) may be nesting season as much as TSU-9 heat.
+2. **Clearing noise and vibration.** Breaking cured cement off basalt is audible 500m+, echoing off the formation, and detectable as ground vibration by the Tyrant's Heightened Senses at 500m — all three are investigation triggers.
+3. **Falling debris is a food signal.** Cement fragments and eggs fall 8–24m. Eggs that rupture on impact release pheromone at ground level — exactly where the Tyrant patrols. It does not need to climb. It waits at the base and eats what falls.
+4. **Shield Beetles are prey.** At Armour 10, Shield Beetles ARE within the Tyrant's damage range (Bite 5D average 17.5, minus Armour 10 ≈ 7.5/bite — roughly six bites to kill). If any die during a base-lockdown encounter (I.1–I.8) and blood scent reaches the exterior, it draws the Tyrant.
+5. **Hatchlings.** Eggs nearing their 60–90 day window produce ~30cm hatchlings (Armour 4, Hits 4) that are vulnerable on the cliff face for their first 24 hours. The Tyrant patrols nesting cliffs during hatching season for exactly this reason.
+
+### The Cascading Worst Case
+
+| Time | Event |
+|---|---|
+| T+0 | Team begins clearing nests. One member on a grav belt at height, one on the ground providing security. |
+| T+8 min | First cured nest broken open. Eggs exposed. |
+| T+12 min | One egg ruptures during removal. Pheromone burst. |
+| T+15 min | Falling debris and egg fragments hit the ground. Protein scent at ground level. |
+| T+20 min | The Kethara Tyrant — already drawn by TSU-9 heat *and* nesting season — approaches the cliff base. |
+| T+25 min | The Tyrant begins eating fallen material at the cliff base, directly below the climber. |
+| T+30–180 min | The parent Hercules Beetle detects the pheromone burst and begins its approach from the west, through the megaflora canopy. |
+| T+60 min | The parent beetle reaches the cliff face and begins climbing toward the nests — approaching from above. |
+| T+65 min | **The climber is now trapped on the cliff face between a 260-Hit, Armour 20 beetle coming down from above and a 60-Hit Tyrant waiting below.** No weapon on the team's inventory solves both problems at once, and nobody can safely shoot either animal without triggering falls, ricochets, or worse. |
+
+This is the scenario's signature convention moment — the referee should build toward it whenever nest-clearing begins in earnest.
+
+### Kowalski's Emergency Intervention
+
+If Kowalski has identified the nests before clearing starts, she can pre-empt the cascade:
+
+- **Chemical deterrent on the cliff face** (Science (biology) 10+, Difficult) masks the egg-rupture scent from the Tyrant below for roughly 2 hours before it degrades.
+- **Time the clearing to storm peak** — the beetle's Slow Metabolism makes it less responsive during storms (pheromone response time extends from 1d6×30 min to 1d6×60 min).
+- **Identify viable vs. dead pods** (Science (biology) 8+) — dead pods clear without pheromone risk; only live pods trigger the cascade.
+- **Clear from the TOP of the cliff down**, so a responding parent beetle approaches from below (where the Tyrant already is) rather than trapping the climber from above.
+
+Without Kowalski, the team clears blind and discovers the cascade already in motion.
+
+---
+
+## I.13 — QUICK REFERENCE: TITANIC BEETLES
+
+| Creature | Hits | Speed | Armour | Primary Attack | Driven Off |
+|---|---|---|---|---|---|
+| Titanic Stag Beetle | 220 | 9m | 18 | Mandible Grab 12D | 110 Hits |
+| Titanic Hercules Beetle | 260 | 6m | 20 | Gore 14D + Horn Toss | 130 Hits |
+| Titanic Hercules Beetle (juvenile) | 80 | 6m | 12 | Gore 8D | — |
+
+**Extended play (Hours 12+):** add +1 to the standard megafauna encounter roll after Hour 24. On a modified 7+, roll 1D: 1–3 Titanic Stag Beetle feeding, avoidable; 4–5 Stag Beetle agitated by ground vibration; 6 Hercules Beetle, territorial male, charges on detection. Neither species responds to noise/light deterrence — chemical deterrent (Science (biology) 10+, Difficult) is the only non-weapons option, and the auto-sentries and personal gauss weapons cannot reliably damage Armour 18+.
+
+**Cross-references:** Appendix A, §A.8f (Shield Beetle port attraction — the smaller, routine version of this problem); Appendix F (Osei-Bonsu's KR-ALPHA-7 telemetry and "unusual site fidelity" log entry); Chapter 3, §3.4 (west side terraces, where the beetles approach from).

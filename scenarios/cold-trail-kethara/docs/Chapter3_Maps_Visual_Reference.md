@@ -214,6 +214,55 @@ The full approach to the cave entrance from the east. The river bank is a narrow
 
 ---
 
+## 3.4 — THE WEST SIDE: PUMP PORTS AND THE OLD GEO EXPEDITION
+
+The battle map and dual schematic both treat the west side as an exit note rather than a mapped location, because the team's own attention never went there. This section fills in what a referee needs if play moves past the cliff face.
+
+### Formation Geometry
+
+The basalt formation is approximately **80 metres wide** at the station section — narrow enough that the west side is reachable from the east either through the tunnel (2km north, §3.2 and Chapter 6) or by climbing over the top (60–80m, grav belt or climbing kit required).
+
+```
+EAST SIDE (cliff face)          WEST SIDE (stepped/tiered)
+     |                               ___
+     |                          ___|   |
+     |  BASALT FORMATION       |      |___
+     |  (~80m wide)           |          |___
+     |                       |    plateaus   |___
+     |                      |  with vegetation    |___
+     |  40m sheer cliff    | 30m stepped descent       |
+     |                    |  (3-4 natural terraces)      |
+     |___________________|_________________________________|
+   RIVER (east)                              JUNGLE (west)
+```
+
+Unlike the sheer east cliff, the west side descends in **3–4 natural basalt terraces**, each roughly 8–10m high with flat plateaus between them. The plateaus carry dense vegetation — alien ferns, ground cover, canopy trees rooted in basalt cracks — and megafauna use the lower plateaus for grazing and resting. No camouflage netting, no perimeter wire, no sentries: the team's defensive attention went entirely to the east side, the direction of the relay and any approach along the ridgeline. The west side was assessed as low-threat because the terrain is difficult and nothing was expected to come from that direction.
+
+**That assessment is wrong. The beetles come from the west** (Appendix I, §I.10–I.12).
+
+### The Pump Ports
+
+**Roll 3d6** for the number of pool-outflow pump ports present on the west side — circular covers approximately 40cm in diameter, connected to the TSU-9's secondary cooling loop, discharging waste heat into natural rock pools on the stepped terrain. They were installed during base setup and are painted to match the surrounding rock (Recon 10+ to notice without already knowing they exist). The covers are distributed across the second and third terraces.
+
+### Old Geo Expedition Equipment
+
+On the third terrace, roughly 20m below the ridge top, a cluster of meteorological and seismic monitoring equipment survives from a geological expedition that predates BLIND COBRA by centuries. Weathered and overgrown, most of it is dead — but not all of it.
+
+| Equipment | Status | Notes |
+|---|---|---|
+| Meteorological station (mast, wind gauge, temp/pressure sensors) | Partially functional | Solar-powered, TL7–8 era |
+| Seismic sensor array (3 ground-mounted units) | Functional — registers ground vibration | Hardened design, buried in basalt, centuries of local data storage |
+| Geological sample storage shed | Collapsed — roof gone, walls standing | Contains century-old survey records on degraded media |
+| Survey marker posts (×12) | Standing, faded markings | Solomani-era insignia — see below |
+
+**The seismic sensors matter mechanically.** They register large-animal footfalls at 2km range. If the team discovers them and someone can interface with the ancient data bus (Electronics (computers) 10+ — the protocols are centuries old), they gain an early-warning system for anything approaching from the west. It cannot identify species, but it can tell you something very large is coming.
+
+**Who this expedition was:** the equipment and the tunnel lighting (§3.2) were installed by a geological survey operating on Lakamsal roughly 300 years ago, during a period when the world was under Solomani administration — before the Solomani Rim War transferred it to the Third Imperium. The marker posts carry faded Solomani Confederation insignia, a detail worth noticing rather than explaining: this land was Solomani once, and someone on the team is standing on it now under a very different flag.
+
+**The collapsed shed's records**, if recovered (Investigate 10+, 2 hours; the data is on degraded crystal media requiring a TL11 reader — the SIGINT suite has one), contain detailed maps of the basalt formation, including the tunnel, the lava-tube network, and the geological faults responsible for the local EM interference. This data is better than anything currently in Osei-Bonsu's survey database.
+
+---
+
 ### NEURAL.AI IMAGE PROMPT — MAP 3 (BATTLE MAP, OVERVIEW)
 
 **Style:** Isometric tactical battle map, science fiction, painterly

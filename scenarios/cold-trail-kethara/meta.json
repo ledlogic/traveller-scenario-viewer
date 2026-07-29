@@ -20,6 +20,7 @@
     { "file": "AppendixF_Imperial_Antagonists.md"       ,  "label": "App F \u2014 Imperial Antagonists" },
     { "file": "AppendixG_Quick_Reference_Citations.md"  ,  "label": "App G \u2014 Quick Reference & Citations" },
     { "file": "AppendixH_Vehicles_and_Drones.md"        ,  "label": "App H \u2014 Lakamsal Vehicles and Drones" },
-    { "file": "AppendixI_Bestiary.md"                   ,  "label": "App I \u2014 Lakamsal Bestiary" }
+    { "file": "AppendixI_Bestiary.md"                   ,  "label": "App I \u2014 Lakamsal Bestiary" },
+    { "file": "AppendixJ_Satellite_Gambit_and_Scout_Crisis.md",  "label": "App J \u2014 The Satellite Gambit & Scout Crisis" }
   ]
 }

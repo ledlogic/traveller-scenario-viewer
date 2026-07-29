@@ -21,6 +21,8 @@
 
 *For the full play-by-play Imperial response encounter with tactical mechanics: see Appendix E.*
 
+*If the team improvises a satellite intrusion of their own (Hour 24–30 or later), a fourth, parallel complication can enter the picture — two IISS scout vessels crashed near the relay station, drawing a separate 291st Fleet response alongside these three threat layers. This is optional escalation, not baseline: see Appendix J.*
+
 ---
 
 ## F.2 — IMPERIAL ANTAGONIST 1: THE LOCAL OBSERVER

@@ -705,7 +705,9 @@ SHEPHERD's descent corridor is affected by the same EM storm cycle that has been
 
 ### Breckenridge's Stay-Behind Plan
 
-At the moment of extraction, Breckenridge has made a decision he has not shared with Vasiliou. He intends to remain on Lakamsal, presenting himself to Imperial authorities as the survivor of one of the crashed scout ships — a civilian contractor, Imperial-born, caught up in something he does not fully understand. His Imperial citizenship, fluent Imperial Standard, and genuine familiarity with Imperial systems and bureaucratic language make this plausible.
+*For the full sequence of how the two scout ships came to crash in the first place — Breckenridge and Pelczar's satellite intrusion, Adeyemi and Torino, and the mechanics behind it — see Appendix J.*
+
+At the moment of extraction, Breckenridge has made a decision he has not shared with Vasiliou. He intends to remain on Lakamsal, presenting himself to Imperial authorities as the survivor of *Patient Archive* — one of the two crashed scout ships — a civilian contractor, Imperial-born, caught up in something he does not fully understand. His Imperial citizenship, fluent Imperial Standard, and genuine familiarity with Imperial systems and bureaucratic language make this plausible.
 
 **Why he thinks this works:** The cover identity as a geological survey contractor holds under standard processing. He can explain away his presence in the Kethara basin. His signals work is packed into an encrypted data core in his jacket. The SIGINT suite remains with the base or is destroyed — nothing physically links him to the intercept operation. He becomes, on paper, a confused civilian who needs a ticket home.
 
