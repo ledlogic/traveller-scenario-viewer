@@ -2,18 +2,57 @@
   "title": "Operation Ashfall",
   "subtitle": "A Mongoose Traveller 2e Scenario",
   "system": "Mongoose Traveller 2nd Edition",
-  "setting": "Ys, Gemini Subsector, Solomani Rim \u2014 Imperial Year 1117",
+  "setting": "Ys, Gemini Subsector, Solomani Rim — Imperial Year 1117",
   "color": "#a13d2b",
   "inception_date": "2026-07-19",
   "docs": [
-    { "file": "Chapter1_Introduction.md"              ,  "label": "Ch 1 \u2014 Introduction & Situation" },
-    { "file": "Chapter2_Characters.md"                ,  "label": "Ch 2 \u2014 Characters" },
-    { "file": "Chapter3_Act_One_City_of_Static.md"    ,  "label": "Ch 3 \u2014 Act One: City of Static" },
-    { "file": "Chapter4_Maps_Visual_Reference.md"     ,  "label": "Ch 4 \u2014 Maps & Visual Reference" },
-    { "file": "Chapter5_Act_Two_The_Reach.md"         ,  "label": "Ch 5 \u2014 Act Two: The Reach" },
-    { "file": "Chapter6_Act_Three_Ashfall.md"         ,  "label": "Ch 6 \u2014 Act Three: Ashfall" },
-    { "file": "AppendixA_Antagonist_Krein.md"         ,  "label": "App A \u2014 Antagonist: Governor Krein" },
-    { "file": "AppendixB_Equipment_Battle_Dress.md"   ,  "label": "App B \u2014 Equipment: SolSec Battle Dress" },
-    { "file": "AppendixC_Imperial_Security_Service.md",  "label": "App C \u2014 Imperial Security Service" }
+    {
+      "file": "Chapter1_Introduction.md",
+      "label": "Ch 1 — Introduction & Situation"
+    },
+    {
+      "file": "Chapter2_Characters.md",
+      "label": "Ch 2 — Characters"
+    },
+    {
+      "file": "Chapter3_Act_One_City_of_Static.md",
+      "label": "Ch 3 — Act One: City of Static"
+    },
+    {
+      "file": "Chapter4_Maps_Visual_Reference.md",
+      "label": "Ch 4 — Maps & Visual Reference"
+    },
+    {
+      "file": "Chapter5_Act_Two_The_Reach.md",
+      "label": "Ch 5 — Act Two: The Reach"
+    },
+    {
+      "file": "Chapter6_Act_Three_Ashfall.md",
+      "label": "Ch 6 — Act Three: Ashfall"
+    },
+    {
+      "file": "AppendixA_Antagonist_Krein.md",
+      "label": "App A — Antagonist: Governor Krein"
+    },
+    {
+      "file": "AppendixB_Equipment_Battle_Dress.md",
+      "label": "App B — Equipment: SolSec Battle Dress"
+    },
+    {
+      "file": "AppendixC_Imperial_Security_Service.md",
+      "label": "App C — Imperial Security Service"
+    },
+    {
+      "file": "AppendixD_Optional_OSINT_Scene.md",
+      "label": "App D — Optional: Open Study, Closed Doors"
+    },
+    {
+      "file": "AppendixE_Master_Citations.md",
+      "label": "App E — Master Source Citations"
+    },
+    {
+      "file": "AppendixF_Allied_NPCs.md",
+      "label": "App F — Allied & Neutral NPCs"
+    }
   ]
 }

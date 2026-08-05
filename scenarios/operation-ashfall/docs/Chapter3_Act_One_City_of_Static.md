@@ -27,7 +27,7 @@ Meridian is a naval company town — three million people, most of them dockwork
 
 - **The Yards** are contested — loyalist Marines hold the drydocks and the highport shuttle field; dockworker militia hold the surrounding warehouses and cargo rail.
 - **Old Meridian**, the residential core, is functionally ungoverned — checkpoints exist, run by whoever got there first, and change hands without much warning.
-- **The Boulevard**, Meridian's central plaza and the site of the naval administration building, is where Governor Krein's staff are barricaded and where any move against him would have to go through.
+- **The Boulevard**, Meridian's central plaza, is dominated by the naval administration building — Meridian's one unmissable landmark, visible from most of the city. Two massive square-based towers rise from opposite ends of the plaza, windowless below the fortieth floor, and between them — bridging the gap, cantilevered out past the towers' own footprint on both sides — sits a vast rectangular block, giving the whole structure the unmistakable silhouette of a capital letter Pi. It reads as exactly what it is: Imperial administrative power, built to be seen from everywhere in the city it governs. This is where Governor Krein's staff are barricaded, and where any move against him would have to go through.
 
 None of this is where the team needs to be. What they need — the control bunker's exact status, and a vehicle that can survive the Reach — is going to come from people, not buildings, and the biggest gathering of people in the city tonight is not at any of the above.
 
@@ -72,7 +72,7 @@ If the team earns his trust — and Achebe's medic skills, not Kade's authority,
 
 ## 3.4 — SECURING THE VEHICLE
 
-The naval logistics depot on the Yards' northern edge is where Reach-rated equipment lives — armored haulers built to survive residual thermal and radiological load, normally reserved for the Navy's own environmental monitoring runs out to the crater. It is currently held by a skeleton loyalist detachment more worried about the Yards than their own motor pool, which is the team's opening.
+The naval logistics depot on the Yards' northern edge — a converted cargo warehouse, high-bayed and cluttered with pallet racks, repurposed decades ago when the Navy needed covered storage close to the drydocks — is where Reach-rated equipment lives: armored haulers built to survive residual thermal and radiological load, normally reserved for the Navy's own environmental monitoring runs out to the crater. It is currently held by a skeleton loyalist detachment more worried about the Yards than their own motor pool, which is the team's opening.
 
 **Two approaches, referee's choice which fits the table:**
 
