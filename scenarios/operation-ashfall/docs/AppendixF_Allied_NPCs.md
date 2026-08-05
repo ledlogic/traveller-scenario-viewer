@@ -13,7 +13,7 @@
 
 Basaran is 61, wiry, and has the specific stillness of a man who's spent decades trying not to be noticed by his own government. He spent nine years as a junior systems technician on the original equatorial test site — the installation that became the Glass Reach thirty-one years ago (Chapter 1, §1.4) — and has never fully explained, even to himself, why he stayed in naval service afterward instead of leaving Ys entirely. He's at the screening tonight because his granddaughter, Petra, dragged him there; he didn't want to go, and he hasn't stopped watching the exits since he arrived.
 
-**Characteristics:** STR 6 (–1) · DEX 7 (+0) · END 7 (+0) · INT 9 (+1) · EDU 10 (+1) · SOC 5 (+0)
+**Characteristics:** STR 6 (+0) · DEX 7 (+0) · END 7 (+0) · INT 9 (+1) · EDU 10 (+1) · SOC 5 (–1)
 
 **General Skills:** Streetwise 1 · Recon 1 · Persuade 0 · Athletics 0
 

@@ -31,7 +31,7 @@
 
 Two meters of ex-Naval-infantry muscle poured into a command role she never asked for and is quietly very good at. Kade made her name on the border holding a line that should have collapsed twice, and SolSec noticed. She chews a cigar down to a stub before every op and has never once been seen lighting a fresh one in front of the team — a small superstition nobody's brave enough to ask about.
 
-**Characteristics:** STR 12 (+2) · DEX 8 (+1) · END 11 (+1) · INT 9 (+1) · EDU 8 (+1) · SOC 6 (+0)
+**Characteristics:** STR 12 (+2) · DEX 8 (+0) · END 11 (+1) · INT 9 (+1) · EDU 8 (+0) · SOC 6 (+0)
 
 **Skills:** Leadership 3 · Tactics (military) 2 · Battle Dress 2 · Gun Combat (slug) 2 · Melee (unarmed) 2 · Recon 1 · Admin 1
 
@@ -48,7 +48,7 @@ Two meters of ex-Naval-infantry muscle poured into a command role she never aske
 
 Uzgar is Vargr, enormous even by Vargr standards, and mean in the specific way that makes him excellent at his job and exhausting at every other part of it. He's on contract to SolSec rather than a citizen of the Confederation, which he'll remind you of the moment anyone questions an order. He carries an unlit cigar clamped in his jaw at all times — Vargr respiratory biology makes actually smoking one a bad idea, but he's not giving up the aesthetic for something as small as biology.
 
-**Characteristics:** STR 13 (+2) · DEX 9 (+1) · END 10 (+1) · INT 7 (+0) · EDU 5 (+0) · SOC 4 (–1)
+**Characteristics:** STR 13 (+2) · DEX 9 (+1) · END 10 (+1) · INT 7 (+0) · EDU 5 (–1) · SOC 4 (–1)
 
 **Skills:** Heavy Weapons (man portable) 3 · Melee (blade) 2 · Gun Combat (slug) 2 · Athletics (strength) 2 · Survival 1 · Intimidate 2
 
@@ -65,7 +65,7 @@ Uzgar is Vargr, enormous even by Vargr standards, and mean in the specific way t
 
 Voss spent six years disarming Confederation ordnance before SolSec decided his specific skill set was better used against other people's. He's built like a wall, talks like one too, and has the dry, specific gallows humor of a man who has made peace with the idea that his job description includes "probably dies first." He's the only one who genuinely understands why the Ashfall network is dangerous, which makes him the most nervous person on the team and also the most necessary.
 
-**Characteristics:** STR 11 (+1) · DEX 9 (+1) · END 10 (+1) · INT 10 (+1) · EDU 9 (+1) · SOC 5 (+0)
+**Characteristics:** STR 11 (+1) · DEX 9 (+1) · END 10 (+1) · INT 10 (+1) · EDU 9 (+1) · SOC 5 (–1)
 
 **Skills:** Explosives 3 · Mechanic 2 · Electronics 2 · Engineer (life support) 1 · Battle Dress 1 · Recon 1
 
@@ -82,7 +82,7 @@ Voss spent six years disarming Confederation ordnance before SolSec decided his 
 
 Achebe is built like she could carry any one of her squadmates out of a firefight over one shoulder, because she can and has. Field medicine on the Confederation border taught her to work fast, work dirty, and never apologize for either. She's the only one on the team who talks to civilians like people instead of obstacles, which has occasionally caused friction with Kade's mission timeline and will probably do so again on Ys.
 
-**Characteristics:** STR 10 (+1) · DEX 8 (+1) · END 12 (+2) · INT 9 (+1) · EDU 10 (+1) · SOC 6 (+0)
+**Characteristics:** STR 10 (+1) · DEX 8 (+0) · END 12 (+2) · INT 9 (+1) · EDU 10 (+1) · SOC 6 (+0)
 
 **Skills:** Medic 3 · Athletics (strength) 2 · Battle Dress 1 · Gun Combat (slug) 1 · Persuade 1 · Recon 1
 
@@ -99,7 +99,7 @@ Achebe is built like she could carry any one of her squadmates out of a firefigh
 
 Reyes can drive literally anything and has the scars, citations, and one memorably totaled grav-tank to prove it. Laconic to the point of rudeness, magnificent behind a wheel or a yoke, and the reason the team is even considering a run across the Glass Reach at all — nobody else would sign off on the drive. Cigar permanently present, permanently unlit while driving, permanently relit the second the vehicle stops.
 
-**Characteristics:** STR 10 (+1) · DEX 11 (+1) · END 9 (+1) · INT 8 (+1) · EDU 7 (+0) · SOC 4 (–1)
+**Characteristics:** STR 10 (+1) · DEX 11 (+1) · END 9 (+1) · INT 8 (+0) · EDU 7 (+0) · SOC 4 (–1)
 
 **Skills:** Drive (wheeled/tracked) 3 · Vacc Suit 2 · Mechanic 2 · Recon 2 · Gun Combat (slug) 1 · Athletics (endurance) 1
 
@@ -118,7 +118,7 @@ Officially, this unit is a SolSec technical specialist android of unremarkable m
 
 None of this is true. All of the "memories" are corrupted composite data — real historical records, personal logs from other units, half-digested SolSec training archives, and what may simply be noise, all stitched together by damaged indexing into a single, continuous, deeply sincere false autobiography. The team has stopped correcting it. It's more useful than a functioning memory core would suggest, and there's something the whole team quietly protects about the fact that it believes what it believes.
 
-**Characteristics:** STR 12 (+2, synthetic chassis) · DEX 10 (+1) · END 14 (+2, synthetic) · INT 11 (+1) · EDU 6 (+0, corrupted archive — not a reliable measure) · SOC 5 (+0)
+**Characteristics:** STR 12 (+2, synthetic chassis) · DEX 10 (+1) · END 14 (+2, synthetic) · INT 11 (+1) · EDU 6 (+0, corrupted archive — not a reliable measure) · SOC 5 (–1)
 
 **Skills:** Electronics (computers) 3 · Engineer (life support) 2 · Battle Dress 2 · Mechanic 1 · Gun Combat (energy) 1 · Persuade 0 (technically untrained; unnervingly effective anyway)
 

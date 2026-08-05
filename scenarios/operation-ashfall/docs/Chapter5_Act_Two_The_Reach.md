@@ -44,7 +44,35 @@ If the team doesn't lose the pursuit force entirely, run it as a handful of tens
 
 ---
 
-## 5.4 — CLOSING ACT TWO
+## 5.4 — AN ALTERNATIVE THREAT: THE REACH WARDENS
+
+The pursuit force in §5.3 doesn't have to be the only thing in the spike field. Krein's administration — true to eleven years of managing problems by outsourcing them rather than solving them (Appendix A, §A.1) — has never trusted the loyalist garrison alone to keep people out of the Glass Reach. Officially, a contracted militia called the **Reach Wardens** patrols the perimeter to keep looters and rebel sympathizers from disappearing into the spike field. Unofficially, the Wardens run a quiet, tolerated salvage operation — pre-incident hardware, rare fused-glass formations, anything with resale value scavenged from the outer bands and sold through channels nobody in the naval administration officially acknowledges. Krein's office looks the other way because the Wardens are cheaper than a real garrison presence and because a government that already calls curfews "temporary safety measures" isn't about to call this arrangement what it is either.
+
+**Use the Wardens instead of, or alongside, the ISS-directed pursuit force (§5.3)** if the table wants a different texture of threat — mercenary and transactional rather than institutional. They are not loyal to Krein, don't know or care about Ashfall, and are motivated entirely by pay and salvage rights. That makes them a genuinely different kind of encounter: **negotiable in a way ISS agents and Marines are not.**
+
+### Reach Warden
+
+| | STR | DEX | END | INT | EDU | SOC |
+|--|-----|-----|-----|-----|-----|-----|
+| Score | 8 | 8 | 7 | 6 | 5 | 4 |
+| DM | +0 | +0 | +0 | +0 | –1 | –1 |
+
+**Skills:** Survival 2 · Recon 1 · Gun Combat (slug) 1 · Mechanic 1 · Streetwise 1
+**Armour:** Cloth or scavenged Flak Jacket, mismatched and field-patched
+**Weapon:** Shotgun (CRB22, Weapons table — practical, intimidating, not military-grade; the source PDF's damage column for this row was affected by the same text-extraction issue as other tables in this project, so confirm the exact damage code against your own copy rather than this document)
+**Equipment:** Rad counters (better than the team might expect — they work this terrain constantly and know its dangers firsthand, unlike loyalist patrols), a working knowledge of safer paths through the spike field that the team does not have
+
+**Running them:** the Wardens know the Glass Reach better than anyone else in this scenario, including the team — better even than Basaran's decades-old data (Chapter 3, §3.3), because they're out here weekly, not remembering it from thirty-one years ago. That expertise cuts both ways: they're a genuine hazard if hostile, but also the single best source of real-time route information in Act Two if the team can talk instead of fight.
+
+**A Warden encounter can resolve several ways**, referee's call based on how the team approaches it:
+- **Bribery or trade** (Persuade or Streetwise 8+, plus something worth offering — SolSec gear, information, or simple credits) buys safe passage and possibly a genuine shortcut through the field.
+- **Intimidation** (Threk's specialty) works, but Wardens who back down don't forget it — a plausible seed for them reporting the encounter to whoever they think might pay for the information, complicating things later rather than resolving cleanly.
+- **A fight** is winnable — six people in Improved Battle Dress (Appendix B) badly outclass a scavenger militia — but noisy, and noise draws the kind of attention the team is trying to avoid (Appendix C, §C.3).
+- **Ignoring them entirely** is often the correct play if the team can manage it — Wardens patrol for salvage and looters, not military targets, and a team that stays out of their patrol routes may simply never trigger this encounter at all.
+
+
+
+## 5.5 — CLOSING ACT TWO
 
 By the time the team reaches the crater core and the bunker entrance, they should have:
 - Crossed a landscape that was built, thirty-one years ago, specifically to stop people from doing exactly what they just did.

@@ -47,6 +47,7 @@ Every stat block, rule, and setting fact used in this scenario is sourced indivi
 | Investigate, Streetwise, Deception skill definitions | App C, §C.4 | CRB22 | pp.56–63 |
 | Imperial counter-intelligence / captive-government institutional tension | App C, §C.1, C.5 | SolFront | Gemini Subsector gazetteer, world entry (Ys) |
 | ISS operational independence from civil governors | App C, §C.1 | CRB22 | Referee's Toolbox, general Imperial institutional framing |
+| Reach Warden Shotgun | Ch 5, §5.4 | CRB22 | Weapons table — *damage code unverified; source PDF's extraction dropped this row's damage column, same pattern as other flagged tables in this document. Confirm against your own copy before using at the table.* |
 
 ---
 
