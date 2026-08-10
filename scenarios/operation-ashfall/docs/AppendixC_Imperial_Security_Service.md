@@ -11,7 +11,7 @@ Krein's loyalist garrison (Appendix A, §A.5) is stretched thin holding the Yard
 
 The ISS office answers to Krein on paper but operates with real independence, per standard Imperial counter-intelligence doctrine — a civil governor doesn't get operational control over his own spy-hunters. Tonight, that independence matters: **the ISS station chief has not been ordered to stand down and has not been told about Ashfall.** She is running a counter-espionage response to a citywide uprising with no idea the planet is on a clock, which means she's playing this straight, methodically, and without any of the desperation driving Krein's side of the crisis. She is, in a real sense, the most dangerous thing in Meridian tonight, because she's the only one still doing her actual job competently.
 
-**Station Chief Imelda Vantry** — career ISS, twenty-two years, quietly excellent, and completely uninterested in politics. She does not care about the uprising's cause. She cares that six unregistered persons in matched heavy Battle Dress appeared in her city roughly twelve hours before the worst night in Ys's history, and every instinct she has says that's not a coincidence.
+**Station Chief Imelda Vantry** — career ISS, twenty-two years, quietly excellent, and completely uninterested in politics. She does not care about the uprising's cause. She knew exactly who and what Team UNDERTOW was within hours of their arrival — six-to-seven people in matched heavy Battle Dress under open Confederation colors is not a mystery to solve — and every instinct she has says a known Solomani military presence appearing twelve hours before the worst night in Ys's history is not a coincidence. What she doesn't have yet is authorization to act on it, and that's the actual tension driving §C.2.
 
 ---
 
@@ -21,23 +21,23 @@ Run ISS pressure as a visible second track alongside the Countdown — a simple 
 
 | Stage | Trigger | ISS Response |
 |---|---|---|
-| **1 — Unknown** | Starting state | Routine monitoring only; the team's warehouse cover (Chapter 3, §3.1) holds |
-| **2 — Suspected** | Battle Dress spotted by anyone who reports it (a checkpoint, a loyalist patrol, a nervous civilian); a comm intercept catches squad-net chatter | ISS begins a pattern-of-life trace — canvassing the harbor district, pulling checkpoint logs, no direct contact yet |
-| **3 — Identified** | The warehouse cover is blown, or the team is seen in Battle Dress by an ISS asset specifically (not just a random witness) | Vantry personally takes the case; a Field Agent team (§C.4) is dispatched to intercept, trail, or capture — this is the point at which the Act Two pursuit force (Chapter 5, §5.3) should be understood as **ISS-directed**, not just loyalist garrison overflow |
-| **4 — Active Manhunt** | The team is confirmed engaging Imperial assets, damaging Imperial property (the stolen hauler), or spotted at the Glass Reach itself | Full resources committed — this is escalatory, not just "more guards"; Vantry starts pulling favors from naval security and treats the team as a live, ongoing incursion, not a one-off incident |
+| **1 — Noted** | Starting state — Vantry's office has logged the team's presence within hours of their arrival; under full Confederation colors (Chapter 1, §1.6), there was never a concealment phase to defeat | Routine surveillance only. A known Solomani military presence during an active uprising is alarming, but Vantry needs authorization and a confirmed hostile act before committing real resources — right now, they're a flagged concern, not a target |
+| **2 — Reported** | The team engages in any activity beyond passive waiting — moving through the city, working a contact (Chapter 3, §3.3), approaching naval property | Vantry escalates the file up the chain and begins a proper pattern-of-life trace; still no direct contact, but the clock on authorization is now running |
+| **3 — Authorized** | The team damages or takes Imperial property (the stolen hauler, Chapter 3, §3.4), or engages loyalist or naval personnel directly | Vantry gets the authorization she needs; a Field Agent team (§C.4) is dispatched to intercept, trail, or capture — this is the point at which the Act Two pursuit force (Chapter 5, §5.3) should be understood as **ISS-directed**, not just loyalist garrison overflow |
+| **4 — Active Manhunt** | The team is confirmed engaging Imperial assets in open combat, or spotted at the Glass Reach itself | Full resources committed — this is escalatory, not just "more guards"; Vantry starts pulling favors from naval security and treats the team as a live, ongoing incursion, not a one-off incident |
 
 **This retcons nothing that's already been played** — it gives the pursuit force from Chapter 5 an actual organization and a face (Vantry), and gives the referee a clean dial to turn if a table wants more or less ISS pressure across the session.
 
 ---
 
-## C.3 — HOW THEY ACTUALLY FIND THE TEAM
+## C.3 — WHY IT'S ABOUT AUTHORIZATION, NOT DISCOVERY
 
-Vantry's people are not door-kickers. They're patient, and on a night this chaotic, patience is a real advantage.
+Vantry's people are not door-kickers, and there's no cover to blow — the team was made the moment they landed under Confederation colors (Chapter 1, §1.6). What actually paces this Act isn't whether ISS finds the team; it's how fast Vantry can justify committing real resources against a nominally-neutral-until-proven-hostile military presence during a citywide uprising she has plenty of other reasons to be managing.
 
-- **Comm discipline failure.** Squad-net chatter, even encrypted, has a signature. Every scene the team spends on open comms in Battle Dress is a chance (referee's judgment, or an opposed Electronics/Stealth check if the table wants it mechanical) to escalate the track.
-- **Pattern-of-life analysis.** Six people who arrived together, rented a warehouse together, and disappeared together the night an uprising started is exactly the kind of coincidence ISS training exists to catch. This is slow — it's the mechanism behind Stage 2, not a single roll.
-- **Checkpoint cross-referencing.** Every loyalist checkpoint the team passes (Chapter 3, §3.1) logs something, even if the immediate encounter goes fine. Vantry's office pulls those logs continuously; a clean pass at the checkpoint doesn't mean the team was invisible, just that nobody stopped them *yet*.
-- **Assets inside the dockyard screening.** If the team worked the crowd in Chapter 3, §3.3, there's a real chance — referee's call, no roll needed unless you want the tension — that at least one person in that warehouse was an ISS informant. This doesn't have to pay off; the possibility alone should make the table treat that scene with real caution on a replay, and it's a good thread to plant for a longer campaign even if it goes nowhere tonight.
+- **Escalating activity, not concealment failure.** Every scene where the team does something beyond passively waiting — moving through the city, working a contact (Chapter 3, §3.3), approaching naval property (Chapter 3, §3.4) — gives Vantry's office more to put in front of her chain of command. This is the actual mechanism behind Stage 2 (§C.2), not a stealth check.
+- **A confirmed hostile act is the real trigger.** Taking Imperial property, engaging loyalist or naval personnel, or otherwise crossing from "concerning presence" to "active incursion" is what gets Vantry Stage 3 authorization — and once she has it, she moves fast, because she's been ready to since Stage 1.
+- **Assets inside the dockyard screening.** If the team worked the crowd in Chapter 3, §3.3, there's a real chance — referee's call, no roll needed unless you want the tension — that at least one person in that warehouse was an ISS informant, reporting on the team's *activity* rather than their *existence* (which was never a secret). This doesn't have to pay off; the possibility alone should make the table treat that scene with real caution, and it's a good thread to plant for a longer campaign even if it goes nowhere tonight.
+- **The flag cuts both ways.** Being unmistakably Solomani means loyalist checkpoints and civilians alike react fast and strong — sometimes that's fear and cooperation (§3.1), sometimes it's someone with a personal grudge going straight to the nearest authority they can find. Either reaction feeds Vantry's file just as effectively as old-fashioned surveillance would have.
 
 ---
 

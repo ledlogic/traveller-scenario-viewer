@@ -16,6 +16,7 @@ Every stat block, rule, and setting fact used in this scenario is sourced indivi
 | **CRB22** | Traveller Core Rulebook Update 2022 |
 | **CSC23** | Central Supply Catalogue Update 2023 |
 | **SolFront** | The Solomani Rim (sourcebook) |
+| **BtC** | Behind the Claw (sourcebook) |
 
 ---
 
@@ -48,6 +49,10 @@ Every stat block, rule, and setting fact used in this scenario is sourced indivi
 | Imperial counter-intelligence / captive-government institutional tension | App C, §C.1, C.5 | SolFront | Gemini Subsector gazetteer, world entry (Ys) |
 | ISS operational independence from civil governors | App C, §C.1 | CRB22 | Referee's Toolbox, general Imperial institutional framing |
 | Reach Warden Shotgun | Ch 5, §5.4 | CRB22 | Weapons table — *damage code unverified; source PDF's extraction dropped this row's damage column, same pattern as other flagged tables in this document. Confirm against your own copy before using at the table.* |
+| Dolphin Traveller characteristic modifiers (END+1, SOC–1) and racial traits (Deep Diver, Echolocation, Swimmer) | Ch 2, §2.8 | BtC | p.35 area, "Creating Dolphin Travellers" |
+| Type D Battle Dress (Dolphin-specific): Protection +25, TL15, Rad 300, STR+2/DEX+6, 20 Slots, waldo manipulators, sonar sensor DM+2 | Ch 2, §2.8 | BtC | Specialist Collection, Delphinic Technology, item A01/75324 |
+| Uplifted Dolphin sociopolitical background in Solomani society (oldest uplifted Dolphin population in the Rim, full citizenship) | Ch 2, §2.8 | SolFront | General Solomani Rim background on uplifted species |
+| Solomani Confederation flag/Party emblem (Terra-centric sunburst design) | Ch 1, §1.6; Ch 3, §3.1 | *Unverified against uploaded sources* | Description supplied by the user, consistent with commonly-cited Traveller fan/reference material tracing the design to GDW's *Alien Module 6: Solomani*. Not confirmed against the uploaded SolFront text, which doesn't describe the flag directly — worth a source check against your physical copy of AM6 or a current Mongoose sourcebook before treating the exact visual description as authoritative at the table. |
 
 ---
 

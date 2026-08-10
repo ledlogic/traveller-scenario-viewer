@@ -53,6 +53,14 @@
     {
       "file": "AppendixF_Allied_NPCs.md",
       "label": "App F — Allied & Neutral NPCs"
+    },
+    {
+      "file": "AppendixG_Meridian_Sound.md",
+      "label": "App G — Optional: Meridian Sound & Waterfront"
+    },
+    {
+      "file": "AppendixH_Unit_Patches.md",
+      "label": "App H — Unit Patches"
     }
   ]
 }

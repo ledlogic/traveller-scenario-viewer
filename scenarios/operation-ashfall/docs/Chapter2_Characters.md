@@ -5,7 +5,7 @@
 
 ---
 
-> Team UNDERTOW is not a subtle unit. SolSec's Directorate pulled these six off three different border postings specifically because they are large, hard to kill, and unbothered by the idea of walking into a naval base that thinks it's about to die. Stats are presented as **STR / DEX / END / INT / EDU / SOC**. A table of 4–6 should select from this roster; between them they cover Battle Dress operation, demolitions, medicine, heavy weapons, driving, and — theoretically — command.
+> Team UNDERTOW is not a subtle unit. SolSec's Directorate pulled these off three different border postings specifically because they are large, hard to kill, and unbothered by the idea of walking into a naval base that thinks it's about to die. Stats are presented as **STR / DEX / END / INT / EDU / SOC**. A table of 4–6 should select from this roster of seven; between them they cover Battle Dress operation, demolitions, medicine, heavy weapons, driving, underwater infiltration, and — theoretically — command.
 >
 > **Table note:** every human and Vargr on this roster smokes cigars, constantly, badly, and against every piece of SolSec safety guidance in existence. It costs nothing to play and the referee is encouraged to let it cause exactly one (1) minor complication per session — a Battle Dress helmet seal that won't hold a lit cigar, a smoke trail giving away a position, a rebel who trusts the one guy who offers him a light. Small stuff. Let it breathe.
 
@@ -21,6 +21,7 @@
 | 4 | Marisol Achebe | "Doc" | Combat Medic | Medic 3, Athletics (strength) 2 |
 | 5 | Coyle Reyes | "Ten-Ton" | Pilot / Driver | Drive (wheeled/tracked) 3, Vacc Suit 2 |
 | 6 | Unit designation unknown | "Rivit" | Android / Technical Specialist | Electronics (computers) 3, Engineer (life support) 2 |
+| 7 | Nerys (Dolphin, uplifted) | "Echo" | Recon / Underwater Infiltration | Recon 2, Electronics (sensors) 2, Pilot (small craft) 1 |
 
 ---
 
@@ -130,9 +131,30 @@ None of this is true. All of the "memories" are corrupted composite data — rea
 
 ---
 
-## 2.8 — SHARED LOADOUT: SOLSEC BATTLE DRESS
+## 2.8 — CHARACTER 7 — NERYS, "ECHO"
+**Uplifted Dolphin · Recon & Underwater Infiltration Specialist**
 
-All six characters begin the scenario in **SolSec-issue Battle Dress** — Improved-tier, TL14, smuggled in ahead of the insertion under diplomatic cover.
+*(Series of sharp clicks and whistles, rendered by her travel suit's vocoder as:)* "You people navigate by *guessing.* It's adorable."
+
+Nerys comes from one of the Solomani Rim's old uplifted Dolphin communities — Behind the Claw notes the Rim has the oldest continuously uplifted Dolphin population in Solomani space, and Nerys's pod has been producing naval-adjacent specialists for four generations. She signed on with SolSec for reasons she's never fully explained to the rest of the team, though Achebe suspects it has something to do with a documented Solomani political tradition of treating uplifted Dolphins as full citizens and genuine equals in a way certain other powers historically haven't — and Nerys, whatever else she is, has strong opinions about being taken seriously.
+
+She is dry, quick, faster to laugh than Kade would like on an active op, and constitutionally incapable of pretending a bad plan is a good one. Where Threk is aggressive and Rivit is gentle, Nerys is *amused* — by the humans, by the mission, occasionally by the exact moment things start going wrong. It's not recklessness. It's a coping mechanism that happens to also be excellent for squad morale.
+
+**Characteristics:** STR 7 (+0) · DEX 9 (+1) · END 9 (+1, includes racial END+1) · INT 9 (+1) · EDU 8 (+0) · SOC 5 (–1, includes racial SOC–1)
+
+**Racial Traits** *(Behind the Claw, Dolphin Travellers)*: **Deep Diver (300m)** — can dive without risk to 300 metres and hold her breath up to 15 minutes unassisted, before even counting her suit's own life support. **Echolocation (100m)** — full situational awareness underwater or in total darkness out to 100 metres, independent of visual light. **Swimmer (12m)** — a swimming Speed of 12 metres, far outpacing anything human or Vargr in the water.
+
+**Skills:** Recon 2 · Electronics (sensors) 2 · Pilot (small craft) 1 · Survival 1 · Stealth 1 · Persuade 1
+
+**Equipment:** SolSec-issue **Type D Battle Dress** (Behind the Claw, Dolphin-specific combat variant — Protection +25, TL15, Rad 300, STR +2/DEX +6, 20 Slots, 12kg, Vacc Suit 1 required), built around a full travel-suit life support core rather than adapted from human-pattern armour. Integrated waldo manipulators (surgically neural-linked, no meaningful penalty at this tech level) let her handle weapons and equipment the same as any hands-and-fingers teammate. Onboard sonar sensor system (1km range, DM+2 to Electronics (sensors) checks) stacks with her own natural echolocation for genuinely unmatched underwater situational awareness.
+
+**Personality:** Confident, blunt, treats the rest of the team's landlubber instincts with real affection buried under a lot of teasing. She is, unambiguously, the correct answer to Appendix G's Meridian Sound waterfront approach — nobody else on the roster is built to operate in that environment the way she is, and a table fielding her should feel actively encouraged to consider that route into the Pi Building rather than defaulting straight to the Boulevard assault.
+
+---
+
+## 2.9 — SHARED LOADOUT: SOLSEC BATTLE DRESS
+
+All six non-Dolphin characters begin the scenario in **SolSec-issue Battle Dress** — Improved-tier, TL14, smuggled in ahead of the insertion under diplomatic cover. Nerys wears the separate **Type D Battle Dress** detailed in her own entry (§2.8) instead — same Protection rating, built around entirely different underlying anatomy and life-support needs.
 
 | Trait | Value |
 |---|---|
