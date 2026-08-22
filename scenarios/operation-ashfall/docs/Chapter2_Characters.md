@@ -5,7 +5,7 @@
 
 ---
 
-> Team UNDERTOW is not a subtle unit. SolSec's Directorate pulled these off three different border postings specifically because they are large, hard to kill, and unbothered by the idea of walking into a naval base that thinks it's about to die. Stats are presented as **STR / DEX / END / INT / EDU / SOC**. A table of 4–6 should select from this roster of seven; between them they cover Battle Dress operation, demolitions, medicine, heavy weapons, driving, underwater infiltration, and — theoretically — command.
+> Team UNDERTOW is not a subtle unit. SolSec's Directorate pulled these off three different border postings specifically because they are large, hard to kill, and unbothered by the idea of walking into a naval base that thinks it's about to die. Stats are presented as **STR / DEX / END / INT / EDU / SOC**. A table of 4–6 should select from this roster of nine; between them they cover Battle Dress operation, demolitions, medicine, heavy weapons, driving, underwater infiltration, non-lethal investigation, riot-control crowd work, and — theoretically — command.
 >
 > **Table note:** every human and Vargr on this roster smokes cigars, constantly, badly, and against every piece of SolSec safety guidance in existence. It costs nothing to play and the referee is encouraged to let it cause exactly one (1) minor complication per session — a Battle Dress helmet seal that won't hold a lit cigar, a smoke trail giving away a position, a rebel who trusts the one guy who offers him a light. Small stuff. Let it breathe.
 
@@ -22,6 +22,8 @@
 | 5 | Coyle Reyes | "Ten-Ton" | Pilot / Driver | Drive (wheeled/tracked) 3, Vacc Suit 2 |
 | 6 | Unit designation unknown | "Rivit" | Android / Technical Specialist | Electronics (computers) 3, Engineer (life support) 2 |
 | 7 | Nerys (Dolphin, uplifted) | "Echo" | Recon / Underwater Infiltration | Recon 2, Electronics (sensors) 2, Pilot (small craft) 1 |
+| 8 | Franko Ponchorrorrorrow (Vargr) | "Ponch" | Investigator / Non-Lethal Specialist | Advocate 1, Investigate 1, Stealth 1, Streetwise 1, Medic 1 |
+| 9 | Jon Bakerrowowarr (Vargr) | "Shield" | Riot Control / Crowd Specialist | Streetwise 2, Handling 1, Wheel 1, Persuade 1 |
 
 ---
 
@@ -40,6 +42,8 @@ Two meters of ex-Naval-infantry muscle poured into a command role she never aske
 
 **Personality:** Blunt, protective, allergic to speeches. She will not leave a teammate behind, will absolutely leave a schedule behind, and has already privately accepted that this op probably doesn't end clean.
 
+**Neural.AI image prompt:** A woman in her late 30s, close-cropped dark hair, powerfully built, standing two meters tall in matte-grey Battle Dress with the helmet off and tucked under one arm. Weathered, no-nonsense face, a half-smoked cigar clamped in her teeth. Command presence — feet planted, gaze fixed on something off-frame. Industrial harbor backdrop, warm firelight against cool blue dusk. Photorealistic, science fiction military portrait, no text, no logos.
+
 ---
 
 ## 2.3 — CHARACTER 2 — UZGAR THREK, "SNARL"
@@ -56,6 +60,8 @@ Uzgar is Vargr, enormous even by Vargr standards, and mean in the specific way t
 **Equipment:** SolSec-issue Battle Dress with integrated support-weapon mount, man-portable plasma weapon (4D6, AP 10), heavy combat blade, the unlit cigar (non-negotiable).
 
 **Personality:** Short-tempered, fiercely loyal to the six people in this specific room and to nobody else, allergic to being told to hang back. The referee should let him growl at NPCs, threaten equipment rather than people when possible, and be quietly, unexpectedly gentle around anyone weaker than him — it's the one soft spot the character has, and it's more interesting if the players discover it rather than being told.
+
+**Neural.AI image prompt:** A massive Vargr (canine-derived humanoid alien), heavily muscled, grey-brown fur, standing well over two meters, wearing bulky matte-grey Battle Dress with an integrated support-weapon mount on one shoulder. An unlit cigar clamped in a jaw full of visible teeth. Aggressive stance, ears back, one hand resting on a heavy plasma weapon. Industrial harbor backdrop, warm firelight against cool blue dusk. Photorealistic, science fiction military portrait, no text, no logos.
 
 ---
 
@@ -74,6 +80,8 @@ Voss spent six years disarming Confederation ordnance before SolSec decided his 
 
 **Personality:** Dry, precise, unhurried even when everyone around him wants him to hurry up — rushing demolitions is how people die, and he will say so, loudly, every time someone tells him to rush. Smokes exactly one cigar per session, always after the most dangerous moment, never before.
 
+**Neural.AI image prompt:** A stocky, wall-built man in his 40s, buzzed grey hair, thick forearms, kneeling beside an open demolitions kit with breaching charges laid out in precise rows. Matte-grey Battle Dress unsealed at the collar, helmet off, an unlit cigar tucked behind one ear. Calm, focused expression — the opposite of panic. Industrial harbor backdrop, warm firelight against cool blue dusk. Photorealistic, science fiction military portrait, no text, no logos.
+
 ---
 
 ## 2.5 — CHARACTER 4 — MARISOL ACHEBE, "DOC"
@@ -91,6 +99,8 @@ Achebe is built like she could carry any one of her squadmates out of a firefigh
 
 **Personality:** Warm under a layer of professional bluntness, the moral center of the team without ever saying so out loud. She is the one most likely to push back if the plan requires writing off civilians, and the referee should use her to voice the human cost of the countdown clock.
 
+**Neural.AI image prompt:** A powerfully built woman in her 30s, dark skin, hair tied back tight, kneeling over a field trauma kit with practiced efficiency. Matte-grey Battle Dress (medical variant, red cross marking on one shoulder plate), helmet off, sleeves pushed up. Focused, steady expression — someone mid-triage, unbothered by chaos around her. Industrial harbor backdrop, warm firelight against cool blue dusk. Photorealistic, science fiction military portrait, no text, no logos.
+
 ---
 
 ## 2.6 — CHARACTER 5 — COYLE REYES, "TEN-TON"
@@ -107,6 +117,8 @@ Reyes can drive literally anything and has the scars, citations, and one memorab
 **Equipment:** SolSec-issue Battle Dress, Gauss carbine (3D6+1), full vehicle diagnostics kit, an entire carton of cigars she insists is "operational necessity" and Command has, for reasons unknown, never contested.
 
 **Personality:** Unflappable, dry, allergic to panic — hers or anyone else's. The team's actual heavy vehicle (detailed in Chapter 4, Act Two) is effectively her second character sheet; she will care about its condition more than her own.
+
+**Neural.AI image prompt:** A lean woman in her 40s, sun-weathered skin, sleeves rolled up, leaning against the open door of a heavy armored hauler with an unlit cigar between two fingers. Matte-grey Battle Dress partially unsealed, helmet resting on the vehicle's hood. Relaxed, watchful posture — completely at ease next to a machine, faintly wary of everything else. Industrial harbor backdrop, warm firelight against cool blue dusk. Photorealistic, science fiction military portrait, no text, no logos.
 
 ---
 
@@ -129,6 +141,8 @@ None of this is true. All of the "memories" are corrupted composite data — rea
 
 > **Running Rivit at the table:** hand the referee a private list of three "memories" per session — one true (pulled from real SolSec archive data it actually has legitimate access to), one plausible-but-wrong, one wildly, gloriously impossible — and let it deliver all three with identical, sincere confidence. The team has learned to just nod. New NPCs have not.
 
+**Neural.AI image prompt:** A humanoid android with a heavy-duty synthetic chassis, matte industrial finish rather than sleek or organic, faint visible seams at the joints. Wearing reinforced matte-grey Battle Dress built for its heavier frame. Holding an unlit cigar correctly and formally between two fingers, examining it with quiet, sincere curiosity, as though genuinely remembering something ancient. Calm, gentle expression rendered through subtle optical sensor design rather than a human face. Industrial harbor backdrop, warm firelight against cool blue dusk. Photorealistic, science fiction military portrait, no text, no logos.
+
 ---
 
 ## 2.8 — CHARACTER 7 — NERYS, "ECHO"
@@ -150,11 +164,55 @@ She is dry, quick, faster to laugh than Kade would like on an active op, and con
 
 **Personality:** Confident, blunt, treats the rest of the team's landlubber instincts with real affection buried under a lot of teasing. She is, unambiguously, the correct answer to Appendix G's Meridian Sound waterfront approach — nobody else on the roster is built to operate in that environment the way she is, and a table fielding her should feel actively encouraged to consider that route into the Pi Building rather than defaulting straight to the Boulevard assault.
 
+**Neural.AI image prompt:** An uplifted bottlenose dolphin encased in sleek dark-grey powered Battle Dress built around her natural body shape, integrated waldo manipulator arms at the sides, small sensor array along the dorsal line. Positioned mid-water or at a harbor's edge, water beading off the suit's surface. Alert, intelligent posture, sensor array angled toward the viewer as if scanning. Industrial harbor backdrop, dark water reflecting warm firelight against cool blue dusk. Photorealistic, science fiction military portrait, no text, no logos.
+
 ---
 
-## 2.9 — SHARED LOADOUT: SOLSEC BATTLE DRESS
+## 2.9 — CHARACTER 8 — FRANKO "PONCH" PONCHORRORRORROW
+**Vargr · Investigator / Non-Lethal Specialist**
 
-All six non-Dolphin characters begin the scenario in **SolSec-issue Battle Dress** — Improved-tier, TL14, smuggled in ahead of the insertion under diplomatic cover. Nerys wears the separate **Type D Battle Dress** detailed in her own entry (§2.8) instead — same Protection rating, built around entirely different underlying anatomy and life-support needs.
+*"You want a body? I can get you a body. You want a body that can still answer questions? That's the whole reason I'm here."*
+
+Ponch is Vargr, thirty-four, and from Kukulkan — a Solomani Rim world referenced directly in Confederation trade and strategy circles, which makes him one of the few people on this roster who's actually *from* the region Team UNDERTOW keeps getting sent to fight over. He came up through a straightforward Wanderer-to-Law-Enforcement track: three terms of it, made Sergeant, picked up a corporate contact and a father he still lists as his only real Ally. Where Threk (Chapter 2, §2.3) is muscle and Rivit is technical support, Ponch is the one who actually *investigates* — a real gap in a roster this heavy on breaching charges and heavy weapons.
+
+**Characteristics:** STR 8 (+0) · DEX 7 (+0) · END 7 (+0) · INT 6 (+0) · EDU 5 (–1) · SOC 13 (+2)
+
+**Species Trait:** pronounced canines usable as a natural close-combat weapon — Melee (Natural), 1D+1 damage, no weapon required.
+
+**Skills:** Advocate 1 · Investigate 1 · Streetwise 1 · Stealth 1 · Medic 1 · Electronics (comms) 1 · Engineer (power) 1 · Melee (unarmed) 1 · Pilot (small craft) 1 · Jack of All Trades 1 · Athletics (dexterity) 1
+
+**Equipment:** Stunner (TL12, 10m, 3D, 100-charge magazine, Stun/Zero-G traits) and a Stunfist (TL8, 1D+2) — Ponch's entire loadout is built around taking people alive, not putting them down permanently. Also carries a Rescue Tool Set, a personal safe, a computer terminal, a Breather Implant (TL10), binoculars, and a backpack.
+
+**Personality:** Wry, patient, genuinely more interested in getting a straight answer out of someone than in winning a fight. His SOC 13 (+2) is the highest on the roster by a wide margin — he reads as more socially capable and connected than his combat stats suggest, and referees should let that show: people talk to Ponch, sometimes without meaning to. He is a strong pick for any table that wants to lean into Chapter 3's dockyard screening scene (§3.3) or the StudyDeck investigation in Appendix D — his whole skill set is built for exactly those beats.
+
+**Neural.AI image prompt:** A lean, sharp-eyed Vargr with a well-groomed tawny coat, wearing plainclothes layered over light armor rather than full Battle Dress, a stunner holstered casually at the hip. Alert, faintly amused expression, leaning against a doorway or lamppost as though observing a crowd. Confident, sociable body language, unlike a soldier's rigid stance. Industrial harbor backdrop, warm firelight against cool blue dusk. Photorealistic, science fiction character portrait, no text, no logos.
+
+---
+
+## 2.10 — CHARACTER 9 — JON "SHIELD" BAKERROWOWARR
+**Vargr · Riot Control / Crowd Specialist**
+
+*"Everyone keeps asking how we get through a city mid-uprising without shooting our way in. I've been training for a city mid-uprising my whole career. Follow me."*
+
+Jon is Vargr, thirty-eight, also out of the Kukulkan system (a neighboring world, Skanderberg, in the same subsector) — and his entire career has been built around exactly the kind of situation Team UNDERTOW walks into on Ys: crowds, chaos, and a city that's stopped listening to whoever's supposed to be in charge. University, then a technical worker track, then years in Law Enforcement working his way to Corporal, with a documented **Enemy: Military Governor** on his own record — a detail the referee can use directly. Play it as a personal, pre-existing grudge against exactly the kind of authority figure Krein represents, whether or not it's ever explained further at the table.
+
+**Characteristics:** STR 7 (+0) · DEX 11 (+1) · END 7 (+0) · INT 10 (+1) · EDU 8 (+0) · SOC 10 (+1)
+
+**Species Trait:** pronounced canines usable as a natural close-combat weapon — Melee (Natural), 1D+1 damage, no weapon required.
+
+**Skills:** Streetwise 2 · Persuade 1 · Handling 1 · Wheel 1 · Comms 1 · Sensors 1 · Medic 1 · Stealth 1 · Cosmology 1 · Holography 2
+
+**Equipment:** Riot Shield (TL6, 1D, also rated 1/Lsr1/Enrg1 as wearable protection) and Cloth armour (TL12, 4/Lsr4/Enrg4) for a combined Protection of 5 — the highest personal protection rating on the roster outside of Battle Dress. Also carries a Club, a Revolver (TL5, 10m, 3D, 6-round), a Stunstick (TL8, 2D, Stun), a Portable Mediscan, two Rescue Tool Sets, and a Grav Floater.
+
+**Personality:** Level-headed under exactly the kind of pressure that makes everyone else on this team's instincts run hot. Where Threk wants to escalate and Kade wants control, Jon wants the crowd *contained* — not suppressed, not scattered, just kept from becoming its own disaster. That's a genuinely different read on crowd situations than anyone else on the roster offers, and it's the right lens for a referee running Chapter 3's uprising-torn Meridian (§3.2) as something more complicated than a simple hostile-territory crawl.
+
+**Neural.AI image prompt:** A broad-shouldered Vargr with a dark grey-black coat, wearing reinforced cloth armor and carrying a large riot shield in one hand, a stunstick holstered at the hip. Steady, grounded stance, shield angled slightly forward as though bracing for a crowd rather than an enemy. Calm, watchful expression. Industrial harbor backdrop, warm firelight against cool blue dusk. Photorealistic, science fiction military portrait, no text, no logos.
+
+---
+
+## 2.11 — SHARED LOADOUT: SOLSEC BATTLE DRESS
+
+All eight non-Dolphin characters begin the scenario in **SolSec-issue Battle Dress** — Improved-tier, TL14, smuggled in ahead of the insertion under diplomatic cover. Nerys wears the separate **Type D Battle Dress** detailed in her own entry (§2.8) instead — same Protection rating, built around entirely different underlying anatomy and life-support needs.
 
 | Trait | Value |
 |---|---|

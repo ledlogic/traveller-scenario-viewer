@@ -17,6 +17,7 @@ Every stat block, rule, and setting fact used in this scenario is sourced indivi
 | **CSC23** | Central Supply Catalogue Update 2023 |
 | **SolFront** | The Solomani Rim (sourcebook) |
 | **BtC** | Behind the Claw (sourcebook) |
+| **WV1** | Traveller Water Vehicles Volume 1, Colin Dunn, Northern Edge / TAS |
 
 ---
 

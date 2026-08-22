@@ -11,11 +11,118 @@ Meridian's naval base exists because of what it sits on: **Meridian Sound**, a v
 
 The Pi Building — the naval administration tower where Krein's staff are barricaded (Chapter 3, §3.2) — is founded directly at the Sound's edge. Its two square towers rise from pylons driven into the shallows, and the cantilevered block bridging them at height hangs out over open water on the Sound-facing side, not just the plaza. That's not decorative — it was built that way for the same reason harbor cranes and loading gantries always are: direct water access to the base's lower levels for material and personnel transfer, without routing everything through the plaza-side entrance the Boulevard's crowds (and, tonight, the uprising) control.
 
+**Underground levels.** Below the five mapped floors (Chapter 2's floor plans start at Ground), the towers continue down into a garrison level cut into the harbor bedrock — staging space for loyalist reinforcements, kept out of sight and out of the uprising's line of fire rather than posted visibly on the Boulevard. Access is via stairwells inside each tower core, sealed at grade by blast-rated hatches. Like most hardened naval facilities below the waterline, those hatches carry a standard flood-safety interlock: if moisture sensors on the exterior side detect standing water, the door will not open, full stop, regardless of who's on the other side demanding it. It's a sound engineering principle that exists to stop a facility from drowning itself — and it doesn't know or care that this specific override might be inconvenient tonight.
+
+**The bollard wall.** A low perimeter barrier — waist-to-chest height, close-set concrete bollards linked by a curb wall — rings the building's water-facing base, ordinary harbor-safety infrastructure meant to stop vehicles and storm surge from reaching the entrances directly. It was never designed with anything more dramatic in mind than bad weather. It is, however, entirely capable of holding a flood surge in place over the stairwell hatches for long enough to matter, if enough water goes over it at once.
+
 **Visuals:** use the water/shoreline color palette established in Chapter 3, §3.2 — flat oily black water under Ys's tainted-atmosphere night sky, broken by fire-orange and floodlight blue-white reflections smeared rather than clean, dark wet concrete and slag-black rock at the waterline. This isn't a scenic bay; it should read as an industrial harbor in crisis even from the water looking up at the Pi Building's underside.
 
 ---
 
-## G.2 — ASSAULTING FROM THE WATER
+## G.2 — ALTERNATE INSERTION: THE CONTAINER DROP
+
+*Optional cold-open for a team choosing the waterfront approach to the Pi Building.*
+
+Instead of swimming or piloting in from the vehicle limit (§G.6), the team can insert directly into Meridian Sound via a **drop container** — a standard cargo container, quietly modified, released from a transiting vessel at the right moment to sink toward the harbor floor near the Pi Building's support pylons.
+
+**Why nobody looks twice.** Losing cargo overboard is mundane, constant background noise in any high-traffic Imperium port — lashings fail, manifests get miscounted, a container goes over the side and nobody chases it down unless it's carrying something valuable enough to justify the paperwork. Meridian's harbor traffic control logs dozens of "loss overboard" events in an ordinary month even *without* a citywide uprising eating everyone's attention tonight. A container going into the Sound reads as exactly nothing — which is precisely why it works as an insertion method, and precisely why Team UNDERTOW can use it without spending any of the political/detection pressure tracked in Appendix C.
+
+### Running the Drop
+
+The container hits the water, floods intentionally through prepared vents to control its sink rate, and starts down. **The team has roughly five rounds (thirty seconds) before it reaches the harbor floor near the Pi Building's pylons** — tight enough to feel real, short enough that this should run as a fast, overlapping sequence rather than five separate clean turns.
+
+| Step | Task | Check | Consequence of Failure |
+|---|---|---|---|
+| **1. Gear up** | Getting from transit stowage into sealed Battle Dress inside a flooding, sinking container | Athletics (dexterity) or Vacc Suit 8+ | Character isn't sealed in time — treat as starting the next step at a disadvantage (referee's call: a bane, or simply behind on the clock) rather than actual harm; nobody drowns over a fumbled buckle |
+| **2. Detect the mine belt** | The naval base's underwater perimeter is seeded with an anti-intrusion mine belt — a distinct, dedicated security layer, separate from the animal-deterrent buoys in §G.7 | Recon 8+, or Electronics (sensors) 8+ if using suit sensors — **Nerys's echolocation (Chapter 2, §2.8) grants a real, mechanical edge here: DM+2, or automatic success within her 100m range** | The team doesn't spot a mine in time — proceed straight to a Reaction/damage roll on exit, no chance to route around it |
+| **3. Route around or disarm** | Once mines are located, get the container's exit path clear of them | Explosives 8+ (per the Traveller minesweeping convention: Explosives is the correct skill for both identifying and safely disarming or routing around a detected explosive device) | A failed check with a bad Effect can trigger the mine — this is the scene's real teeth, and losing here should hurt, not just cost time |
+| **4. Exit before impact** | Getting out of the container and clear before it settles on the bottom (settling is loud, and loud near a naval perimeter is bad even on a night this chaotic) | Athletics (strength) or Vacc Suit 6+ (Average — this step is more about not panicking than raw difficulty) | Minor delay only; the container's impact is a dull thud, not a disaster, if the mines were already handled |
+
+**Referee note on stacking with Appendix C:** a triggered mine is exactly the kind of confirmed hostile signature that should jump Vantry's escalation track (Appendix C, §C.2) straight to **Stage 3 — Authorized**, skipping the slower Stage 2 buildup entirely. This is the sharpest, fastest way to blow the team's timeline if the table wants real stakes on the water approach — use it deliberately, not as a gotcha.
+
+**This scene is a genuine alternative, not a mandatory gate.** A team that would rather swim in from the vehicle limit (§G.6) skips this entirely and simply doesn't get the mine belt as an obstacle at all — the drop container is a faster, punchier way in that trades a tight thirty-second action sequence for skipping the slower approach swim.
+
+---
+
+## G.3 — THE PINNACE GAMBIT: FLOODING THE BUNKERS
+
+*Optional tactic — pairs well with either insertion method above, or stands alone.*
+
+Rather than fighting the underground garrison directly, the team can seal it in place before it ever becomes a factor: crash a pinnace into the Sound directly in front of the Pi Building, on purpose, badly — not a controlled splashdown but a deliberate belly-flop, aimed to throw the biggest possible wall of displaced water at the building's base. If it goes over the bollard wall (§G.1) in enough volume, it floods the stairwell hatches, trips the flood-safety interlock, and the loyalist garrison below stays below — the door won't open for them any more than it would for anyone else, no matter how hard they bang on it.
+
+**A pinnace works for this** because it's exactly the kind of small craft SolSec assets have plausible access to (TL12, Pilot-crewed, per CRB22's standard specifications), it's large enough to displace real volume on impact, and — same logic as the Container Drop (§G.2) — a small craft going down hard in a busy harbor on the worst night in the city's history is not going to read as remarkable to anyone still watching sensor traffic.
+
+**Getting close enough to crash it on purpose requires not looking like a threat on the way in.** SolSec spoofs the transponder — the pinnace broadcasts as a routine harbor tender or resupply craft on a scheduled approach, exactly the kind of traffic nobody flags during a normal shift, let alone one already consumed by a citywide uprising. That cover lasts right up until the moment it clearly isn't landing — by the time anyone realizes the "tender" is on a collision course, it's already down. This is the same trick as the Container Drop's "nobody chases lost cargo" logic (§G.2), applied to something that has to actually fly there first. *(For a referee who wants the actual harbor traffic this cover story is hiding among — patrol boats, utility submersibles, work pods — see Appendix J.)*
+
+**Two ways to run it**, referee's or table's choice:
+
+- **Riding it in:** the team pilots the pinnace toward the building and bails out — a hard dive, timed tight — in the seconds before impact, then either swims the rest of the way in or lets the crash itself serve as cover for a Boulevard-side approach while everyone's looking at the harbor.
+- **Sending it in:** the team sets the pinnace on a fixed collision course and abandons it earlier, approaching separately (pairs cleanly with §G.2's container drop, running concurrently — the splash as cover noise for the quieter insertion).
+
+### Task Chain
+
+| Step | Task | Check | Consequence of Failure |
+|---|---|---|---|
+| **Control the crash** | A real crash still needs real piloting — too shallow an angle and it skips off the surface without displacing enough water; too steep and it's a normal, unremarkable splashdown that never reaches the wall | Pilot (small craft) 10+ (Difficult) | The wave doesn't reach the bollard wall in useful volume — no flood, no interlock trip, the garrison stays fully available as a threat later |
+| **Bail out clean** (only if riding it in) | Getting clear of the pinnace in the last seconds before impact | Athletics (dexterity) or Vacc Suit 8+ | A rough landing in the water — no serious harm in Battle Dress, but noisy and disoriented, costing a round before the character can act normally |
+
+**Effect matters here, not just success.** A plain success (Effect 0–1) throws enough water to be dramatic but not necessarily enough to top the wall. Treat **Effect 2 or better** as the surge clearing the bollard wall and reaching the hatches — the referee should say so plainly when it happens, since the whole point of this tactic is that the team gets to *see* it work.
+
+**What "trapped" actually means at the table.** The garrison isn't destroyed, drowned, or even necessarily aware anything's wrong yet — they're a hardened door and a very reasonable safety feature away from a fight they don't know they're missing. That door reopens once the water above it clears (referee's call on timing — minutes to an hour, whatever serves the scene), so this buys the team a window, not a permanent win. It's an excellent way to remove a chunk of Floor 4/5's potential opposition (Chapter 6's fourth and fifth floor content, or the Boulevard-side assault generally) from the board for exactly as long as the team needs it gone, without a shot fired.
+
+---
+
+## G.4 — THE SENTRY WALKER
+
+*A defensive asset stationed in the plaza between the two towers, guarding the Pi Building's ground-level approach.*
+
+The **Colossus-Pattern Naval Sentry Walker** is a TL15 bipedal combat automaton — roughly four metres at the shoulder, built for static defense of high-value naval installations rather than mobile field combat. It stands watch in the open plaza between the west and east towers, visible, deliberately intimidating, and — like most things on Ys tonight — running on a skeleton protocol rather than full readiness, since the naval command staff that would normally supervise it are stretched thin managing the uprising elsewhere in the city.
+
+*A note on sourcing: this project's uploaded rulebooks don't include a dedicated robot/vehicle design chapter — CRB22 explicitly points to a separate Robot Handbook and Vehicle Handbook for that content, and neither is part of this document set. The stat block below is built in-house, using CRB22's general NPC and combat framework rather than a verified canon robot-design system. Treat the numbers as a solid, usable baseline — adjust freely.*
+
+**Stats:**
+
+| Trait | Value |
+|---|---|
+| Size | ~4m, bipedal |
+| Protection | 30 |
+| Hull/Structure | 40 (a large damage-absorption pool before the unit is disabled — well beyond a single character's Hits) |
+| Speed | 6m/round walking, 12m/round at a full stride — slow to accelerate, hard to outrun once moving |
+| Weapon | Integrated heavy autocannon, 6D damage, AP 8, fixed forward arc with limited traverse |
+| Secondary | Melee (crush/stomp), 4D damage, no traverse restriction |
+| Skills | Gunner (turret) 2 · Melee 1 · Tactics (military) 0 |
+| Sensors | Standard naval threat-assessment suite; not actively hunting, but will engage anything it flags as hostile within its patrol zone |
+
+**Running it:** this is meant to be a serious obstacle, not a puzzle — six-to-nine people in Battle Dress can beat it in a straight fight, but it will hurt, and it's not the fight the team wants if there's any way around it. Its slow acceleration and fixed-arc primary weapon are its real weaknesses: flanking, mobility, and anything that gets inside its effective engagement range before it can bring the autocannon to bear (Threk's melee build, or a fast approach from an unexpected angle) beats a straight firefight every time.
+
+### Does It Need to Roll for the Pinnace Surge?
+
+Yes — and this is one of the best reasons to run the Pinnace Gambit (§G.3) even if the team isn't planning to fight the Walker at all. A four-metre bipedal chassis is heavy, but a sudden lateral surge of displaced harbor water is exactly the kind of force that threatens a walker's footing more than a human's — more surface area to catch the wave, a higher center of mass, and no instinct for bracing beyond whatever its balance software accounts for.
+
+**Stability check:** the Walker rolls against its own Hull/END-equivalent (treat as END 8 for this purpose) versus a difficulty set by the surge's Effect from the Pinnace piloting check (§G.3) — **Average (8+) if the surge was a plain success, Difficult (10+) if Effect 2 or better.** A failed check knocks it prone for a full round while it reorients — an opening, not a victory, but a real one: a downed Walker can't bring its autocannon to bear, and Threk (or anyone else) gets a free window to close distance or simply route around it while it's recovering.
+
+---
+
+## G.5 — ROOFTOP LANDING PAD
+
+At Ys's tech level, "heliport" isn't quite the right word — rotor aircraft are a legacy technology by TL12, and a naval administrative tower this important would be built around **grav vehicle and small-craft landing capability** instead, the actual TL9+ standard for VIP and light-cargo air access. The Pi Building has exactly that: a marked landing pad on the flat roof above Floor 5, sized for an air/raft or a single small craft — a Pinnace could set down here in a pinch, though it wasn't built with that as the primary use case.
+
+**Purpose:** VIP transport (this is how Krein's staff normally move senior naval officers and administrators in and out without routing them through the Boulevard), light medical evacuation, and priority resupply. It is not a combat asset and carries no weapons of its own — its defense is whatever's stationed nearby, plus the fact that nobody expected to need it defended before tonight.
+
+### Could the Team Use It to Travel?
+
+Yes, and it's a genuinely appealing option — but it comes with real, specific risks the team should understand before committing to it as an extraction or Reach-crossing plan:
+
+- **It's guarded, and highly so.** A rooftop VIP pad at a barricaded governor's command post is exactly the kind of asset that gets real security attention even on a chaotic night — expect this to be one of the most actively defended points in the building, not an easy back door.
+- **Using it is an unambiguous, confirmed hostile act.** Per Appendix C's escalation track, stealing a vehicle from a guarded rooftop pad at Krein's own command post should jump Vantry's response straight to **Stage 4 — Active Manhunt**, no slower buildup. This is not a quiet option.
+- **Being airborne is being visible.** Every advantage the team has on the ground — cover, crowds, chaos, the general fog of an uprising — disappears the moment they're a vehicle in open air over a naval capital on lockdown. This is a fast option, not a safe one.
+- **Whatever's on the pad probably isn't Reach-rated.** The hauler secured in Chapter 3, §3.4 was specifically outfitted for the Glass Reach's thermal/radiological hazard (Chapter 4, §4.2). A standard air/raft or light grav vehicle almost certainly isn't — using one for the actual Reach crossing risks real, uncushioned rad exposure the team's Battle Dress would otherwise absorb. Fine for a fast hop across Meridian; a bad idea for the crossing itself unless the referee deliberately wants to introduce a rad-hardened VIP transport as a rare, valuable prize worth the risk of taking the pad at all.
+
+**Best use, if the table takes this route:** a fast, loud, high-risk extraction or repositioning tool within Meridian itself — not a Reach-crossing shortcut, unless the referee deliberately makes an exception and wants the team to pay for it in attention and pursuit.
+
+---
+
+## G.6 — ASSAULTING FROM THE WATER
 
 If the team wants an alternative to fighting through the Boulevard directly, the Sound-facing pylons offer a genuine, unconventional infiltration route: swim or pilot a small craft in under cover of the water, then climb the support pylons into the building's lower levels, bypassing the plaza entrance entirely.
 
@@ -27,7 +134,7 @@ If the team wants an alternative to fighting through the Boulevard directly, the
 
 ---
 
-## G.3 — THE HALVETH
+## G.7 — THE HALVETH
 
 *Native Meridian Sound apex predator*
 
@@ -52,7 +159,7 @@ They are not naturally aggressive toward harbor traffic — the sonic deterrent 
 
 ---
 
-## G.4 — WHY USE THIS
+## G.8 — WHY USE THIS
 
 This is a pure option, not a required beat — nothing in Chapters 1–6 assumes the team goes anywhere near the water. Use it if:
 - The table wants a physical assault on Krein's building as an alternative to (or alongside) the comm-channel confrontation in Chapter 6, §6.4.
@@ -61,7 +168,7 @@ This is a pure option, not a required beat — nothing in Chapters 1–6 assumes
 
 ---
 
-## G.5 — SOURCE CITATIONS
+## G.9 — SOURCE CITATIONS
 
 | Element | Source | Page/Note |
 |---|---|---|
@@ -69,5 +176,7 @@ This is a pure option, not a required beat — nothing in Chapters 1–6 assumes
 | Behaviour categories (Carnivore/Hunter, etc.) and creature archetypes | CRB22 | p.88 |
 | Animal Size table, including the "Large Sauropod" tier used for the Halveth's scale | CRB22 | p.88 — *note: this table's specific Hits-by-size values were affected by the same text-extraction issue flagged elsewhere in this project (Appendices B and E); the category tier (Large Sauropod) is confirmed, the exact numeric Hits value is not, and should be checked against your own copy* |
 | Battle Dress sealed/NBC-rated environmental protection (basis for underwater viability) | CRB22 p.101; CSC23 pp.38–39 | See Appendix B |
+| Explosives skill covering identification and disarming of explosive devices (basis for the mine-belt task chain, §G.2) | CRB22 | p.67 area — confirmed text: "covers the use of demolition charges and other explosive devices, including assembling or disarming bombs"; worked example given for disarming a device with anti-tamper detonators |
+| Pinnace small craft specifications (basis for the crash tactic, §G.3) | CRB22 | Small Craft section — confirmed: TL12, streamlined, single-Pilot crew, Hull rating 16, fusion power plant, fixed weapon mount capable. *Exact tonnage figure was not reliably extractable from the source PDF — same recurring text-extraction issue flagged elsewhere in this project. Confirm against your own copy if the precise number matters at the table.* |
 
 *(CRB22 = Traveller Core Rulebook Update 2022. CSC23 = Central Supply Catalogue Update 2023.)*

@@ -61,6 +61,18 @@
     {
       "file": "AppendixH_Unit_Patches.md",
       "label": "App H — Unit Patches"
+    },
+    {
+      "file": "AppendixI_Pi_Building_Assault.md",
+      "label": "App I — Assaulting the Pi Building"
+    },
+    {
+      "file": "AppendixJ_Water_Vehicles.md",
+      "label": "App J — Water Vehicles Quick Reference"
+    },
+    {
+      "file": "AppendixK_Chain_of_Command.md",
+      "label": "App K — Chain of Command"
     }
   ]
 }

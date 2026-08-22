@@ -1,6 +1,6 @@
 # TRAVELLER: OPERATION ASHFALL
 ## Appendix A — Antagonist: Governor Tobias Krein
-*(Krein pronounced KRAYN, rhymes with "rain")*
+*(Krein pronounced KRAYN, rhymes with "rain" — and, coincidentally or not, a cognate of "Kren"/"Chrain," the Austrian German, Czech, and Yiddish word for horseradish, borrowed from a shared Slavic root. A sharp, pungent name for an otherwise mild-mannered man.)*
 
 *Referee Reference Document*
 
@@ -66,6 +66,8 @@ He is not enjoying this. He is not righteous about it. He is a frightened, corne
 - **Governor's authorization codex** — a physical, non-networked authenticator; the only thing separating Ashfall's dead-man activation from an ordinary comms broadcast. Krein does not carry it into danger. It remains in the naval administration building on the Boulevard under his personal guard, which makes it a possible (referee's option, not required) secondary objective if the table wants an alternative to a straight bunker assault: capturing the codex could theoretically buy time or complicate the network's fail-deadly logic, but it does not disarm Ashfall outright — the arrays are already armed and running on their own clock regardless of what happens to the codex now.
 - **Hardened personal comm suite** — what he used for the H-Hour broadcast; still active, still capable of reaching the whole planet if he chooses to speak again.
 - **No personal weapon of note.** He has never needed one and it would not help him now.
+- **No armor.** Just his administrator's coat — consistent with a man whose whole profile (§A.2) says he was never built for a fight and has no illusions about surviving one if it comes to that.
+- **A battered leather attaché case, carried everywhere, opened rarely.** Inside: nothing operationally useful — old handwritten drafts of curfew extensions, a photo he's never shown staff, and a small sealed crock of homemade horseradish relish, a recipe he's kept since before Ys, that he eats a spoonful of when he's alone and it's bad. It's the one genuinely private thing about him. The case — and faintly, his whole office — carries the smell: sharp, unmistakable, and a quiet, unplanned echo of his own name (see the pronunciation note, top of this appendix). Referees can use the smell as a sensory beat the moment a team searches his office or the case itself — it should read as a real, human detail, not a joke at his expense.
 - **Close Protection Detail** — see §A.5.
 
 ---
