@@ -9,9 +9,32 @@
 
 Meridian's naval base exists because of what it sits on: **Meridian Sound**, a vast tidal bay roughly the size of Lake Michigan — around 500km along its long axis, deep enough along the eastern shore for capital ship traffic without dredging, which is the entire reason the Imperium built a naval yard here a century ago instead of anywhere else on Ys. The Yards, the drydocks, and the Boulevard (Chapter 3, §3.2) all front onto it. This was always implicit in Meridian being a naval capital; this appendix just makes it explicit and playable.
 
+**Lake or ocean — worth settling explicitly, since "tidal" and "Lake Michigan-sized" don't automatically agree.** Meridian Sound is salt water, ocean-connected — an arm of Ys's global ocean, not a landlocked freshwater lake. The Lake Michigan comparison was always about surface area and scale, not basin type; "tidal bay" is the operative term, and a genuinely landlocked lake wouldn't have meaningful tides at all. Structurally, think Puget Sound rather than a Great Lake — a large, island-and-inlet-studded arm of the sea, deep enough in places for real naval draft, shallow and complex everywhere else.
+
+**Why there's a natural deep channel without dredging.** Ys has a real glacial history — nothing in its current UWP rules this out, and a formerly-icier past is common enough on TL-appropriate worlds. Meridian Sound's eastern channel, the one the Imperium built its naval base around, is a **glacially-carved trench**, gouged by ice long before anyone was building anything here, not an artificial feature. That's the actual answer to why capital ships can approach without dredging — the depth was already there, carved by ice, and the Navy just built around what the glaciers left behind.
+
+**Bathymetry — depth by distance from the Pi Building's wall interface:**
+
+| Distance from bollard wall | Depth | Notes |
+|---|---|---|
+| 0m (at the wall, tidal shallows) | ~5m | Splash zone; where the container drop and Pinnace impact actually happen (Appendix G, §G.2–§G.3) |
+| 50m out | ~15m | Still shelf water |
+| 150m out (pylon zone) | ~30m | "Shallows" only in the relative sense that a capital-ship-capable harbor uses the word — this is where the towers' support pylons actually root |
+| 500m out (vehicle-limit range, §G.2's insertion zone) | ~60–80m | Edge of the harbor shelf proper |
+| 2km out (mid-Sound) | ~150m | Approaching the glacial channel |
+| 10km+ out (the glacial trench itself, running along the eastern shore) | ~250–300m | The real reason capital ships can dock here at all — comparable to real large glacially-carved sounds and fjords |
+
+**None of this is relevant to the immediate Pi Building action** — everything the team actually does in Appendix G (the Container Drop, the Pinnace Gambit, the Halveth) happens well within the first 150–500m band. The deeper glacial trench matters for *why the harbor exists*, not for anything the team needs to survive tonight.
+
+**If a referee wants to go further:** Meridian Sound eventually opens onto Ys's true open ocean, well beyond anything mapped here, where depth could plausibly increase toward genuine continental-shelf-edge or abyssal scale (1,000m+, potentially several thousand) if the referee wants a deep-ocean hook for a future scenario. That's deliberately left unmapped and out of scope for Ashfall — a hook for later, not a detail this scenario needs to resolve.
+
 The Pi Building — the naval administration tower where Krein's staff are barricaded (Chapter 3, §3.2) — is founded directly at the Sound's edge. Its two square towers rise from pylons driven into the shallows, and the cantilevered block bridging them at height hangs out over open water on the Sound-facing side, not just the plaza. That's not decorative — it was built that way for the same reason harbor cranes and loading gantries always are: direct water access to the base's lower levels for material and personnel transfer, without routing everything through the plaza-side entrance the Boulevard's crowds (and, tonight, the uprising) control.
 
-**Underground levels.** Below the five mapped floors (Chapter 2's floor plans start at Ground), the towers continue down into a garrison level cut into the harbor bedrock — staging space for loyalist reinforcements, kept out of sight and out of the uprising's line of fire rather than posted visibly on the Boulevard. Access is via stairwells inside each tower core, sealed at grade by blast-rated hatches. Like most hardened naval facilities below the waterline, those hatches carry a standard flood-safety interlock: if moisture sensors on the exterior side detect standing water, the door will not open, full stop, regardless of who's on the other side demanding it. It's a sound engineering principle that exists to stop a facility from drowning itself — and it doesn't know or care that this specific override might be inconvenient tonight.
+**The Lower Levels.** Below the five mapped floors (Chapter 2's floor plans start at Ground), the towers continue down into a garrison level cut into the harbor bedrock — staging space for loyalist reinforcements, kept out of sight and out of the uprising's line of fire rather than posted visibly on the Boulevard. This level has its own **street-level access points**, separate from the tower elevator lobbies above — hardened hatches opening directly onto grade near the Boulevard and the water's edge, built specifically so the garrison below can surge out and reinforce the surface fight without routing through the towers themselves. Under normal circumstances, that's exactly what they're for.
+
+Access is sealed by blast-rated hatches carrying a standard flood-safety interlock: if moisture sensors on the exterior side detect standing water, the door will not open, full stop, regardless of who's on the other side demanding it. It's a sound engineering principle that exists to stop a facility from drowning itself — and it doesn't know or care that this specific override might be inconvenient tonight. Flooding the area above these hatches (the Pinnace Gambit, §G.3, or the elevator-lockout backup in Appendix I, §I.4) is what triggers this lock and keeps the garrison sealed below.
+
+**It also works the other way, and it's worth knowing that going in.** The interlock is a passive safety system, not an active defense — it responds to sensor readings, not intent. A team that forces one of these hatches open from the outside (Explosives or Mechanic, Difficult) doesn't disable the interlock; it just does what forcing open any hardened seal below grade near open water tends to do — compromises it. **At one table running this scenario, the players did exactly this: breached a street-level hatch directly rather than working the flood trick, and the resulting structural failure flooded the immediate area anyway, sealing the garrison in by force rather than by design.** Treat this as fully valid, not a workaround or an exploit — it's the same physical logic as the intended trick, arrived at from the opposite direction. A referee whose table tries this should let it work, with the same general consequences (garrison sealed for a referee-judged window, real structural noise/mess at the breach point) as the intended Pinnace Gambit route.
 
 **The bollard wall.** A low perimeter barrier — waist-to-chest height, close-set concrete bollards linked by a curb wall — rings the building's water-facing base, ordinary harbor-safety infrastructure meant to stop vehicles and storm surge from reaching the entrances directly. It was never designed with anything more dramatic in mind than bad weather. It is, however, entirely capable of holding a flood surge in place over the stairwell hatches for long enough to matter, if enough water goes over it at once.
 
@@ -67,6 +90,21 @@ Rather than fighting the underground garrison directly, the team can seal it in 
 | **Bail out clean** (only if riding it in) | Getting clear of the pinnace in the last seconds before impact | Athletics (dexterity) or Vacc Suit 8+ | A rough landing in the water — no serious harm in Battle Dress, but noisy and disoriented, costing a round before the character can act normally |
 
 **Effect matters here, not just success.** A plain success (Effect 0–1) throws enough water to be dramatic but not necessarily enough to top the wall. Treat **Effect 2 or better** as the surge clearing the bollard wall and reaching the hatches — the referee should say so plainly when it happens, since the whole point of this tactic is that the team gets to *see* it work.
+
+### Does the Pinnace Have Weapons?
+
+Per CRB22's standard Pinnace specifications, yes — it has a **Fixed Mount**, one hardpoint, forward-firing only. What's actually in that mount is the referee's call, but two real, verified options fit cleanly:
+
+- **Sandcaster** — a defensive weapon, normally used to blunt incoming laser fire by venting a cloud of reflective/ablative sand into a laser's path. Not useful for the crash tactic itself (it's not an offensive weapon), but a legitimate reason a pinnace might plausibly be carrying one anyway, as ordinary defensive fit rather than something that reads as a warship's loadout.
+- **Missile Rack** — a genuinely offensive option, if a table wants the crashing pinnace to also deliver a parting shot on the way down (a missile fired an instant before impact, say, or simply available if the "sending it in unmanned" version of the tactic gets contested mid-approach). Holds a real magazine (CRB22 lists turret capacity in the low teens per rack, refillable for a few thousand credits) rather than being a single-use weapon.
+
+**Neither is required for the Gambit to work** — the tactic's whole mechanism is the crash's displaced water, not gunfire. A fixed mount with nothing installed at all is equally valid if the table doesn't want the pinnace to be armed.
+
+### What Stops the Team From Just Flying It Around Afterward?
+
+Nothing, structurally — except that there usually isn't an "afterward." The Pinnace Gambit's entire premise is a **deliberate, uncontrolled belly-flop crash**, not a landing. A vessel piloted hard into water specifically to maximize displacement (§G.3's own task chain: "too steep and it's a normal, unremarkable splashdown that never reaches the wall" — meaning the *intended* outcome is already the harder, more violent impact profile) does not come out the other side as a flyable asset. Treat it as **destroyed or a total operational write-off on impact**, full stop, whether the team rode it in and bailed or sent it in unmanned.
+
+If a table specifically wants a reusable pinnace *and* the Gambit's flooding effect, the honest answer is they're mutually exclusive as written — a controlled-enough splashdown to preserve the airframe doesn't generate a big enough wave to matter (see the task chain's own failure condition above). A referee who wants both would need to introduce a second vehicle for one purpose or the other, rather than treating this specific crash as reusable.
 
 **What "trapped" actually means at the table.** The garrison isn't destroyed, drowned, or even necessarily aware anything's wrong yet — they're a hardened door and a very reasonable safety feature away from a fight they don't know they're missing. That door reopens once the water above it clears (referee's call on timing — minutes to an hour, whatever serves the scene), so this buys the team a window, not a permanent win. It's an excellent way to remove a chunk of Floor 4/5's potential opposition (Chapter 6's fourth and fifth floor content, or the Boulevard-side assault generally) from the board for exactly as long as the team needs it gone, without a shot fired.
 
@@ -150,7 +188,7 @@ They are not naturally aggressive toward harbor traffic — the sonic deterrent 
 |---|---|---|
 | Halveth | Large (per CRB22's Large Sauropod tier — referee's own copy is the source of truth for the exact numeric value, as this table's specific digits were affected by the same PDF-extraction issue flagged elsewhere in this document) | Fast (water only; slow and vulnerable on land, which it avoids) |
 
-**Skills:** Athletics (dexterity) 2 · Recon 1 · Survival 2
+**Skills:** Athletics 0 · Athletics (dexterity) 2 · Recon 1 · Survival 2
 **Attacks:** Bite (the primary threat — a single strike from that jaw is the whole encounter); Ram (a secondary full-body strike used to stun or disorient before the follow-up bite, not a territorial display)
 **Traits:** Amphibious · Large · Heightened Senses
 **Behaviour:** Carnivore, Hunter — but see below
@@ -172,11 +210,17 @@ This is a pure option, not a required beat — nothing in Chapters 1–6 assumes
 
 | Element | Source | Page/Note |
 |---|---|---|
+| Sandcaster and Missile Rack, spacecraft-scale fixed-mount weapons (basis for the Pinnace's optional weapon fit, §G.3) | CRB22 | Spacecraft weapons table; Missile Rack magazine and refill cost figures were partially affected by the same text-extraction issue flagged elsewhere in this project, so treat exact digits as approximate pending a check against your own copy |
 | Animal Encounters stat block format (Hits, Speed, Skills, Attacks, Traits, Behaviour) | CRB22 | pp.86–88 |
 | Behaviour categories (Carnivore/Hunter, etc.) and creature archetypes | CRB22 | p.88 |
 | Animal Size table, including the "Large Sauropod" tier used for the Halveth's scale | CRB22 | p.88 — *note: this table's specific Hits-by-size values were affected by the same text-extraction issue flagged elsewhere in this project (Appendices B and E); the category tier (Large Sauropod) is confirmed, the exact numeric Hits value is not, and should be checked against your own copy* |
 | Battle Dress sealed/NBC-rated environmental protection (basis for underwater viability) | CRB22 p.101; CSC23 pp.38–39 | See Appendix B |
 | Explosives skill covering identification and disarming of explosive devices (basis for the mine-belt task chain, §G.2) | CRB22 | p.67 area — confirmed text: "covers the use of demolition charges and other explosive devices, including assembling or disarming bombs"; worked example given for disarming a device with anti-tamper detonators |
 | Pinnace small craft specifications (basis for the crash tactic, §G.3) | CRB22 | Small Craft section — confirmed: TL12, streamlined, single-Pilot crew, Hull rating 16, fusion power plant, fixed weapon mount capable. *Exact tonnage figure was not reliably extractable from the source PDF — same recurring text-extraction issue flagged elsewhere in this project. Confirm against your own copy if the precise number matters at the table.* |
+| Meridian Sound bathymetry table and glacial-trench explanation (§G.1) | Original to this project | Not drawn from any rulebook — worldbuilding grounded in the real-world comparison points named directly in the text (Puget Sound's basin type, real glacially-carved fjord/sound depths) |
 
 *(CRB22 = Traveller Core Rulebook Update 2022. CSC23 = Central Supply Catalogue Update 2023.)*
+
+---
+
+*Last updated: 2026-08-23*

@@ -239,6 +239,7 @@ def load_scenarios
     dir       = File.join(SCENARIOS_DIR, slug)
     meta_file = File.join(dir, 'meta.json')
     docs_dir  = File.join(dir, 'docs')
+    img_dir   = File.join(dir, 'img')
     next unless File.directory?(dir) && slug !~ /^\./
     next unless File.exist?(meta_file) && File.directory?(docs_dir)
 
@@ -247,6 +248,7 @@ def load_scenarios
       meta['slug']    = slug
       meta['dir']     = dir
       meta['docs_dir'] = docs_dir
+      meta['img_dir']  = img_dir
       scenarios[slug] = meta
     rescue => e
       warn "Could not parse meta.json for #{slug}: #{e.message}"
@@ -528,6 +530,29 @@ get '/s/:slug/search' do
     search_query:      query,
     print_title:       'Search Results',
   )
+end
+
+get '/s/:slug/img/:filename' do
+  scenarios = load_scenarios
+  s = scenarios[params[:slug]]
+  halt 404, 'Scenario not found' unless s
+
+  filename = params[:filename]
+  halt 400, 'Bad filename' if filename.include?('/') || filename.include?('..')
+
+  content_type = case File.extname(filename).downcase
+                 when '.webp' then 'image/webp'
+                 when '.png'  then 'image/png'
+                 when '.jpg', '.jpeg' then 'image/jpeg'
+                 when '.svg'  then 'image/svg+xml'
+                 when '.gif'  then 'image/gif'
+                 else halt(400, 'Unsupported image type')
+                 end
+
+  filepath = File.join(s['img_dir'], filename)
+  halt 404, "Image not found: #{filename} (expected in this scenario's img/ folder)" unless File.exist?(filepath)
+
+  send_file filepath, type: content_type, disposition: 'inline'
 end
 
 get '/s/:slug/:filename' do

@@ -12,7 +12,7 @@
 ---
 
 > *"We do not go to Ys to conquer it. We go to Ys because the alternative is a crater with a name on it."*
-> — SolSec Directorate briefing, Operation Ashfall tasking order
+> — Baldwin Wei, SolSec Directorate, Solomani Rim Desk — Operation Ashfall tasking order
 
 ---
 
@@ -132,3 +132,7 @@ Equipment, vehicle loadout, and pre-generated character sheets for the seven-per
 - **Act Three — Ashfall:** The assault on the control bunker and the manual override sequence, against a clock that does not care who wins.
 
 *(Chapters detailing the pre-generated characters, vehicles, Act-by-Act encounters, and the bunker's antagonists follow in subsequent documents.)*
+
+---
+
+*Last updated: 2026-08-23*

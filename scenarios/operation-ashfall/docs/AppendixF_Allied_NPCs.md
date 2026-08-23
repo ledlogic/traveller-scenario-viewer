@@ -7,6 +7,8 @@
 
 ## F.1 — IMRE BASARAN
 
+![Imre Basaran](img/basaran.webp)
+
 *Retired naval systems technician, encountered at the Dockyard Screening (Chapter 3, §3.3)*
 
 *"I was seventeen kilometers out when it happened. Close enough to see the flash reflect off the harbor. I've spent thirty years telling myself that distance meant something."*
@@ -51,3 +53,7 @@ These don't need full stat blocks — use Basaran's block as a rough template (c
 - **Basaran's nephew** — night-shift dispatcher at the naval logistics depot warehouse (Chapter 3, §3.4). Never named on-page deliberately; give him a name at the table if he gets more than one line of dialogue.
 
 *(Governor Krein and his Close Protection Detail: Appendix A. Station Chief Vantry and ISS Field Agents: Appendix C. SolSec's own roster: Chapter 2.)*
+
+---
+
+*Last updated: 2026-08-23*

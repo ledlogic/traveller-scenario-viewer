@@ -67,3 +67,7 @@ Two things worth flagging for the table:
 | Task penalty for missing required skill (-2 DM per level, including level 0) | CRB22 | p.100, Armour rules |
 
 *(CRB22 = Traveller Core Rulebook Update 2022. CSC23 = Central Supply Catalogue Update 2023. Citation convention per Cold Trail in Kethara Reach, Appendix G.)*
+
+---
+
+*Last updated: 2026-08-23*

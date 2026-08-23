@@ -616,7 +616,17 @@ body.index-page { background: #0f1115; color: #d0d3db; }
 }
 
 /* ── Responsive ────────────────────────────────────────────────── */
+/* Character portraits (Chapter 2) — 30% max width on desktop */
+.content img {
+  max-width: 30%;
+  height: auto;
+  display: block;
+  border-radius: 4px;
+  margin: 12px 0;
+}
+
 @media (max-width: 800px) {
   .document { padding: 28px 22px 40px; }
   :root { --sidebar-w: 240px; }
+  .content img { max-width: 100%; }
 }

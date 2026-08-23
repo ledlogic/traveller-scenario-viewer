@@ -44,3 +44,7 @@ This should feel like real open-source investigation: patient, a little tedious,
 - **Tone payoff:** it's a quiet gut-punch that the deepest operational security failure on Ys wasn't Krein's decision, wasn't the uprising, wasn't even SolSec's infiltration — it was a handful of bored twenty-year-olds who didn't check a privacy toggle. That's worth letting land without comment.
 
 **If the table doesn't have time for this:** skip it entirely. Nothing in Chapters 1–6 requires this appendix, and the core three-Act structure is complete without it.
+
+---
+
+*Last updated: 2026-08-23*

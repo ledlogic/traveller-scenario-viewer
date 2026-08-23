@@ -72,8 +72,12 @@ He is not enraged. He is not pleading. He genuinely believed — believes, even 
 
 Whatever the outcome, close on Meridian, not on the bunker — the Act 1 dockyard screening (Chapter 3, §3.3) set up exactly this beat, and paying it off is the point of the whole scenario.
 
-- **On full success:** the Public Information Network (Appendix A, §A.6) is still cycling its stale, oblivious rotation when the team gets back within range of a working terminal. Nobody's updated it. Nobody's going to, tonight. Basaran, if the team earned his trust, is still at the warehouse on Slip Nine — or wherever the crowd from the screening ended up — and finds out secondhand, the way everyone on Ys is about to.
+- **On full success:** the Public Information Network (Appendix A, §A.7) is still cycling its stale, oblivious rotation when the team gets back within range of a working terminal. Nobody's updated it. Nobody's going to, tonight. Basaran, if the team earned his trust, is still at the warehouse on Slip Nine — or wherever the crowd from the screening ended up — and finds out secondhand, the way everyone on Ys is about to.
 - **On costly success or failure:** the same terminal is playing the same rotation. That's worse here, not better — let the silence between what the system is saying and what just happened do the work.
 - **Loose threads for a longer campaign:** Krein's ultimate fate (arrest, flight, suicide, quiet Imperial cover-up — referee's choice, none of it needs resolving at the table); what SolSec Directorate does with the fact that a Confederation team just saved an Imperial naval world; whether Basaran, Imre's granddaughter, or anyone else from the screening becomes a recurring contact.
 
 *(This closes the core three-Act structure. Vehicle specifications for the Reach crossing, a full antagonist roster, and quick-reference material are in the Appendices.)*
+
+---
+
+*Last updated: 2026-08-23*

@@ -57,7 +57,7 @@ The pursuit force in §5.3 doesn't have to be the only thing in the spike field.
 | Score | 8 | 8 | 7 | 6 | 5 | 4 |
 | DM | +0 | +0 | +0 | +0 | –1 | –1 |
 
-**Skills:** Survival 2 · Recon 1 · Gun Combat (slug) 1 · Mechanic 1 · Streetwise 1
+**Skills:** Survival 2 · Recon 1 · Gun Combat 0 · Gun Combat (slug) 1 · Mechanic 1 · Streetwise 1
 **Armour:** Cloth or scavenged Flak Jacket, mismatched and field-patched
 **Weapon:** Shotgun (CRB22, Weapons table — practical, intimidating, not military-grade; the source PDF's damage column for this row was affected by the same text-extraction issue as other tables in this project, so confirm the exact damage code against your own copy rather than this document)
 **Equipment:** Rad counters (better than the team might expect — they work this terrain constantly and know its dangers firsthand, unlike loyalist patrols), a working knowledge of safer paths through the spike field that the team does not have
@@ -82,3 +82,7 @@ By the time the team reaches the crater core and the bunker entrance, they shoul
 Act Three — Ashfall — begins at the bunker entrance, with the manual override sequence and the network's own defenses standing between the team and a shutdown that still has to happen before the Countdown runs out.
 
 *(Act Three is detailed in the next chapter.)*
+
+---
+
+*Last updated: 2026-08-23*

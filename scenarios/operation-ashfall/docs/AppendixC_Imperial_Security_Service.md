@@ -7,7 +7,7 @@
 
 ## C.1 — WHO'S ACTUALLY LOOKING FOR THEM
 
-Krein's loyalist garrison (Appendix A, §A.5) is stretched thin holding the Yards and the Boulevard — they are not who finds Team UNDERTOW. That's the job of the **Imperial Security Service (ISS) field office on Ys**, a small permanent counter-intelligence presence that exists on every captive-government world specifically because Krein's administration has spent eleven years worried about exactly this: outside interference exploiting the underground resistance. Ironically, the ISS's whole reason for existing on Ys was to watch for Confederation infiltration — and for once, they're right.
+Krein's loyalist garrison (Appendix A, §A.6) is stretched thin holding the Yards and the Boulevard — they are not who finds Team UNDERTOW. That's the job of the **Imperial Security Service (ISS) field office on Ys**, a small permanent counter-intelligence presence that exists on every captive-government world specifically because Krein's administration has spent eleven years worried about exactly this: outside interference exploiting the underground resistance. Ironically, the ISS's whole reason for existing on Ys was to watch for Confederation infiltration — and for once, they're right.
 
 The ISS office answers to Krein on paper but operates with real independence, per standard Imperial counter-intelligence doctrine — a civil governor doesn't get operational control over his own spy-hunters. Tonight, that independence matters: **the ISS station chief has not been ordered to stand down and has not been told about Ashfall.** She is running a counter-espionage response to a citywide uprising with no idea the planet is on a clock, which means she's playing this straight, methodically, and without any of the desperation driving Krein's side of the crisis. She is, in a real sense, the most dangerous thing in Meridian tonight, because she's the only one still doing her actual job competently.
 
@@ -43,21 +43,25 @@ Vantry's people are not door-kickers, and there's no cover to blow — the team 
 
 ## C.4 — ISS FIELD AGENT
 
-*Generic stat block — use for any ISS operative sent to trail, intercept, or capture Team UNDERTOW. Distinct in flavor from the blunt Loyalist Close Protection Detail (Appendix A, §A.5): these are trained investigators and operators, not garrison troops.*
+*Generic stat block — use for any ISS operative sent to trail, intercept, or capture Team UNDERTOW. Distinct in flavor from the blunt Loyalist Close Protection Detail (Appendix A, §A.6): these are trained investigators and operators, not garrison troops.*
 
 | | STR | DEX | END | INT | EDU | SOC |
 |--|-----|-----|-----|-----|-----|-----|
 | Score | 8 | 10 | 9 | 9 | 8 | 6 |
 | DM | +0 | +1 | +1 | +1 | +0 | +0 |
 
-**Skills:** Investigate 2 · Recon 2 · Stealth 2 · Streetwise 2 · Gun Combat (slug) 2 · Electronics (comms) 1 · Deception 1
-**Armour:** Cloth Armour, concealable (Protection per CRB22's Cloth entry, p.100) — ISS agents do not want to look military
+**Skills:** Investigate 2 · Recon 2 · Stealth 2 · Streetwise 2 · Gun Combat 0 · Gun Combat (slug) 2 · Electronics 0 · Electronics (comms) 1 · Deception 1
+**Armour:** Cloth Jacket, concealable (**Protection +5, Rad —**, TL10, 2kg, no skill required — CSC23; CRB22's own parallel "Cloth" row at p.100 is affected by the same text-extraction issue flagged elsewhere in this project and never actually printed a protection number) — ISS agents do not want to look military
 **Weapon:** Autopistol, 3D–3 (CRB22 p.124), suppressed
 **Equipment:** Concealed comm with encrypted ISS channel, forged or legitimate civilian credentials, a field kit for pattern-of-life work (photography, document copying) rather than combat
 
 **Running them:** ISS agents do not want a firefight — a shootout in the street is a failure state for their actual mission, which is information, not casualties. Let them tail, observe, and report before they ever draw a weapon. If a confrontation is unavoidable, they'll try to disable or capture rather than kill where possible; SolSec operatives in the hands of Imperial counter-intelligence, alive, are a bigger political problem for the Confederation than six dead unknowns in an alley — Vantry knows this, and it should show in how her people fight.
 
 **Station Chief Vantry**, if she appears on-page rather than as an offstage pressure, uses the same block with Investigate 4, Leadership 2, and Persuade 2 in place of the listed skills — a career interrogator and case officer, not a combatant. She is a far more interesting scene as a conversation (interrogation, a tense standoff, a moment where the team has to talk their way past her directly) than as a boss fight, and referees should look for that opportunity over a straight combat encounter if the table's heading toward Stage 4.
+
+![Station Chief Imelda Vantry](img/vantry.webp)
+
+**Neural.AI image prompt:** A woman in her late 40s, plainclothes rather than uniform — a well-tailored civilian coat over office wear, nothing that reads as military. Sharp, patient eyes, hands folded on a desk or resting calmly at her sides, an expression of total unhurried attention rather than aggression — someone who has conducted a thousand interviews and has never once needed to raise her voice to win one. Seated across a table in a plain interview room, or standing at a window overlooking a city at night, backlit by distant fires. Muted, cool institutional lighting. Photorealistic, science fiction character portrait, no text, no logos.
 
 ---
 
@@ -73,10 +77,14 @@ This also gives the team a genuine reason to move fast and stay quiet that has n
 
 | Element | Source | Page/Note |
 |---|---|---|
-| Cloth Armour, concealable | CRB22 | p.100 |
+| Cloth Jacket, concealable — Protection +5, Rad — | CSC23 | pp.38–39; CRB22's own parallel row at p.100 never printed a protection number due to a confirmed text-extraction issue |
 | Autopistol, 3D–3 | CRB22 | p.124 |
 | Investigate, Streetwise, Deception skill definitions | CRB22 | pp.56–63 |
 | Imperial counter-intelligence / captive-government administrative tension | SolFront | Gemini Subsector gazetteer, world entry (Ys) |
 | ISS operational independence from civil governors | CRB22 | Referee's Toolbox, general Imperial institutional framing |
 
 *(CRB22 = Traveller Core Rulebook Update 2022. SolFront = The Solomani Rim sourcebook. Citation convention per Cold Trail in Kethara Reach, Appendix G.)*
+
+---
+
+*Last updated: 2026-08-23*

@@ -132,3 +132,7 @@ Two additional Deep Current vehicles are strong hardware but a harder narrative 
 | Ashfall-specific scenario roles, cross-references to Appendix G/C | Original to this project |
 
 *Void Mantle mechanics, Driftweb, the IHJEA atmosphere processor, the Microwheel sample container, and all Hiroshima-supplement cross-references from the source document are Gashidda/Deep Current-specific and are not reproduced here — they have no Ashfall equivalent.*
+
+---
+
+*Last updated: 2026-08-23*

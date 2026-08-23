@@ -73,6 +73,18 @@
     {
       "file": "AppendixK_Chain_of_Command.md",
       "label": "App K — Chain of Command"
+    },
+    {
+      "file": "AppendixL_Radiation_Process.md",
+      "label": "App L — Radiation Quick Process Reference"
+    },
+    {
+      "file": "AppendixM_Miniatures_Imperial.md",
+      "label": "App M — Miniatures: Imperial Opposition"
+    },
+    {
+      "file": "AppendixN_Robot_Designs.md",
+      "label": "App N — Robot Designs: Sentry Walker & Dog Sentries"
     }
   ]
 }

@@ -97,3 +97,7 @@ By the end of this Act, Team UNDERTOW should have:
 Act Two — The Reach — picks up as the team leaves Meridian behind and crosses thirty-one years of glass and warning obelisks toward a bunker built to survive exactly the kind of thing that's coming for it again.
 
 *(Act Two is detailed in the next chapter.)*
+
+---
+
+*Last updated: 2026-08-23*

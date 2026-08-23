@@ -30,7 +30,7 @@ gem install bundler
 
 Verify with `ruby -v` (should print 2.7 or higher) and `bundler -v`.
 
-Dependencies (in `Gemfile`): `sinatra ~> 3.0`, `kramdown ~> 2.4`, `kramdown-parser-gfm ~> 1.1`, `webrick`.
+Dependencies (in `Gemfile`): `sinatra ~> 3.0`, `kramdown ~> 2.4`, `kramdown-parser-gfm ~> 1.1`, `webrick`, `ostruct` (required on Ruby 4.0+, which dropped ostruct from the default bundled stdlib — Rack still needs it).
 
 ## Quick start
 

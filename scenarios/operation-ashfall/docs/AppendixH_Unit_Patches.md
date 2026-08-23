@@ -26,3 +26,7 @@ SolSec doesn't officially sanction unit patches. Team UNDERTOW has them anyway, 
 ## H.3 — OPTIONAL: LIGHT MECHANICAL VERSION
 
 If a table wants patches to mean something beyond flavor, without turning them into a full advancement system: **a character wearing a patch gets a one-time +1 DM on their next check that matches the patch's theme**, spent whenever the player wants to invoke it, then the patch stays on the jacket as a memento with no further effect. This rewards the moment that earned it without stacking bonuses indefinitely — one patch, one bonus, done. "So Long and Thanks 4 Fish" is the obvious exception, since it's awarded at the very end of a session and never gets a chance to matter mechanically — that one's pure sentiment, and should stay that way.
+
+---
+
+*Last updated: 2026-08-23*

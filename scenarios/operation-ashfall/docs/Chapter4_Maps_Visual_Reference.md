@@ -163,3 +163,7 @@ Ys's markers use the same four-level logic, built by Imperial engineers thirty-o
 **Level IV — Technical plaque, base of the central-most obelisk.** A sealed data-wafer plate, easy to miss unless someone's specifically looking (Investigate or Electronics 8+). This is the level built for engineers, not casual readers — and it's a genuine intel opportunity if the team's crossing takes them past it. It carries the original test-site's technical designation, approximate original blast/contamination radius, and — if the referee wants to reward a thorough team — a partial structural schematic of the old test bunker, which is the same bunker Krein's engineers repurposed for Ashfall. Basaran (Chapter 3, §3.3), if the team earned his trust, already knows roughly what's on this plaque; finding it independently is a way to get the same information without him.
 
 **The irony worth playing up:** nuclear semiotics research has a well-documented paradox — an elaborate, monumental warning can read as a *forbidden treasure* marker instead of a deterrent, especially to a culture that doesn't share the original builders' fear. Team UNDERTOW is about to prove that paradox true in the most literal way possible: the one thing on Ys explicitly built to keep everyone out is exactly where they need to go.
+
+---
+
+*Last updated: 2026-08-23*
