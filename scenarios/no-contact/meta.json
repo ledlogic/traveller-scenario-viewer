@@ -1,0 +1,58 @@
+{
+  "title": "No Contact",
+  "subtitle": "A Mongoose Traveller 2e Convention Scenario",
+  "system": "Mongoose Traveller 2nd Edition",
+  "setting": "Jorjor, Arcturus Subsector, Solomani Rim — Imperial Space",
+  "color": "#5c4a3a",
+  "inception_date": "2026-08-30",
+  "docs": [
+    {
+      "file": "Chapter1_Introduction.md",
+      "label": "Ch 1 — Introduction & Situation"
+    },
+    {
+      "file": "Chapter2_How_The_Twist_Works.md",
+      "label": "Ch 2 — How The Twist Works"
+    },
+    {
+      "file": "Chapter3_Shift_Structure.md",
+      "label": "Ch 3 — Shift Structure (Night/Graveyard/Morning)"
+    },
+    {
+      "file": "Chapter4_Maps_Visual_Reference.md",
+      "label": "Ch 4 — Room Relationships & Table Reference"
+    },
+    {
+      "file": "Chapter5_The_Setting.md",
+      "label": "Ch 5 — The Setting (Route 66 Analog)"
+    },
+    {
+      "file": "Chapter6_Player_Characters.md",
+      "label": "Ch 6 — Player Characters"
+    },
+    {
+      "file": "AppendixA_Motel_Owner_NPC.md",
+      "label": "App A — NPC: The Motel Owner"
+    },
+    {
+      "file": "AppendixB_Night_Atmosphere_Random_Tables.md",
+      "label": "App B — Night Atmosphere, Detection Risk & Random Tables"
+    },
+    {
+      "file": "AppendixC_Lobby_and_NPC_Guests.md",
+      "label": "App C — The Lobby & Civilian Guests (Room 4)"
+    },
+    {
+      "file": "AppendixD_Restaurant.md",
+      "label": "App D — The Restaurant (Semi-Closed)"
+    },
+    {
+      "file": "AppendixE_Graveyard_Complications.md",
+      "label": "App E — Graveyard Shift Complications: NPCs"
+    },
+    {
+      "file": "AppendixF_Skill_Spotlight.md",
+      "label": "App F — Skill Spotlight & Combat Hooks"
+    }
+  ]
+}
