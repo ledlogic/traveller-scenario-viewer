@@ -9,8 +9,9 @@
 
 All six player characters are **Solomani Security (SolSec) assets** who have each been
 told, separately and through their own handler or cutout, to go to ground at a
-specific three-room motel and wait for extraction back across the border to
-Confederation space. **Each was also told they'd be paired with a partner for this
+specific three-room motel — **Motel Yermo** *(Spanish, "wasteland/barren
+place"; five letters, matches the hellworld texture of Jorjor itself)* — and
+wait for extraction back across the border to Confederation space. **Each was also told they'd be paired with a partner for this
 job — sharing a room, a cover story, and the wait for extraction — but each received
 that instruction independently, and most pairs have never actually met their partner
 in person before tonight.** Verifying that the person who shows up matching your
@@ -38,7 +39,9 @@ his absence is the engine of the scenario.
 
 ## 1.1 — THE WORLD: JORJOR
 
-**Jorjor** — Arcturus Subsector, Solomani Rim Sector, hex 3225. UWP **B641888-7**.
+**Jorjor** *(pronounced "hor-HOR" — J as a breathy Spanish H, equal stress on
+both syllables; yes, it's definitely a hor-hor adventure)* — Arcturus
+Subsector, Solomani Rim Sector, hex 3225. UWP **B641888-7**.
 
 | UWP element | Value | Meaning |
 |---|---|---|
