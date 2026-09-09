@@ -11,9 +11,10 @@ All six player characters are **Solomani Security (SolSec) assets** who have eac
 told, separately and through their own handler or cutout, to go to ground at a
 specific three-room motel — **Motel Yermo** *(Spanish, "wasteland/barren
 place"; five letters, matches the hellworld texture of Jorjor itself)* — and
-wait for extraction back across the border to Confederation space. **Each was also told they'd be paired with a partner for this
-job — sharing a room, a cover story, and the wait for extraction — but each received
-that instruction independently, and most pairs have never actually met their partner
+wait for extraction back across the border to Confederation space.
+**Each was also told they'd be paired with a partner for this job — sharing a
+room, a cover story, and the wait for extraction — but each received that
+instruction independently, and most pairs have never actually met their partner
 in person before tonight.** Verifying that the person who shows up matching your
 partner's description really is who they say they are is part of the job, not a
 given. No pair was told anything about the other two rooms; as far as any given pair
