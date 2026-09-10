@@ -1,0 +1,50 @@
+{
+  "title": "Are Old Friends Electric",
+  "subtitle": "A Mongoose Traveller 2e Scenario",
+  "system": "Mongoose Traveller 2nd Edition",
+  "setting": "Alizarin, Albadawi Subsector, Solomani Rim — Imperial Year 1142",
+  "color": "#6a4c93",
+  "inception_date": "2026-09-09",
+  "docs": [
+    {
+      "file": "Chapter1_Introduction.md",
+      "label": "Ch 1 — Introduction & Situation"
+    },
+    {
+      "file": "Chapter2_Characters.md",
+      "label": "Ch 2 — Characters"
+    },
+    {
+      "file": "Chapter3_Act_One_The_Crossing.md",
+      "label": "Ch 3 — Act One: The Crossing"
+    },
+    {
+      "file": "Chapter4_Act_Two_Parkside.md",
+      "label": "Ch 4 — Act Two: The Parkside Annex"
+    },
+    {
+      "file": "Chapter5_Act_Three_Silicon_and_Marrow.md",
+      "label": "Ch 5 — Act Three: Silicon and Marrow"
+    },
+    {
+      "file": "AppendixA_Sources_and_Ageing.md",
+      "label": "App A — Sources & Ageing Rules Reference"
+    },
+    {
+      "file": "AppendixB_Ships.md",
+      "label": "App B — Ships"
+    },
+    {
+      "file": "AppendixC_NPCs.md",
+      "label": "App C — Non-Player Characters"
+    },
+    {
+      "file": "AppendixD_Robots.md",
+      "label": "App D — Robots"
+    },
+    {
+      "file": "AppendixE_Subject_1106.md",
+      "label": "App E — Subject 1106"
+    }
+  ]
+}
