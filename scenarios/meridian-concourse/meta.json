@@ -1,0 +1,18 @@
+{
+  "title": "The Meridian Concourse",
+  "subtitle": "A Mongoose Traveller 2e Campaign",
+  "system": "Mongoose Traveller 2nd Edition",
+  "setting": "Ashkeep, So Skire Subsector, Third Imperium — Imperial Year 1119",
+  "color": "#a4623f",
+  "inception_date": "2026-09-21",
+  "docs": [
+    { "file": "Chapter1_Situation_and_Ashkeep.md", "label": "Ch 1 — Situation & Ashkeep" },
+    { "file": "Chapter2_The_Robot_War.md", "label": "Ch 2 — The Robot War (Referee Only)" },
+    { "file": "Chapter3_Characters.md", "label": "Ch 3 — Characters" },
+    { "file": "Chapter4_The_Ship_and_Incident.md", "label": "Ch 4 — The Ship & the Silence" },
+    { "file": "Chapter5_The_Concourse.md", "label": "Ch 5 — The Concourse" },
+    { "file": "AppendixA_The_Mainframes.md", "label": "App A — ARBITER & COUNTERSIGN" },
+    { "file": "AppendixB_Bestiary_and_Threats.md", "label": "App B — Bestiary & Threats" },
+    { "file": "AppendixC_Sources_and_Canon_Notes.md", "label": "App C — Sources & Canon Notes" }
+  ]
+}

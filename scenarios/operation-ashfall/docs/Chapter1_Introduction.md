@@ -89,15 +89,13 @@ The feed cuts. Imperial Naval Intelligence has no record of what Krein means by 
 
 ### The Ashfall Network
 
-*(What these charges actually are — Ancients-derived technology Imperial engineering can build but never fully understand, and why that's the real reason nothing about them can be safely monitored — is covered in full in Appendix O, if a table wants the deeper answer.)*
-
 The charges are not naval ordnance and they were never meant to be defused by anyone — that's the point of a denial system. Imperial engineers built the network at TL15, three grades above Ys's own already-formidable TL12, specifically so nothing on-world could disarm it without Navy authorization codes that Governor Krein no longer intends to release. Seven arrays, each independently capable of scouring its host city and everything for a hundred kilometers around down to bedrock; wired together so that losing contact with three or more triggers the rest early rather than late. Fail-deadly, not fail-safe.
 
 Nobody currently on Ys — not the uprising, not the loyalist garrison, not the Governor's own staff — has full technical authority to stop this cleanly. What exists instead is a single hardened control bunker, built into the wreck of an older, smaller test array from thirty years ago, that can still issue a manual override — if someone physically reaches it, survives what's guarding it, and executes the shutdown sequence before the network decides it's been compromised and detonates anyway.
 
 ### The Glass Reach
 
-Thirty-one years ago, a single prototype charge from an earlier generation of this same denial doctrine malfunctioned during a routine systems test in the equatorial desert north of the capital. It did not fail small. What's left is **the Glass Reach** — an eleven-kilometer scar of fused black glass desert, still hot enough in places to register on thermal. Imperial engineers ringed it with something closer to a warning that doesn't need translating: a field of jagged glass spires, some standing fifteen metres tall, no two the same shape, deliberately irregular so nothing about them reads as architecture or ornament — only as wounds. They rise from the crater's own black glass floor but aren't the same color as it — the spires themselves carry the pale, sickly olive tone real detonation-fused glass actually takes on (the same phenomenon behind Old Earth's Trinitite), a genuinely uglier, more alien color against black ground than uniform black ever would have been. Beneath the spike field, at ground level, plainer markers carry pictograms and short text in nine languages, none of which say anything except *stay out*. The Navy quietly repurposed the crater's original control bunker — deep, hardened, and already wired into base infrastructure — as the hub for the modern seven-array network. It has been sealed, guarded, and functionally forgotten by everyone except the people who built Ashfall.
+Thirty-one years ago, a single prototype charge from an earlier generation of this same denial doctrine malfunctioned during a routine systems test in the equatorial desert north of the capital. It did not fail small. What's left is **the Glass Reach** — an eleven-kilometer scar of fused, black-glass desert, still hot enough in places to register on thermal. Imperial engineers ringed it with something closer to a warning that doesn't need translating: a field of jagged glass spires, some standing fifteen metres tall, no two the same shape, deliberately irregular so nothing about them reads as architecture or ornament — only as wounds. They were cast from the crater's own fused glass, so the warning and the hazard are built from the same material. Beneath the spike field, at ground level, plainer markers carry pictograms and short text in nine languages, none of which say anything except *stay out*. The Navy quietly repurposed the crater's original control bunker — deep, hardened, and already wired into base infrastructure — as the hub for the modern seven-array network. It has been sealed, guarded, and functionally forgotten by everyone except the people who built Ashfall.
 
 It is exactly where your team needs to go.
 
@@ -137,4 +135,4 @@ Equipment, vehicle loadout, and pre-generated character sheets for the seven-per
 
 ---
 
-*Last updated: 2026-09-09*
+*Last updated: 2026-08-23*

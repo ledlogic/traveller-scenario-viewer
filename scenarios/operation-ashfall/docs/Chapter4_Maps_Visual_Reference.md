@@ -142,7 +142,7 @@ Per CRB22, anti-rad drugs absorb up to 100 rads per dose if administered before 
 
 If you want a rendered illustration to go with this rather than (or alongside) the schematic SVG above:
 
-> Wide desert landscape, top-down aerial/satellite perspective, a vast circular crater of black fused glass at the center reflecting a pale sun, jagged irregular spires of pale sickly olive-green glass rising from the black crater floor in a ring around the center — the color mismatch between the black ground and olive spires is the focal visual detail, faint heat-shimmer distortion radiating outward in visible concentric bands from dark glassy black through ash-brown to dusty tan at the far edges, a thin dirt convoy road approaching from the lower-left horizon, muted desaturated color palette — rust, ash-grey, bone-white, sickly olive — no text, no readable language on the markers, science-fiction military cartography mood, Traveller RPG aesthetic
+> Wide desert landscape, top-down aerial/satellite perspective, a vast circular crater of black fused glass at the center reflecting a pale sun, faint heat-shimmer distortion radiating outward in visible concentric bands from dark glassy black through ash-brown to dusty tan at the far edges, a ring of tall weathered stone obelisks with worn pictogram warnings standing sentinel around the crater's outer edge, a thin dirt convoy road approaching from the lower-left horizon, muted desaturated color palette — rust, ash-grey, bone-white — no text, no readable language on the obelisks, science-fiction military cartography mood, Traveller RPG aesthetic
 
 *(Written for general-purpose AI image tools — Midjourney, Stable Diffusion, or similar. Swap in your preferred generator's style syntax as needed.)*
 
@@ -154,7 +154,7 @@ The nine obelisks ringing the Glass Reach (Chapter 1, §1.4) aren't random signa
 
 Ys's markers use the same four-level logic, built by Imperial engineers thirty-one years ago and never updated since. The spike field itself (Level I, below) is a direct design descendant of a real 1991 concept called **"Landscape of Thorns"** — one of several proposals commissioned by Sandia National Laboratories from architect Michael Brill's team for the real-world Waste Isolation Pilot Plant, calling for a field of irregular, non-repeating concrete spires shaped specifically to read as "wounding forms" regardless of who's looking at them. It's a genuinely unsettling piece of real design history, and it translates almost without modification into Traveller. Use whichever level fits the scene — Team UNDERTOW likely doesn't need all four read aloud, but Voss (Chapter 2, §2.4) is exactly the kind of character who'd stop and read Level IV anyway.
 
-**Level I — The shape of the place itself.** No language required. This is the spike field: fifteen-metre spires cast from the crater's own fused ground, no two shaped alike so nothing about them can be mistaken for architecture, ornament, or anything a culture might value — but they don't match the black glass floor they rise from. The spires themselves carry the pale, sickly olive tone real detonation-fused glass actually takes on, a genuine real-world phenomenon (Old Earth's Trinitite, the glass created by the first nuclear test, is famously this same olive-green rather than black). Black ground, olive spires — the color mismatch alone reads as wrong before anyone gets close enough to see the shapes. The irregularity is the point — a repeating pattern can be dismissed as decorative; chaos reads as danger in a way no single culture invented and none can fully unlearn. This is the level that still works if every other level has failed.
+**Level I — The shape of the place itself.** No language required. This is the spike field: fifteen-metre spires of black glass, cast from the crater's own fused ground, no two shaped alike so nothing about them can be mistaken for architecture, ornament, or anything a culture might value. The irregularity is the point — a repeating pattern can be dismissed as decorative; chaos reads as danger in a way no single culture invented and none can fully unlearn. This is the level that still works if every other level has failed.
 
 **Level II — Pictograms.** Set into plainer stone markers at the base of the spike field, each face carries the same repeating image set, worn but legible: a figure collapsing, an arrow pointing down and inward toward the crater's center, a radiating burst pattern, a crossed-out human silhouette. No text needed to get the gist.
 
@@ -166,4 +166,4 @@ Ys's markers use the same four-level logic, built by Imperial engineers thirty-o
 
 ---
 
-*Last updated: 2026-09-09*
+*Last updated: 2026-08-23*

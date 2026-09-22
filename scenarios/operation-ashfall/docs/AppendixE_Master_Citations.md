@@ -65,7 +65,6 @@ Not every source in this scenario is a Traveller sourcebook — some worldbuildi
 |---|---|---|
 | Nuclear semiotics / layered warning-message design (Levels I–IV) | Ch 4, §4.4 | Human Interference Task Force (1981); formalized in a 1993 Sandia National Laboratories report on long-term nuclear waste site marking |
 | "Landscape of Thorns" spike-field design for the Glass Reach | Ch 1, §1.4; Ch 4, §4.4 | Michael Brill / BOSTI team, 1991 — one of several marker concepts commissioned by Sandia National Laboratories for the real Waste Isolation Pilot Plant (WIPP) |
-| Trinitite as the real-world basis for the spike field's olive-green color (against the crater floor's black glass) | Ch 1, §1.4; Ch 4, §4.4 | Real-world reference: the glass created by the July 1945 Trinity nuclear test, famously pale olive-green rather than black due to the specific mineral content of the fused desert sand |
 | StudyDeck / public flashcard-app intel leak | App D, §D.1–D.2 | Bellingcat, "US Soldiers Expose Nuclear Weapons Secrets Via Flashcard Apps," May 28, 2021 (Foeke Postma) |
 
 ---
@@ -76,4 +75,4 @@ Worth flagging on its own, since it came up twice independently while building t
 
 ---
 
-*Last updated: 2026-09-09*
+*Last updated: 2026-08-23*
