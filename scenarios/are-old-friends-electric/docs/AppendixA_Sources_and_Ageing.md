@@ -59,8 +59,11 @@ Per Core Rulebook (2022 Update), pp. 48–49: ageing effects begin when a Travel
 | Item | Source | Page/Note |
 |---|---|---|
 | Cloth armour, Protection +5 | *Central Supply Catalogue* (2023 Update) | Armour table, p. 12 |
-| Autopistol, Range 10m, 3D−3, 15-round magazine | *Central Supply Catalogue* | Weapon table, pp. 142–143 |
+| Autopistol, TL5, Range 10m, 3D−3, 15-round magazine | *Central Supply Catalogue* | Weapon table, p. 142 |
+| Revolver, TL4, Range 10m, 3D−3, 6-round magazine | *Central Supply Catalogue* | Weapon table, p. 142 |
+| Cutlass, TL2, Melee, 3D damage | *Central Supply Catalogue* | Melee weapon table, p. 134 |
 | Plastic Explosive, TL6, 3D damage, Blast 9 trait | *Central Supply Catalogue* | p. 159 |
+| Vacc Suit, Basic, TL8, Protection +4, 15-hour endurance | *Central Supply Catalogue* | p. 28 |
 
 ---
 

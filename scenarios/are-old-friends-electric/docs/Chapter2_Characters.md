@@ -41,7 +41,14 @@ Born on **Scaramouche** (Harlequin Subsector) — UWP A7C6503-A, Trade Codes *Fl
 
 **Skills:** Leadership 4 · Admin 3 · Advocate 2 · Deception 2 · Persuade 3 · Investigate 2 · Streetwise 1 · Electronics 0 · Electronics (comms) 2 · Gun Combat 0 · Gun Combat (slug) 1 · Recon 1 · Tactics 0 · Tactics (military) 1 · Carouse 1 · Language 0 · Language (Anglic) 2
 
-**Equipment:** Cloth armour worn under a civilian coat (TL — **Protection +5**; Central Supply Catalogue, p. 12), a well-kept Autopistol she hasn't fired outside a range in a decade (Central Supply Catalogue, pp. 142–143), an encrypted comm unit older than most of her teammates' grandchildren, a leather-bound paper notebook of contacts she refuses to digitise, reading glasses, heart medication she rations like ammunition.
+**Equipment:**
+
+| Item | TL | Range | Damage | Magazine | Notes |
+|---|---|---|---|---|---|
+| Cloth armour, worn under a civilian coat | 7 | — | — | — | **Protection +5**, 7kg, Cr250 (Central Supply Catalogue, p. 12) |
+| Autopistol, hasn't been fired outside a range in a decade | 5 | 10m | 3D–3 | 15 (Cr10/mag) | 1kg, Cr200 (Central Supply Catalogue, p. 142) |
+
+Also carries: an encrypted comm unit older than most of her teammates' grandchildren, a leather-bound paper notebook of contacts she refuses to digitise, reading glasses, heart medication she rations like ammunition.
 
 **Personality:** Blunt warmth with a spine of iron underneath. She leads by making sure everyone has the information they need and then trusting them to use it — the same instinct that made her good at running assets for thirty-six years. She is quietly, fiercely glad to be needed again and would rather eat glass than admit it out loud.
 
@@ -64,7 +71,13 @@ Born on **Kukulcan** (Kukulcan Subsector) — UWP A568A9A-D, Trade Codes *Garden
 
 **Skills:** Pilot 0 · Pilot (spacecraft) 3 · Astrogation 1 · Vacc Suit 1 · Electronics 0 · Electronics (sensors) 1 · Streetwise 2 · Mechanic 1 · Gun Combat 0 · Gun Combat (slug) 1 · Broker 1 · Carouse 1 · Jack of all Trades 1
 
-**Equipment:** A flight jacket that's outlived three ships, a personal comm unit, reading glasses he pretends not to need at the console, an empty hip flask kept purely on principle, an Autopistol under the pilot's seat out of habit rather than expectation.
+**Equipment:**
+
+| Item | TL | Range | Damage | Magazine | Notes |
+|---|---|---|---|---|---|
+| Autopistol, kept under the pilot's seat out of habit rather than expectation | 5 | 10m | 3D–3 | 15 (Cr10/mag) | 1kg, Cr200 (Central Supply Catalogue, p. 142) |
+
+Also carries: a flight jacket that's outlived three ships, a personal comm unit, reading glasses he pretends not to need at the console, an empty hip flask kept purely on principle.
 
 **Personality:** Unbothered by almost everything short of turbulence he didn't call. Terrible with paperwork, worse with excuses. The steadiest hands on the crew, right up until you ask him to fill out a customs form.
 
@@ -87,7 +100,13 @@ Born on **Point** (Oriah Subsector) — UWP A6729C7-E, Trade Codes *High Populat
 
 **Skills:** Astrogation 2 · Engineer 0 · Engineer (power) 2 · Engineer (life support) 1 · Electronics 0 · Electronics (computers) 2 · Mechanic 1 · Pilot 0 · Pilot (spacecraft) 1 · Vacc Suit 1 · Admin 1 · Science 0 · Science (physics) 1
 
-**Equipment:** A slide-rule pendant her old engine room crew gave her as a joke that stuck, a calculator wrist unit, a tool belt she still keeps stocked, reading glasses on a chain, a personal Vacc Suit in better repair than most of the ship's spares.
+**Equipment:**
+
+| Item | TL | Protection | Endurance | Notes |
+|---|---|---|---|---|
+| Vacc Suit, Basic, personal, in better repair than most of the ship's spares | 8 | +4 | 15 hours | 28kg, Cr12,000, requires Vacc Suit 1 (Central Supply Catalogue, p. 28) |
+
+No sidearm — she's never carried one, and nobody on this crew has ever suggested she should. Also carries: a slide-rule pendant her old engine room crew gave her as a joke that stuck, a calculator wrist unit, a tool belt she still keeps stocked, reading glasses on a chain.
 
 **Personality:** Precise, dryly funny, allergic to sloppy navigation. She double-checks Farrow's jump plots without being asked and has been right often enough that he's stopped complaining about it. The one who will tell you exactly how many hours of margin you don't actually have.
 
@@ -110,7 +129,14 @@ Born on **Thassor** (Oriah Subsector) — UWP C6A2A9A-D, Trade Codes *Fluid Ocea
 
 **Skills:** Gunner 0 · Gunner (turret) 3 · Gun Combat 0 · Gun Combat (slug) 2 · Heavy Weapons 0 · Heavy Weapons (man portable) 2 · Tactics 0 · Tactics (military) 1 · Athletics 0 · Athletics (strength) 1 · Melee 0 · Melee (blade) 1 · Vacc Suit 1
 
-**Equipment:** A service revolver he's kept oiled and functional since his last day in uniform, a heavy coat that fit better twenty years ago, a photo of his old unit tucked in his breast pocket, a hearing aid (a lifetime of gunnery fire took its toll), a knee brace he'll deny needing right up until he needs it.
+**Equipment:**
+
+| Item | TL | Range | Damage | Magazine | Notes |
+|---|---|---|---|---|---|
+| Revolver, kept oiled and functional since his last day in uniform | 4 | 10m | 3D–3 | 6 (Cr5/mag) | 0.5kg, Cr150 (Central Supply Catalogue, p. 142) |
+| Cutlass | 2 | Melee | 3D | — | 2kg, Cr200 (Central Supply Catalogue, p. 134) |
+
+Also carries: a heavy coat that fit better twenty years ago, a photo of his old unit tucked in his breast pocket, a hearing aid (a lifetime of gunnery fire took its toll), a knee brace he'll deny needing right up until he needs it.
 
 **Personality:** Gruff, sentimental about people he served with, first to volunteer for anything and last to admit anything hurts. Genuinely gentle with anyone weaker than him — which, these days, is most people, and he still hasn't noticed the irony.
 
@@ -133,7 +159,13 @@ Born and still living on **Alizarin** (Albadawi Subsector) — UWP A566987-C, Tr
 
 **Skills:** Explosives 3 · Mechanic 1 · Athletics 0 · Athletics (strength) 1 · Melee 0 · Melee (unarmed) 1 · Recon 1 · Electronics 0 · Electronics (sensors) 1 · Stealth 1 · Vacc Suit 1
 
-**Equipment:** A demolition kit built around Plastic Explosive (TL6, damage 3D, **Blast 9**; Central Supply Catalogue, p. 159) and detonating cord, a genuinely excellent pair of boots, reading glasses she will not wear in front of anyone she hasn't known for at least a decade, and — staying home for this one — a small, opinionated dog.
+**Equipment:**
+
+| Item | TL | Range | Damage | Notes |
+|---|---|---|---|---|
+| Plastic Explosive (demolition kit, with detonating cord) | 6 | — (placed) | 3D | **Blast 9**, 1kg, Cr200 (Central Supply Catalogue, p. 159) |
+
+No personal firearm — Explosives is her trade, and her hands do the rest. Also carries: a genuinely excellent pair of boots, reading glasses she will not wear in front of anyone she hasn't known for at least a decade, and — staying home for this one — a small, opinionated dog.
 
 **Personality:** Direct, dryly funny, never really stopped working; her garden shed holds considerably more "surplus ordnance" than SolSec's decommissioning paperwork would suggest. Quietly proud that the whole crew ended up living on *her* world, and not shy about reminding them whose kitchen table this all got planned at.
 
@@ -156,7 +188,7 @@ Born on **Krypton** (Albadawi Subsector) — UWP A9A49BC-D, Trade Codes *Fluid O
 
 **Skills:** Medic 3 · Electronics 0 · Electronics (computers) 2 · Electronics (comms) 2 · Recon 1 · Investigate 1 · Streetwise 1 · Admin 1 · Jack of all Trades 1 · Language 0 · Language (Anglic) 1
 
-**Equipment:** A well-stocked portable Medikit, an old signals decoder he's held onto "just in case" for reasons nobody has ever fully explained, bifocals, a cane that doubles surprisingly well as a signal probe, a heart monitor patch whose readings he keeps strictly to himself.
+**Equipment:** No sidearm — he's never trained with one, and Medic 3 is worth more to this crew than a gun would be. Carries: a well-stocked portable Medikit, an old signals decoder he's held onto "just in case" for reasons nobody has ever fully explained, bifocals, a cane that doubles surprisingly well as a signal probe, a heart monitor patch whose readings he keeps strictly to himself.
 
 **Personality:** Gentle, sharp-eyed, the first to notice when someone's hiding a limp or a bad night's sleep. Ageing hit him hardest of anyone on this crew — physically he's the frailest by a wide margin — but Medic 3 and a genuine gift for cracking old-fashioned electronic security make him irreplaceable in a way none of the others can quite match. He knows it, and he's decided not to be smug about it. Mostly.
 
