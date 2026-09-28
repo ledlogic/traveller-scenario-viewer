@@ -73,6 +73,23 @@ Threk's PGHP-14 (Chapter 2, §2.3) doesn't have an infinite ammo supply — man-
 - **A single plasma discharge**, used defensively in an already-compromised situation, is a Stage 3 (Authorized) trigger at minimum — same as any other confirmed hostile act.
 - **Repeated or sustained plasma use** — treating it as a default problem-solving tool rather than a last resort — should read as **an unambiguous Stage 4 (Active Manhunt) trigger**, and a referee running this seriously should consider it grounds for Vantry escalating past her own ISS resources entirely: pulling in actual naval security or garrison reinforcement specifically because plasma signatures on a captive-government world during an active uprising reads as external military intervention, not local unrest. That's a genuine, in-fiction reason for "using it too much blows the operation's cover" beyond just the abstract escalation track — it's the kind of signature nobody in Meridian can plausibly ignore or explain away.
 
+**A concrete dice mechanic for this, tested at the table:** track a running **Plasma Uses** counter, starting at 0. Every time a plasma weapon fires — Threk's PGHP-14, or any other plasma weapon that enters play — increment the counter by 1, then roll **2D12**. If the result is **less than or equal to the current Plasma Uses count**, Imperial military reinforcements are dispatched to defend the administration building — a hard, immediate jump straight to Stage 4, not a slow build.
+
+This produces a genuinely well-paced curve rather than an arbitrary GM call:
+
+| Plasma use # | Chance *that specific shot* triggers the response |
+|---|---|
+| 1st | 0% — mathematically impossible (2D12's minimum roll is 2) |
+| 2nd | 0.7% |
+| 5th | 6.9% |
+| 8th | 19.4% |
+| 10th | 31.2% |
+| 13th | 54.2% |
+| 15th | 68.8% |
+| 20th | 93.1% |
+
+**Why this works well:** the first shot is always free — a team that fires plasma exactly once, when it genuinely matters, never has to worry about this roll at all. Risk builds smoothly and fairly from there, crossing a coin-flip around the 13th cumulative use. A table that treats the PGHP-14 as a last-resort answer to serious threats (the Sentry Walker, Appendix N) will likely never see this trigger. A table that reaches for it as a default weapon will feel the escalation coming, which is exactly the intended "using it excessively blows their cover" dynamic — earned through actual use, not imposed as a flat rule.
+
 **Play this as a real tactical tradeoff, not a punishment.** Threk having a plasma weapon is a legitimate, powerful answer to serious threats (the Sentry Walker, Appendix N). Using it once when it matters is completely reasonable. Using it as a first resort against every problem is what should start drawing attention no amount of chaos in the streets can fully absorb.
 
 ### A Missile Launcher, For Taking Out a Second Robot
@@ -160,6 +177,8 @@ Rourke carries two Advanced Combat Rifles, one in each hand, and fires both toge
 | Task difficulty & skill check framework | CRB22 | pp.60–63 |
 | Electronics, Engineer skill definitions | CRB22 | pp.56–59 |
 | Rocket Launcher: Range 120m, TL8, Cost Cr2,000, Magazine 1–2, Blast/Scope/Smart traits (basis for §I.6's missile launcher option) | CRB22 | Heavy Weapons table — Damage column affected by the same extraction issue flagged elsewhere in this project |
+| 2D12 Plasma Uses escalation mechanic (§I.6) | User-designed, tested at the table | Not a published rule — a homebrew addition built for this project, probability curve verified by direct calculation |
+| Grenade types (Aerosol, Frag, Smoke, Stun) — TL8, Blast-family weapons, thrown via Athletics (dexterity) or launched via Heavy Weapons (portable) (basis for Chapter 2's per-character grenade loadouts) | CRB22 | Grenade weapons table and description — Damage column for Frag affected by the same extraction issue flagged elsewhere in this project |
 | Heavy Weapons (portable) as the correct skill for launched grenades/rockets | CRB22 | Weapons section, grenade/heavy weapons rules |
 | Fighting Strongpoint's explicit finite shot count (1,100 shots) as the basis for treating plasma weapons as high-capacity but non-infinite | Robot Handbook | Combat robot entries — see Appendix N |
 | Combat Armour, Improved — Protection +17, Rad 145 (Commander Ferro, §I.9) | CSC23 | pp.38–39 |
@@ -170,4 +189,4 @@ Rourke carries two Advanced Combat Rifles, one in each hand, and fires both toge
 
 ---
 
-*Last updated: 2026-08-23*
+*Last updated: 2026-09-09*

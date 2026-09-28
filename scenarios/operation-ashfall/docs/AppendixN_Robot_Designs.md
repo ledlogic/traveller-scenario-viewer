@@ -38,7 +38,7 @@ Appendix G's original Sentry Walker was built in-house, before this project had 
 | Colossus-Pattern Sentry Walker | 72 | Walker | 6m | 15 | Cr90,000 (before weapons/sensors/programming) |
 
 **Traits:** Armour (+20) - ATV - Large (+3) -- the Attack Roll DM that comes with a Size 8 chassis; it's a genuinely easier target to hit than a human-scale opponent, which is the real-rules tradeoff for all that Protection and Hits.
-**Skills:** Gunner (turret) 2 - Melee 1 - Tactics (military) 0 *(unchanged from the original write-up -- these live in the remaining 124 Slots' programming/skillware allocation, not itemized further here)*
+**Skills:** Heavy Weapons 0 - Heavy Weapons (vehicle) 2 *(corrected from an earlier "Gunner (turret)" listing — Gunner specifically covers spacecraft-mounted weapons in space combat per CRB22; Heavy Weapons (vehicle) is the real skill for "large weapons typically mounted on vehicles or strongpoints such as tank guns and autocannon," which is exactly this chassis's integrated autocannon)* - Melee 1 - Tactics (military) 0 *(these live in the remaining 124 Slots' programming/skillware allocation, not itemized further here)*
 **Weapon:** Integrated heavy autocannon, 6D, AP8, fixed forward arc *(kept from the original design -- the Robot Handbook's own heavy weapon options are covered separately in Appendix O if you want a fully itemized weapon-mount build)*
 
 **Stability check for the Pinnace Gambit's surge (Appendix G, §G.4) is unchanged** -- still rolls against END 8 equivalent, still Average (8+) or Difficult (10+) depending on the surge's Effect. A bigger chassis doesn't make it meaningfully harder to knock over; more surface area to catch a wave cuts against the extra mass.
@@ -94,4 +94,4 @@ Appendix G's original Sentry Walker was built in-house, before this project had 
 
 ---
 
-*Last updated: 2026-08-23*
+*Last updated: 2026-09-09*

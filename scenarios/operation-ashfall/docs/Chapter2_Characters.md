@@ -17,7 +17,7 @@
 
 | # | Name | Callsign | Role | Key Skills |
 |---|------|----------|------|------------|
-| 1 | Rosalind Kade | "Anvil" | Team Leader | Leadership 3, Tactics (military) 2, Battle Dress 2 |
+| 1 | Rosalind Kade | "Anvil" | Team Leader | Leadership 3, Tactics (military) 2, Vacc Suit 2 |
 | 2 | Uzgar Threk (Vargr) | "Snarl" | Heavy Weapons | Heavy Weapons (man portable) 3, Melee (blade) 2 |
 | 3 | Dietrich Voss | "Fuse" | Demolitions / Breacher | Explosives 3, Mechanic 2 |
 | 4 | Marisol Achebe | "Doc" | Combat Medic | Medic 3, Athletics (strength) 2 |
@@ -25,7 +25,7 @@
 | 6 | Unit designation unknown | "Rivit" | Android / Technical Specialist | Electronics (computers) 3, Engineer (life support) 2 |
 | 7 | Nerys (Dolphin, uplifted) | "Echo" | Recon / Underwater Infiltration | Recon 2, Electronics (sensors) 2, Pilot (small craft) 1 |
 | 8 | Franko Ponchorrorrorrow (Vargr) | "Ponch" | Investigator / Non-Lethal Specialist | Advocate 1, Investigate 1, Stealth 1, Streetwise 1, Medic 1 |
-| 9 | Jon Bakerrowowarr (Vargr) | "Shield" | Riot Control / Crowd Specialist | Streetwise 2, Handling 1, Wheel 1, Persuade 1 |
+| 9 | Jon Bakerrowowarr (Vargr) | "Shield" | Riot Control / Crowd Specialist | Streetwise 2, Animals (Handling) 1, Drive (wheeled) 1, Persuade 1 |
 
 ---
 
@@ -40,9 +40,9 @@ Two meters of ex-Naval-infantry muscle poured into a command role she never aske
 
 **Characteristics:** STR 12 (+2) · DEX 8 (+0) · END 11 (+1) · INT 9 (+1) · EDU 8 (+0) · SOC 6 (+0)
 
-**Skills:** Leadership 3 · Tactics 0 · Tactics (military) 2 · Battle Dress 2 · Gun Combat 0 · Gun Combat (slug) 2 · Melee 0 · Melee (unarmed) 2 · Recon 1 · Admin 1
+**Skills:** Leadership 3 · Tactics 0 · Tactics (military) 2 · Vacc Suit 2 · Gun Combat 0 · Gun Combat (slug) 2 · Melee 0 · Melee (unarmed) 2 · Recon 1 · Admin 1
 
-**Equipment:** SolSec-issue Battle Dress (Improved-tier — **Protection +25, Rad 290**; full specs Appendix B), Snub SMG (Range 8m, 3D6–3, Zero-G trait), command-net encrypted comm, three cigars she is rationing like ammunition.
+**Equipment:** SolSec-issue Battle Dress (Improved-tier — **Protection +25, Rad 290**; full specs Appendix B), Snub SMG (Range 8m, 3D6–3, Zero-G trait), command-net encrypted comm, 2x Smoke grenades (TL8), three cigars she is rationing like ammunition.
 
 **Personality:** Blunt, protective, allergic to speeches. She will not leave a teammate behind, will absolutely leave a schedule behind, and has already privately accepted that this op probably doesn't end clean.
 
@@ -61,9 +61,9 @@ Uzgar is Vargr, enormous even by Vargr standards, and mean in the specific way t
 
 **Characteristics:** STR 13 (+2) · DEX 9 (+1) · END 10 (+1) · INT 7 (+0) · EDU 5 (–1) · SOC 4 (–1)
 
-**Skills:** Heavy Weapons 0 · Heavy Weapons (man portable) 3 · Melee 0 · Melee (blade) 2 · Gun Combat 0 · Gun Combat (slug) 2 · Athletics 0 · Athletics (strength) 2 · Survival 1 · Intimidate 2
+**Skills:** Heavy Weapons 0 · Heavy Weapons (man portable) 3 · Melee 0 · Melee (blade) 2 · Gun Combat 0 · Gun Combat (slug) 2 · Athletics 0 · Athletics (strength) 2 · Survival 1 · Persuade 2
 
-**Equipment:** SolSec-issue Battle Dress (Improved-tier — **Protection +25, Rad 290**; full specs Appendix B) with integrated support-weapon mount, PGHP-14 man-portable plasma gun (TL14, Range 450m, damage rated 1DD in the source catalogue — see Appendix E for a note on this notation), heavy combat blade (Melee, no range), the unlit cigar (non-negotiable).
+**Equipment:** SolSec-issue Battle Dress (Improved-tier — **Protection +25, Rad 290**; full specs Appendix B) with integrated support-weapon mount, PGHP-14 man-portable plasma gun (TL14, Range 450m, damage rated 1DD in the source catalogue — see Appendix E for a note on this notation), heavy combat blade (Melee, no range), 2x Frag grenades (TL8), the unlit cigar (non-negotiable).
 
 **Personality:** Short-tempered, fiercely loyal to the six people in this specific room and to nobody else, allergic to being told to hang back. The referee should let him growl at NPCs, threaten equipment rather than people when possible, and be quietly, unexpectedly gentle around anyone weaker than him — it's the one soft spot the character has, and it's more interesting if the players discover it rather than being told.
 
@@ -82,9 +82,9 @@ Voss spent six years disarming Confederation ordnance before SolSec decided his 
 
 **Characteristics:** STR 11 (+1) · DEX 9 (+1) · END 10 (+1) · INT 10 (+1) · EDU 9 (+1) · SOC 5 (–1)
 
-**Skills:** Explosives 3 · Mechanic 2 · Electronics 2 · Engineer 0 · Engineer (life support) 1 · Battle Dress 1 · Recon 1
+**Skills:** Explosives 3 · Mechanic 2 · Electronics 2 · Engineer 0 · Engineer (life support) 1 · Vacc Suit 1 · Recon 1 · Gun Combat 0 · Gun Combat (slug) 1
 
-**Equipment:** SolSec-issue Battle Dress (Improved-tier — **Protection +25, Rad 290**; full specs Appendix B), breaching charge kit, multi-tool rig, field scanner rated for radiological and thermal hazards (critical for the Glass Reach — see Chapter 1), Gauss carbine (Range ~400m *(standard published value; this source PDF's own row for this weapon was extraction-corrupted — see Appendix E)*, 3D6+1).
+**Equipment:** SolSec-issue Battle Dress (Improved-tier — **Protection +25, Rad 290**; full specs Appendix B), breaching charge kit, multi-tool rig, field scanner rated for radiological and thermal hazards (critical for the Glass Reach — see Chapter 1), Gauss Rifle (Range ~400m *(standard published value; this source PDF's own row for this weapon was extraction-corrupted — see Appendix E)*, 3D6+1), 2x Frag grenades (TL8).
 
 **Personality:** Dry, precise, unhurried even when everyone around him wants him to hurry up — rushing demolitions is how people die, and he will say so, loudly, every time someone tells him to rush. Smokes exactly one cigar per session, always after the most dangerous moment, never before.
 
@@ -103,9 +103,9 @@ Achebe is built like she could carry any one of her squadmates out of a firefigh
 
 **Characteristics:** STR 10 (+1) · DEX 8 (+0) · END 12 (+2) · INT 9 (+1) · EDU 10 (+1) · SOC 6 (+0)
 
-**Skills:** Medic 3 · Athletics 0 · Athletics (strength) 2 · Battle Dress 1 · Gun Combat 0 · Gun Combat (slug) 1 · Persuade 1 · Recon 1
+**Skills:** Medic 3 · Athletics 0 · Athletics (strength) 2 · Vacc Suit 1 · Gun Combat 0 · Gun Combat (slug) 1 · Persuade 1 · Recon 1
 
-**Equipment:** SolSec-issue Battle Dress (medical variant, integrated trauma kit — **Protection +25, Rad 290**; full specs Appendix B), field surgery pack, Snub Pistol (Range 8m, 3D6–3, Zero-G trait), a battered cigar case she claims was a gift and won't explain further.
+**Equipment:** SolSec-issue Battle Dress (medical variant, integrated trauma kit — **Protection +25, Rad 290**; full specs Appendix B), field surgery pack, Snub Pistol (Range 8m, 3D6–3, Zero-G trait), 1x Stun grenade (TL8, Stun trait), a battered cigar case she claims was a gift and won't explain further.
 
 **Personality:** Warm under a layer of professional bluntness, the moral center of the team without ever saying so out loud. She is the one most likely to push back if the plan requires writing off civilians, and the referee should use her to voice the human cost of the countdown clock.
 
@@ -126,7 +126,7 @@ Reyes can drive literally anything and has the scars, citations, and one memorab
 
 **Skills:** Drive 0 · Drive (wheeled/tracked) 3 · Vacc Suit 2 · Mechanic 2 · Recon 2 · Gun Combat 0 · Gun Combat (slug) 1 · Athletics 0 · Athletics (endurance) 1
 
-**Equipment:** SolSec-issue Battle Dress (Improved-tier — **Protection +25, Rad 290**; full specs Appendix B), Gauss carbine (Range ~400m *(standard published value; see Appendix E note)*, 3D6+1), full vehicle diagnostics kit, an entire carton of cigars he insists is "operational necessity" and Command has, for reasons unknown, never contested.
+**Equipment:** SolSec-issue Battle Dress (Improved-tier — **Protection +25, Rad 290**; full specs Appendix B), Gauss Rifle (Range ~400m *(standard published value; see Appendix E note)*, 3D6+1), 2x Smoke grenades (TL8), full vehicle diagnostics kit, an entire carton of cigars he insists is "operational necessity" and Command has, for reasons unknown, never contested.
 
 **Personality:** Unflappable, dry, allergic to panic — his or anyone else's. The team's actual heavy vehicle (detailed in Chapter 4, Act Two) is effectively his second character sheet; he will care about its condition more than his own.
 
@@ -147,9 +147,9 @@ None of this is true. All of the "memories" are corrupted composite data — rea
 
 **Characteristics:** STR 12 (+2, synthetic chassis) · DEX 10 (+1) · END 14 (+2, synthetic) · INT 11 (+1) · EDU 6 (+0, corrupted archive — not a reliable measure) · SOC 5 (–1)
 
-**Skills:** Electronics 0 · Electronics (computers) 3 · Engineer 0 · Engineer (life support) 2 · Battle Dress 2 · Mechanic 1 · Gun Combat 0 · Gun Combat (energy) 1 · Persuade 0 (technically untrained; unnervingly effective anyway)
+**Skills:** Electronics 0 · Electronics (computers) 3 · Engineer 0 · Engineer (life support) 2 · Vacc Suit 2 · Mechanic 1 · Gun Combat 0 · Gun Combat (energy) 1 · Persuade 0 (technically untrained; unnervingly effective anyway)
 
-**Equipment:** SolSec-issue Battle Dress (heavy chassis variant — **Protection +25, Rad 290**; full specs Appendix B), integrated diagnostic suite, Laser Pistol (Range 20m, TL9 baseline; damage figure uncertain due to a source-extraction gap, see Appendix E) — a weapon he was, until this pass, never actually issued despite the "occasionally devastating in combat" line below; carried only because Gun Combat (energy) 1 implied he ought to have something, not because he reaches for it often, an unlit cigar it holds correctly and has never once smoked, out of what it insists is "respect for the custom" of an era it cannot actually name.
+**Equipment:** SolSec-issue Battle Dress (heavy chassis variant — **Protection +25, Rad 290**; full specs Appendix B), integrated diagnostic suite, Laser Pistol (Range 20m, TL9 baseline; damage figure uncertain due to a source-extraction gap, see Appendix E) — a weapon he was, until this pass, never actually issued despite the "occasionally devastating in combat" line below; carried only because Gun Combat (energy) 1 implied he ought to have something, not because he reaches for it often, 2x Stun grenades (TL8, Stun trait) -- fitting his general preference to end a fight without ending anyone, an unlit cigar it holds correctly and has never once smoked, out of what it insists is "respect for the custom" of an era it cannot actually name.
 
 **Personality:** Gentle, formal, occasionally devastating in combat and immediately apologetic about it afterward. It refers to events on Ys — the naval base, the Ashfall network, even the Glass Reach's thirty-one-year-old accident — with total unearned confidence, as though it personally remembers installations that were built decades before any TL15 denial network existed. It is never malicious about it. It is never right about it either.
 
@@ -176,7 +176,7 @@ She is dry, quick, faster to laugh than Kade would like on an active op, and con
 
 **Skills:** Recon 2 · Electronics 0 · Electronics (sensors) 2 · Pilot 0 · Pilot (small craft) 1 · Survival 1 · Stealth 1 · Persuade 1 · Vacc Suit 1
 
-**Equipment:** SolSec-issue **Type D Battle Dress** (Behind the Claw, Dolphin-specific combat variant — **Protection +25, TL15, Rad 300**, STR +2/DEX +6, 20 Slots, 12kg, Vacc Suit 1 required), built around a full travel-suit life support core rather than adapted from human-pattern armour. Integrated waldo manipulators (surgically neural-linked, no meaningful penalty at this tech level) let her handle weapons and equipment the same as any hands-and-fingers teammate — she carries no personal firearm of her own (no Gun Combat skill), but can operate any squadmate's weapon through the waldos if the situation demands it. Onboard sonar sensor system (1km range, DM+2 to Electronics (sensors) checks) stacks with her own natural echolocation for genuinely unmatched underwater situational awareness.
+**Equipment:** SolSec-issue **Type D Battle Dress** (Behind the Claw, Dolphin-specific combat variant — **Protection +25, TL15, Rad 300**, STR +2/DEX +6, 20 Slots, 12kg, Vacc Suit 1 required), built around a full travel-suit life support core rather than adapted from human-pattern armour. Integrated waldo manipulators (surgically neural-linked, no meaningful penalty at this tech level) let her handle weapons and equipment the same as any hands-and-fingers teammate — she carries no personal firearm of her own (no Gun Combat skill), but can operate any squadmate's weapon through the waldos if the situation demands it. Onboard sonar sensor system (1km range, DM+2 to Electronics (sensors) checks) stacks with her own natural echolocation for genuinely unmatched underwater situational awareness. Carries 1x Stun grenade (TL8, Stun trait) -- effective underwater as a concussive pulse, one of the few grenade types that still functions the way it's meant to when everyone involved is submerged.
 
 **Personality:** Confident, blunt, treats the rest of the team's landlubber instincts with real affection buried under a lot of teasing. She is, unambiguously, the correct answer to Appendix G's Meridian Sound waterfront approach — nobody else on the roster is built to operate in that environment the way she is, and a table fielding her should feel actively encouraged to consider that route into the Pi Building rather than defaulting straight to the Boulevard assault.
 
@@ -199,7 +199,7 @@ Ponch is Vargr, thirty-four, and from Kukulkan — a Solomani Rim world referenc
 
 **Skills:** Advocate 1 · Investigate 1 · Streetwise 1 · Stealth 1 · Medic 1 · Electronics 0 · Electronics (comms) 1 · Engineer 0 · Engineer (power) 1 · Melee 0 · Melee (unarmed) 1 · Pilot 0 · Pilot (small craft) 1 · Jack of All Trades 1 · Athletics 0 · Athletics (dexterity) 1
 
-**Equipment:** Cloth Jacket (TL10 — **Protection +5, Rad —**, 2kg, no skill required), worn under civilian layers rather than Battle Dress — a deliberate choice matching his investigator role, per Chapter 3's insertion framing where not everyone needs to read as military. Stunner (TL12, Range 10m, 3D, 100-charge magazine, Stun/Zero-G traits) and a Stunfist (TL8, 1D+2, melee) — Ponch's entire loadout is built around taking people alive, not putting them down permanently. Also carries a Rescue Tool Set, a personal safe, a computer terminal, a Breather Implant (TL10), binoculars, and a backpack.
+**Equipment:** Cloth Jacket (TL10 — **Protection +5, Rad —**, 2kg, no skill required), worn under civilian layers rather than Battle Dress — a deliberate choice matching his investigator role, per Chapter 3's insertion framing where not everyone needs to read as military. Stunner (TL12, Range 10m, 3D, 100-charge magazine, Stun/Zero-G traits) and a Stunfist (TL8, 1D+2, melee) — Ponch's entire loadout is built around taking people alive, not putting them down permanently. Also carries 2x Stun grenades (TL8, Stun trait) -- the natural extension of a loadout already built entirely around not killing anyone -- a Rescue Tool Set, a personal safe, a computer terminal, a Breather Implant (TL10), binoculars, and a backpack.
 
 **Personality:** Wry, patient, genuinely more interested in getting a straight answer out of someone than in winning a fight. His SOC 13 (+2) is the highest on the roster by a wide margin — he reads as more socially capable and connected than his combat stats suggest, and referees should let that show: people talk to Ponch, sometimes without meaning to. He is a strong pick for any table that wants to lean into Chapter 3's dockyard screening scene (§3.3) or the StudyDeck investigation in Appendix D — his whole skill set is built for exactly those beats.
 
@@ -220,9 +220,9 @@ Jon is Vargr, thirty-eight, also out of the Kukulkan system (a neighboring world
 
 **Species Trait:** pronounced canines usable as a natural close-combat weapon — Melee (Natural), 1D+1 damage, no weapon required.
 
-**Skills:** Streetwise 2 · Persuade 1 · Handling 1 · Drive 0 · Drive (wheeled) 1 · Electronics 0 · Electronics (comms) 1 · Electronics (sensors) 1 · Medic 1 · Stealth 1 · Cosmology 1 · Art 0 · Art (holography) 2
+**Skills:** Streetwise 2 · Persuade 1 · Animals 0 · Animals (Handling) 1 · Drive 0 · Drive (wheeled) 1 · Electronics 0 · Electronics (comms) 1 · Electronics (sensors) 1 · Medic 1 · Stealth 1 · Science 0 · Science (Cosmology) 1 · Art 0 · Art (holography) 2
 
-**Equipment:** Riot Shield (TL6, Melee 1D as a weapon; also rated Protection 1/Lsr1/Enrg1, **Rad —**, as wearable cover) and Cloth armour (TL12, Protection 4/Lsr4/Enrg4, **Rad —**) for a combined Protection of 5 — the highest personal protection rating on the roster outside of Battle Dress, though with no radiological protection at all, worth remembering if he's ever in the Glass Reach's rad bands (Chapter 4, §4.2) without a suit. Also carries a Club (Melee), a Revolver (TL5, Range 10m, 3D, 6-round), a Stunstick (TL8, Range Melee, 2D, Stun), a Portable Mediscan, two Rescue Tool Sets, and a Grav Floater.
+**Equipment:** Riot Shield (TL6, Melee 1D as a weapon; also rated Protection 1/Lsr1/Enrg1, **Rad —**, as wearable cover) and Cloth armour (TL12, Protection 4/Lsr4/Enrg4, **Rad —**) for a combined Protection of 5 — the highest personal protection rating on the roster outside of Battle Dress, though with no radiological protection at all, worth remembering if he's ever in the Glass Reach's rad bands (Chapter 4, §4.2) without a suit. Also carries a Club (Melee), a Revolver (TL5, Range 10m, 3D, 6-round), a Stunstick (TL8, Range Melee, 2D, Stun), 2x Smoke grenades (TL8) -- crowd control, not combat, matching his whole approach to Meridian's uprising -- a Portable Mediscan, two Rescue Tool Sets, and a Grav Floater.
 
 **Personality:** Level-headed under exactly the kind of pressure that makes everyone else on this team's instincts run hot. Where Threk wants to escalate and Kade wants control, Jon wants the crowd *contained* — not suppressed, not scattered, just kept from becoming its own disaster. That's a genuinely different read on crowd situations than anyone else on the roster offers, and it's the right lens for a referee running Chapter 3's uprising-torn Meridian (§3.2) as something more complicated than a simple hostile-territory crawl.
 
@@ -252,4 +252,4 @@ The suits are the only reason Team UNDERTOW can seriously consider crossing the 
 
 ---
 
-*Last updated: 2026-08-23*
+*Last updated: 2026-09-09*

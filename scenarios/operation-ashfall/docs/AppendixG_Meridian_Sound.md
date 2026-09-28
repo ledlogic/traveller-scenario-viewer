@@ -36,6 +36,8 @@ Access is sealed by blast-rated hatches carrying a standard flood-safety interlo
 
 **It also works the other way, and it's worth knowing that going in.** The interlock is a passive safety system, not an active defense — it responds to sensor readings, not intent. A team that forces one of these hatches open from the outside (Explosives or Mechanic, Difficult) doesn't disable the interlock; it just does what forcing open any hardened seal below grade near open water tends to do — compromises it. **At one table running this scenario, the players did exactly this: breached a street-level hatch directly rather than working the flood trick, and the resulting structural failure flooded the immediate area anyway, sealing the garrison in by force rather than by design.** Treat this as fully valid, not a workaround or an exploit — it's the same physical logic as the intended trick, arrived at from the opposite direction. A referee whose table tries this should let it work, with the same general consequences (garrison sealed for a referee-judged window, real structural noise/mess at the breach point) as the intended Pinnace Gambit route.
 
+**A third option, if the table would rather not spend a charge or a skill check they don't have: the dockside equipment itself.** The working edge of the harbor near the Pi Building's water-facing side is a real cargo yard, not just open water — stacked shipping containers, a **legged cargo-handling walker** (a remote-operated or lightly autonomous crane on Walker locomotion, the same real design category as the Sentry Walker and Dog Sentries in Appendix N, just unarmed and built for freight instead of security), and a **wheeled forklift-type loader** parked at the edge of the yard. Any of this is a legitimate tool for the same job: a team that can get one running (Electronics or Mechanic to bypass ignition/authorization, Average) can use **Drive (tracked)** for the legged walker or **Drive (wheeled)** for the forklift to physically ram or tear open a hatch, functionally identical to the Explosives/Mechanic breach above — same consequence, same flooding, a different skill set gets to be the hero of the scene. Reyes ("Ten-Ton," Chapter 2, §2.6 — Drive (wheeled/tracked) 3) is the obvious pick if the table has him on the roster, but this doesn't require Voss or an explosives specialist to be present at all, which is the point: it's a second real option for a team that built differently.
+
 **The bollard wall.** A low perimeter barrier — waist-to-chest height, close-set concrete bollards linked by a curb wall — rings the building's water-facing base, ordinary harbor-safety infrastructure meant to stop vehicles and storm surge from reaching the entrances directly. It was never designed with anything more dramatic in mind than bad weather. It is, however, entirely capable of holding a flood surge in place over the stairwell hatches for long enough to matter, if enough water goes over it at once.
 
 **Visuals:** use the water/shoreline color palette established in Chapter 3, §3.2 — flat oily black water under Ys's tainted-atmosphere night sky, broken by fire-orange and floodlight blue-white reflections smeared rather than clean, dark wet concrete and slag-black rock at the waterline. This isn't a scenic bay; it should read as an industrial harbor in crisis even from the water looking up at the Pi Building's underside.
@@ -114,28 +116,15 @@ If a table specifically wants a reusable pinnace *and* the Gambit's flooding eff
 
 *A defensive asset stationed in the plaza between the two towers, guarding the Pi Building's ground-level approach.*
 
-The **Colossus-Pattern Naval Sentry Walker** is a TL15 bipedal combat automaton — roughly four metres at the shoulder, built for static defense of high-value naval installations rather than mobile field combat. It stands watch in the open plaza between the west and east towers, visible, deliberately intimidating, and — like most things on Ys tonight — running on a skeleton protocol rather than full readiness, since the naval command staff that would normally supervise it are stretched thin managing the uprising elsewhere in the city.
+The **Colossus-Pattern Naval Sentry Walker** is a TL15 bipedal combat automaton, built for static defense of high-value naval installations rather than mobile field combat. It stands watch in the open plaza between the west and east towers, visible, deliberately intimidating, and — like most things on Ys tonight — running on a skeleton protocol rather than full readiness, since the naval command staff that would normally supervise it are stretched thin managing the uprising elsewhere in the city.
 
-*A note on sourcing: this project's uploaded rulebooks don't include a dedicated robot/vehicle design chapter — CRB22 explicitly points to a separate Robot Handbook and Vehicle Handbook for that content, and neither is part of this document set. The stat block below is built in-house, using CRB22's general NPC and combat framework rather than a verified canon robot-design system. Treat the numbers as a solid, usable baseline — adjust freely.*
-
-**Stats:**
-
-| Trait | Value |
-|---|---|
-| Size | ~4m, bipedal |
-| Protection | 30 |
-| Hull/Structure | 40 (a large damage-absorption pool before the unit is disabled — well beyond a single character's Hits) |
-| Speed | 6m/round walking, 12m/round at a full stride — slow to accelerate, hard to outrun once moving |
-| Weapon | Integrated heavy autocannon, 6D damage, AP 8, fixed forward arc with limited traverse |
-| Secondary | Melee (crush/stomp), 4D damage, no traverse restriction |
-| Skills | Gunner (turret) 2 · Melee 1 · Tactics (military) 0 |
-| Sensors | Standard naval threat-assessment suite; not actively hunting, but will engage anything it flags as hostile within its patrol zone |
+**Full stats, chassis build, and skills:** see **Appendix N, §N.2** — built from the actual Robot Handbook design rules (Size 8 chassis, Protection +20, Hits 72, Heavy Weapons (vehicle) 2 for its integrated autocannon). This entry used to carry its own separate stat block; that version is retired in favor of Appendix N's real-rules build so there's only one number to keep updated.
 
 **Running it:** this is meant to be a serious obstacle, not a puzzle — six-to-nine people in Battle Dress can beat it in a straight fight, but it will hurt, and it's not the fight the team wants if there's any way around it. Its slow acceleration and fixed-arc primary weapon are its real weaknesses: flanking, mobility, and anything that gets inside its effective engagement range before it can bring the autocannon to bear (Threk's melee build, or a fast approach from an unexpected angle) beats a straight firefight every time.
 
 ### Does It Need to Roll for the Pinnace Surge?
 
-Yes — and this is one of the best reasons to run the Pinnace Gambit (§G.3) even if the team isn't planning to fight the Walker at all. A four-metre bipedal chassis is heavy, but a sudden lateral surge of displaced harbor water is exactly the kind of force that threatens a walker's footing more than a human's — more surface area to catch the wave, a higher center of mass, and no instinct for bracing beyond whatever its balance software accounts for.
+Yes — and this is one of the best reasons to run the Pinnace Gambit (§G.3) even if the team isn't planning to fight the Walker at all. A heavy bipedal chassis is still vulnerable here: a sudden lateral surge of displaced harbor water is exactly the kind of force that threatens a walker's footing more than a human's — more surface area to catch the wave, a higher center of mass, and no instinct for bracing beyond whatever its balance software accounts for.
 
 **Stability check:** the Walker rolls against its own Hull/END-equivalent (treat as END 8 for this purpose) versus a difficulty set by the surge's Effect from the Pinnace piloting check (§G.3) — **Average (8+) if the surge was a plain success, Difficult (10+) if Effect 2 or better.** A failed check knocks it prone for a full round while it reorients — an opening, not a victory, but a real one: a downed Walker can't bring its autocannon to bear, and Threk (or anyone else) gets a free window to close distance or simply route around it while it's recovering.
 
@@ -216,6 +205,7 @@ This is a pure option, not a required beat — nothing in Chapters 1–6 assumes
 | Animal Size table, including the "Large Sauropod" tier used for the Halveth's scale | CRB22 | p.88 — *note: this table's specific Hits-by-size values were affected by the same text-extraction issue flagged elsewhere in this project (Appendices B and E); the category tier (Large Sauropod) is confirmed, the exact numeric Hits value is not, and should be checked against your own copy* |
 | Battle Dress sealed/NBC-rated environmental protection (basis for underwater viability) | CRB22 p.101; CSC23 pp.38–39 | See Appendix B |
 | Explosives skill covering identification and disarming of explosive devices (basis for the mine-belt task chain, §G.2) | CRB22 | p.67 area — confirmed text: "covers the use of demolition charges and other explosive devices, including assembling or disarming bombs"; worked example given for disarming a device with anti-tamper detonators |
+| Drive skill specialties (Hovercraft, Mole, Track, and by extension Wheel) as the basis for the dockside heavy-equipment breach option (§G.1) | CRB22 | Skills & Tasks section, p.65 area — confirmed: "This skill is for controlling ground vehicles of various types. There are several specialities," with Track explicitly covering "tanks and other vehicles that move on tracks" |
 | Pinnace small craft specifications (basis for the crash tactic, §G.3) | CRB22 | Small Craft section — confirmed: TL12, streamlined, single-Pilot crew, Hull rating 16, fusion power plant, fixed weapon mount capable. *Exact tonnage figure was not reliably extractable from the source PDF — same recurring text-extraction issue flagged elsewhere in this project. Confirm against your own copy if the precise number matters at the table.* |
 | Meridian Sound bathymetry table and glacial-trench explanation (§G.1) | Original to this project | Not drawn from any rulebook — worldbuilding grounded in the real-world comparison points named directly in the text (Puget Sound's basin type, real glacially-carved fjord/sound depths) |
 
@@ -223,4 +213,4 @@ This is a pure option, not a required beat — nothing in Chapters 1–6 assumes
 
 ---
 
-*Last updated: 2026-08-23*
+*Last updated: 2026-09-09*
