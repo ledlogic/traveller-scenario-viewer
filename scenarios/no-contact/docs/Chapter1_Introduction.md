@@ -5,6 +5,14 @@
 
 ---
 
+## CONVENTION BLURB (Con of the North)
+
+Six strangers. One roadside motel on the edge of a dying desert world. Each of you is a Solomani Security agent told to lie low at Motel Yermo and wait for extraction back across the border. The ride never comes. The storm has cut the phones, the diner is far too quiet, and something out on the flats is being fed. One of the six is not who they claim to be. Mongoose Traveller 2e, pre-generated characters, new players welcome. Trust no one, least of all your roommate.
+
+*(471 characters)*
+
+---
+
 ## 1.0 — PREMISE
 
 All six player characters are **Solomani Security (SolSec) assets** who have each been

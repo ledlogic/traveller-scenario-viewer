@@ -28,7 +28,20 @@ Key real details worth building the fake region around:
   characterization (Chapter 1, §1.1): pick or seed a regional bypass — a newer
   highway alignment, a rerouted rail spur, a shifted starport shuttle corridor —
   that quietly stranded this stretch of road years ago, explaining why it's this
-  quiet and this easy to disappear into.
+  quiet and this easy to disappear into. **Resolved:** the bypass runs the
+  opposite direction from the Strange Park (§5.3) — the old road, the one the
+  motel sits on, is the one that leads toward the Reserve; the new route leads
+  away from it entirely. Officially the realignment was pure economics, a
+  shorter or more efficient route for regional traffic. Unofficially, it also
+  happened to route most through-traffic away from the one stretch of road
+  where bad interactions with the Reserve or its truck route were most
+  likely — a convenient side effect the bureaucracy never needed to name or
+  justify, since the paperwork only had to say "efficiency" to be
+  procedurally complete. Whether anyone actually engineered it that way on
+  purpose, or it was simply a fortunate accident the Civil Service
+  Bureaucracy quietly noticed and never corrected, is left to the referee —
+  either answer fits the government type's established texture (Chapter 1,
+  §1.2) equally well.
 - **Population that shrank to almost nothing.** Amboy's population ran from
   roughly 700 at its peak down to single digits, and by some recent counts, zero
   — privately owned, kept alive as much by preservation effort as by real
@@ -91,7 +104,8 @@ be true, rather than existing only because the plot needs them to.
 ## 5.3 — THE STRANGE PARK (OPTIONAL, BACKGROUND ONLY)
 
 Roughly an hour's drive from the motel, off a spur road most maps don't bother
-labeling, sits a fenced, half-abandoned tourist site the locals just call
+labeling — and in the opposite direction from the regional bypass (§5.0) that
+stranded this stretch of road — sits a fenced, half-abandoned tourist site the locals just call
 **the Gut** — officially the **Halvorsen Basin Biological Reserve**, discovered
 by a rancher-turned-prospector decades before tonight and briefly a real
 regional attraction before a disaster in **Y1113** quietly ended public

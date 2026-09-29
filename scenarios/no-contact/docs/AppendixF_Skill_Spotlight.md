@@ -26,9 +26,10 @@ are genuine levers:
   versions — Melee/Gun Combat focus, a literal kill-order as his Confederation
   secret objective, "positioned to physically neutralize the cell" as
   Imperium. He should feel useful the moment a scene turns physical.
-- **Deputy Marsh** (Appendix E, §E.1) and the **ISS Watcher** version of the
-  idling stranger (Appendix E, §E.2) both carry real weapons and real stakes
-  once talking stops working.
+- **Deputy Marsh** (Appendix E, §E.1) carries a real weapon and real stakes
+  once talking stops working — the idling stranger's Shutter Project version
+  (Appendix E, §E.2) is deliberately built to de-escalate and drive off
+  instead, so lean on Marsh if a table wants that kind of tension.
 - Chapter 3, §3.3 explicitly allows a **firefight** as one of three valid
   endings, alongside escape and stand-down.
 - **Wei's black-op threshold** (Chapter 2, §2.4) is the strongest lever: a
@@ -57,8 +58,8 @@ are genuine levers:
 
 - **Recon** — the built-in payoff skill for the highway traffic table
   (Appendix B, §B.2); he's the PC who should roll here most often.
-- **Electronics (comms)** — the natural skill to notice the ISS Watcher's
-  TL12 scanner suite (Appendix E, §E.2) is off, or to investigate why a room
+- **Electronics (comms)** — the natural skill to notice the Version B mole's
+  TL12 gear (Chapter 1, §1.4) is off, or to investigate why a room
   check-in call (Appendix E, §E.4) sounded strange.
 - **Stealth** — moving to check Room 4 or the restaurant without drawing
   attention, especially useful during the free-form Graveyard shift.

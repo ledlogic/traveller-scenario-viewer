@@ -91,43 +91,60 @@ slightly embarrassed stranger who didn't realize how suspicious idling outside
 a motel at 3am looks. Good for deflating tension right when a table most expects
 it to escalate.
 
-### Version 2 — Imperial Security Service Watcher
+### Version 2 — Shutter Project Watcher
 
-Genuine surveillance — not necessarily connected to the Version B mole seeded
-among tonight's guests (Chapter 2), but part of the same broader net that could
-eventually catch Osei (Chapter 1, §1.2) or the mole independently. Use this
-version when a referee wants the tech-discipline stakes from Appendix B, §B.1
-to feel real without triggering a full raid.
+Not Imperial at all — genuine surveillance, but local, and tied to the
+Strange Park's hidden funding scheme rather than the SolSec/Imperium plot
+(Chapter 5, §5.4–5.6). This person is quietly attached to the Shutter
+Project, watching the motel because unusual activity nearby — stranded
+storm traffic, an unfamiliar police presence, six new guests in one night —
+is exactly the kind of attention that could get someone asking questions
+about the body-bank accounts or the Project itself. Their concern is entirely
+selfish and local: protecting a decades-old secret, not stopping an
+extraction. Use this version when a referee wants dread and outside
+attention to feel real without pulling Imperial Intelligence into a scenario
+that's meant to stay self-contained — and as a way to let the Strange Park's
+background lore brush up against tonight's plot without the two threads
+actually connecting.
 
-**Age:** 33
+**Age:** 41
 
-**UPP:** 887998 *(STR 8 (0), DEX 8 (0), END 7 (0), INT 9 (+1), EDU 9 (+1), SOC 8 (0))*
+**UPP:** 776655 *(STR 7 (0), DEX 7 (0), END 6 (0), INT 6 (0), EDU 5 (-1), SOC 5 (-1))*
 
-**Career history:** Three terms **Imperial Intelligence/Security** field agent —
-career professional, not a rookie, but not senior enough to be running this
-operation alone; a lone watcher on a routine assignment, not the vanguard of an
-imminent raid.
+**Career history:** No formal career terms — a lifelong Jorjor local, recruited
+into the Shutter Project's watch rotation the way most of its people are:
+knew someone, needed the quiet extra income the body-bank float can
+discreetly provide, and never asked too many questions about where the
+money actually came from.
 
-**Skills:** Recon 2, Stealth 1, Electronics 0, Electronics (sensors) 2,
-Investigate 1, Persuade 1, Gun Combat 0, Gun Combat (slug pistol) 1
+**Skills:** Recon 1, Stealth 1, Electronics 0, Electronics (comms) 1,
+Streetwise 1, Persuade 0
 
-**Gear:** TL12 passive scanner suite built into the vehicle itself, disguised
-console housing; a genuinely period-correct TL7 sedan exterior. This is the
-same TL gap logic used for the Version B mole's gear (Chapter 1, §1.4) — worth
-noticing, not worth an instant reveal.
+**Gear:** A genuinely homemade TL7 directional radio receiver, wired together
+from surplus and salvaged parts — the same scrappy, vacuum-tube-era
+electromagnetics the whole Shutter Project runs on (Chapter 5, §5.5), not
+anything that would read as anomalous if searched. No weapon beyond
+whatever's locally unremarkable to carry (Chapter 1, §1.1's High Law
+firearms allowance).
 
-**Referee use:** should never approach or make contact voluntarily — the whole
-point is passive observation from a safe distance. If confronted directly, the
-watcher drives off rather than escalates; a physical confrontation should be a
-real, difficult PC choice (ramming the vehicle, disabling it) rather than
-something the watcher walks into. This version is best used to seed dread and
-confirm (without proof) that outside attention is real, not to trigger combat.
+**Referee use:** should never approach or make contact voluntarily — the
+whole point is passive observation from a safe distance, same caution as
+any nervous amateur trying not to be noticed. If confronted directly, the
+watcher drives off rather than escalates, and under real pressure would
+rather admit to small-time local snooping (fear of a jealous spouse, petty
+surveillance for the town's rumor mill) than reveal anything about the
+Project — a plausible, mundane lie that happens to be protecting something
+much stranger underneath. This version deliberately has **no TL gap** to
+notice — unlike the Version B mole's gear (Chapter 1, §1.4), there's nothing
+here to mechanically detect, which keeps it a genuine, separate thread rather
+than a second copy of the same tell.
 
-**Neural.AI image prompt:** A nondescript sedan parked at the edge of a dark
-desert highway, engine running, headlights off, a single silhouette visible
-behind the wheel, illuminated faintly by dashboard light. Still, watchful,
-deliberately unremarkable. Night desert backdrop. Photorealistic, science
-fiction scene, no text, no logos.
+**Neural.AI image prompt:** A weathered, unremarkable local in a worn jacket,
+sitting low in the driver's seat of a plain sedan parked at the edge of a
+dark desert highway, engine running, headlights off, a homemade radio
+receiver with exposed wiring resting on the passenger seat. Nervous,
+furtive posture rather than professional stillness. Night desert backdrop.
+Photorealistic, science fiction scene, no text, no logos.
 
 ---
 

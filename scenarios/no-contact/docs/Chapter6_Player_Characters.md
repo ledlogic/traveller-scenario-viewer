@@ -34,6 +34,8 @@ nothing you'd take your mother to.
 SolSec sleeper, three years deep-cover running a fringe religious front as an
 intelligence-gathering and money-laundering operation.
 
+**Age:** 38
+
 **UPP:** 677899 *(STR 6 (0), DEX 7 (0), END 7 (0), INT 8 (0), EDU 9 (+1), SOC 9 (+1))*
 
 **Recent history — how they got here:** Arrived two days ago via a hired local
@@ -81,6 +83,8 @@ strange calm cracks only when the rendezvous protocol itself is threatened.
 Same name, same cult-front cover — but the front was actually stood up by Imperial
 Intelligence eighteen months ago as bait, and Corvin was slotted in to run it.
 
+**Age:** 38
+
 **UPP:** 686998 *(STR 6 (0), DEX 8 (0), END 6 (0), INT 9 (+1), EDU 9 (+1), SOC 8 (0))*
 
 **Recent history — how they got here:** Arrived the same way, on the same kind of
@@ -125,6 +129,8 @@ called that.
 Low-level courier and lookout, useful specifically because he's dismissed as harmless
 local color. Has run message drops through this motel for over a year.
 
+**Age:** 56
+
 **UPP:** 878654 *(STR 8 (0), DEX 7 (0), END 8 (0), INT 6 (0), EDU 5 (-1), SOC 4 (-1))*
 
 **Recent history — how they got here:** Not a one-way ride tonight — Dabney has lived
@@ -164,6 +170,8 @@ mundane motel trivia — which is cover, but also just who he is.
 
 Same harmless-local cover, but he was placed here first, over a year ago, specifically
 to become "furniture" before any SolSec operation used this motel.
+
+**Age:** 56
 
 **UPP:** 787754 *(STR 7 (0), DEX 8 (0), END 7 (0), INT 7 (0), EDU 5 (-1), SOC 4 (-1))*
 
@@ -211,6 +219,8 @@ at you like she knows something.
 Runs a genuine cold-reading operation as cover for debriefing nervous assets — people
 talk to psychics. Skilled interrogator disguised as a mystic.
 
+**Age:** 44
+
 **UPP:** 566899 *(STR 5 (-1), DEX 6 (0), END 6 (0), INT 8 (0), EDU 9 (+1), SOC 9 (+1))*
 
 **Recent history — how they got here:** Arrived three nights ago by regional bus,
@@ -247,6 +257,8 @@ fortune teller wouldn't need.
 Same act, but her "gift" is genuinely just excellent Imperial interrogation training —
 she was inserted specifically because a psychic-cover agent is a perfect debriefing
 trap for exactly this kind of network.
+
+**Age:** 44
 
 **UPP:** 565999 *(STR 5 (-1), DEX 6 (0), END 5 (-1), INT 9 (+1), EDU 9 (+1), SOC 9 (+1))*
 
@@ -289,6 +301,8 @@ sweaty dollar bills.
 Youngest asset in the cell, a genuine defector-in-training being smuggled out — not a
 hardened agent, an asset in the truest sense: someone SolSec is retrieving.
 
+**Age:** 19
+
 **UPP:** 697654 *(STR 6 (0), DEX 9 (+1), END 7 (0), INT 6 (0), EDU 5 (-1), SOC 4 (-1))*
 
 **Recent history — how they got here:** Hitched the last fifty kilometers in the back
@@ -327,6 +341,8 @@ hardened agent wouldn't.
 
 The "defector" story is a construct — actually a trained juvenile-presenting Imperial
 operative, chosen precisely because "scared kid" disarms suspicion fastest.
+
+**Age:** 19
 
 **UPP:** 696754 *(STR 6 (0), DEX 9 (+1), END 6 (0), INT 7 (0), EDU 5 (-1), SOC 4 (-1))*
 
@@ -370,6 +386,8 @@ anywhere. And always, always working an angle.
 SolSec courier, six years running low-level intel out of Imperial space under press
 credentials.
 
+**Age:** 33
+
 **UPP:** 676887 *(STR 6 (0), DEX 7 (0), END 6 (0), INT 8 (0), EDU 8 (0), SOC 7 (0))*
 
 **Recent history — how they got here:** Drove herself in a rented sedan from the
@@ -406,6 +424,8 @@ operation could unravel with nobody firing a shot.
 ### "Corrin Ashe" — Version: Imperium
 
 Imperial Intelligence plant inserted into SolSec's courier network eight months ago.
+
+**Age:** 33
 
 **UPP:** 676986 *(STR 6 (0), DEX 7 (0), END 6 (0), INT 9 (+1), EDU 8 (0), SOC 6 (0))*
 
@@ -448,6 +468,8 @@ them around. True or not, those knuckles stay bruised.
 Muscle and enforcement for the cell — genuinely capable of violence, kept in reserve
 unless the extraction goes wrong on the ground.
 
+**Age:** 45
+
 **UPP:** A79655 *(STR 10 (+1), DEX 7 (0), END 9 (+1), INT 6 (0), EDU 5 (-1), SOC 5 (-1))*
 
 **Recent history — how they got here:** Rode in as hired "muscle" on a legitimate-
@@ -459,8 +481,11 @@ ordinary freight run to anyone who checked it.
 Persuade 2, Streetwise 1
 
 **Gear:** TL10 subdermal reinforcement in the forearms (unarmed strikes hit harder
-than they should); revolver is a genuine TL7 period piece, legally carried and
-deliberately unremarkable under Jorjor's High Law/controlled-blades regime.
+than they should); a TL10 concealed armor lining sewn into the suit itself —
+enough to matter in a real fight, invisible unless someone's actually
+searching the seams; revolver is a genuine TL7 period piece, legally carried
+and deliberately unremarkable under Jorjor's High Law/controlled-blades
+regime.
 
 **Neural.AI image prompt:** A hulking man in his 40s squeezed into an ill-fitting,
 loud pinstripe suit, thick bruised knuckles resting on a motel dresser, gold rings on
@@ -488,6 +513,8 @@ real thug postures more than he acts.
 Imperial field operative playing muscle specifically to be the one "allowed" to use
 force without suspicion when the moment comes.
 
+**Age:** 45
+
 **UPP:** A89753 *(STR 10 (+1), DEX 8 (0), END 9 (+1), INT 7 (0), EDU 5 (-1), SOC 3 (-1))*
 
 **Recent history — how they got here:** Same delivery-truck cover, same duffel bag —
@@ -499,7 +526,11 @@ manifest.
 Persuade 1, Investigate 1
 
 **Gear:** TL12 reinforcement, functionally similar but noticeably faster recovery
-from injury than TL10 should allow — the sharpest mechanical tell in the cast.
+from injury than TL10 should allow — the sharpest mechanical tell in the cast;
+a TL12 concealed armor lining, lighter and more effective than the
+Confederation version but built into the same unremarkable suit; a slug
+pistol matching his Gun Combat specialty, carried the same way and just as
+legally unremarkable as the Confederation version's revolver.
 
 **Neural.AI image prompt:** A hulking man in his 40s squeezed into an ill-fitting,
 loud pinstripe suit, thick bruised knuckles resting on a motel dresser, gold rings on
