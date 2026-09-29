@@ -51,7 +51,7 @@ Vantry's people are not door-kickers, and there's no cover to blow, the team was
 | DM | +0 | +1 | +1 | +1 | +0 | +0 |
 
 **Skills:** Investigate 2 · Recon 2 · Stealth 2 · Streetwise 2 · Gun Combat 0 · Gun Combat (slug) 2 · Electronics 0 · Electronics (comms) 1 · Deception 1
-**Armour:** Cloth Jacket, concealable (**Protection +5, Rad (**, TL10, 2kg, no skill required) CSC23; CRB22's own parallel "Cloth" row at p.100 is affected by the same text-extraction issue flagged elsewhere in this project and never actually printed a protection number), ISS agents do not want to look military
+**Armour:** Cloth Jacket, concealable (**Protection +5, Rad none**, TL10, 2kg, no skill required, CSC23; CRB22's own parallel "Cloth" row at p.100 is affected by the same text-extraction issue flagged elsewhere in this project and never actually printed a protection number), ISS agents do not want to look military
 **Weapon:** Autopistol, 3D–3 (CRB22 p.124), suppressed
 **Equipment:** Concealed comm with encrypted ISS channel, forged or legitimate civilian credentials, a field kit for pattern-of-life work (photography, document copying) rather than combat
 

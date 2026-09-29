@@ -13,7 +13,7 @@
 
 ## 6.1 - THE BUNKER
 
-The control bunker is the original test-site facility from thirty-one years ago, sealed and repurposed rather than rebuilt (which matters, because it means the team is walking into TL12-era Imperial military construction, not something built yesterday. Basaran's information (Chapter 3, §3.3) or the Level IV technical plaque (Chapter 4, §4.4)) whichever the team secured, gives them the physical layout in advance. Without either, the referee should still let the team map it through play; it costs time (a Countdown mark), not the mission.
+The control bunker is the original test-site facility from thirty-one years ago, sealed and repurposed rather than rebuilt, which matters, because it means the team is walking into TL12-era Imperial military construction, not something built yesterday. Basaran's information (Chapter 3, §3.3) or the Level IV technical plaque (Chapter 4, §4.4), whichever the team secured, gives them the physical layout in advance. Without either, the referee should still let the team map it through play; it costs time (a Countdown mark), not the mission.
 
 **Layout, top to bottom:**
 

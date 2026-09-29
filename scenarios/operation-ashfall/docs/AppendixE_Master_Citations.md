@@ -70,12 +70,14 @@ Not every source in this scenario is a Traveller sourcebook, some worldbuilding 
 | Physical Characteristic Augmentation (Dexterity Augmentation, DEX +1, TL11, Cr500,000), basis for Kade's cybernetic implant (Ch 2, §2.2) | Ch 2, §2.2 | CRB22, p.106 |
 | Skills Packages (group-selected shared skill pool, e.g. Diplomat: Admin, Advocate, Deception, Diplomat, Electronics, Persuade, Stealth, Streetwise), basis for Kade's Admin 1 | Ch 2, §2.2 | CRB22, Character Creation chapter |
 | Confederation Marine restriction (Star Marine assignment only) and dedicated SolSec career (Field Agent/Administrator/Secret Agent), basis for Kade's full term-by-term rebuild | Ch 2, §2.2 | Aliens of Charted Space Vol. 2, pp.128–134 |
+| Vargr racial characteristic modifier for Imperium-raised Vargr (STR-1, DEX+1, END-1), Army career (Infantry assignment, explicitly notes "may also be mercenaries for hire"), Rogue career (Enforcer assignment), and Prisoner career (Inmate assignment, including the Parole Threshold release mechanic starting at 1D+2, capped at 12), basis for Threk's full term-by-term rebuild | Ch 2, §2.3 | CRB22, Character Creation chapter |
+| Muan Gwi and the Vegan Autonomous District (Imperial territory, created after the Solomani Rim War as a counterbalance to Solomani influence), basis for Threk's homeworld | Ch 2, §2.3 | Solomani Front, world listing and Vegan Autonomous District chapter |
 
 ---
 
 ## E.4 - A NOTE ON THE TWO CONFIRMED ERRATA
 
-Worth flagging on its own, since it came up twice independently while building this scenario: **CRB22's printed armour table is missing Battle Dress's Protection value**, and **its Radiation Effects table lost its numeric thresholds** (both look like the same category of PDF text-extraction/typesetting error rather than content Mongoose intentionally omitted. Neither is a judgment call on our part; the Battle Dress gap was independently corroborated by other GMs reporting the identical issue on Mongoose's own forums before we ever cross-checked it against CSC23. Numbers used in this scenario for both are sourced from CSC23 (Battle Dress) or reconstructed from the standard cross-edition Traveller radiation table (Radiation Effects)) flagged inline at both points of use (Ch 2/App B, and Ch 4) as well as here.
+Worth flagging on its own, since it came up twice independently while building this scenario: **CRB22's printed armour table is missing Battle Dress's Protection value**, and **its Radiation Effects table lost its numeric thresholds**, both look like the same category of PDF text-extraction/typesetting error rather than content Mongoose intentionally omitted. Neither is a judgment call on our part; the Battle Dress gap was independently corroborated by other GMs reporting the identical issue on Mongoose's own forums before we ever cross-checked it against CSC23. Numbers used in this scenario for both are sourced from CSC23 (Battle Dress) or reconstructed from the standard cross-edition Traveller radiation table (Radiation Effects), flagged inline at both points of use (Ch 2/App B, and Ch 4) as well as here.
 
 ---
 

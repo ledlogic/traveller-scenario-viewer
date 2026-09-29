@@ -159,7 +159,7 @@ Rourke carries two Advanced Combat Rifles, one in each hand, and fires both toge
 | DM | +2 | +1 | +1 | +0 | –1 | –1 |
 
 **Skills:** Gun Combat 0 · Gun Combat (slug) 3 · Athletics 0 · Athletics (strength) 2 · Melee 0 · Melee (unarmed) 1 · Tactics (military) 1
-**Armour:** Combat Armour, Advanced (**Protection +19, Rad 180**, TL14, Vacc Suit 0 required (CSC23)) genuinely heavier, Imperial Army-pattern gear rather than standard naval security issue, matching an unusual posting for a naval installation
+**Armour:** Combat Armour, Advanced (**Protection +19, Rad 180**, TL14, Vacc Suit 0 required, CSC23), genuinely heavier, Imperial Army-pattern gear rather than standard naval security issue, matching an unusual posting for a naval installation
 **Weapons:** 2× Advanced Combat Rifle (Range ~500m, 3D, Auto 3 each, CRB22 p.125). **Dual Weapons rule (CRB22, p.78):** may attack with both rifles in the same combat round; cannot aim with either; –2 DM to both attack rolls while dual-wielding
 
 **Running him:** he is not subtle and shouldn't need to be (Rourke's whole design is a wall of firepower in a narrow hallway, the kind of encounter where cover and positioning matter far more than a straight exchange of fire. His Advanced armor makes him meaningfully tougher than the generic Loyalist Detail (Appendix A, §A.6) or even Commander Ferro's Improved-tier gear) a team expecting a standard guard here is in for a genuine surprise.
