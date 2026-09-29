@@ -1,13 +1,13 @@
 # TRAVELLER: OPERATION ASHFALL
-## Appendix N — Robots: Full Design Builds
+## Appendix N - Robots: Full Design Builds
 
 *Referee Reference Document*
 
 ---
 
-## N.1 — WHY THIS EXISTS
+## N.1 - WHY THIS EXISTS
 
-Appendix G's original Sentry Walker was built in-house, before this project had access to the actual Robot Handbook — flagged as unverified at the time. It's now rebuilt from the real design system (chassis Size, Locomotion, Armour-by-Slot), and a second robot type — smaller sentries patrolling Floor 0 and Krein's own office — is built the same way. All math shown, not just results, so it can be audited or rescaled.
+Appendix G's original Sentry Walker was built in-house, before this project had access to the actual Robot Handbook (flagged as unverified at the time. It's now rebuilt from the real design system (chassis Size, Locomotion, Armour-by-Slot), and a second robot type) smaller sentries patrolling Floor 0 and Krein's own office, is built the same way. All math shown, not just results, so it can be audited or rescaled.
 
 **Design constants used throughout, per the Robot Handbook's own tables:**
 - Walker locomotion: TL8+, Agility +0, ATV trait, Base Endurance 72 hours, **Cost Multiplier ×10**
@@ -16,11 +16,11 @@ Appendix G's original Sentry Walker was built in-house, before this project had 
 
 ---
 
-## N.2 — COLOSSUS-PATTERN SENTRY WALKER (REBUILT, SIZE 8)
+## N.2 - COLOSSUS-PATTERN SENTRY WALKER (REBUILT, SIZE 8)
 
-*Stationed in the plaza between the two towers (Chapter 2's Floor 0 plan). Supersedes the original Appendix G write-up — this is the same character in the story, corrected numbers.*
+*Stationed in the plaza between the two towers (Chapter 2's Floor 0 plan). Supersedes the original Appendix G write-up, this is the same character in the story, corrected numbers.*
 
-**Chassis:** Size 8 (128 Base Slots, 72 Base Hits — the book's own comparison point is Rhino/Orca scale, the largest pre-defined category)
+**Chassis:** Size 8 (128 Base Slots, 72 Base Hits, the book's own comparison point is Rhino/Orca scale, the largest pre-defined category)
 **Locomotion:** Walker (ATV trait, Agility +0, Speed ~6m, matching other Walker-locomotion designs in the book)
 **TL:** 15
 
@@ -38,14 +38,14 @@ Appendix G's original Sentry Walker was built in-house, before this project had 
 | Colossus-Pattern Sentry Walker | 72 | Walker | 6m | 15 | Cr90,000 (before weapons/sensors/programming) |
 
 **Traits:** Armour (+20) - ATV - Large (+3) -- the Attack Roll DM that comes with a Size 8 chassis; it's a genuinely easier target to hit than a human-scale opponent, which is the real-rules tradeoff for all that Protection and Hits.
-**Skills:** Heavy Weapons 0 - Heavy Weapons (vehicle) 2 *(corrected from an earlier "Gunner (turret)" listing — Gunner specifically covers spacecraft-mounted weapons in space combat per CRB22; Heavy Weapons (vehicle) is the real skill for "large weapons typically mounted on vehicles or strongpoints such as tank guns and autocannon," which is exactly this chassis's integrated autocannon)* - Melee 1 - Tactics (military) 0 *(these live in the remaining 124 Slots' programming/skillware allocation, not itemized further here)*
+**Skills:** Heavy Weapons 0 - Heavy Weapons (vehicle) 2 *(corrected from an earlier "Gunner (turret)" listing, Gunner specifically covers spacecraft-mounted weapons in space combat per CRB22; Heavy Weapons (vehicle) is the real skill for "large weapons typically mounted on vehicles or strongpoints such as tank guns and autocannon," which is exactly this chassis's integrated autocannon)* - Melee 1 - Tactics (military) 0 *(these live in the remaining 124 Slots' programming/skillware allocation, not itemized further here)*
 **Weapon:** Integrated heavy autocannon, 6D, AP8, fixed forward arc *(kept from the original design -- the Robot Handbook's own heavy weapon options are covered separately in Appendix O if you want a fully itemized weapon-mount build)*
 
 **Stability check for the Pinnace Gambit's surge (Appendix G, §G.4) is unchanged** -- still rolls against END 8 equivalent, still Average (8+) or Difficult (10+) depending on the surge's Effect. A bigger chassis doesn't make it meaningfully harder to knock over; more surface area to catch a wave cuts against the extra mass.
 
 ---
 
-## N.3 — DOG SENTRIES (NEW, SIZE 4)
+## N.3 - DOG SENTRIES (NEW, SIZE 4)
 
 *Patrol Floor 0's plaza-level approaches and Krein's own office (Floor 5) -- smaller, faster, more numerous than the single Sentry Walker, and a genuinely different tactical problem.*
 
@@ -81,7 +81,7 @@ Appendix G's original Sentry Walker was built in-house, before this project had 
 
 ---
 
-## N.4 — SOURCE CITATIONS
+## N.4 - SOURCE CITATIONS
 
 | Element | Source | Page/Note |
 |---|---|---|
@@ -94,4 +94,4 @@ Appendix G's original Sentry Walker was built in-house, before this project had 
 
 ---
 
-*Last updated: 2026-09-09*
+*Last updated: 2026-09-29*
