@@ -67,6 +67,9 @@ Not every source in this scenario is a Traveller sourcebook — some worldbuildi
 | "Landscape of Thorns" spike-field design for the Glass Reach | Ch 1, §1.4; Ch 4, §4.4 | Michael Brill / BOSTI team, 1991 — one of several marker concepts commissioned by Sandia National Laboratories for the real Waste Isolation Pilot Plant (WIPP) |
 | Trinitite as the real-world basis for the spike field's olive-green color (against the crater floor's black glass) | Ch 1, §1.4; Ch 4, §4.4 | Real-world reference: the glass created by the July 1945 Trinity nuclear test, famously pale olive-green rather than black due to the specific mineral content of the fused desert sand |
 | StudyDeck / public flashcard-app intel leak | App D, §D.1–D.2 | Bellingcat, "US Soldiers Expose Nuclear Weapons Secrets Via Flashcard Apps," May 28, 2021 (Foeke Postma) |
+| Physical Characteristic Augmentation (Dexterity Augmentation, DEX +1, TL11, Cr500,000) — basis for Kade's cybernetic implant (Ch 2, §2.2) | Ch 2, §2.2 | CRB22, p.106 |
+| Skills Packages (group-selected shared skill pool, e.g. Diplomat: Admin, Advocate, Deception, Diplomat, Electronics, Persuade, Stealth, Streetwise) — basis for Kade's Admin 1 | Ch 2, §2.2 | CRB22, Character Creation chapter |
+| Confederation Marine restriction (Star Marine assignment only) and dedicated SolSec career (Field Agent/Administrator/Secret Agent) — basis for Kade's full term-by-term rebuild | Ch 2, §2.2 | Aliens of Charted Space Vol. 2, pp.128–134 |
 
 ---
 
@@ -76,4 +79,4 @@ Worth flagging on its own, since it came up twice independently while building t
 
 ---
 
-*Last updated: 2026-09-09*
+*Last updated: 2026-09-29*

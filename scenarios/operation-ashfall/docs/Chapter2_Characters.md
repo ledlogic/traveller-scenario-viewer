@@ -17,7 +17,7 @@
 
 | # | Name | Callsign | Role | Key Skills |
 |---|------|----------|------|------------|
-| 1 | Rosalind Kade | "Anvil" | Team Leader | Leadership 3, Tactics (military) 2, Vacc Suit 2 |
+| 1 | Rosalind Kade | "Anvil" | Team Leader | Leadership 2, Tactics (military) 2, Gun Combat (slug) 2 |
 | 2 | Uzgar Threk (Vargr) | "Snarl" | Heavy Weapons | Heavy Weapons (man portable) 3, Melee (blade) 2 |
 | 3 | Dietrich Voss | "Fuse" | Demolitions / Breacher | Explosives 3, Mechanic 2 |
 | 4 | Marisol Achebe | "Doc" | Combat Medic | Medic 3, Athletics (strength) 2 |
@@ -36,13 +36,45 @@
 
 *"I don't need you to like the plan. I need you to still be alive when it's over. Do that part."*
 
-Two meters of ex-Naval-infantry muscle poured into a command role she never asked for and is quietly very good at. Kade made her name on the border holding a line that should have collapsed twice, and SolSec noticed. She chews a cigar down to a stub before every op and has never once been seen lighting a fresh one in front of the team — a small superstition nobody's brave enough to ask about.
+**Born IY 1079, New Greenpernt** (Gemini Subsector, Solomani Rim 2135 — UWP B798443-B: Good starport, dense/tainted atmosphere, 80% ocean, a small population in the tens of thousands, representative democracy, moderate law level, TL11). A racial Solomani by birth, raised on a modest, technically self-sufficient colony world she left at eighteen and has rarely mentioned since.
 
-**Characteristics:** STR 12 (+2) · DEX 8 (+0) · END 11 (+1) · INT 9 (+1) · EDU 8 (+0) · SOC 6 (+0)
+**Eighteen years in Confederation service, two careers, twenty years apart in tone.** She enlisted in the Confederation Marines' Star Marine branch — the only Marine assignment open to a Confederation citizen, ship's troops trained for boarding actions and anti-boarding defense, not the ground-combat infantry her build suggests at a glance. Her first term alone saw her commissioned and promoted twice in the same four years, capping a besieged border station and its two docked vessels under simultaneous boarding assault — she held a breach point through the worst of it and came out the other side a captain. Two more terms took her to Lieutenant Colonel before she mustered out clean, no scandal, no discharge, just a decorated officer choosing her own moment to leave.
 
-**Skills:** Leadership 3 · Tactics 0 · Tactics (military) 2 · Vacc Suit 2 · Gun Combat 0 · Gun Combat (slug) 2 · Melee 0 · Melee (unarmed) 2 · Recon 1 · Admin 1
+**SolSec found her at thirty**, and she found a different kind of trouble almost immediately: a monitor agent she'd recruited as a source became something more personal than professional, and when it threatened to compromise her position, she reported him — took the commendation, took the promotion, and lived with what reporting him actually cost both of them. She still doesn't know if she'd make the same call twice. The monitor's name was Baldwin Wei; neither of them has ever brought it up since, and the fact that he's the one who signed off on sending her to Ys should probably worry her more than it does (Appendix K, §K.2).
 
-**Equipment:** SolSec-issue Battle Dress (Improved-tier — **Protection +25, Rad 290**; full specs Appendix B), Snub SMG (Range 8m, 3D6–3, Zero-G trait), command-net encrypted comm, 2x Smoke grenades (TL8), three cigars she is rationing like ammunition.
+She made Captain in SolSec's Field Agent track before this posting — Heavy Response Command, exactly the kind of paramilitary field work the assignment was built for. Eight years, two terms, a clean record, and a cybernetic Dexterity Augmentation she paid for with everything her Marine service left her, because by the time she could afford it, she'd already decided she wasn't going to be the reason a breach went wrong twice.
+
+She chews a cigar down to a stub before every op and has never once been seen lighting a fresh one in front of the team — a small superstition nobody's brave enough to ask about.
+
+**Characteristics:** STR 12 (+2) · DEX 9 (+1) · END 13 (+3) · INT 10 (+1) · EDU 8 (+0) · SOC 7 (+0)
+
+**Skills:**
+Admin 1
+Athletics 0
+Diplomat 1
+Electronics 0
+Electronics (comms) 1
+Electronics (computers) 1
+Explosives 0
+Gun Combat 0
+Gun Combat (slug) 2
+Gunner 0
+Gunner (ortillery) 1
+Gunner (turret) 1
+Leadership 2
+Melee 0
+Recon 2
+Seafarer 0
+Streetwise 1
+Tactics 0
+Tactics (military) 2
+Vacc Suit 1
+
+*Note: this skill list does not include the Connections Rule bonus (CRB22) — up to 2 additional free skills at level 1 are available if this character was linked to another Traveller's Event during group chargen.*
+
+**Cybernetics:** Dexterity Augmentation (DEX +1, TL11, Cr500,000 — CRB22 p.106, Physical Characteristic Augmentation)
+
+**Equipment:** SolSec-issue Battle Dress (Improved-tier — **Protection +25, Rad 290**; full specs Appendix B), Snub SMG (Range 8m, 3D6–3, Zero-G trait), command-net encrypted comm, 2x Smoke grenades (TL8), three cigars she is rationing like ammunition. Personally owns a set of Poly Carapace armour (Protection +10, TL10) from her Marine mustering-out — kept rather than sold, never worn on a mission Battle Dress already covers better.
 
 **Personality:** Blunt, protective, allergic to speeches. She will not leave a teammate behind, will absolutely leave a schedule behind, and has already privately accepted that this op probably doesn't end clean.
 
@@ -62,6 +94,8 @@ Uzgar is Vargr, enormous even by Vargr standards, and mean in the specific way t
 **Characteristics:** STR 13 (+2) · DEX 9 (+1) · END 10 (+1) · INT 7 (+0) · EDU 5 (–1) · SOC 4 (–1)
 
 **Skills:** Heavy Weapons 0 · Heavy Weapons (man portable) 3 · Melee 0 · Melee (blade) 2 · Gun Combat 0 · Gun Combat (slug) 2 · Athletics 0 · Athletics (strength) 2 · Survival 1 · Persuade 2
+
+*Note: this skill list does not include the Connections Rule bonus (CRB22) — up to 2 additional free skills at level 1 are available if this character was linked to another Traveller's Event during group chargen.*
 
 **Equipment:** SolSec-issue Battle Dress (Improved-tier — **Protection +25, Rad 290**; full specs Appendix B) with integrated support-weapon mount, PGHP-14 man-portable plasma gun (TL14, Range 450m, damage rated 1DD in the source catalogue — see Appendix E for a note on this notation), heavy combat blade (Melee, no range), 2x Frag grenades (TL8), the unlit cigar (non-negotiable).
 
@@ -84,6 +118,8 @@ Voss spent six years disarming Confederation ordnance before SolSec decided his 
 
 **Skills:** Explosives 3 · Mechanic 2 · Electronics 2 · Engineer 0 · Engineer (life support) 1 · Vacc Suit 1 · Recon 1 · Gun Combat 0 · Gun Combat (slug) 1
 
+*Note: this skill list does not include the Connections Rule bonus (CRB22) — up to 2 additional free skills at level 1 are available if this character was linked to another Traveller's Event during group chargen.*
+
 **Equipment:** SolSec-issue Battle Dress (Improved-tier — **Protection +25, Rad 290**; full specs Appendix B), breaching charge kit, multi-tool rig, field scanner rated for radiological and thermal hazards (critical for the Glass Reach — see Chapter 1), Gauss Rifle (Range ~400m *(standard published value; this source PDF's own row for this weapon was extraction-corrupted — see Appendix E)*, 3D6+1), 2x Frag grenades (TL8).
 
 **Personality:** Dry, precise, unhurried even when everyone around him wants him to hurry up — rushing demolitions is how people die, and he will say so, loudly, every time someone tells him to rush. Smokes exactly one cigar per session, always after the most dangerous moment, never before.
@@ -105,6 +141,8 @@ Achebe is built like she could carry any one of her squadmates out of a firefigh
 
 **Skills:** Medic 3 · Athletics 0 · Athletics (strength) 2 · Vacc Suit 1 · Gun Combat 0 · Gun Combat (slug) 1 · Persuade 1 · Recon 1
 
+*Note: this skill list does not include the Connections Rule bonus (CRB22) — up to 2 additional free skills at level 1 are available if this character was linked to another Traveller's Event during group chargen.*
+
 **Equipment:** SolSec-issue Battle Dress (medical variant, integrated trauma kit — **Protection +25, Rad 290**; full specs Appendix B), field surgery pack, Snub Pistol (Range 8m, 3D6–3, Zero-G trait), 1x Stun grenade (TL8, Stun trait), a battered cigar case she claims was a gift and won't explain further.
 
 **Personality:** Warm under a layer of professional bluntness, the moral center of the team without ever saying so out loud. She is the one most likely to push back if the plan requires writing off civilians, and the referee should use her to voice the human cost of the countdown clock.
@@ -125,6 +163,8 @@ Reyes can drive literally anything and has the scars, citations, and one memorab
 **Characteristics:** STR 10 (+1) · DEX 11 (+1) · END 9 (+1) · INT 8 (+0) · EDU 7 (+0) · SOC 4 (–1)
 
 **Skills:** Drive 0 · Drive (wheeled/tracked) 3 · Vacc Suit 2 · Mechanic 2 · Recon 2 · Gun Combat 0 · Gun Combat (slug) 1 · Athletics 0 · Athletics (endurance) 1
+
+*Note: this skill list does not include the Connections Rule bonus (CRB22) — up to 2 additional free skills at level 1 are available if this character was linked to another Traveller's Event during group chargen.*
 
 **Equipment:** SolSec-issue Battle Dress (Improved-tier — **Protection +25, Rad 290**; full specs Appendix B), Gauss Rifle (Range ~400m *(standard published value; see Appendix E note)*, 3D6+1), 2x Smoke grenades (TL8), full vehicle diagnostics kit, an entire carton of cigars he insists is "operational necessity" and Command has, for reasons unknown, never contested.
 
@@ -148,6 +188,8 @@ None of this is true. All of the "memories" are corrupted composite data — rea
 **Characteristics:** STR 12 (+2, synthetic chassis) · DEX 10 (+1) · END 14 (+2, synthetic) · INT 11 (+1) · EDU 6 (+0, corrupted archive — not a reliable measure) · SOC 5 (–1)
 
 **Skills:** Electronics 0 · Electronics (computers) 3 · Engineer 0 · Engineer (life support) 2 · Vacc Suit 2 · Mechanic 1 · Gun Combat 0 · Gun Combat (energy) 1 · Persuade 0 (technically untrained; unnervingly effective anyway)
+
+*Note: this skill list does not include the Connections Rule bonus (CRB22) — up to 2 additional free skills at level 1 are available if this character was linked to another Traveller's Event during group chargen.*
 
 **Equipment:** SolSec-issue Battle Dress (heavy chassis variant — **Protection +25, Rad 290**; full specs Appendix B), integrated diagnostic suite, Laser Pistol (Range 20m, TL9 baseline; damage figure uncertain due to a source-extraction gap, see Appendix E) — a weapon he was, until this pass, never actually issued despite the "occasionally devastating in combat" line below; carried only because Gun Combat (energy) 1 implied he ought to have something, not because he reaches for it often, 2x Stun grenades (TL8, Stun trait) -- fitting his general preference to end a fight without ending anyone, an unlit cigar it holds correctly and has never once smoked, out of what it insists is "respect for the custom" of an era it cannot actually name.
 
@@ -176,6 +218,8 @@ She is dry, quick, faster to laugh than Kade would like on an active op, and con
 
 **Skills:** Recon 2 · Electronics 0 · Electronics (sensors) 2 · Pilot 0 · Pilot (small craft) 1 · Survival 1 · Stealth 1 · Persuade 1 · Vacc Suit 1
 
+*Note: this skill list does not include the Connections Rule bonus (CRB22) — up to 2 additional free skills at level 1 are available if this character was linked to another Traveller's Event during group chargen.*
+
 **Equipment:** SolSec-issue **Type D Battle Dress** (Behind the Claw, Dolphin-specific combat variant — **Protection +25, TL15, Rad 300**, STR +2/DEX +6, 20 Slots, 12kg, Vacc Suit 1 required), built around a full travel-suit life support core rather than adapted from human-pattern armour. Integrated waldo manipulators (surgically neural-linked, no meaningful penalty at this tech level) let her handle weapons and equipment the same as any hands-and-fingers teammate — she carries no personal firearm of her own (no Gun Combat skill), but can operate any squadmate's weapon through the waldos if the situation demands it. Onboard sonar sensor system (1km range, DM+2 to Electronics (sensors) checks) stacks with her own natural echolocation for genuinely unmatched underwater situational awareness. Carries 1x Stun grenade (TL8, Stun trait) -- effective underwater as a concussive pulse, one of the few grenade types that still functions the way it's meant to when everyone involved is submerged.
 
 **Personality:** Confident, blunt, treats the rest of the team's landlubber instincts with real affection buried under a lot of teasing. She is, unambiguously, the correct answer to Appendix G's Meridian Sound waterfront approach — nobody else on the roster is built to operate in that environment the way she is, and a table fielding her should feel actively encouraged to consider that route into the Pi Building rather than defaulting straight to the Boulevard assault.
@@ -199,6 +243,8 @@ Ponch is Vargr, thirty-four, and from Kukulkan — a Solomani Rim world referenc
 
 **Skills:** Advocate 1 · Investigate 1 · Streetwise 1 · Stealth 1 · Medic 1 · Electronics 0 · Electronics (comms) 1 · Engineer 0 · Engineer (power) 1 · Melee 0 · Melee (unarmed) 1 · Pilot 0 · Pilot (small craft) 1 · Jack of All Trades 1 · Athletics 0 · Athletics (dexterity) 1
 
+*Note: this skill list does not include the Connections Rule bonus (CRB22) — up to 2 additional free skills at level 1 are available if this character was linked to another Traveller's Event during group chargen.*
+
 **Equipment:** Cloth Jacket (TL10 — **Protection +5, Rad —**, 2kg, no skill required), worn under civilian layers rather than Battle Dress — a deliberate choice matching his investigator role, per Chapter 3's insertion framing where not everyone needs to read as military. Stunner (TL12, Range 10m, 3D, 100-charge magazine, Stun/Zero-G traits) and a Stunfist (TL8, 1D+2, melee) — Ponch's entire loadout is built around taking people alive, not putting them down permanently. Also carries 2x Stun grenades (TL8, Stun trait) -- the natural extension of a loadout already built entirely around not killing anyone -- a Rescue Tool Set, a personal safe, a computer terminal, a Breather Implant (TL10), binoculars, and a backpack.
 
 **Personality:** Wry, patient, genuinely more interested in getting a straight answer out of someone than in winning a fight. His SOC 13 (+2) is the highest on the roster by a wide margin — he reads as more socially capable and connected than his combat stats suggest, and referees should let that show: people talk to Ponch, sometimes without meaning to. He is a strong pick for any table that wants to lean into Chapter 3's dockyard screening scene (§3.3) or the StudyDeck investigation in Appendix D — his whole skill set is built for exactly those beats.
@@ -221,6 +267,8 @@ Jon is Vargr, thirty-eight, also out of the Kukulkan system (a neighboring world
 **Species Trait:** pronounced canines usable as a natural close-combat weapon — Melee (Natural), 1D+1 damage, no weapon required.
 
 **Skills:** Streetwise 2 · Persuade 1 · Animals 0 · Animals (Handling) 1 · Drive 0 · Drive (wheeled) 1 · Electronics 0 · Electronics (comms) 1 · Electronics (sensors) 1 · Medic 1 · Stealth 1 · Science 0 · Science (Cosmology) 1 · Art 0 · Art (holography) 2
+
+*Note: this skill list does not include the Connections Rule bonus (CRB22) — up to 2 additional free skills at level 1 are available if this character was linked to another Traveller's Event during group chargen.*
 
 **Equipment:** Riot Shield (TL6, Melee 1D as a weapon; also rated Protection 1/Lsr1/Enrg1, **Rad —**, as wearable cover) and Cloth armour (TL12, Protection 4/Lsr4/Enrg4, **Rad —**) for a combined Protection of 5 — the highest personal protection rating on the roster outside of Battle Dress, though with no radiological protection at all, worth remembering if he's ever in the Glass Reach's rad bands (Chapter 4, §4.2) without a suit. Also carries a Club (Melee), a Revolver (TL5, Range 10m, 3D, 6-round), a Stunstick (TL8, Range Melee, 2D, Stun), 2x Smoke grenades (TL8) -- crowd control, not combat, matching his whole approach to Meridian's uprising -- a Portable Mediscan, two Rescue Tool Sets, and a Grav Floater.
 
@@ -252,4 +300,4 @@ The suits are the only reason Team UNDERTOW can seriously consider crossing the 
 
 ---
 
-*Last updated: 2026-09-09*
+*Last updated: 2026-09-29*

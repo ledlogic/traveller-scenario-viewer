@@ -85,4 +85,4 @@ Act Three — Ashfall — begins at the bunker entrance, with the manual overrid
 
 ---
 
-*Last updated: 2026-08-23*
+*Last updated: 2026-09-29*

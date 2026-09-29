@@ -42,6 +42,8 @@ His own words from that memo, on file, and — for anyone who's worked with him 
 
 **One more detail from the same era, still relevant:** Wei's information access has never run purely through normal channels. As a young field agent he was already getting intelligence from well above his pay grade — by his own account, sometimes directly from **Feng Banerjee, Minister of Information** on the High Council (Appendix K, §K.1). Eleven years later, that channel is older, quieter, and never mentioned in any official capacity, but it hasn't gone away. It's a real part of why Wei felt confident enough to act on Ys without Coordinator Chen's sign-off — not because he had her authorization, but because he had a different, older, entirely unofficial line into just how bad the Rim's trajectory actually looked from the very top, one Chen doesn't know he has.
 
+**A history he shares with the team leader he just sent into this.** Some years before he ran the Rim Desk, Wei was the monitor agent Rosalind Kade recruited, got involved with, and eventually reported when it threatened her position (Chapter 2, §2.2). Neither of them has ever brought it up since. He does not know, sending her to Ys, whether that history makes her more or less likely to forgive him if this goes wrong. This is a thread for a referee to pull on deliberately if it serves the table, not something either character is likely to raise first.
+
 ### What Changed in Eleven Years
 
 | | 1106 (Age 30) | 1117 (Age 41) |
@@ -89,4 +91,4 @@ His own words from that memo, on file, and — for anyone who's worked with him 
 
 ---
 
-*Last updated: 2026-08-23*
+*Last updated: 2026-09-29*
