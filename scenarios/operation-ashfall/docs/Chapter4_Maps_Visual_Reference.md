@@ -111,15 +111,15 @@ The map is centred on the crater the Governor's engineers repurposed thirty-one 
 | Zone | Approx. Rate | What crossing it means |
 |---|---|---|
 | **Background** | ~30 rads/hr | Negligible on its own; adds up on a long, slow crossing |
-| **Elevated** | ~150 rads/hr | Noticeable on unprotected personnel; a non-issue in Battle Dress for a short crossing |
+| **Elevated** | ~150 rads/hr | Fully absorbed by the team's armour; a non-issue for a short crossing |
 | **Hazard** | ~350 rads/hr | Where the obelisk ring sits, this is the line every warning marker on Ys is telling people not to cross |
-| **Crater Core (bunker approach)** | ~600 rads/hr | Lethal to an unprotected person within the hour; survivable in Battle Dress only because of the suit's Rad protection value (Appendix B), and only for a limited window |
+| **Crater Core (bunker approach)** | ~600 rads/hr | Lethal to an unprotected person within the hour; survivable in the team's armour only for a limited window, and only just |
 
 ### The Math That Matters at the Table
 
-Team UNDERTOW's Improved Battle Dress carries a **Rad 290** rating (Appendix B, §B.2), per CRB22 (p.100), that value is deducted from the rads a wearer receives each exposure. In the Crater Core band, that's roughly 600 rads/hr incoming, reduced to **~310 rads/hr actually absorbed** even at full protection. That's not safe. It's *survivable for the length of Act Three*, which is the point: the suits are the only reason this mission is attemptable at all, and the referee should still make the team feel the cost of lingering.
+Team UNDERTOW's Ceramic Combat Armour carries a **Rad 150** rating, per CRB22 (p.100), that value is deducted from the rads a wearer receives each exposure. In the Crater Core band, that's roughly 600 rads/hr incoming, reduced to **~450 rads/hr actually absorbed** even at full protection. That's genuinely dangerous, not the comfortable margin the older Battle Dress gave the team; the referee should treat any real time spent in the Crater Core as a serious clock, not a formality. It's *marginally survivable for a fast crossing*, which is the point: the suits get the team through, but lingering here should cost them, visibly.
 
-**Cumulative Radiation Effects** (CRB22, p.101, general Traveller convention; note the source PDF's table lost its numeric values to a text-extraction/formatting error, same issue as the Battle Dress erratum in Appendix B, so these are reconstructed from the standard Traveller radiation table rather than re-scanned from this specific file):
+**Cumulative Radiation Effects** (CRB22, p.101, general Traveller convention; note the source PDF's table lost its numeric values to a text-extraction/formatting error, so these are reconstructed from the standard Traveller radiation table rather than re-scanned from this specific file):
 
 | Cumulative Rads | Effect |
 |---|---|
@@ -166,4 +166,4 @@ Ys's markers use the same four-level logic, built by Imperial engineers thirty-o
 
 ---
 
-*Last updated: 2026-09-29*
+*Last updated: 2026-09-30*

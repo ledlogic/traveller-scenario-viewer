@@ -153,7 +153,7 @@ Yes, and it's a genuinely appealing option, but it comes with real, specific ris
 
 If the team wants an alternative to fighting through the Boulevard directly, the Sound-facing pylons offer a genuine, unconventional infiltration route: swim or pilot a small craft in under cover of the water, then climb the support pylons into the building's lower levels, bypassing the plaza entrance entirely.
 
-**Why this is viable:** Improved Battle Dress (Appendix B, §B.2) is fully sealed and NBC-rated, functionally a diving suit as well as combat armour, with 12 hours of life support. Nothing about the suits stops the team from doing this.
+**Why this is viable:** Ceramic Combat Armour is fully sealed and NBC-rated, functionally a diving suit as well as combat armour, though only for **6 hours** of environmental sealing (down from the older Battle Dress's 12-hour default), so a referee running this scene should keep half an eye on how long the team's actually spent sealed up before this route. Nothing about the suits stops the team from doing this, but it's a real clock now, not a formality.
 
 **Why this is dangerous, beyond the obvious:** normally, Meridian Sound's harbor approaches are kept clear by naval sonic deterrent buoys, routine infrastructure, unglamorous, and, tonight, unstaffed and possibly untended, like everything else stretched thin by the uprising (Chapter 3, §3.2). That deterrent net is the only thing that normally keeps the Sound's native megafauna away from the harbor.
 
@@ -203,7 +203,7 @@ This is a pure option, not a required beat, nothing in Chapters 1–6 assumes th
 | Animal Encounters stat block format (Hits, Speed, Skills, Attacks, Traits, Behaviour) | CRB22 | pp.86–88 |
 | Behaviour categories (Carnivore/Hunter, etc.) and creature archetypes | CRB22 | p.88 |
 | Animal Size table, including the "Large Sauropod" tier used for the Halveth's scale | CRB22 | p.88, *note: this table's specific Hits-by-size values were affected by the same text-extraction issue flagged elsewhere in this project (Appendices B and E); the category tier (Large Sauropod) is confirmed, the exact numeric Hits value is not, and should be checked against your own copy* |
-| Battle Dress sealed/NBC-rated environmental protection (basis for underwater viability) | CRB22 p.101; CSC23 pp.38–39 | See Appendix B |
+| Ceramic Combat Armour sealed/NBC-rated environmental protection (basis for underwater viability) | CRB22 p.101; CSC23 | See Chapter 2 equipment lines for the current stat block |
 | Explosives skill covering identification and disarming of explosive devices (basis for the mine-belt task chain, §G.2) | CRB22 | p.67 area, confirmed text: "covers the use of demolition charges and other explosive devices, including assembling or disarming bombs"; worked example given for disarming a device with anti-tamper detonators |
 | Drive skill specialties (Hovercraft, Mole, Track, and by extension Wheel) as the basis for the dockside heavy-equipment breach option (§G.1) | CRB22 | Skills & Tasks section, p.65 area, confirmed: "This skill is for controlling ground vehicles of various types. There are several specialities," with Track explicitly covering "tanks and other vehicles that move on tracks" |
 | Pinnace small craft specifications (basis for the crash tactic, §G.3) | CRB22 | Small Craft section (confirmed: TL12, streamlined, single-Pilot crew, Hull rating 16, fusion power plant, fixed weapon mount capable. *Exact tonnage figure was not reliably extractable from the source PDF) same recurring text-extraction issue flagged elsewhere in this project. Confirm against your own copy if the precise number matters at the table.* |
@@ -213,4 +213,4 @@ This is a pure option, not a required beat, nothing in Chapters 1–6 assumes th
 
 ---
 
-*Last updated: 2026-09-29*
+*Last updated: 2026-09-30*

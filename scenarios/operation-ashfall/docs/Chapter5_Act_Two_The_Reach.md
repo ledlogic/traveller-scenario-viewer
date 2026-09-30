@@ -67,7 +67,7 @@ The pursuit force in §5.3 doesn't have to be the only thing in the spike field.
 **A Warden encounter can resolve several ways**, referee's call based on how the team approaches it:
 - **Bribery or trade** (Persuade or Streetwise 8+, plus something worth offering, SolSec gear, information, or simple credits) buys safe passage and possibly a genuine shortcut through the field.
 - **Intimidation** (Threk's specialty) works, but Wardens who back down don't forget it, a plausible seed for them reporting the encounter to whoever they think might pay for the information, complicating things later rather than resolving cleanly.
-- **A fight** is winnable (six people in Improved Battle Dress (Appendix B) badly outclass a scavenger militia) but noisy, and noise draws the kind of attention the team is trying to avoid (Appendix C, §C.3).
+- **A fight** is winnable (six people in Ceramic Combat Armour badly outclass a scavenger militia) but noisy, and noise draws the kind of attention the team is trying to avoid (Appendix C, §C.3).
 - **Ignoring them entirely** is often the correct play if the team can manage it, Wardens patrol for salvage and looters, not military targets, and a team that stays out of their patrol routes may simply never trigger this encounter at all.
 
 
@@ -85,4 +85,4 @@ Act Three (Ashfall) begins at the bunker entrance, with the manual override sequ
 
 ---
 
-*Last updated: 2026-09-29*
+*Last updated: 2026-09-30*
