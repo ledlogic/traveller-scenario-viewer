@@ -17,15 +17,15 @@
 
 | # | Name | Callsign | Role | Key Skills |
 |---|------|----------|------|------------|
-| 1 | Rosalind Kade | "Anvil" | Team Leader | Leadership 2, Tactics (military) 2, Gun Combat (slug) 2 |
-| 2 | Uzgar Threk (Vargr) | "Snarl" | Heavy Weapons | Heavy Weapons (Portable) 2, Melee (blade) 2 |
+| 1 | Rosalind Kade | "Anvil" | Team Leader | Gun Combat (slug) 2, Leadership 2, Recon 2, Tactics (military) 2 |
+| 2 | Uzgar Threk (Vargr) | "Snarl" | Heavy Weapons | Athletics (strength) 2, Heavy Weapons (Portable) 2, Melee (blade) 2, Persuade 2 |
 | 3 | Dietrich Voss | "Fuse" | Demolitions / Breacher | Explosives 3, Mechanic 2 |
-| 4 | Marisol Achebe | "Doc" | Combat Medic | Medic 3, Athletics (strength) 2 |
+| 4 | Marisol Achebe | "Doc" | Combat Medic | Mechanic 3, Diplomat 2, Leadership 2 |
 | 5 | Coyle Reyes | "Ten-Ton" | Pilot / Driver | Drive (wheeled/tracked) 3, Vacc Suit 2 |
 | 6 | Unit designation unknown | "Rivit" | Android / Technical Specialist | Electronics (computers) 3, Engineer (life support) 2 |
-| 7 | Nerys (Dolphin, uplifted) | "Echo" | Recon / Underwater Infiltration | Recon 2, Electronics (sensors) 2, Pilot (small craft) 1 |
-| 8 | Franko Ponchorrorrorrow (Vargr) | "Ponch" | Investigator / Non-Lethal Specialist | Advocate 1, Investigate 1, Stealth 1, Streetwise 1, Medic 1 |
-| 9 | Jon Bakerrowowarr (Vargr) | "Shield" | Riot Control / Crowd Specialist | Streetwise 2, Animals (Handling) 1, Drive (wheeled) 1, Persuade 1 |
+| 7 | Nerys (Dolphin, uplifted) | "Echo" | Recon / Underwater Infiltration | Electronics (sensors) 2, Recon 2, Pilot (small craft) 1 |
+| 8 | Franko Ponchorrorrorrow (Vargr) | "Ponch" | Investigator / Non-Lethal Specialist | Advocate 1, Investigate 1, Medic 1, Stealth 1, Streetwise 1 |
+| 9 | Jon Bakerrowowarr (Vargr) | "Shield" | Riot Control / Crowd Specialist | Art (holography) 2, Streetwise 2 |
 
 ---
 
@@ -45,6 +45,17 @@
 She made Captain in SolSec's Field Agent track before this posting, Heavy Response Command, exactly the kind of paramilitary field work the assignment was built for. Eight years, two terms, a clean record, and a cybernetic Dexterity Augmentation she paid for with everything her Marine service left her, because by the time she could afford it, she'd already decided she wasn't going to be the reason a breach went wrong twice.
 
 She chews a cigar down to a stub before every op and has never once been seen lighting a fresh one in front of the team, a small superstition nobody's brave enough to ask about.
+
+**Timeline:**
+
+| Term | Career | Age | Years (IY) |
+|---|---|---|---|
+| 0 | Youth, New Greenpernt | 0–18 | 1079–1097 |
+| 1 | Marine, Star Marine | 18–22 | 1097–1101 |
+| 2 | Marine, Star Marine | 22–26 | 1101–1105 |
+| 3 | Marine, Star Marine | 26–30 | 1105–1109 |
+| 4 | SolSec, Field Agent | 30–34 | 1109–1113 |
+| 5 | SolSec, Field Agent | 34–38 | 1113–1117 |
 
 **Characteristics:** STR 11 (+1) · DEX 9 (+1) · END 12 (+2) · INT 10 (+1) · EDU 8 (+0) · SOC 7 (+0)
 
@@ -72,7 +83,9 @@ Vacc Suit 1
 
 *Note: this skill list does not include the Connections Rule bonus (CRB22), which grants up to 2 additional free skills at level 1 if this character was linked to another Traveller's Event during group chargen.*
 
-**Cybernetics:** Dexterity Augmentation (DEX +1, TL11, Cr500,000, CRB22 p.106, Physical Characteristic Augmentation)
+**Cybernetics:** Dexterity Augmentation (DEX +1, TL11, Cr500,000, CRB22 p.106, Physical Characteristic Augmentation) — SolSec-financed, not personally purchased. Armour and weapons are issued outright, but augmentation cost this steep gets loaned against future service rather than given free, and she's carrying that debt now.
+
+**Current finances:** roughly Cr47,000 in personal cash (Cr42,000 from Marine mustering out, plus Cr5,000 from selling the Poly Carapace), against a **Cr500,000 debt to SolSec** for the Dexterity Augmentation.
 
 **Equipment:** SolSec-issue Ceramic Combat Armour (**Protection +12, +18 vs fire/lasers/energy, TL13, Rad 150**; Cr90,000, Vacc Suit 1 required), GCCW (Gauss Close-Combat Weapon, TL12, Range 100m, 3D+2, 2kg/3.2kg with the 120-round drum, Cr2250, Magazine 60 or 120, AP3/Auto4 traits), GPDW sidearm (Gauss Personal Defence Weapon, TL12, Range 40m, 3D, 1.4kg, Cr1250, Magazine 40 or 60, AP3/Auto3 traits), command-net encrypted comm, 2x Smoke grenades (TL8), three cigars she is rationing like ammunition. Sold off the Poly Carapace armour (Protection +10, TL10) she'd kept from her Marine mustering-out, roughly Cr5,000 back on its original Cr10,000 market value, once it was clear the Ceramic Combat Armour already covered everything it did and better.
 
@@ -89,7 +102,7 @@ Vacc Suit 1
 
 *"You say 'de-escalate.' I hear 'not yet.'"*
 
-**Born IY 1080, Muan Gwi, Vegan Autonomous District** (Imperial territory, UWP A556A86-E — a district created after the Solomani Rim War specifically to counterbalance Solomani influence in the region, self-governing but answerable to the Third Imperium). Uzgar grew up a Vargr minority within a Vegan-majority world, an outsider from birth on a world whose entire reason for existing is geopolitical tension. He's Imperium-raised, not a Confederation citizen, and standard human-equivalent chargen procedure applies to him exactly as CRB22 specifies for Vargr raised inside the Imperium.
+**Born IY 1076, Muan Gwi, Vegan Autonomous District** (Imperial territory, UWP A556A86-E — a district created after the Solomani Rim War specifically to counterbalance Solomani influence in the region, self-governing but answerable to the Third Imperium). Uzgar grew up a Vargr minority within a Vegan-majority world, an outsider from birth on a world whose entire reason for existing is geopolitical tension. He's Imperium-raised, not a Confederation citizen, and standard human-equivalent chargen procedure applies to him exactly as CRB22 specifies for Vargr raised inside the Imperium.
 
 **Sixteen years of Imperial Marine service, two terms, Ground Assault.** He enlisted straight out of Muan Gwi and made Lieutenant in his first term after a successful fortress assault, then Captain in his second after a black-ops deployment. Two clean terms, no scandal, mustered out with real money and an EDU bump he's never quite explained to anyone who's asked how a heavy weapons specialist ended up better educated leaving the service than he went in.
 
@@ -98,6 +111,18 @@ Vacc Suit 1
 **The prison record is exactly what put him on SolSec's radar.** A non-citizen Vargr with real Confederation-facing standing, real combat competency, and a Solomani custody record already on file was too useful an asset to just release and forget. What followed was a secondment into the Confederation's own Marine service, Star Marine assignment specifically (the only track open to him there), effectively on loan, nominally still serving when SolSec's Heavy Response Command actually pulled him for Ys. He is, as far as his own paperwork is concerned, still an active Confederation Marine right now. He is also, as far as anyone on Team UNDERTOW is concerned, SolSec's problem.
 
 Uzgar is enormous even by Vargr standards, and mean in the specific way that makes him excellent at his job and exhausting at every other part of it. He's on contract to SolSec rather than a citizen of the Confederation, which he'll remind you of the moment anyone questions an order. He carries an unlit cigar clamped in his jaw at all times, Vargr respiratory biology makes actually smoking one a bad idea, but he's not giving up the aesthetic for something as small as biology.
+
+**Timeline:**
+
+| Term | Career | Age | Years (IY) |
+|---|---|---|---|
+| 0 | Youth, Muan Gwi | 0–18 | 1076–1094 |
+| 1 | Marine (Imperial, Ground Assault) | 18–22 | 1094–1098 |
+| 2 | Marine (Imperial, Ground Assault) | 22–26 | 1098–1102 |
+| 3 | Rogue (Enforcer) | 26–30 | 1102–1106 |
+| 4 | Rogue (Enforcer) | 30–34 | 1106–1110 |
+| Prisoner term | Inmate, Solomani custody | 34–38 | 1110–1114 |
+| Confederation Marine | Star Marine, still serving, interrupted at 41 | 38→41 | 1114–1117 |
 
 **Characteristics:** STR 12 (+2) · DEX 10 (+1) · END 9 (+1) · INT 7 (+0) · EDU 6 (+0) · SOC 4 (–1)
 
@@ -126,7 +151,7 @@ Vacc Suit 1
 
 **Equipment:** SolSec-issue Ceramic Combat Armour (**Protection +12, +18 vs fire/lasers/energy, TL13, Rad 150**; Cr90,000, Vacc Suit 1 required) with integrated support-weapon mount, PGHP-14 man-portable plasma gun (TL14, Range 450m, damage rated 1DD in the source catalogue, see Appendix E for a note on this notation), GPDW sidearm (Gauss Personal Defence Weapon, TL12, Range 40m, 3D, 1.4kg, Cr1250, Magazine 40 or 60, AP3/Auto3 traits), heavy combat blade (Melee, no range), 2x Frag grenades (TL8), the unlit cigar (non-negotiable). Personally owns a set of Poly Carapace armour (Protection +10, TL10) and a Ceramic Carapace (Protection +10, +16 vs lasers/heat, TL12) from his Rogue mustering-out, plus a stake in 5 Ship Shares somewhere he's never fully explained, and a Blade from his Prisoner release, kept as a memento more than a working weapon.
 
-**Personality:** Short-tempered, fiercely loyal to the six people in this specific room and to nobody else, allergic to being told to hang back. The referee should let him growl at NPCs, threaten equipment rather than people when possible, and be quietly, unexpectedly gentle around anyone weaker than him, it's the one soft spot the character has, and it's more interesting if the players discover it rather than being told.
+**Personality:** Short-tempered, fiercely loyal to the six people in this specific room and to nobody else, allergic to being told to hang back, and, unhelpfully, also literally allergic to Aslan, Droyne, and Hivers, a genetic quirk that has embarrassed him in front of exactly the wrong people at exactly the wrong times more than once. The referee should let him growl at NPCs, threaten equipment rather than people when possible, and be quietly, unexpectedly gentle around anyone weaker than him, it's the one soft spot the character has, and it's more interesting if the players discover it rather than being told.
 
 **Neural.AI image prompt:** A massive Vargr (canine-derived humanoid alien), heavily muscled, grey-brown fur, standing well over two meters, wearing bulky matte-grey Battle Dress with an integrated support-weapon mount on one shoulder. An unlit cigar clamped in a jaw full of visible teeth. Aggressive stance, ears back, one hand resting on a heavy plasma weapon. Industrial harbor backdrop, warm firelight against cool blue dusk. Photorealistic, science fiction military portrait, no text, no logos.
 
@@ -148,6 +173,18 @@ Vacc Suit 1
 **He's currently running his own explosives supply business.** Small, profitable, exactly legal enough, and it's the reason his relationship with SolSec is contractor rather than employee. Six years in, three careers deep in things he doesn't discuss, and still privately unsure whether creating a false identity to get back into government work was the smartest thing he ever did or the mistake that's still waiting to catch up with him.
 
 Voss is built like a wall, talks like one too, and has the dry, specific gallows humor of a man who has made peace with the idea that his job description includes "probably dies first." He's the only one who genuinely understands why the Ashfall network is dangerous, which makes him the most nervous person on the team and also the most necessary.
+
+**Timeline:**
+
+| Term | Career | Age | Years (IY) |
+|---|---|---|---|
+| 0 | Youth, Mirabilis | 0–18 | 1073–1091 |
+| 1 | Scholar, Field Researcher | 18–22 | 1091–1095 |
+| 2 | SolSec, Field Agent (ejected via Mishap) | 22–26 | 1095–1099 |
+| 3 | Army, Support (drafted) | 26–30 | 1099–1103 |
+| 4 | Agent, Law Enforcement (drafted) | 30–34 | 1103–1107 |
+| 5 | Citizen, Worker (drafted) | 34–38 | 1107–1111 |
+| 6 | Citizen, Corporate (own explosives business) | 38–42 | 1111–1115 |
 
 **Characteristics:** STR 10 (+1) · DEX 7 (+0) · END 10 (+1) · INT 13 (+2) · EDU 10 (+1) · SOC 6 (+0)
 
@@ -195,19 +232,71 @@ Vacc Suit 1
 
 *"Sit still. I've reattached worse than this to people ruder than you."*
 
+**Born IY 1079, Twylo, Capella Subsector** (Solomani Rim 1034, UWP A551AA6-E — a poor, high-population, high-tech world, subsector capital, home to a Naval Base, a Military Base, and SolSec's own sector headquarters). Racial Solomani. Growing up in the literal shadow of SolSec's regional command made her eventual recruitment feel less like a choice and more like gravity.
+
+**She started at the Army's Military Academy**, graduating clean (not with honors, but clean) and commissioned straight into the officer track as a Lieutenant. Two Army terms followed, Support assignment, rising from Lieutenant to Captain to Major, building the mechanical and logistics competency that still shows up in how she field-strips a rifle as casually as she sutures a wound. She mustered out of Army service with real money and a genuinely improved education, two separate EDU boosts stacked on top of what the Academy had already given her.
+
+**SolSec was next, and it very nearly cost her more than it gave.** Two field terms as a Lieutenant and then Captain, one of them ending in a deployment against border guerrillas that left her with an Enemy she's never spoken of. The term that actually pushed her toward the door, though, wasn't combat. It was cleanup: a SolSec team had gone somewhere they had no business being, deep in Imperial space, and damaged a civilian contractor firm badly enough that covering it up was the easy option. Achebe went in to handle it, and instead of burying the mess, she reported it honestly and talked her own agency into actually paying the firm back. It was the right call. It also told her something about the distance between what SolSec says it stands for and what it's actually willing to do when nobody's watching, and she couldn't unknow it.
+
+She mustered out clean, no scandal, just done. Whatever came next for her, formal medicine, a return to field work, something else entirely, hadn't been decided by the time SolSec's Heavy Response Command came calling again for Ys. She said yes anyway. She always says yes when people are actually going to get hurt.
+
 Achebe is built like she could carry any one of her squadmates out of a firefight over one shoulder, because she can and has. Field medicine on the Confederation border taught her to work fast, work dirty, and never apologize for either. She's the only one on the team who talks to civilians like people instead of obstacles, which has occasionally caused friction with Kade's mission timeline and will probably do so again on Ys. She wears a lot of gold (rings, a chain, a couple of bracelets, every piece stamped or engraved with a small plus-sign medical cross) and it's not vanity. Each one was a gift from someone she treated who lived, given after the fact, and she's never turned one down or taken one off.
 
-**Characteristics:** STR 10 (+1) · DEX 8 (+0) · END 12 (+2) · INT 9 (+1) · EDU 10 (+1) · SOC 6 (+0)
+**Timeline:**
 
-**Skills:** Medic 3 · Athletics 0 · Athletics (strength) 2 · Vacc Suit 1 · Gun Combat 0 · Gun Combat (slug) 1 · Persuade 1 · Recon 1
+| Term | Career | Age | Years (IY) |
+|---|---|---|---|
+| 0 | Youth, Twylo | 0–18 | 1079–1097 |
+| 1 | Military Academy (Army branch) | 18–22 | 1097–1101 |
+| 2 | Army, Support | 22–26 | 1101–1105 |
+| 3 | Army, Support | 26–30 | 1105–1109 |
+| 4 | SolSec, Field Agent | 30–34 | 1109–1113 |
+| 5 | SolSec, Field Agent | 34–38 | 1113–1117 |
 
-*Note: this skill list does not include the Connections Rule bonus (CRB22), which grants up to 2 additional free skills at level 1 if this character was linked to another Traveller's Event during group chargen.*
+**Characteristics:** STR 10 (+1) · DEX 8 (+0) · END 12 (+2) · INT 10 (+1) · EDU 13 (+2) · SOC 6 (+0)
 
-**Equipment:** SolSec-issue Ceramic Combat Armour (medical variant, integrated trauma kit, **Protection +12, +18 vs fire/lasers/energy, TL13, Rad 150**; Cr90,000, Vacc Suit 1 required), field surgery pack, GPDW sidearm (Gauss Personal Defence Weapon, TL12, Range 40m, 3D, 1.4kg, Cr1250, Magazine 40 or 60, AP3/Auto3 traits), 1x Stun grenade (TL8, Stun trait), a battered cigar case she claims was a gift and won't explain further.
+**Skills:**
+Athletics 0
+Athletics (strength) 1
+Diplomat 2
+Drive 0
+Electronics 0
+Electronics (comms) 0
+Electronics (computers) 1
+Explosives 1
+Flyer 0
+Flyer (rotor) 1
+Gun Combat 0
+Gun Combat (slug) 1
+Leadership 2
+Mechanic 3
+Medic 1
+Profession 0
+Profession (biologicals) 1
+Recon 1
+Stealth 0
+Survival 0
+Tactics 0
+Tactics (military) 1
+Vacc Suit 1
+
+*Note: this skill list includes both of this character's Connections Rule bonuses (CRB22) — Gun Combat (slug) and Athletics (strength) — each still needing a specific linked teammate identified once the rest of the roster is built.*
+
+**Enemies:** rebels from a border deployment that went badly during her SolSec service.
+
+**Contacts:** an Inveterate Gambler, met during her Army years (possibly the same figure as one of Voss's Enemies, worth deciding if the two threads ever cross).
+
+**Equipment:** SolSec-issue Ceramic Combat Armour (medical variant, integrated trauma kit, **Protection +12, +18 vs fire/lasers/energy, TL13, Rad 150**; Cr90,000, Vacc Suit 1 required), field surgery pack, Enhanced Medikit (TL12, First Aid Medic check DM+2, Cr5,000), 2x Trauma Pack (TL8, field recovery of 1D END for 1D hours via a Medic check, can bring a patient back from 0 END if the last wound was recent enough, once per patient per day, Cr750 each), GPDW sidearm (Gauss Personal Defence Weapon, TL12, Range 40m, 3D, 1.4kg, Cr1250, Magazine 40 or 60, AP3/Auto3 traits), 1x Stun grenade (TL8, Stun trait), a battered cigar case she claims was a gift and won't explain further.
+
+**Cybernetics:** Wafer Jack, Basic (TL12, Computer/2, Bandwidth 4, Cr1,000) running Expert 1 software (Bandwidth 2, TL12, Cr10,000, grants DM+1 to Medic checks since she already holds the skill), plus a Skill Augmentation (TL12, Cr50,000) tied to Medic specifically, granting a further DM+1. All three items — Cr61,000 total — are SolSec-financed rather than personally purchased. Armour and weapons come issued outright, but augmentation at this cost gets loaned against future service instead.
+
+**Current finances:** roughly Cr21,000 in personal cash (Cr20,000 from Army mustering out, Cr1,000 from SolSec), against a **Cr61,000 debt to SolSec** for her cybernetics.
+
+**Best-case First Aid roll:** 2D6 + Medic 1 + EDU DM +2 + Skill Augmentation +1 + Expert software +1 + Enhanced Medikit +2 = **2D6+7**, range 9–19. Her worst possible roll still clears Average difficulty (8+); all but a natural 2 clears Difficult (10+) as well.
 
 **Personality:** Warm under a layer of professional bluntness, the moral center of the team without ever saying so out loud. She is the one most likely to push back if the plan requires writing off civilians, and the referee should use her to voice the human cost of the countdown clock.
 
-**Neural.AI image prompt:** A powerfully built woman in her 30s, dark skin, hair tied back tight, kneeling over a field trauma kit with practiced efficiency. Matte-grey Battle Dress (medical variant, red cross marking on one shoulder plate), helmet off, sleeves pushed up, visible gold jewelry at the wrists and neck, several rings and a chain, each piece subtly engraved with a small plus-sign medical cross. Focused, steady expression, someone mid-triage, unbothered by chaos around her. Industrial harbor backdrop, warm firelight against cool blue dusk. Photorealistic, science fiction military portrait, no text, no logos.
+**Neural.AI image prompt:** A powerfully built woman in her late 30s, dark skin, hair tied back tight, kneeling over a field trauma kit with practiced efficiency. Matte-grey Battle Dress (medical variant, red cross marking on one shoulder plate), helmet off, sleeves pushed up, visible gold jewelry at the wrists and neck, several rings and a chain, each piece subtly engraved with a small plus-sign medical cross. Focused, steady expression, someone mid-triage, unbothered by chaos around her. Industrial harbor backdrop, warm firelight against cool blue dusk. Photorealistic, science fiction military portrait, no text, no logos.
 
 ---
 
