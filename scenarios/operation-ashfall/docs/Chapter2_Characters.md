@@ -17,15 +17,15 @@
 
 | # | Name | Callsign | Role | Key Skills |
 |---|------|----------|------|------------|
-| 1 | Rosalind Kade | "Anvil" | Team Leader | Gun Combat (slug) 2, Leadership 2, Recon 2, Tactics (military) 2 |
-| 2 | Uzgar Threk (Vargr) | "Snarl" | Heavy Weapons | Athletics (strength) 2, Heavy Weapons (Portable) 2, Melee (blade) 2, Persuade 2 |
+| 1 | Rosalind Kade | "Anvil" | Team Leader | Leadership 2, Tactics (military) 2, Gun Combat (slug) 2 |
+| 2 | Uzgar Threk (Vargr) | "Snarl" | Heavy Weapons | Heavy Weapons (Portable) 2, Melee (blade) 2 |
 | 3 | Dietrich Voss | "Fuse" | Demolitions / Breacher | Explosives 3, Mechanic 2 |
 | 4 | Marisol Achebe | "Doc" | Combat Medic | Medic 3, Athletics (strength) 2 |
 | 5 | Coyle Reyes | "Ten-Ton" | Pilot / Driver | Drive (wheeled/tracked) 3, Vacc Suit 2 |
 | 6 | Unit designation unknown | "Rivit" | Android / Technical Specialist | Electronics (computers) 3, Engineer (life support) 2 |
-| 7 | Nerys (Dolphin, uplifted) | "Echo" | Recon / Underwater Infiltration | Electronics (sensors) 2, Recon 2, Pilot (small craft) 1 |
-| 8 | Franko Ponchorrorrorrow (Vargr) | "Ponch" | Investigator / Non-Lethal Specialist | Advocate 1, Investigate 1, Medic 1, Stealth 1, Streetwise 1 |
-| 9 | Jon Bakerrowowarr (Vargr) | "Shield" | Riot Control / Crowd Specialist | Art (holography) 2, Streetwise 2 |
+| 7 | Nerys (Dolphin, uplifted) | "Echo" | Recon / Underwater Infiltration | Recon 2, Electronics (sensors) 2, Pilot (small craft) 1 |
+| 8 | Franko Ponchorrorrorrow (Vargr) | "Ponch" | Investigator / Non-Lethal Specialist | Advocate 1, Investigate 1, Stealth 1, Streetwise 1, Medic 1 |
+| 9 | Jon Bakerrowowarr (Vargr) | "Shield" | Riot Control / Crowd Specialist | Streetwise 2, Animals (Handling) 1, Drive (wheeled) 1, Persuade 1 |
 
 ---
 
@@ -126,7 +126,7 @@ Vacc Suit 1
 
 **Equipment:** SolSec-issue Ceramic Combat Armour (**Protection +12, +18 vs fire/lasers/energy, TL13, Rad 150**; Cr90,000, Vacc Suit 1 required) with integrated support-weapon mount, PGHP-14 man-portable plasma gun (TL14, Range 450m, damage rated 1DD in the source catalogue, see Appendix E for a note on this notation), GPDW sidearm (Gauss Personal Defence Weapon, TL12, Range 40m, 3D, 1.4kg, Cr1250, Magazine 40 or 60, AP3/Auto3 traits), heavy combat blade (Melee, no range), 2x Frag grenades (TL8), the unlit cigar (non-negotiable). Personally owns a set of Poly Carapace armour (Protection +10, TL10) and a Ceramic Carapace (Protection +10, +16 vs lasers/heat, TL12) from his Rogue mustering-out, plus a stake in 5 Ship Shares somewhere he's never fully explained, and a Blade from his Prisoner release, kept as a memento more than a working weapon.
 
-**Personality:** Short-tempered, fiercely loyal to the six people in this specific room and to nobody else, allergic to being told to hang back, and, unhelpfully, also literally allergic to Aslan, Droyne, and Hivers, a genetic quirk that has embarrassed him in front of exactly the wrong people at exactly the wrong times more than once. The referee should let him growl at NPCs, threaten equipment rather than people when possible, and be quietly, unexpectedly gentle around anyone weaker than him, it's the one soft spot the character has, and it's more interesting if the players discover it rather than being told.
+**Personality:** Short-tempered, fiercely loyal to the six people in this specific room and to nobody else, allergic to being told to hang back. The referee should let him growl at NPCs, threaten equipment rather than people when possible, and be quietly, unexpectedly gentle around anyone weaker than him, it's the one soft spot the character has, and it's more interesting if the players discover it rather than being told.
 
 **Neural.AI image prompt:** A massive Vargr (canine-derived humanoid alien), heavily muscled, grey-brown fur, standing well over two meters, wearing bulky matte-grey Battle Dress with an integrated support-weapon mount on one shoulder. An unlit cigar clamped in a jaw full of visible teeth. Aggressive stance, ears back, one hand resting on a heavy plasma weapon. Industrial harbor backdrop, warm firelight against cool blue dusk. Photorealistic, science fiction military portrait, no text, no logos.
 
