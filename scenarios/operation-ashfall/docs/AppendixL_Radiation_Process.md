@@ -48,16 +48,29 @@ That's the entire mechanic. Rad rating is a flat subtraction, not a percentage, 
 
 ## L.4 - CUMULATIVE RADIATION EFFECTS (REPRINTED FOR CONVENIENCE)
 
-Full context and the honesty note about this table's sourcing live in Chapter 4, §4.2, reprinted here so this appendix is a complete standalone reference.
+Full context lives in Chapter 4, §4.2, reprinted here so this appendix is a complete standalone reference.
+
+**Immediate Radiation Effects** (CRB22, p.81):
+
+| Immediate Exposure | Immediate Effects |
+|---|---|
+| 50 rads or less | None |
+| 51–150 rads | 1D damage, Nausea (–1 to all checks until medical treatment received) |
+| 151–300 rads | 2D damage |
+| 301–500 rads | 4D damage, hair loss |
+| 501–800 rads | 6D damage, sterile |
+| 801 rads or more | 8D damage, internal bleeding |
+
+**Cumulative Radiation Effects** (CRB22, p.81):
 
 | Cumulative Rads | Effect |
 |---|---|
-| 50 or less | None |
-| 51–200 | –1 to a physical characteristic, permanently |
-| 201–400 | –2, permanently |
-| 401–600 | –3, permanently |
-| 601–800 | –4, permanently |
-| 801+ | –5, permanently |
+| 50 rads or less | None |
+| 51–150 rads | None |
+| 151–300 rads | –1 END permanently |
+| 301–500 rads | –2 END permanently |
+| 501–800 rads | –3 END permanently |
+| 801 rads or more | –4 END permanently |
 
 Track this openly per character, the same way the mission Countdown (Chapter 1, §1.5) is tracked openly, it's a second, quieter clock, and letting the players see both running is what makes an irradiated scene tense rather than arbitrary.
 
@@ -68,7 +81,7 @@ Track this openly per character, the same way the mission Countdown (Chapter 1, 
 | Element | Source | Page/Note |
 |---|---|---|
 | Rad column deduction rule (exact wording quoted in §L.1) | CRB22 | Armour section, immediately before the armour table |
-| Cumulative Radiation Effects table | CRB22 | Reconstructed from standard cross-edition convention, see Chapter 4, §4.2 for the full honesty note on this table's extraction issue |
+| Immediate and Cumulative Radiation Effects tables | CRB22 | p.81 |
 | All armor Rad values in §L.3's table | CSC23 (Ceramic Combat Armour, Cloth, Flak Jacket, Combat Armour tiers); Behind the Claw (Type D Battle Dress) | See Appendix E for the individual per-item citations |
 
 ---

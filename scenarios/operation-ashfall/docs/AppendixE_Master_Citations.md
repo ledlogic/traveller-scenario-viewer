@@ -34,13 +34,13 @@ Every stat block, rule, and setting fact used in this scenario is sourced indivi
 | Combat Armour, Basic (Protection +13, Rad 85 | App A, §A.6 | CSC23 | pp.38–39) corrects an earlier placeholder +8 that was never sourced from either book |
 | Advanced Combat Rifle, 3D Auto 3 | App A, §A.6 | CRB22 | p.125; range ~500m is a standard published value, this source PDF's own row was extraction-corrupted |
 | Close Protection / garrison troop NPC conventions | App A, §A.6 | CRB22 | Referee's Toolbox, NPC generation |
-| **Ceramic Combat Armour Protection, +18 vs fire/lasers/energy, Rad, Cost, TL, required skill** | Ch 2, §2.2, §2.3, §2.4, §2.5, §2.6, §2.7 | (source pending — figures provided directly, not yet cross-checked against CSC23's own printed table) | n/a |
+| **Ceramic Combat Armour Protection, +18 vs fire/lasers/energy, Rad, Cost, TL, required skill** | Ch 2, §2.2, §2.3, §2.4, §2.5, §2.6, §2.7 | CSC23 | p.33 |
 | P-HUD, transceiver encryption module, Security/2 software as standard equipment on prior Battle Dress issue (retained where still applicable) | Ch 2 | CSC23 | p.38 |
-| 6-hour environmental sealing window (current Ceramic Combat Armour, down from the older Battle Dress's 12-hour figure) | Ch 2, §2.11 | (source pending, per the figure supplied directly) | n/a |
+| 6-hour environmental sealing window (current Ceramic Combat Armour, down from the older Battle Dress's 12-hour figure) | Ch 2, §2.11 | CSC23 | p.33 |
 | Medikit automatic first-aid function | Ch 2, §2.5 | CRB22 | Equipment, Medikit entry |
 | Task penalty for missing required skill (-2 DM per level, incl. level 0) | Ch 2 | CRB22 | p.100, Armour rules |
 | Radiation exposure rules (Rad protection deducted from rads received per exposure) | Ch 4, §4.2 | CRB22 | p.100 |
-| Cumulative Radiation Effects table (characteristic loss by rad threshold) | Ch 4, §4.2 | CRB22 | p.101, *reconstructed from the standard cross-edition Traveller radiation table; the source PDF's own table lost its numeric values to the same kind of text-extraction/formatting error as the Battle Dress erratum above* |
+| Immediate and Cumulative Radiation Effects tables (damage and characteristic loss by rad threshold) | Ch 4, §4.2 | CRB22 | p.81 |
 | Anti-rad drugs (100 rads absorbed per dose, once/day, overuse penalty) | Ch 4, §4.2 | CRB22 | Equipment, pharmaceuticals |
 | Combat round length (6 seconds) | General reference | CRB22 | Combat rules, ~p.130 |
 | Cloth Jacket, concealable (Protection +5, Rad)| App C, §C.4 | CSC23 | pp.38–39; CRB22's own parallel row at p.100 never printed a protection number due to a confirmed text-extraction issue |
@@ -78,6 +78,10 @@ Not every source in this scenario is a Traveller sourcebook, some worldbuilding 
 | Life Events table (2D, results from Sickness/Injury to Unusual Event), basis for Achebe's Term 3 Life Event (New Contact) | Ch 2, §2.5 | CRB22, Traveller Creation chapter, p.46 |
 | Twylo (Capella Subsector, UWP A551AA6-E, subsector capital, Naval Base, Military Base, SolSec sector headquarters), basis for Achebe's homeworld | Ch 2, §2.5 | Solomani Front, Capella Subsector world listing |
 | Vargr racial characteristic modifier for Imperium-raised Vargr (STR-1, DEX+1, END-1), Army career (Infantry assignment, explicitly notes "may also be mercenaries for hire"), Rogue career (Enforcer assignment), and Prisoner career (Inmate assignment, including the Parole Threshold release mechanic starting at 1D+2, capped at 12), basis for Threk's full term-by-term rebuild | Ch 2, §2.3 | CRB22, Character Creation chapter |
+| Edaazun (Albadawi Subsector, UWP A56A969-E, Hi/Ht/Wa trade codes, Imperium territory), basis for Reyes's homeworld | Ch 2, §2.6 | Solomani Front, Albadawi Subsector world listing |
+| Merchant career (Cavalry Army assignment; Merchant Marine assignment; Citizen Worker assignment) and the Free Trader/Far Trader mustering-out benefit (repeated rolls pay down the mortgage 25% each, four rolls clears it entirely), basis for Reyes's full term-by-term rebuild and his fully-owned Far Trader | Ch 2, §2.6 | CRB22, Character Creation chapter |
+| Far Trader (Type A2, TL12, 200 tons, Jump-2, Hull 80, Cr4,443/month maintenance), basis for Reyes's ship asset | Ch 2, §2.6 | Vehicle Handbook / High Guard, Far Trader design |
+| Pensions (5+ consecutive terms in a single career required; Cr10,000 at 5 terms, scaling to Cr2,000 per term beyond 8), basis for confirming Reyes does not qualify (no single career reached 5 terms) | Ch 2, §2.6 | CRB22, Character Creation chapter |
 | Muan Gwi and the Vegan Autonomous District (Imperial territory, created after the Solomani Rim War as a counterbalance to Solomani influence), basis for Threk's homeworld | Ch 2, §2.3 | Solomani Front, world listing and Vegan Autonomous District chapter |
 | Aging rules (effects begin at end of 4th career term and every term thereafter, 2D roll with total terms served as negative DM, Aging table results from -6 to 1+), basis for Kade's, Threk's, and Voss's post-chargen characteristic reductions | Ch 2, §2.2, §2.3, §2.4 | CRB22, Traveller Creation chapter, p.48 area |
 | Mirabilis (Capella Subsector, UWP A553958-E, Hi/Ht/Po trade codes), basis for Voss's homeworld | Ch 2, §2.4 | Solomani Front, Capella Subsector world listing |
@@ -89,7 +93,7 @@ Not every source in this scenario is a Traveller sourcebook, some worldbuilding 
 
 ## E.4 - A NOTE ON THE TWO CONFIRMED ERRATA
 
-Worth flagging on its own, since it came up twice independently while building this scenario: **CRB22's printed armour table is missing Battle Dress's Protection value**, and **its Radiation Effects table lost its numeric thresholds**, both look like the same category of PDF text-extraction/typesetting error rather than content Mongoose intentionally omitted. Neither is a judgment call on our part; the Battle Dress gap was independently corroborated by other GMs reporting the identical issue on Mongoose's own forums before we ever cross-checked it against CSC23. The team's current armor (Ceramic Combat Armour) sidesteps the first issue since its figures were supplied directly rather than pulled from that table; the Radiation Effects reconstruction is still relevant and flagged inline at its point of use (Chapter 4) as well as here.
+Worth flagging on its own: **CRB22's printed armour table is missing Battle Dress's Protection value**, a confirmed erratum, independently corroborated by other GMs reporting the identical issue on Mongoose's own forums before we ever cross-checked it against CSC23. The team's current armor (Ceramic Combat Armour) is unaffected regardless, its full stat block is confirmed directly from CSC23 p.33. The Radiation Effects tables (Immediate and Cumulative, Chapter 4 §4.2 and Appendix L) were originally miscited and reconstructed from a generic guess before being corrected against CRB22 p.81 directly, worth noting since an earlier draft of this project had them wrong.
 
 ---
 

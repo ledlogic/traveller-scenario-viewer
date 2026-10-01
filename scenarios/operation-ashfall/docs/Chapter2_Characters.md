@@ -21,7 +21,7 @@
 | 2 | Uzgar Threk (Vargr) | "Snarl" | Heavy Weapons | Athletics (strength) 2, Heavy Weapons (Portable) 2, Melee (blade) 2, Persuade 2 |
 | 3 | Dietrich Voss | "Fuse" | Demolitions / Breacher | Explosives 3, Mechanic 2 |
 | 4 | Marisol Achebe | "Doc" | Combat Medic | Mechanic 3, Diplomat 2, Leadership 2 |
-| 5 | Coyle Reyes | "Ten-Ton" | Pilot / Driver | Drive (wheeled/tracked) 3, Vacc Suit 2 |
+| 5 | Coyle Reyes | "Ten-Ton" | Pilot / Driver | Recon 3, Mechanic 2, Vacc Suit 2 |
 | 6 | Unit designation unknown | "Rivit" | Android / Technical Specialist | Electronics (computers) 3, Engineer (life support) 2 |
 | 7 | Nerys (Dolphin, uplifted) | "Echo" | Recon / Underwater Infiltration | Electronics (sensors) 2, Recon 2, Pilot (small craft) 1 |
 | 8 | Franko Ponchorrorrorrow (Vargr) | "Ponch" | Investigator / Non-Lethal Specialist | Advocate 1, Investigate 1, Medic 1, Stealth 1, Streetwise 1 |
@@ -307,17 +307,68 @@ Vacc Suit 1
 
 *"Give me anything with tracks, wheels, or a repulsor plate and I will get you there. I make no promises about the vehicle afterward."*
 
+**Born Edaazun, Albadawi Subsector** (Solomani Rim 0729, UWP A56A969-E — high population, high tech, a genuine water world, Imperium territory). Non-Solomani Human. Growing up on a world where everyone travels by boat, Reyes never once took to the water, land vehicles were the thing he actually loved, and he left home already knowing it was the only kind of driving he ever wanted to do professionally.
+
+**He started in the Imperial Army, Cavalry.** One term behind the wheel of gunships and tanks, commissioned up to Corporal, until his commanding officer's weapon-smuggling operation came apart and he chose to cooperate with the military police rather than get pulled into it. Clean discharge, kept his Benefit roll, no regrets.
+
+**Four terms in the Merchant Marine followed**, rising to 4th Officer, and it's where he actually made his fortune, not in salary but in one improbable run of luck: four separate mustering-out rolls all landed on the same benefit, and by the fourth one the mortgage was gone entirely. He owns a **Far Trader outright**, no debt on the hull itself, though the ship's own upkeep, Cr4,443 a month in maintenance, is a real, unglamorous cost that never stops coming due, and it's plausibly a genuine reason he still takes contract work at all despite technically not needing to.
+
+**One term as a Citizen worker on Ys** rounded him out, settling into the world well enough to know its rhythms before SolSec ever came calling. He tried to formally join SolSec once, a straight attempt, no tricks, no forged papers, and the penalties stacked against a non-citizen his age were simply too steep to overcome. He's never held it against them. **He works for SolSec now as a contractor, not an agent** — his own ship, his own terms, hired for exactly the kind of drive nobody in uniform particularly wants to take responsibility for.
+
 Reyes can drive literally anything and has the scars, citations, and one memorably totaled grav-tank to prove it. Laconic to the point of rudeness, magnificent behind a wheel or a yoke, and the reason the team is even considering a run across the Glass Reach at all, nobody else would sign off on the drive. Cigar permanently present, permanently unlit while driving, permanently relit the second the vehicle stops.
 
-**Characteristics:** STR 10 (+1) · DEX 11 (+1) · END 9 (+1) · INT 8 (+0) · EDU 7 (+0) · SOC 4 (–1)
+**Timeline:**
 
-**Skills:** Drive 0 · Drive (wheeled/tracked) 3 · Vacc Suit 2 · Mechanic 2 · Recon 2 · Gun Combat 0 · Gun Combat (slug) 1 · Athletics 0 · Athletics (endurance) 1
+| Term | Career | Age | Years (IY) |
+|---|---|---|---|
+| 0 | Youth, Edaazun | 0–18 | 1075–1093 |
+| 1 | Army, Cavalry | 18–22 | 1093–1097 |
+| 2 | Merchant, Merchant Marine | 22–26 | 1097–1101 |
+| 3 | Merchant, Merchant Marine | 26–30 | 1101–1105 |
+| 4 | Merchant, Merchant Marine | 30–34 | 1105–1109 |
+| 5 | Merchant, Merchant Marine | 34–38 | 1109–1113 |
+| 6 | Citizen, Worker | 38–42 | 1113–1117 |
 
-*Note: this skill list does not include the Connections Rule bonus (CRB22), which grants up to 2 additional free skills at level 1 if this character was linked to another Traveller's Event during group chargen.*
+**Characteristics:** STR 8 (+0) · DEX 11 (+1) · END 8 (+0) · INT 9 (+1) · EDU 8 (+0) · SOC 4 (–1)
+
+**Skills:**
+Advocate 1
+Animals 0
+Drive 0
+Drive (hovercraft) 1
+Drive (tracked) 1
+Drive (wheeled) 1
+Electronics 0
+Electronics (remote operations) 1
+Electronics (sensors) 1
+Engineer 1
+Engineer (power plant) 1
+Flyer 0
+Gun Combat 0
+Gun Combat (slug) 1
+Heavy Weapons 0
+Heavy Weapons (vehicle) 0
+Language 0
+Mechanic 2
+Pilot 0
+Profession 0
+Profession (belter) 1
+Recon 3
+Seafarer 0
+Streetwise 1
+Vacc Suit 2
+
+*Note: this skill list includes 1 of 2 available Connections Rule bonuses (Electronics (remote operations)) — the second remains unused, and the one used still needs a specific linked teammate identified once the rest of the roster is built.*
+
+**Enemies:** criminals who destroyed his ship or the local starport during his Merchant years.
 
 **Equipment:** SolSec-issue Ceramic Combat Armour (**Protection +12, +18 vs fire/lasers/energy, TL13, Rad 150**; Cr90,000, Vacc Suit 1 required), Gauss Rifle (Range ~400m *(standard published value; see Appendix E note)*, 3D6+1), GPDW sidearm (Gauss Personal Defence Weapon, TL12, Range 40m, 3D, 1.4kg, Cr1250, Magazine 40 or 60, AP3/Auto3 traits), 2x Smoke grenades (TL8), full vehicle diagnostics kit, an entire carton of cigars he insists is "operational necessity" and Command has, for reasons unknown, never contested.
 
-**Personality:** Unflappable, dry, allergic to panic, his or anyone else's. The team's actual heavy vehicle (detailed in Chapter 4, Act Two) is effectively his second character sheet; he will care about its condition more than his own.
+**Assets:** a fully-owned **Far Trader** (Type A2, TL12, 200 tons streamlined, Jump-2, Thrust 1, Hull 80, crews Pilot/Astrogator/Engineer/Medic/Steward, 10 staterooms + 6 low berths, 63 tons cargo; no mortgage, but Cr4,443/month maintenance), a personal Gun (benefit, specific model unspecified).
+
+**Current finances:** Cr40,000 in personal cash (Cr30,000 from Army, Cr10,000 from Merchant), no debt to SolSec (no cybernetics), no pension (no single career reached the required 5 consecutive terms). His real financial pressure is the Far Trader's own upkeep, not any loan.
+
+**Personality:** Unflappable, dry, allergic to panic, his or anyone else's. Any vehicle in his hands is effectively his second character sheet; he will care about its condition more than his own.
 
 **Neural.AI image prompt:** A lean man in his 40s, sun-weathered skin, sleeves rolled up, leaning against the open door of a heavy armored hauler with an unlit cigar between two fingers. Matte-grey Battle Dress partially unsealed, helmet resting on the vehicle's hood. Relaxed, watchful posture, completely at ease next to a machine, faintly wary of everything else. Industrial harbor backdrop, warm firelight against cool blue dusk. Photorealistic, science fiction military portrait, no text, no logos.
 

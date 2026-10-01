@@ -117,18 +117,29 @@ The map is centred on the crater the Governor's engineers repurposed thirty-one 
 
 ### The Math That Matters at the Table
 
-Team UNDERTOW's Ceramic Combat Armour carries a **Rad 150** rating, per CRB22 (p.100), that value is deducted from the rads a wearer receives each exposure. In the Crater Core band, that's roughly 600 rads/hr incoming, reduced to **~450 rads/hr actually absorbed** even at full protection. That's genuinely dangerous, not the comfortable margin the older Battle Dress gave the team; the referee should treat any real time spent in the Crater Core as a serious clock, not a formality. It's *marginally survivable for a fast crossing*, which is the point: the suits get the team through, but lingering here should cost them, visibly.
+Team UNDERTOW's Ceramic Combat Armour carries a **Rad 150** rating (CSC23, p.33); per the general Rad deduction rule (CRB22, p.100), that value is deducted from the rads a wearer receives each exposure. In the Crater Core band, that's roughly 600 rads/hr incoming, reduced to **~450 rads/hr actually absorbed** even at full protection. That's genuinely dangerous, not the comfortable margin the older Battle Dress gave the team; the referee should treat any real time spent in the Crater Core as a serious clock, not a formality. It's *marginally survivable for a fast crossing*, which is the point: the suits get the team through, but lingering here should cost them, visibly.
 
-**Cumulative Radiation Effects** (CRB22, p.101, general Traveller convention; note the source PDF's table lost its numeric values to a text-extraction/formatting error, so these are reconstructed from the standard Traveller radiation table rather than re-scanned from this specific file):
+**Immediate Radiation Effects** (CRB22, p.81):
+
+| Immediate Exposure | Immediate Effects |
+|---|---|
+| 50 rads or less | None |
+| 51–150 rads | 1D damage, Nausea (–1 to all checks until medical treatment received) |
+| 151–300 rads | 2D damage |
+| 301–500 rads | 4D damage, hair loss |
+| 501–800 rads | 6D damage, sterile |
+| 801 rads or more | 8D damage, internal bleeding |
+
+**Cumulative Radiation Effects** (CRB22, p.81):
 
 | Cumulative Rads | Effect |
 |---|---|
-| 50 or less | None |
-| 51–200 | –1 to a physical characteristic, permanently |
-| 201–400 | –2, permanently |
-| 401–600 | –3, permanently |
-| 601–800 | –4, permanently |
-| 801+ | –5, permanently |
+| 50 rads or less | None |
+| 51–150 rads | None |
+| 151–300 rads | –1 END permanently |
+| 301–500 rads | –2 END permanently |
+| 501–800 rads | –3 END permanently |
+| 801 rads or more | –4 END permanently |
 
 **Referee guidance:** track each PC's cumulative rads openly, the same way the Countdown clock is tracked openly (Chapter 1, §1.5). A team that rushes the crater core and lingers past their air/rad margin should feel it in accumulated characteristic damage, not just narrative peril, it's a second clock running alongside the first, and letting the players see both is what makes the crossing tense rather than arbitrary.
 
