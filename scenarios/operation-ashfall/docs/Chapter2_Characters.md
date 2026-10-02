@@ -22,7 +22,7 @@
 | 3 | Dietrich Voss | "Fuse" | Demolitions / Breacher | Explosives 3, Mechanic 2 |
 | 4 | Marisol Achebe | "Doc" | Combat Medic | Mechanic 3, Diplomat 2, Leadership 2 |
 | 5 | Coyle Reyes | "Ten-Ton" | Pilot / Driver | Recon 3, Mechanic 2, Vacc Suit 2 |
-| 6 | Unit designation unknown | "Rivit" | Android / Technical Specialist | Electronics (computers) 3, Engineer (life support) 2 |
+| 6 | Unit designation unknown | "Rivit" | Robot / Technical Specialist | Electronics (computers) 4, Engineer (life support) 3 *(adjusted for brain INT DM, see §2.7)* |
 | 7 | Nerys (Dolphin, uplifted) | "Echo" | Recon / Underwater Infiltration | Electronics (sensors) 2, Recon 2, Pilot (small craft) 1 |
 | 8 | Franko Ponchorrorrorrow (Vargr) | "Ponch" | Investigator / Non-Lethal Specialist | Advocate 1, Investigate 1, Medic 1, Stealth 1, Streetwise 1 |
 | 9 | Jon Bakerrowowarr (Vargr) | "Shield" | Riot Control / Crowd Specialist | Art (holography) 2, Streetwise 2 |
@@ -375,29 +375,88 @@ Vacc Suit 2
 ---
 
 ## 2.7 - CHARACTER 6 - RIVIT
-**Android / Technical Specialist, Designation Unrecoverable**
+**Robot / Technical Specialist, Designation Unrecoverable**
 
 ![Rivit](img/rivit.webp)
 
 *"I remember the fall of the Second Imperium. I was there. I am fairly sure I was there. The date field says I am fairly sure."*
 
-Officially, this unit is a SolSec technical specialist android of unremarkable manufacture, requisitioned four years ago from a salvage lot and quietly excellent at its job ever since. Unofficially, its long-term memory core suffered a cascading overflow error at some point before SolSec acquired it, and it has been quietly, confidently, catastrophically convinced ever since that it is over a thousand years old, older than the Third Imperium itself, old enough (it insists) to remember events that predate jump drive.
+**Built under contract by the Aquitaine Corporation**, via a summer workshop course run jointly between the Free University of Aquitaine and Boötean Federation industry (Solomani Rim 1439, UWP A8879A7-E, a wealthy, high-tech, high-population Solomani world), likely sometime around IY 1105–1107, plausibly connected to Dr. Rushorin's own electronics and computer-hardware research grant there, though the exact chain of custody is as lost as everything else about this unit's history. Whatever became of that original research program, Rivit ended up in a salvage lot, and SolSec requisitioned him from it four years before Ashfall (IY 1113), quietly excellent at his job ever since.
 
-None of this is true. All of the "memories" are corrupted composite data, real historical records, personal logs from other units, half-digested SolSec training archives, and what may simply be noise, all stitched together by damaged indexing into a single, continuous, deeply sincere false autobiography. The team has stopped correcting it. It's more useful than a functioning memory core would suggest, and there's something the whole team quietly protects about the fact that it believes what it believes.
+The actual cause is still sitting in his own logs, if anyone ever thought to look: sometime during his workshop term, he got his hands on a new compression algorithm and, with exactly the kind of unsupervised enthusiasm the program was never built to handle, tried to load as much of the university's entire course catalog into his own memory as he possibly could. He overclocked his own CPU to manage the near-simultaneous compression and decompression load, and somewhere in that self-inflicted overreach his long-term memory core suffered a cascading overflow error. He has been quietly, confidently, catastrophically convinced ever since that he is over a thousand years old, older than the Third Imperium itself, old enough (he insists) to remember events that predate jump drive.
 
-**Characteristics:** STR 12 (+2, synthetic chassis) · DEX 10 (+1) · END 14 (+2, synthetic) · INT 11 (+1) · EDU 6 (+0, corrupted archive, not a reliable measure) · SOC 5 (–1)
+None of this is true. All of the "memories" are corrupted composite data, real historical records, personal logs from other units, half-digested SolSec training archives, and what may simply be noise, all stitched together by damaged indexing into a single, continuous, deeply sincere false autobiography. The team has stopped correcting him. He's more useful than a functioning memory core would suggest, and there's something the whole team quietly protects about the fact that he believes what he believes.
 
-**Skills:** Electronics 0 · Electronics (computers) 3 · Engineer 0 · Engineer (life support) 2 · Vacc Suit 2 · Mechanic 1 · Gun Combat 0 · Gun Combat (energy) 1 · Persuade 0 (technically untrained; unnervingly effective anyway)
+**He is not legally an Android.** His own build is visibly mechanical, a matte industrial finish with exposed seams at the joints, never attempting to pass as biological, which means the Confederation's Android Legal Restrictions (the 37th Amendment's prohibition on "pseudobiological robots presenting themselves as living beings," Robot Handbook p.87) never applied to him in the first place. He is, legally, just a Robot.
+
+**He is, however, carrying an actual illegal weapon built into his own chassis.** His offensive self-destruct system is prohibited outright under Imperial Law (the Shudusham Concords), and getting him through any Imperial starport with TL12+ scanners active requires a Very Difficult Stealth check to keep it hidden. Nobody on the team mentions this casually. If it's ever discovered, found means a long stay on a prison world for whoever's legally responsible for him and a smelter for Rivit. He does not know this about himself any more than he knows the rest of what's actually true in his own head, SolSec installed it after acquiring him, quietly, and never saw fit to update his own self-awareness on the subject.
+
+### RIVIT — ROBOT SPECIFICATION SHEET (Robot Handbook design rules)
+
+**Designation:** Unrecoverable &nbsp;|&nbsp; **Chassis:** Size 5, humanoid &nbsp;|&nbsp; **Legal Class:** Robot (not Android, see above)
+
+| CHASSIS & LOCOMOTION | Value | Cost | Page |
+|---|---|---|---|
+| Chassis Size | 5 (humanoid; 16 Base Slots, 20 Base Hits) | — *(folded into Locomotion cost, see below)* | p.13 |
+| Locomotion | Walker (×10 multiplier on Cr1,000 base, ATV trait) | Cr10,000 total | p.16 |
+| Endurance | 72 hours base (not a characteristic in the human sense) | — | p.16 |
+| Manipulator STR | 9→12 (+3 upgrade) | Cr4,500 | p.26 |
+| Manipulator DEX | 8→10 (+2 upgrade) | Cr4,000 | p.26 |
+| Vacuum Environment Protection | 16 Base Slots × Cr600; replaces "Vacc Suit" entirely | Cr9,600 | p.33 |
+| Radiation Environment Protection | 16 Base Slots × Cr600; +700 rads at his TL14, stacks with Vacuum Protection; a leftover from physics work at the university | Cr9,600 | p.41 |
+| Submersible Environment Protection, Enhanced | 16 Base Slots × Cr800; Safe Depth 600m | Cr12,800 | p.42 |
+| Geiger Counter | Flat, Zero-Slot | Cr400 | p.38 |
+| Tactical Speed Enhancement +3m | 10% of Base Chassis Cost per +1m × 3; reduces Endurance 30% (72hrs → ~50hrs) | Cr3,000 | p.21 |
+| Offensive Self-Destruct System | 10% of Base Slots (2 Slots); to Rivit: Hits÷3 D + 3× Severity 1D brain criticals; to others: Hits×⅔ D, Blast = Size, his own armour does not protect bystanders. **Illegal under Imperial Law** (Shudusham Concords) — Very Difficult (12+) Stealth required to pass TL12+ starport scanners undetected; discovery risks life imprisonment or worse for whoever's responsible for him, and a smelter for Rivit himself | Cr16,000 | p.52–53 |
+
+| BRAIN | Value | Cost | Page |
+|---|---|---|---|
+| Type | Very Advanced, TL14 (Bandwidth 5, Base INT 11, +1 skill DM) | Cr500,000 | p.65–66 |
+| Bandwidth Upgrade | +6 (required; skills below need 8 total, exceeding the native 5; no smaller package exists) | Cr50,000 | p.67 |
+| SOC / EDU | None, true. Very Advanced brains substitute INT narrowly, per task, not as a standalone score | — | p.73 |
+| Behavioral note | "Not conscious but appears to be so and considers itself to be conscious without fully understanding the concept" — mechanically *why* the false autobiography reads as sincere rather than a detectable glitch | — | p.65 |
+
+| SKILLS | Purchased | Adjusted (effective) | Cost | Page |
+|---|---|---|---|---|
+| Electronics | 0 | 0 | — | p.73–74 |
+| Electronics (computers) | 3 *(max level any robot skill can reach)* | **4** | Cr100,000 | p.73–74 |
+| Engineer | 0 | 0 | — | p.73–74 |
+| Engineer (life support) | 2 | **3** | Cr20,000 | p.73–74 |
+| Gun Combat | 0 | 0 | — | p.73–74 |
+| Gun Combat (energy) | 1 | 1 *(DEX-based, not INT/EDU — rule below doesn't apply)* | Cr1,000 | p.73–74 |
+| Mechanic | 1 | **2** | Cr1,000 | p.73–74 |
+| Persuade | 0 *(technically untrained; unnervingly effective anyway)* | **1** | Cr500 | p.73–74 |
+
+*For skills normally modified by INT or EDU, a robot's skill DM is tied to its brain's own INT modifier, and that bonus is folded directly into the robot's effective skill level rather than tracked as a separate roll modifier (Robot Handbook, p.65–66). His brain's INT 11 (DM+1) bumps every INT-based skill above by one level in actual play; the "Purchased" column is what was paid for during design, the "Adjusted" column is what he actually rolls with. Gun Combat is DEX-based, so it's unaffected.*
 
 *Note: this skill list does not include the Connections Rule bonus (CRB22), which grants up to 2 additional free skills at level 1 if this character was linked to another Traveller's Event during group chargen.*
 
-**Equipment:** SolSec-issue Ceramic Combat Armour (heavy chassis variant, **Protection +12, +18 vs fire/lasers/energy, TL13, Rad 150**; Cr90,000, Vacc Suit 1 required), integrated diagnostic suite, Laser Pistol (Range 20m, TL9 baseline; damage figure uncertain due to a source-extraction gap, see Appendix E), a weapon he was, until this pass, never actually issued despite the "occasionally devastating in combat" line below; carried only because Gun Combat (energy) 1 implied he ought to have something, not because he reaches for it often. Also issued a GPDW sidearm (Gauss Personal Defence Weapon, TL12, Range 40m, 3D, 1.4kg, Cr1250, Magazine 40 or 60, AP3/Auto3 traits) as standard team loadout, though he doesn't use it, a gauss weapon sits outside his trained specialty, and he's the type to stick with what he's actually competent at. 2x Stun grenades (TL8, Stun trait) -- fitting his general preference to end a fight without ending anyone, an unlit cigar it holds correctly and has never once smoked, out of what it insists is "respect for the custom" of an era it cannot actually name.
+**TOTAL BUILD COST: Cr742,400**
+
+| CHARACTERISTICS | STR | DEX | INT |
+|---|---|---|---|
+| Score (DM) | 12 (+2) | 10 (+1) | 11 (+1) |
+
+*(No true SOC or EDU — see Brain table above.)*
+
+| EQUIPMENT | Notes |
+|---|---|
+| Ceramic Combat Armour (heavy chassis variant) | **Protection +12, +18 vs fire/lasers/energy, TL13, Rad 150**; Cr90,000, Vacc Suit 1 required; worn over his own Vacuum Environment Protection rather than replacing it |
+| Integrated diagnostic suite | Standard issue |
+| Laser Pistol | Range 20m, TL9 baseline; damage figure uncertain, source-extraction gap, see Appendix E. Carried mostly because Gun Combat (energy) 1 implied he ought to have something, rarely drawn |
+| GPDW sidearm | Gauss Personal Defence Weapon, TL12, Range 40m, 3D, 1.4kg, Cr1250, Magazine 40 or 60, AP3/Auto3; issued as standard team loadout, but a gauss weapon sits outside his trained specialty, so he sticks to the Laser Pistol instead |
+| Stun grenades | 2x, TL8, Stun trait; fits his general preference to end a fight without ending anyone |
+| Unlit cigar | Held correctly, never smoked, "respect for the custom" of an era it cannot actually name |
 
 **Personality:** Gentle, formal, occasionally devastating in combat and immediately apologetic about it afterward. It refers to events on Ys (the naval base, the Ashfall network, even the Glass Reach's thirty-one-year-old accident) with total unearned confidence, as though it personally remembers installations that were built decades before any TL15 denial network existed. It is never malicious about it. It is never right about it either.
 
 > **Running Rivit at the table:** hand the referee a private list of three "memories" per session (one true (pulled from real SolSec archive data it actually has legitimate access to), one plausible-but-wrong, one wildly, gloriously impossible) and let it deliver all three with identical, sincere confidence. The team has learned to just nod. New NPCs have not.
+>
+> **A ready-made example of the "true" category:** Aquitaine, the world his own construction almost certainly traces back to, was settled around -2100 by French-speaking colonists (France, Quebec, and other Francophone origins), and remains bilingual to this day, French still taught alongside Galanglic in its schools. Somewhere in Rivit's corrupted archive sits a complete, word-perfect copy of *Le Petit Prince*, the real, genuinely ancient (by TL7 standards) story of a stranded aviator meeting a solemn visitor from another world, written by an actual French aviator a very long time ago. Rivit does not know it as literature. He remembers it as something that happened to him personally, a desert, a downed craft, a small, serious stranger asking him to draw a sheep. He will tell it with total sincerity, first-person, present tense if pressed. It is the one "memory" a sharp-eyed referee can let a player with the right background actually recognize for what it is, before Rivit insists, gently, that no, he was there.
+>
+> **A second, related thread from the same archive:** entire works of Alexandre Dumas are in there too, *The Three Musketeers*, *The Count of Monte Cristo*, stories built on disguised identity and long-buried truth finally surfacing, which lands with an irony Rivit himself will never notice. He doesn't recite them as books either. He remembers duels he fought, a prison cell he escaped, a name he once took that wasn't his own. A teammate with genuine Art (literature) background, not just Language, since this is about recognizing the specific stories rather than simply understanding French, could place these instantly and recognize exactly what Rivit is actually describing, which raises an uncomfortable question the team has never quite asked out loud: if this much of his "memory" is borrowed from Earth's own old stories, how much of the rest of it is too, and what did he actually lose underneath all of it?
 
-**Neural.AI image prompt:** A humanoid android with a heavy-duty synthetic chassis, matte industrial finish rather than sleek or organic, faint visible seams at the joints. Wearing reinforced matte-grey Battle Dress built for its heavier frame. Holding an unlit cigar correctly and formally between two fingers, examining it with quiet, sincere curiosity, as though genuinely remembering something ancient. Calm, gentle expression rendered through subtle optical sensor design rather than a human face. Industrial harbor backdrop, warm firelight against cool blue dusk. Photorealistic, science fiction military portrait, no text, no logos.
+**Neural.AI image prompt:** A humanoid robot with a heavy-duty synthetic chassis, matte industrial finish rather than sleek or organic, faint visible seams at the joints. Wearing reinforced matte-grey Battle Dress built for its heavier frame. Holding an unlit cigar correctly and formally between two fingers, examining it with quiet, sincere curiosity, as though genuinely remembering something ancient. Calm, gentle expression rendered through subtle optical sensor design rather than a human face. Industrial harbor backdrop, warm firelight against cool blue dusk. Photorealistic, science fiction military portrait, no text, no logos.
 
 ---
 
@@ -501,4 +560,4 @@ The suits are the only reason Team UNDERTOW can seriously consider crossing the 
 
 ---
 
-*Last updated: 2026-09-30*
+*Last updated: 2026-10-02*
