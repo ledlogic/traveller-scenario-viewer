@@ -23,7 +23,7 @@
 | 4 | Marisol Achebe | "Doc" | Combat Medic | Mechanic 3, Diplomat 2, Leadership 2 |
 | 5 | Coyle Reyes | "Ten-Ton" | Pilot / Driver | Recon 3, Mechanic 2, Vacc Suit 2 |
 | 6 | Unit designation unknown | "Rivit" | Robot / Technical Specialist | Electronics (computers) 4, Engineer (life support) 3 *(adjusted for brain INT DM, see §2.7)* |
-| 7 | Nerys (Dolphin, uplifted) | "Echo" | Recon / Underwater Infiltration | Electronics (sensors) 2, Recon 2, Pilot (small craft) 1 |
+| 7 | Nerys (Dolphin, uplifted) | "Echo" | Recon / Underwater Infiltration | Electronics (sensors) 2, Melee (unarmed) 2, Vacc Suit 2 |
 | 8 | Franko Ponchorrorrorrow (Vargr) | "Ponch" | Investigator / Non-Lethal Specialist | Advocate 1, Investigate 1, Medic 1, Stealth 1, Streetwise 1 |
 | 9 | Jon Bakerrowowarr (Vargr) | "Shield" | Riot Control / Crowd Specialist | Art (holography) 2, Streetwise 2 |
 
@@ -423,11 +423,11 @@ None of this is true. All of the "memories" are corrupted composite data, real h
 | Engineer | 0 | 0 | — | p.73–74 |
 | Engineer (life support) | 2 | **3** | Cr20,000 | p.73–74 |
 | Gun Combat | 0 | 0 | — | p.73–74 |
-| Gun Combat (energy) | 1 | 1 *(DEX-based, not INT/EDU — rule below doesn't apply)* | Cr1,000 | p.73–74 |
+| Gun Combat (energy) | 1 | 1 *(DEX-based, not INT/EDU — the fold-in rule below doesn't apply; but any actual check still adds his normal DEX 10 DM+1 on top, same as any character, for a real roll of skill 1 + DEX DM+1 = +2 total)* | Cr1,000 | p.73–74 |
 | Mechanic | 1 | **2** | Cr1,000 | p.73–74 |
 | Persuade | 0 *(technically untrained; unnervingly effective anyway)* | **1** | Cr500 | p.73–74 |
 
-*For skills normally modified by INT or EDU, a robot's skill DM is tied to its brain's own INT modifier, and that bonus is folded directly into the robot's effective skill level rather than tracked as a separate roll modifier (Robot Handbook, p.65–66). His brain's INT 11 (DM+1) bumps every INT-based skill above by one level in actual play; the "Purchased" column is what was paid for during design, the "Adjusted" column is what he actually rolls with. Gun Combat is DEX-based, so it's unaffected.*
+*For skills normally modified by INT or EDU, a robot's skill DM is tied to its brain's own INT modifier, and that bonus is folded directly into the robot's effective skill level rather than tracked as a separate roll modifier (Robot Handbook, p.65–66). His brain's INT 11 (DM+1) bumps every INT-based skill above by one level in actual play; the "Purchased" column is what was paid for during design, the "Adjusted" column is what he actually rolls with, already complete, no separate INT DM gets added again on top of it. Gun Combat is DEX-based, so this fold-in rule doesn't touch it at all, it keeps its purchased level and takes his normal DEX DM separately at the table, same as any character would.*
 
 *Note: this skill list does not include the Connections Rule bonus (CRB22), which grants up to 2 additional free skills at level 1 if this character was linked to another Traveller's Event during group chargen.*
 
@@ -467,19 +467,59 @@ None of this is true. All of the "memories" are corrupted composite data, real h
 
 *(Series of sharp clicks and whistles, rendered by her travel suit's vocoder as:)* "You people navigate by *guessing.* It's adorable."
 
-Nerys comes from one of the Solomani Rim's old uplifted Dolphin communities (Behind the Claw notes the Rim has the oldest continuously uplifted Dolphin population in Solomani space, and Nerys's pod has been producing naval-adjacent specialists for four generations. She signed on with SolSec for reasons she's never fully explained to the rest of the team, though Achebe suspects it has something to do with a documented Solomani political tradition of treating uplifted Dolphins as full citizens and genuine equals in a way certain other powers historically haven't) and Nerys, whatever else she is, has strong opinions about being taken seriously.
+**Born on Hamilcar** (Gemini Subsector, Solomani Rim 1738, UWP A56A9AA-E, a water world, major Confederation governmental centre and SolSec sector headquarters, and the first world in the Near Boötes Cluster to elect a Solomani Party government). About 13% of Hamilcar's population are uplifted Dolphins, whose representatives hold associate status in the planetary government, and Nerys grew up fully part of that tradition.
 
-She is dry, quick, faster to laugh than Kade would like on an active op, and constitutionally incapable of pretending a bad plan is a good one. Where Threk is aggressive and Rivit is gentle, Nerys is *amused*, by the humans, by the mission, occasionally by the exact moment things start going wrong. It's not recklessness. It's a coping mechanism that happens to also be excellent for squad morale.
+She enlisted with the **Carthaginian Marines of Hamilcar**, a real mercenary amphibious commando unit native to her own world, each of its three companies fielding a dedicated Dolphin detachment. Three terms of Star Marine service followed, rising to Lance Sergeant before mustering out. Rather than re-enlist immediately, she qualified for Scholar instead and spent two terms as a Scientist, developing a genuine specialty in physics and geology. During her first term with the Marines, she'd been part of an expedition exploring the wreckage of a space station destroyed by one of the early Ashfall devices, and **Dr. Piet Higgs**, the gravimetrics physicist from New Greenpernt, was on that same expedition. He came away impressed by her ability to spot physics effects in the debris and by her piloting through the wreckage field, and the two have stayed in contact ever since, an Ally she still calls on. After her two Scholar terms, she re-enlisted with the Marines one final term before mustering out for good.
 
-**Characteristics:** STR 7 (+0) · DEX 9 (+1) · END 9 (+1, includes racial END+1) · INT 9 (+1) · EDU 8 (+0) · SOC 5 (–1, includes racial SOC–1)
+Nerys, whatever else she is, has strong opinions about being taken seriously. She is dry, quick, faster to laugh than Kade would like on an active op, and constitutionally incapable of pretending a bad plan is a good one. Where Threk is aggressive and Rivit is gentle, Nerys is *amused*, by the humans, by the mission, occasionally by the exact moment things start going wrong. It's not recklessness. It's a coping mechanism that happens to also be excellent for squad morale.
 
-**Racial Traits** *(Behind the Claw, Dolphin Travellers)*: **Deep Diver (300m)** (can dive without risk to 300 metres and hold her breath up to 15 minutes unassisted, before even counting her suit's own life support. **Echolocation (100m)**) full situational awareness underwater or in total darkness out to 100 metres, independent of visual light. **Swimmer (12m)**, a swimming Speed of 12 metres, far outpacing anything human or Vargr in the water.
+**Timeline:**
 
-**Skills:** Recon 2 · Electronics 0 · Electronics (sensors) 2 · Pilot 0 · Pilot (small craft) 1 · Survival 1 · Stealth 1 · Persuade 1 · Vacc Suit 1
+| Term | Career | Age | Years (IY) |
+|---|---|---|---|
+| 0 | Youth, Hamilcar | 0–18 | 1075–1093 |
+| 1 | Marine, Star Marine, Carthaginian Marines of Hamilcar | 18–22 | 1093–1097 |
+| 2 | Marine, Star Marine | 22–26 | 1097–1101 |
+| 3 | Marine, Star Marine | 26–30 | 1101–1105 |
+| 4 | Scholar, Scientist | 30–34 | 1105–1109 |
+| 5 | Scholar, Scientist | 34–38 | 1109–1113 |
+| 6 | Marine, Star Marine (re-enlisted) | 38–42 | 1113–1117 |
 
-*Note: this skill list does not include the Connections Rule bonus (CRB22), which grants up to 2 additional free skills at level 1 if this character was linked to another Traveller's Event during group chargen.*
+**Characteristics:** STR 6 (+0) · DEX 9 (+1) · END 11 (+1) · INT 12 (+2) · EDU 10 (+1) · SOC 5 (–1, includes racial SOC–1)
 
-**Equipment:** SolSec-issue **Type D Battle Dress** (Behind the Claw, Dolphin-specific combat variant, **Protection +25, TL15, Rad 300**, STR +2/DEX +6, 20 Slots, 12kg, Vacc Suit 1 required), built around a full travel-suit life support core rather than adapted from human-pattern armour. Integrated waldo manipulators (surgically neural-linked, no meaningful penalty at this tech level) let her handle weapons and equipment the same as any hands-and-fingers teammate, she carries no personal firearm of her own (no Gun Combat skill), but can operate any squadmate's weapon through the waldos if the situation demands it. Issued a GPDW sidearm (Gauss Personal Defence Weapon, TL12, Range 40m, 3D, 1.4kg, Cr1250, Magazine 40 or 60, AP3/Auto3 traits) as standard team loadout, secured in a waldo-accessible mount rather than a holster, something she's more likely to hand to a teammate through the waldos than fire herself. Onboard sonar sensor system (1km range, DM+2 to Electronics (sensors) checks) stacks with her own natural echolocation for genuinely unmatched underwater situational awareness. Carries 1x Stun grenade (TL8, Stun trait) -- effective underwater as a concussive pulse, one of the few grenade types that still functions the way it's meant to when everyone involved is submerged.
+**Racial Traits** *(Behind the Claw, Dolphin Travellers)*: **Deep Diver (300m)**, can dive without risk to 300 metres and hold her breath up to 15 minutes unassisted, before even counting her suit's own life support. **Echolocation (100m)**, full situational awareness underwater or in total darkness out to 100 metres, independent of visual light. **Swimmer (12m)**, a swimming Speed of 12 metres, far outpacing anything human or Vargr in the water.
+
+**Skills:**
+Athletics 1
+Electronics 0
+Electronics (sensors) 2
+Gun Combat 0
+Gun Combat (slug) 1
+Gunner 0
+Heavy Weapons 0
+Heavy Weapons (portable) 1
+Investigate 1
+Leadership 1
+Melee 0
+Melee (blade) 0
+Melee (unarmed) 2
+Pilot 0
+Pilot (small craft) 1
+Recon 1
+Science (physics) 1
+Science (geology) 1
+Seafarer 0
+Stealth 1
+Survival 0
+Vacc Suit 2
+
+*Note: this skill list includes 1 of 2 available Connections Rule bonuses (Stealth) — the second remains unused, and the one used still needs a specific linked teammate identified once the rest of the roster is built.*
+
+**Allies:** Dr. Piet Higgs, physicist from New Greenpernt.
+
+**Cash:** Cr5,000 (Marine, Term 3 muster-out).
+
+**Equipment:** SolSec-issue **Type D Battle Dress** (Behind the Claw, Dolphin-specific combat variant, **Protection +25, TL15, Rad 300**, STR +2/DEX +6, 20 Slots, 12kg, Vacc Suit 1 required), built around a full travel-suit life support core rather than adapted from human-pattern armour. Integrated waldo manipulators (surgically neural-linked, no meaningful penalty at this tech level) let her handle weapons and equipment the same as any hands-and-fingers teammate. Issued a GPDW sidearm (Gauss Personal Defence Weapon, TL12, Range 40m, 3D, 1.4kg, Cr1250, Magazine 40 or 60, AP3/Auto3 traits) as standard team loadout, secured in a waldo-accessible mount rather than a holster, which she's now properly trained to use herself (Gun Combat (slug) 1) rather than only handing off to a teammate. Onboard sonar sensor system (1km range, DM+2 to Electronics (sensors) checks) stacks with her own natural echolocation for genuinely unmatched underwater situational awareness. Carries 1x Stun grenade (TL8, Stun trait) -- effective underwater as a concussive pulse, one of the few grenade types that still functions the way it's meant to when everyone involved is submerged.
 
 **Personality:** Confident, blunt, treats the rest of the team's landlubber instincts with real affection buried under a lot of teasing. She is, unambiguously, the correct answer to Appendix G's Meridian Sound waterfront approach, nobody else on the roster is built to operate in that environment the way she is, and a table fielding her should feel actively encouraged to consider that route into the Pi Building rather than defaulting straight to the Boulevard assault.
 
