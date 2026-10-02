@@ -536,11 +536,37 @@ Vacc Suit 2
 
 Ponch is Vargr, thirty-four, and from Kukulkan (a Solomani Rim world referenced directly in Confederation trade and strategy circles, which makes him one of the few people on this roster who's actually *from* the region Team UNDERTOW keeps getting sent to fight over. He came up through a straightforward Wanderer-to-Law-Enforcement track: three terms of it, made Sergeant, picked up a corporate contact and a father he still lists as his only real Ally. Where Threk (Chapter 2, §2.3) is muscle and Rivit is technical support, Ponch is the one who actually *investigates*) a real gap in a roster this heavy on breaching charges and heavy weapons.
 
+**Timeline** *(reconstructed from established background, not yet diced term-by-term)*:
+
+| Term | Career | Age | Years (IY) |
+|---|---|---|---|
+| 0 | Youth, Kukulkan | 0–18 | 1083–1101 |
+| 1 | Drifter, Wanderer | 18–22 | 1101–1105 |
+| 2 | Agent, Law Enforcement | 22–26 | 1105–1109 |
+| 3 | Agent, Law Enforcement | 26–30 | 1109–1113 |
+| 4 | Agent, Law Enforcement (made Sergeant) | 30–34 | 1113–1117 |
+
 **Characteristics:** STR 8 (+0) · DEX 7 (+0) · END 7 (+0) · INT 6 (+0) · EDU 5 (–1) · SOC 13 (+2)
 
 **Species Trait:** pronounced canines usable as a natural close-combat weapon, Melee (Natural), 1D+1 damage, no weapon required.
 
-**Skills:** Advocate 1 · Investigate 1 · Streetwise 1 · Stealth 1 · Medic 1 · Electronics 0 · Electronics (comms) 1 · Engineer 0 · Engineer (power) 1 · Melee 0 · Melee (unarmed) 1 · Pilot 0 · Pilot (small craft) 1 · Jack of All Trades 1 · Athletics 0 · Athletics (dexterity) 1
+**Skills:**
+Advocate 1
+Athletics 0
+Athletics (dexterity) 1
+Electronics 0
+Electronics (comms) 1
+Engineer 0
+Engineer (power plant) 1
+Investigate 1
+Jack of All Trades 1
+Medic 1
+Melee 0
+Melee (unarmed) 1
+Pilot 0
+Pilot (small craft) 1
+Stealth 1
+Streetwise 1
 
 *Note: this skill list does not include the Connections Rule bonus (CRB22), which grants up to 2 additional free skills at level 1 if this character was linked to another Traveller's Event during group chargen.*
 
@@ -561,11 +587,37 @@ Ponch is Vargr, thirty-four, and from Kukulkan (a Solomani Rim world referenced 
 
 Jon is Vargr, thirty-eight, also out of the Kukulkan system (a neighboring world, Skanderberg, in the same subsector) (and his entire career has been built around exactly the kind of situation Team UNDERTOW walks into on Ys: crowds, chaos, and a city that's stopped listening to whoever's supposed to be in charge. University, then a technical worker track, then years in Law Enforcement working his way to Corporal, with a documented **Enemy: Military Governor** on his own record) a detail the referee can use directly. Play it as a personal, pre-existing grudge against exactly the kind of authority figure Krein represents, whether or not it's ever explained further at the table.
 
+**Timeline** *(reconstructed from established background, not yet diced term-by-term)*:
+
+| Term | Career | Age | Years (IY) |
+|---|---|---|---|
+| 0 | Youth, Skanderberg | 0–18 | 1079–1097 |
+| 1 | University | 18–22 | 1097–1101 |
+| 2 | Citizen, Worker (technical track) | 22–26 | 1101–1105 |
+| 3 | Agent, Law Enforcement | 26–30 | 1105–1109 |
+| 4 | Agent, Law Enforcement | 30–34 | 1109–1113 |
+| 5 | Agent, Law Enforcement (made Corporal) | 34–38 | 1113–1117 |
+
 **Characteristics:** STR 7 (+0) · DEX 11 (+1) · END 7 (+0) · INT 10 (+1) · EDU 8 (+0) · SOC 10 (+1)
 
 **Species Trait:** pronounced canines usable as a natural close-combat weapon, Melee (Natural), 1D+1 damage, no weapon required.
 
-**Skills:** Streetwise 2 · Persuade 1 · Animals 0 · Animals (Handling) 1 · Drive 0 · Drive (wheeled) 1 · Electronics 0 · Electronics (comms) 1 · Electronics (sensors) 1 · Medic 1 · Stealth 1 · Science 0 · Science (Cosmology) 1 · Art 0 · Art (holography) 2
+**Skills:**
+Animals 0
+Animals (handling) 1
+Art 0
+Art (holography) 2
+Drive 0
+Drive (wheeled) 1
+Electronics 0
+Electronics (comms) 1
+Electronics (sensors) 1
+Medic 1
+Persuade 1
+Science 0
+Science (cosmology) 1
+Stealth 1
+Streetwise 2
 
 *Note: this skill list does not include the Connections Rule bonus (CRB22), which grants up to 2 additional free skills at level 1 if this character was linked to another Traveller's Event during group chargen.*
 
@@ -577,7 +629,7 @@ Jon is Vargr, thirty-eight, also out of the Kukulkan system (a neighboring world
 
 ---
 
-## 2.11 - SHARED LOADOUT: SOLSEC BATTLE DRESS
+## 2.11 - SHARED LOADOUT: ARMOUR
 
 Six of the human/android characters begin the scenario in **SolSec-issue Ceramic Combat Armour** (Protection +12, +18 vs fire/lasers/energy, TL13, Rad 150, Cr90,000, Vacc Suit 1 required; smuggled in ahead of the insertion under diplomatic cover). Nerys wears the separate **Type D Battle Dress** detailed in her own entry (§2.8) instead, built around entirely different underlying anatomy and life-support needs. Ponch and Jon deliberately wear lighter, non-military gear (Cloth Jacket and Riot Shield/Cloth Armour respectively) matching their established roles, see their individual entries.
 
