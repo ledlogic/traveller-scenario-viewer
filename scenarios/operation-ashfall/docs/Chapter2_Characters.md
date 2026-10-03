@@ -24,8 +24,8 @@
 | 5 | Coyle Reyes | "Ten-Ton" | Pilot / Driver | Recon 3, Mechanic 2, Vacc Suit 2 |
 | 6 | Unit designation unknown | "Rivit" | Robot / Technical Specialist | Electronics (computers) 4, Engineer (life support) 3 *(adjusted for brain INT DM, see §2.7)* |
 | 7 | Nerys (Dolphin, uplifted) | "Echo" | Recon / Underwater Infiltration | Electronics (sensors) 2, Melee (unarmed) 2, Vacc Suit 2 |
-| 8 | Franko Ponchorrorrorrow (Vargr) | "Ponch" | Investigator / Non-Lethal Specialist | Advocate 1, Investigate 1, Medic 1, Stealth 1, Streetwise 1 |
-| 9 | Jon Bakerrowowarr (Vargr) | "Shield" | Riot Control / Crowd Specialist | Art (holography) 2, Streetwise 2 |
+| 8 | Franko Ponchorrorrorrow (Vargr) | "Ponch" | Investigator / Non-Lethal Specialist | Stealth 3, Streetwise 3, Investigate 2 |
+| 9 | Jon Bakerrowowarr (Vargr) | "Shield" | Investigator / Operative | Advocate 4, Streetwise 2, Persuade 2 |
 
 ---
 
@@ -125,6 +125,8 @@ Uzgar is enormous even by Vargr standards, and mean in the specific way that mak
 | Confederation Marine | Star Marine, still serving, interrupted at 41 | 38→41 | 1114–1117 |
 
 **Characteristics:** STR 12 (+2) · DEX 10 (+1) · END 9 (+1) · INT 7 (+0) · EDU 6 (+0) · SOC 4 (–1)
+
+**Species Traits:** **Bite** — pronounced canines usable as a natural close-combat weapon, Melee (Natural), 1D+1 damage, no weapon required. **Heightened Senses** — DM+1 to any Recon or Survival check; DM–1 to any sight-based skill check in dark conditions.
 
 **Skills:**
 Athletics 0
@@ -534,96 +536,127 @@ Vacc Suit 2
 
 *"You want a body? I can get you a body. You want a body that can still answer questions? That's the whole reason I'm here."*
 
-Ponch is Vargr, thirty-four, and from Kukulkan (a Solomani Rim world referenced directly in Confederation trade and strategy circles, which makes him one of the few people on this roster who's actually *from* the region Team UNDERTOW keeps getting sent to fight over. He came up through a straightforward Wanderer-to-Law-Enforcement track: three terms of it, made Sergeant, picked up a corporate contact and a father he still lists as his only real Ally. Where Threk (Chapter 2, §2.3) is muscle and Rivit is technical support, Ponch is the one who actually *investigates*) a real gap in a roster this heavy on breaching charges and heavy weapons.
+Ponch is Vargr, fifty, and from **Carchemish** (Solomani Rim 2536, UWP D778169-7, a low-population Solomani garden world in the Kukulcan region, TL7). At that tech level there's no casual access to grav vehicles, if you're chasing someone down on Carchemish, you're doing it on wheels, and Ponch took to it completely. He could have qualified for Navy service easily enough, the aptitude was there, but he wanted the actual feel of ground under him, something a bridge console was never going to give him. A trained mechanic before he ever wore a badge, he still keeps a personally restored ground vehicle of his own, the one thing in his life he maintains purely for its own sake rather than the job.
 
-**Timeline** *(reconstructed from established background, not yet diced term-by-term)*:
+His first term out was rough: a stretch as a Wanderer that ended in a life-threatening illness and left him flat broke, the lowest point of his life, before an unexpected string of good luck turned it around. From there he found his footing in Law Enforcement, made Sergeant, picked up along the way an investigator's instincts the rest of the team genuinely lacks, a brief, miserable detour through a corporate-adjacent stint he'd rather not discuss, and, later, two years running as a privateer, a Solomani-licensed corsair carrying Letters of Marque rather than a wanted pirate. That career ended in arrest, a term in prison, and a withdrawal crisis that very nearly killed him when his supply of illegal anagathics ran out behind bars. He survived, came out the other side on borrowed time and a debt to the Solomani Confederation that will take him years to clear.
+
+Where Threk (Chapter 2, §2.3) is muscle and Rivit is technical support, Ponch is the one who actually *investigates*, a real gap in a roster this heavy on breaching charges and heavy weapons.
+
+**Timeline:**
 
 | Term | Career | Age | Years (IY) |
 |---|---|---|---|
-| 0 | Youth, Kukulkan | 0–18 | 1083–1101 |
-| 1 | Drifter, Wanderer | 18–22 | 1101–1105 |
-| 2 | Agent, Law Enforcement | 22–26 | 1105–1109 |
-| 3 | Agent, Law Enforcement | 26–30 | 1109–1113 |
-| 4 | Agent, Law Enforcement (made Sergeant) | 30–34 | 1113–1117 |
+| 0 | Youth, Carchemish | 0–18 | 1067–1085 |
+| 1 | Drifter, Wanderer | 18–22 | 1085–1089 |
+| 2 | Agent, Law Enforcement | 22–26 | 1089–1093 |
+| 3 | Citizen, Worker | 26–30 | 1093–1097 |
+| 4 | Agent, Law Enforcement (made Sergeant) | 30–34 | 1097–1101 |
+| 5 | Agent, Law Enforcement | 34–38 | 1101–1105 |
+| 6 | Agent, Law Enforcement | 38–42 | 1105–1109 |
+| 7 | Rogue, Pirate (Solomani privateer, Letters of Marque) | 42–46 | 1109–1113 |
+| 8 | Prisoner, Inmate | 46–50 | 1113–1117 |
 
-**Characteristics:** STR 8 (+0) · DEX 7 (+0) · END 7 (+0) · INT 6 (+0) · EDU 5 (–1) · SOC 13 (+2)
+**Characteristics:** STR 10 (+1) · DEX 11 (+1) · END 3 (–1) · INT 9 (+1) · EDU 10 (+1) · SOC 11 (+1)
 
-**Species Trait:** pronounced canines usable as a natural close-combat weapon, Melee (Natural), 1D+1 damage, no weapon required.
+**Species Traits:** **Bite** — pronounced canines usable as a natural close-combat weapon, Melee (Natural), 1D+1 damage, no weapon required. **Heightened Senses** — DM+1 to any Recon or Survival check; DM–1 to any sight-based skill check in dark conditions.
+
+**Anagathics dependency:** acquired during his years in Law Enforcement (quietly kept rather than logged, officially contraband), Ponch has been on an anagathics regimen ever since, pausing his aging for as long as he keeps dosing. It fell apart entirely during his term in prison; the withdrawal nearly killed him before he was stabilized with an emergency Endurance Augmentation (END+1, TL11, Cr500,000, CRB22 p.106), financed as a loan from the Solomani Confederation he is still working off. His current END reflects a man who came back from the edge, not a man who was never there.
+
+**Enemy:** Colonel Joachim Sanchex, Imperial Army Intelligence, head of station on Scandia, running a network of agents across the Arcturus and Kukulcan subsectors, the Imperial officer whose jurisdiction caught up with Ponch's privateering in IY 1110 and ended it.
 
 **Skills:**
-Advocate 1
+Astrogation 1
 Athletics 0
 Athletics (dexterity) 1
-Electronics 0
-Electronics (comms) 1
+Deception 0
+Drive (wheeled) 0
 Engineer 0
-Engineer (power plant) 1
-Investigate 1
-Jack of All Trades 1
+Investigate 2
+Jack of All Trades 0
+Mechanic 1
 Medic 1
-Melee 0
 Melee (unarmed) 1
 Pilot 0
 Pilot (small craft) 1
-Stealth 1
-Streetwise 1
+Recon 1
+Stealth 3
+Streetwise 3
+Survival 0
+Vacc Suit 1
 
-*Note: this skill list does not include the Connections Rule bonus (CRB22), which grants up to 2 additional free skills at level 1 if this character was linked to another Traveller's Event during group chargen.*
+*Note: Advocate and Electronics (comms) never came up across his full career and remain genuine gaps rather than established skills. This skill list includes 1 of 2 available Connections Rule bonuses (Pilot (small craft), Athletics (dexterity)) — the specific linked teammates still need identifying once the full roster's Events are cross-referenced.*
 
-**Equipment:** Cloth Jacket (TL10, **Protection +5, Rad none**, 2kg, no skill required), worn under civilian layers rather than Battle Dress, a deliberate choice matching his investigator role, per Chapter 3's insertion framing where not everyone needs to read as military. Stunner (TL12, Range 10m, 3D, 100-charge magazine, Stun/Zero-G traits) and a Stunfist (TL8, 1D+2, melee), Ponch's entire loadout is built around taking people alive, not putting them down permanently. Issued a GPDW sidearm (Gauss Personal Defence Weapon, TL12, Range 40m, 3D, 1.4kg, Cr1250, Magazine 40 or 60, AP3/Auto3 traits) as standard team loadout, though it stays holstered more often than not; lethal force isn't how he prefers to work, and it shows. Also carries 2x Stun grenades (TL8, Stun trait) -- the natural extension of a loadout already built entirely around not killing anyone -- a Rescue Tool Set, a personal safe, a computer terminal, a Breather Implant (TL10), binoculars, and a backpack.
+**Equipment:** Cloth Jacket (TL10, **Protection +5, Rad none**, 2kg, no skill required), worn under civilian layers rather than Battle Dress, a deliberate choice matching his investigator role, per Chapter 3's insertion framing where not everyone needs to read as military. Stunner (TL12, Range 10m, 3D, 100-charge magazine, Stun/Zero-G traits), a Stun Blaster (TL13, Range 20m, Damage 4D on beam mode or 3D with Blast 3 on blast mode, 5kg, Cr3000, Magazine 200, Cr500 power pack, Stun/Zero-G traits), and a Stunfist (TL8, 1D+2, melee), Ponch's entire loadout is built around taking people alive, not putting them down permanently; he carries no lethal sidearm at all, a deliberate break from the rest of the team's standard loadout. A Neural Comm (Enhanced, TL14, "multiple forms of data," Computer/2, Cr20,000). Also carries 2x Stun grenades (TL8, Stun trait), a Rescue Tool Set, a personal safe, a computer terminal, a Breather Implant (TL10), binoculars, a backpack, and a small stash of off-world snack food tucked away in a side compartment, non-standard issue, personally sourced, and not up for negotiation.
 
-**Personality:** Wry, patient, genuinely more interested in getting a straight answer out of someone than in winning a fight. His SOC 13 (+2) is the highest on the roster by a wide margin (he reads as more socially capable and connected than his combat stats suggest, and referees should let that show: people talk to Ponch, sometimes without meaning to. He is a strong pick for any table that wants to lean into Chapter 3's dockyard screening scene (§3.3) or the StudyDeck investigation in Appendix D) his whole skill set is built for exactly those beats.
+**Personality:** Wry, patient, genuinely more interested in getting a straight answer out of someone than in winning a fight. His SOC 11 (+1) reads as more socially capable and connected than his combat stats suggest, and referees should let that show: people talk to Ponch, sometimes without meaning to. He is a strong pick for any table that wants to lean into Chapter 3's dockyard screening scene (§3.3) or the StudyDeck investigation in Appendix D, his whole skill set is built for exactly those beats.
+
+Off-duty, he lives out of a small personal shuttle rather than keeping a fixed address, an untethered, bachelor existence he's in no hurry to give up. He flirts constantly and shamelessly, treats competitive zero-G sports and grav-bike racing as a genuine passion rather than just exercise, and keeps a stash of off-world snack food hidden in a side compartment that the rest of the team has learned not to ask about. He despises paperwork and departmental red tape with real, specific venom, Investigate is his love, Admin is his enemy, and he's been known to chase an investigative lead with total, misplaced confidence before admitting he barked up entirely the wrong tree. His full legal given name is Francis. Nobody who values their continued existence calls him that.
 
 **Neural.AI image prompt:** A lean, sharp-eyed Vargr with a well-groomed tawny coat, wearing plainclothes layered over light armor rather than full Battle Dress, a stunner holstered casually at the hip. Alert, faintly amused expression, leaning against a doorway or lamppost as though observing a crowd. Confident, sociable body language, unlike a soldier's rigid stance. Industrial harbor backdrop, warm firelight against cool blue dusk. Photorealistic, science fiction character portrait, no text, no logos.
 
 ---
 
 ## 2.10 - CHARACTER 9 - JON "SHIELD" BAKERROWOWARR
-**Vargr · Riot Control / Crowd Specialist**
+**Vargr · Investigator / Operative**
 
 ![Jon Bakerrowowarr](img/jon.webp)
 
 *"Everyone keeps asking how we get through a city mid-uprising without shooting our way in. I've been training for a city mid-uprising my whole career. Follow me."*
 
-Jon is Vargr, thirty-eight, also out of the Kukulkan system (a neighboring world, Skanderberg, in the same subsector) (and his entire career has been built around exactly the kind of situation Team UNDERTOW walks into on Ys: crowds, chaos, and a city that's stopped listening to whoever's supposed to be in charge. University, then a technical worker track, then years in Law Enforcement working his way to Corporal, with a documented **Enemy: Military Governor** on his own record) a detail the referee can use directly. Play it as a personal, pre-existing grudge against exactly the kind of authority figure Krein represents, whether or not it's ever explained further at the table.
+Jon is Vargr, fifty, and out of **Skanderbeg** (Solomani Rim 2932, UWP A5448A7-C, a garden world, high tech, Solomani-governed, a neighboring world to Kukulcan in the same subsector). As a schoolkid he went by "JB," and a college job tutoring at a bowling alley revealed a genuine, unboasted talent, a friend would later try to turn that into a money-making scheme without much success. His career has been built around exactly the kind of situation Team UNDERTOW walks into on Ys: crowds, chaos, and a city that's stopped listening to whoever's supposed to be in charge.
 
-**Timeline** *(reconstructed from established background, not yet diced term-by-term)*:
+He came up through Citizen work, then Law Enforcement, then two years running SolSec field intelligence, then, unexpectedly, two terms inside the ruling Solomani Party itself as a working Intellectual, before a scandal over a friend's non-Solomani blood forced him out. **That friend was Ponch** (Chapter 2, §2.9); Jon chose to stand by him rather than cut him loose, costing himself standing with the Party but cementing a real, lasting partnership between the two of them that the whole team has come to rely on. He closed out his working life drafted into Army Support duty, picking up genuine field medic training along the way. Like Ponch, he's been managing an anagathics regimen since his SolSec years, quietly pausing the clock on a long, eventful life.
+
+With a documented **Enemy: Military Governor** on his own record, Ys' Governor Tobias Krein (Appendix A) is exactly the kind of figure that Enemy was written for. Play it as a personal, pre-existing grudge against Krein specifically, whether or not it's ever explained further at the table.
+
+**Timeline:**
 
 | Term | Career | Age | Years (IY) |
 |---|---|---|---|
-| 0 | Youth, Skanderberg | 0–18 | 1079–1097 |
-| 1 | University | 18–22 | 1097–1101 |
-| 2 | Citizen, Worker (technical track) | 22–26 | 1101–1105 |
-| 3 | Agent, Law Enforcement | 26–30 | 1105–1109 |
-| 4 | Agent, Law Enforcement | 30–34 | 1109–1113 |
-| 5 | Agent, Law Enforcement (made Corporal) | 34–38 | 1113–1117 |
+| 0 | Youth, Skanderbeg | 0–18 | 1067–1085 |
+| 1 | Citizen, Worker | 18–22 | 1085–1089 |
+| 2 | Agent, Law Enforcement | 22–26 | 1089–1093 |
+| 3 | Agent, Law Enforcement (injured, made Sergeant) | 26–30 | 1093–1097 |
+| 4 | Agent, Intelligence (SolSec) | 30–34 | 1097–1101 |
+| 5 | Agent, Intelligence (SolSec) | 34–38 | 1101–1105 |
+| 6 | Party, Intellectual | 38–42 | 1105–1109 |
+| 7 | Party, Intellectual (forced out) | 42–46 | 1109–1113 |
+| 8 | Army, Support (drafted) | 46–50 | 1113–1117 |
 
-**Characteristics:** STR 7 (+0) · DEX 11 (+1) · END 7 (+0) · INT 10 (+1) · EDU 8 (+0) · SOC 10 (+1)
+**Characteristics:** STR 11 (+1) · DEX 7 (+0) · END 7 (+0) · INT 14 (+2) · EDU 7 (+0) · SOC 11 (+1)
 
-**Species Trait:** pronounced canines usable as a natural close-combat weapon, Melee (Natural), 1D+1 damage, no weapon required.
+**Species Traits:** **Bite** — pronounced canines usable as a natural close-combat weapon, Melee (Natural), 1D+1 damage, no weapon required. **Heightened Senses** — DM+1 to any Recon or Survival check; DM–1 to any sight-based skill check in dark conditions.
+
+**Anagathics dependency:** acquired during his SolSec years, Jon has been on an anagathics regimen ever since, same as Ponch, pausing his aging as long as he keeps dosing.
 
 **Skills:**
-Animals 0
-Animals (handling) 1
-Art 0
-Art (holography) 2
-Drive 0
+Advocate 4
+Art (holography) 0
+Deception 1
 Drive (wheeled) 1
-Electronics 0
-Electronics (comms) 1
+Electronics 2
+Electronics (comms) 2
 Electronics (sensors) 1
+Explosives 1
+Gambler 0
+Investigate 1
 Medic 1
-Persuade 1
-Science 0
-Science (cosmology) 1
+Melee 1
+Persuade 2
+Science (genetics) 1
+Science (philosophy) 1
 Stealth 1
 Streetwise 2
 
-*Note: this skill list does not include the Connections Rule bonus (CRB22), which grants up to 2 additional free skills at level 1 if this character was linked to another Traveller's Event during group chargen.*
+*Note: Animals (handling), Art (holography) (needs +2, currently bare at 0), and Science (cosmology) never came up across his full career and remain genuine gaps rather than established skills.*
 
-**Equipment:** Riot Shield (TL6, Melee 1D as a weapon; also rated Protection 1/Lsr1/Enrg1, **Rad none**, as wearable cover) and Cloth armour (TL12, Protection 4/Lsr4/Enrg4, **Rad none**) for a combined Protection of 5, the highest personal protection rating on the roster outside of Battle Dress, though with no radiological protection at all, worth remembering if he's ever in the Glass Reach's rad bands (Chapter 4, §4.2) without a suit. Also carries a Club (Melee), a GPDW sidearm (Gauss Personal Defence Weapon, TL12, Range 40m, 3D, 1.4kg, Cr1250, Magazine 40 or 60, AP3/Auto3 traits, replacing his previous Revolver), a Stunstick (TL8, Range Melee, 2D, Stun), 2x Smoke grenades (TL8) -- crowd control, not combat, matching his whole approach to Meridian's uprising -- a Portable Mediscan, two Rescue Tool Sets, and a Grav Floater.
+**Allies:** Ponch (Chapter 2, §2.9).
+
+**Equipment:** Riot Shield (TL6, Melee 1D as a weapon; also rated Protection 1/Lsr1/Enrg1, **Rad none**, as wearable cover) and Cloth armour (TL12, Protection 4/Lsr4/Enrg4, **Rad none**) for a combined Protection of 5, the highest personal protection rating on the roster outside of Battle Dress, though with no radiological protection at all, worth remembering if he's ever in the Glass Reach's rad bands (Chapter 4, §4.2) without a suit. Also carries a Club (Melee), a GPDW sidearm (Gauss Personal Defence Weapon, TL12, Range 40m, 3D, 1.4kg, Cr1250, Magazine 40 or 60, AP3/Auto3 traits), a Stunstick (TL8, Range Melee, 2D, Stun), a Neural Comm (Enhanced, TL14, "multiple forms of data," Computer/2, Cr20,000), 2x Smoke grenades (TL8) -- crowd control, not combat, matching his whole approach to Meridian's uprising -- a Portable Mediscan, two Rescue Tool Sets, and a Grav Floater.
 
 **Personality:** Level-headed under exactly the kind of pressure that makes everyone else on this team's instincts run hot. Where Threk wants to escalate and Kade wants control, Jon wants the crowd *contained*, not suppressed, not scattered, just kept from becoming its own disaster. That's a genuinely different read on crowd situations than anyone else on the roster offers, and it's the right lens for a referee running Chapter 3's uprising-torn Meridian (§3.2) as something more complicated than a simple hostile-territory crawl.
+
+Still, oddly, a natural at bowling. He never brings it up. Ponch never lets him forget it.
 
 **Neural.AI image prompt:** A broad-shouldered Vargr with a dark grey-black coat, wearing reinforced cloth armor and carrying a large riot shield in one hand, a stunstick holstered at the hip. Steady, grounded stance, shield angled slightly forward as though bracing for a crowd rather than an enemy. Calm, watchful expression. Industrial harbor backdrop, warm firelight against cool blue dusk. Photorealistic, science fiction military portrait, no text, no logos.
 
@@ -648,8 +681,6 @@ Six of the human/android characters begin the scenario in **SolSec-issue Ceramic
 
 The suits are the only reason Team UNDERTOW can seriously consider crossing the Reach at all, and the only reason the Governor's loyalists will make Team UNDERTOW a priority target the moment they're spotted. Six sets of matched armor moving as a unit reads as an Imperial Marine response team to absolutely everyone on Ys, which is a problem Act One deals with directly.
 
-*(Vehicle specifications for the Glass Reach crossing are detailed in Chapter 4, Act Two.)*
-
 ---
 
-*Last updated: 2026-10-02*
+*Last updated: 2026-10-03*
