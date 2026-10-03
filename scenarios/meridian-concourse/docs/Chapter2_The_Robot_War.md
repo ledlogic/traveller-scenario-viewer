@@ -1,5 +1,4 @@
 # CHAPTER 2 — THE ROBOT WAR
-### Referee Only. Do not share this chapter with players directly — it is uncovered in play through Concourse records, mainframe testimony, and NPC fragments.
 
 ---
 
