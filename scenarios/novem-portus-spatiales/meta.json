@@ -1,0 +1,20 @@
+{
+  "title": "Novem portus spatiales",
+  "subtitle": "A Mongoose Traveller 2e Convention Scenario",
+  "system": "Mongoose Traveller 2nd Edition",
+  "setting": "Schaut, Voyager Subsector, Magyar — Imperial Year 1116",
+  "color": "#3f7d6b",
+  "inception_date": "2026-10-03",
+  "docs": [
+    { "file": "Chapter1_Introduction.md", "label": "Ch 1 — Introduction & Situation" },
+    { "file": "Chapter2_Characters.md", "label": "Ch 2 — Characters" },
+    { "file": "Chapter3_Act_One_The_Commission.md", "label": "Ch 3 — Act One: The Commission" },
+    { "file": "Chapter4_Act_Two_The_Rival.md", "label": "Ch 4 — Act Two: The Rival" },
+    { "file": "Chapter5_Act_Three_The_Glass.md", "label": "Ch 5 — Act Three: The Glass" },
+    { "file": "AppendixA_The_Nine_Ports.md", "label": "App A — The Nine Ports (Puzzle & Handout)" },
+    { "file": "AppendixB_Worlds_Route_and_Ship.md", "label": "App B — Worlds, Route & Ship" },
+    { "file": "AppendixC_NPCs.md", "label": "App C — Non-Player Characters" },
+    { "file": "AppendixD_The_Lattice.md", "label": "App D — The Lattice" },
+    { "file": "AppendixE_Sources_and_Canon_Notes.md", "label": "App E — Sources & Canon Notes" }
+  ]
+}
