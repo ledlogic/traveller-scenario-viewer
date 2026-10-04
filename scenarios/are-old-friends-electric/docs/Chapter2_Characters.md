@@ -17,29 +17,85 @@
 
 | # | Name | Callsign | Role | Homeworld | Age | Key Skills |
 |---|------|----------|------|-----------|-----|------------|
-| 1 | Perpetua Achterberg | "Deacon" | Team Leader | Scaramouche | 74 | Leadership 4, Persuade 3, Admin 3 |
+| 1 | Antonella Interlenghi | "Deacon" | Team Leader | Scaramouche | 74 | Admin 3, Advocate 3, Persuade (augmented, effective 3) |
 | 2 | Desmond Farrow | "Coot" | Pilot | Kukulcan | 68 | Pilot (spacecraft) 3, Astrogation 1 |
-| 3 | Priya Lindqvist | "Vector" | Astrogator / Engineer | Point | 71 | Astrogation 2, Engineer (power) 2 |
+| 3 | Yatika Lindqvist | "Vector" | Astrogator / Engineer | Point | 71 | Astrogation 2, Engineer (power) 2 |
 | 4 | Hendrik Vosloo | "Big Henno" | Gunner / Heavy Weapons | Thassor | 69 | Gunner (turret) 3, Heavy Weapons (man portable) 2 |
-| 5 | Rosa Delacroix | "Sapper" | Breacher / Demolitions | Alizarin | 66 | Explosives 3, Stealth 1 |
-| 6 | Kwame Okonkwo | "Doc" | Medic / Signals | Krypton | 76 | Medic 3, Electronics (computers) 2 |
+| 5 | Rosa Delacroix | "Primer" | Breacher / Demolitions | Alizarin | 66 | Explosives 3, Stealth 1 |
+| 6 | Akio Komatsubara | "Patch" | Medic / Signals | Krypton | 76 | Medic 3, Electronics (computers) 2 |
 
 ---
 
-## 2.2 — CHARACTER 1 — PERPETUA ACHTERBERG, "DEACON"
-**Team Leader · SolSec Intelligence Branch, Retired · Rank 5, Assistant Director**
+## 2.2 — CHARACTER 1 — ANTONELLA INTERLENGHI, "DEACON"
+
+![Antonella Interlenghi, "Deacon"](img/deacon-02.webp)
+**Team Leader · Solomani Security (SolSec), Retired · Final Rank: Captain**
+
+**Age:** 74 · **Homeworld:** Scaramouche (Harlequin Subsector) · **Cash:** Cr0 · **Debt:** Cr100,000
 
 *"I have talked my way out of worse rooms than this one. Let me work."*
 
-Born on **Scaramouche** (Harlequin Subsector) — UWP A7C6503-A, Trade Codes *Fluid Oceans, Non-Industrial, Asteroid Belt* (*Solomani Front*, p. 140) — Perpetua grew up on a world of pure Solomani descent that ended up on the wrong side of the Rim War's final border, occupied by an Imperial garrison for most of a century (*Solomani Front*, pp. 143–144). Almost 15% of Scaramouche's adults volunteered for Confederation service during the war itself; she left before the surrender, joined SolSec's Intelligence Branch at twenty, and never had a homeworld to go back to that still recognised her citizenship. Nine terms, Rank 5, more quiet successes than the Directorate ever officially credited her with. She retired at 58. She is 74 now.
+Born on **Scaramouche** (Harlequin Subsector) — UWP A7C6503-A, Trade Codes *Fluid Oceans, Non-Industrial, Asteroid Belt* (*Solomani Front*, p. 140) — Antonella grew up on a world of pure Solomani descent occupied by an Imperial garrison for most of a century (*Solomani Front*, pp. 143–144). Failed her University entry roll at 18 and was about to be drafted when she qualified for **SolSec** directly instead — a dedicated Confederation career distinct from the generic Core Rulebook Agent path, Field Agent assignment (*Aliens of Charted Space, Vol. 2*, p. 134). Four terms in the field ended when a covert mission into the Imperium was betrayed: arrest, a show trial as a spy, and years in Imperial custody before a prisoner exchange finally brought her home — not a clean retirement, a trade. She rebuilt her entire SolSec career from Rookie, this time as an Administrator, and made Captain a second time before a bad Advancement roll, not a choice, ended her service for good at 58. She spent everything she had — and borrowed six figures more — on the equipment sitting in her kit right now, because she wasn't going to walk into this one less ready than she used to be.
 
-**Career-Prime Characteristics (age 58):** STR 6 (+0) · DEX 7 (+0) · END 7 (+0) · INT 9 (+1) · EDU 10 (+2) · SOC 9 (+1)
+**Timeline:**
 
-**Ageing Record:** 9 terms served → DM–9 on the Effects of Ageing table (Core Rulebook, pp. 48–49). Six checks, Terms 4 through 9. Two came back clean. The other four cost her: net **STR –3, DEX –2, END –2**, no mental characteristic loss.
+| Term | Career | Age | Years (IY) |
+|---|---|---|---|
+| 0 | Youth, Scaramouche | 0–18 | 1068–1086 |
+| Univ. | University (failed entry; retroactive credit) | 18–22 | 1086–1090 |
+| 1 | SolSec, Field Agent | 22–26 | 1090–1094 |
+| 2 | SolSec, Field Agent | 26–30 | 1094–1098 |
+| 3 | SolSec, Field Agent | 30–34 | 1098–1102 |
+| 4 | SolSec, Field Agent — arrested on a covert mission into the Imperium | 34–38 | 1102–1106 |
+| 5 | Prisoner (Imperial custody) — traded back to the Confederation | 38–42 | 1106–1110 |
+| 6 | SolSec, Administrator — re-enters at Rank 0, Rookie | 42–46 | 1110–1114 |
+| 7 | SolSec, Administrator | 46–50 | 1114–1118 |
+| 8 | SolSec, Administrator | 50–54 | 1118–1122 |
+| 9 | SolSec, Administrator — forced out, Rank 2, Captain | 54–58 | 1122–1126 |
+| — | Retired | 58–74 | 1126–1142 |
 
-**Current Characteristics (age 74):** STR 3 (–1) · DEX 5 (–1) · END 5 (–1) · INT 9 (+1) · EDU 10 (+2) · SOC 9 (+1)
+**Relationships:** a Rival (an academic tutor she humiliated during her University term, 1086–1090); a Contact in a world's police force or the Solomani Ministry of Justice (gained 1110–1114).
 
-**Skills:** Leadership 4 · Admin 3 · Advocate 2 · Deception 2 · Persuade 3 · Investigate 2 · Streetwise 1 · Electronics 0 · Electronics (comms) 2 · Gun Combat 0 · Gun Combat (slug) 1 · Recon 1 · Tactics 0 · Tactics (military) 1 · Carouse 1 · Language 0 · Language (Anglic) 2
+**Career-Prime Characteristics (age 58):** STR 10 (+1) · DEX 9 (+1) · END 11 (+1) · INT 8 (+0) · EDU 12 (+2) · SOC 11 (+1)
+
+**Ageing Record:** 9 total terms lived (4 Field Agent + 1 Prisoner + 4 Administrator) → DM equal to total terms at each check, run individually term by term (Core Rulebook, pp. 48–49). Six checks, end of Terms 4 through 9, DM–4 through DM–9. One came back clean (Term 7). Net: **STR –4, DEX –4, END –3, INT –1**.
+
+**Current Characteristics (age 74):** STR 6 (+0) · DEX 5 (–1) · END 8 (+0) · INT 7 (+0) · EDU 12 (+2) · SOC 11 (+1)
+
+**Skills:**
+
+- Admin 3
+- Advocate 3
+- Athletics 0
+- Athletics (strength) 1
+- Deception 2
+- Diplomat 1
+- Drive 0
+- Electronics 0
+- Electronics (comms) 3
+- Electronics (computers) 1
+- Explosives 1
+- Flyer 0
+- Gun Combat 0
+- Gun Combat (slug) 2
+- Investigate 1
+- Jack of all Trades 1
+- Leadership 1
+- Mechanic 1
+- Melee (unarmed) 1
+- Streetwise 1
+
+*Persuade — 0 trained. See Augments below; this is not a gap at the table even though it reads like one on paper.*
+
+**Augments:**
+
+| Item | TL | Detail |
+|---|---|---|
+| Wafer Jack, Improved | 13 | Bandwidth/8, Cr15,000 (Core Rulebook, p. 106); running an **Expert 3 (Persuade)** program (Cr100,000, on debt; Core Rulebook, p. 110) — lets her make Persuade checks as if she had the skill at level 3 |
+| Skill Augmentation | 12 | DM+1, Cr50,000, tuned to **Persuade** (Core Rulebook, p. 106) — stacks on top of the Expert program per p. 110's stacking rule |
+| Subdermal Armour | 10 | Protection +1, Cr50,000 (Core Rulebook, p. 106) |
+
+**Effective Persuade: as if level 3, with DM+1 on top** — the strongest single check on her sheet, and the only one that isn't trained.
 
 **Equipment:**
 
@@ -48,16 +104,20 @@ Born on **Scaramouche** (Harlequin Subsector) — UWP A7C6503-A, Trade Codes *Fl
 | Cloth armour, worn under a civilian coat | 7 | — | — | — | **Protection +5**, 7kg, Cr250 (Central Supply Catalogue, p. 12) |
 | Autopistol, hasn't been fired outside a range in a decade | 5 | 10m | 3D–3 | 15 (Cr10/mag) | 1kg, Cr200 (Central Supply Catalogue, p. 142) |
 
-Also carries: an encrypted comm unit older than most of her teammates' grandchildren, a leather-bound paper notebook of contacts she refuses to digitise, reading glasses, heart medication she rations like ammunition.
+Also carries: an encrypted comm unit older than most of her teammates' grandchildren, a leather-bound paper notebook of contacts she refuses to digitise, reading glasses, heart medication she rations like ammunition. Also owns a Blade and Scientific Equipment (SolSec/Prisoner mustering-out benefits) and holds Terran Adventurer Society membership, none of which she's gotten around to using in years.
 
-**Personality:** Blunt warmth with a spine of iron underneath. She leads by making sure everyone has the information they need and then trusting them to use it — the same instinct that made her good at running assets for thirty-six years. She is quietly, fiercely glad to be needed again and would rather eat glass than admit it out loud.
+**Personality:** Blunt warmth with a spine of iron underneath — harder-edged now than the version of her that never saw the inside of an Imperial cell. She leads by making sure everyone has the information they need and trusting them to use it, same instinct as always. What's new is that she knows exactly what it costs when a mission goes wrong, because it happened to her once already, and she knows exactly what she was willing to spend — money she doesn't have — to make sure it doesn't happen to this crew.
 
 **Neural.AI image prompt:** A woman in her mid-70s with close-cropped grey hair, sharp deep-set eyes, and the upright bearing of someone who spent a career being underestimated in rooms full of younger men. Wearing a plain civilian coat over lightweight armour, reading glasses pushed up into her hair. Leaning slightly on a cane that is very obviously also useful for other things. Standing in a cluttered, book-lined townhouse room, warm lamplight, a half-packed field bag open on the table behind her. Photorealistic, science fiction character portrait, no text, no logos.
 
 ---
 
 ## 2.3 — CHARACTER 2 — DESMOND FARROW, "COOT"
+
+![Desmond Farrow, "Coot"](img/coot-01.webp)
 **Pilot · Scout Service & Free Trader, Retired**
+
+**Age:** 68 · **Homeworld:** Kukulcan (Kukulcan Subsector) · **Credits:** Cr2,000
 
 *"She'll start. She always starts. Give her a second."*
 
@@ -69,7 +129,21 @@ Born on **Kukulcan** (Kukulcan Subsector) — UWP A568A9A-D, Trade Codes *Garden
 
 **Current Characteristics (age 68):** STR 5 (–1) · DEX 7 (+0) · END 7 (+0) · INT 7 (+0) · EDU 6 (+0) · SOC 5 (–1)
 
-**Skills:** Pilot 0 · Pilot (spacecraft) 3 · Astrogation 1 · Vacc Suit 1 · Electronics 0 · Electronics (sensors) 1 · Streetwise 2 · Mechanic 1 · Gun Combat 0 · Gun Combat (slug) 1 · Broker 1 · Carouse 1 · Jack of all Trades 1
+**Skills:**
+
+- Pilot 0
+- Pilot (spacecraft) 3
+- Astrogation 1
+- Vacc Suit 1
+- Electronics 0
+- Electronics (sensors) 1
+- Streetwise 2
+- Mechanic 1
+- Gun Combat 0
+- Gun Combat (slug) 1
+- Broker 1
+- Carouse 1
+- Jack of all Trades 1
 
 **Equipment:**
 
@@ -85,12 +159,16 @@ Also carries: a flight jacket that's outlived three ships, a personal comm unit,
 
 ---
 
-## 2.4 — CHARACTER 3 — PRIYA LINDQVIST, "VECTOR"
+## 2.4 — CHARACTER 3 — YATIKA LINDQVIST, "VECTOR"
+
+![Yatika Lindqvist, "Vector"](img/vector-03.png)
 **Astrogator / Engineer · Confederation Navy, Retired · Rank 4, Chief Engineer**
+
+**Age:** 71 · **Homeworld:** Point (Oriah Subsector) · **Credits:** Cr11,000
 
 *"Farrow flies it. I make sure it arrives somewhere on purpose."*
 
-Born on **Point** (Oriah Subsector) — UWP A6729C7-E, Trade Codes *High Population, High Tech, Industrial* (*Solomani Front*, p. 265) — a heavily industrial Confederation world in a subsector the sourcebook describes as "majority under Solomani Confederation control" (*Solomani Front*, p. 266). Priya spent eight terms in the Confederation Navy's engineering branch, made Chief Engineer, and picked up astrogation as a practical extension of "knowing exactly where the ship is and exactly how much fuel that costs." She is 71 and still corrects other people's mental arithmetic out loud, whether or not she's been asked to.
+Born on **Point** (Oriah Subsector) — UWP A6729C7-E, Trade Codes *High Population, High Tech, Industrial* (*Solomani Front*, p. 265) — a heavily industrial Confederation world in a subsector the sourcebook describes as "majority under Solomani Confederation control" (*Solomani Front*, p. 266). Yatika spent eight terms in the Confederation Navy's engineering branch, made Chief Engineer, and picked up astrogation as a practical extension of "knowing exactly where the ship is and exactly how much fuel that costs." She is 71 and still corrects other people's mental arithmetic out loud, whether or not she's been asked to.
 
 **Career-Prime Characteristics (age 50):** STR 6 (+0) · DEX 6 (+0) · END 8 (+0) · INT 10 (+1) · EDU 11 (+1) · SOC 6 (+0)
 
@@ -98,7 +176,21 @@ Born on **Point** (Oriah Subsector) — UWP A6729C7-E, Trade Codes *High Populat
 
 **Current Characteristics (age 71):** STR 5 (–1) · DEX 4 (–1) · END 6 (+0) · INT 10 (+1) · EDU 11 (+1) · SOC 6 (+0)
 
-**Skills:** Astrogation 2 · Engineer 0 · Engineer (power) 2 · Engineer (life support) 1 · Electronics 0 · Electronics (computers) 2 · Mechanic 1 · Pilot 0 · Pilot (spacecraft) 1 · Vacc Suit 1 · Admin 1 · Science 0 · Science (physics) 1
+**Skills:**
+
+- Astrogation 2
+- Engineer 0
+- Engineer (power) 2
+- Engineer (life support) 1
+- Electronics 0
+- Electronics (computers) 2
+- Mechanic 1
+- Pilot 0
+- Pilot (spacecraft) 1
+- Vacc Suit 1
+- Admin 1
+- Science 0
+- Science (physics) 1
 
 **Equipment:**
 
@@ -115,11 +207,15 @@ No sidearm — she's never carried one, and nobody on this crew has ever suggest
 ---
 
 ## 2.5 — CHARACTER 4 — HENDRIK VOSLOO, "BIG HENNO"
+
+![Hendrik Vosloo, "Big Henno"](img/henno-01.webp)
 **Gunner / Heavy Weapons · Confederation Army & Navy, Retired**
+
+**Age:** 69 · **Homeworld:** Thassor (Oriah Subsector) · **Credits:** Cr4,000
 
 *"Nobody shoots at my crew twice. Once, maybe. I'm slow now, not blind."*
 
-Born on **Thassor** (Oriah Subsector) — UWP C6A2A9A-D, Trade Codes *Fluid Oceans, High Population, High Tech* (*Solomani Front*, p. 265), a Confederation world in the same subsector as Priya's. Hendrik spent four terms as an Army heavy weapons NCO and another four in the Navy manning turrets, eight terms in all. He started strong and it shows — even now, at 69, he can still out-lift most people half his age. His knees, on the other hand, have opinions about the weather.
+Born on **Thassor** (Oriah Subsector) — UWP C6A2A9A-D, Trade Codes *Fluid Oceans, High Population, High Tech* (*Solomani Front*, p. 265), a Confederation world in the same subsector as Yatika's. Hendrik spent four terms as an Army heavy weapons NCO and another four in the Navy manning turrets, eight terms in all. He started strong and it shows — even now, at 69, he can still out-lift most people half his age. His knees, on the other hand, have opinions about the weather.
 
 **Career-Prime Characteristics (age 50):** STR 11 (+1) · DEX 7 (+0) · END 9 (+1) · INT 6 (+0) · EDU 5 (–1) · SOC 4 (–1)
 
@@ -127,7 +223,21 @@ Born on **Thassor** (Oriah Subsector) — UWP C6A2A9A-D, Trade Codes *Fluid Ocea
 
 **Current Characteristics (age 69):** STR 9 (+1) · DEX 6 (+0) · END 7 (+0) · INT 6 (+0) · EDU 5 (–1) · SOC 4 (–1)
 
-**Skills:** Gunner 0 · Gunner (turret) 3 · Gun Combat 0 · Gun Combat (slug) 2 · Heavy Weapons 0 · Heavy Weapons (man portable) 2 · Tactics 0 · Tactics (military) 1 · Athletics 0 · Athletics (strength) 1 · Melee 0 · Melee (blade) 1 · Vacc Suit 1
+**Skills:**
+
+- Gunner 0
+- Gunner (turret) 3
+- Gun Combat 0
+- Gun Combat (slug) 2
+- Heavy Weapons 0
+- Heavy Weapons (man portable) 2
+- Tactics 0
+- Tactics (military) 1
+- Athletics 0
+- Athletics (strength) 1
+- Melee 0
+- Melee (blade) 1
+- Vacc Suit 1
 
 **Equipment:**
 
@@ -144,8 +254,12 @@ Also carries: a heavy coat that fit better twenty years ago, a photo of his old 
 
 ---
 
-## 2.6 — CHARACTER 5 — ROSA DELACROIX, "SAPPER"
+## 2.6 — CHARACTER 5 — ROSA DELACROIX, "PRIMER"
+
+![Rosa Delacroix, "Primer"](img/primer-01.png)
 **Breacher / Demolitions · Confederation Marines, Retired · Rank 3**
+
+**Age:** 66 · **Homeworld:** Alizarin (Albadawi Subsector) · **Credits:** Cr5,500
 
 *"It's my house. It's my garden. And yes, some of what's in that shed is technically illegal. Are we doing this or not?"*
 
@@ -157,7 +271,19 @@ Born and still living on **Alizarin** (Albadawi Subsector) — UWP A566987-C, Tr
 
 **Current Characteristics (age 66):** STR 8 (+0) · DEX 7 (+0) · END 7 (+0) · INT 7 (+0) · EDU 6 (+0) · SOC 5 (–1)
 
-**Skills:** Explosives 3 · Mechanic 1 · Athletics 0 · Athletics (strength) 1 · Melee 0 · Melee (unarmed) 1 · Recon 1 · Electronics 0 · Electronics (sensors) 1 · Stealth 1 · Vacc Suit 1
+**Skills:**
+
+- Explosives 3
+- Mechanic 1
+- Athletics 0
+- Athletics (strength) 1
+- Melee 0
+- Melee (unarmed) 1
+- Recon 1
+- Electronics 0
+- Electronics (sensors) 1
+- Stealth 1
+- Vacc Suit 1
 
 **Equipment:**
 
@@ -173,12 +299,16 @@ No personal firearm — Explosives is her trade, and her hands do the rest. Also
 
 ---
 
-## 2.7 — CHARACTER 6 — KWAME OKONKWO, "DOC"
+## 2.7 — CHARACTER 6 — AKIO KOMATSUBARA, "PATCH"
+
+![Akio Komatsubara, "Patch"](img/patch-01.png)
 **Medic / Signals · Krypton Home Forces, Retired**
+
+**Age:** 76 · **Homeworld:** Krypton (Albadawi Subsector) · **Credits:** Cr9,000
 
 *"Sit down. Let me look at that. Then we'll talk about whatever terrible idea you're all having."*
 
-Born on **Krypton** (Albadawi Subsector) — UWP A9A49BC-D, Trade Codes *Fluid Oceans, High Population, High Tech*, home to a Confederation naval base and, like Alizarin, part of the Solomani Confederation despite sitting inside Imperial Albadawi via the Rimward Gap (*Solomani Front*, p. 176). Kwame served five terms as a Krypton Home Forces medic and signals NCO — a posting the sourcebook notes for its "excellent reputation for professionalism and political reliability" (*Solomani Front*, p. 208) — then another five terms attached to field units doing quiet SolSec-adjacent medical support work. Ten terms in all, the longest career of anyone on this crew, and it shows. At 76, he's the oldest of the six and has paid the steepest price for it.
+Born on **Krypton** (Albadawi Subsector) — UWP A9A49BC-D, Trade Codes *Fluid Oceans, High Population, High Tech*, home to a Confederation naval base and, like Alizarin, part of the Solomani Confederation despite sitting inside Imperial Albadawi via the Rimward Gap (*Solomani Front*, p. 176). Akio served five terms as a Krypton Home Forces medic and signals NCO — a posting the sourcebook notes for its "excellent reputation for professionalism and political reliability" (*Solomani Front*, p. 208) — then another five terms attached to field units doing quiet SolSec-adjacent medical support work. Ten terms in all, the longest career of anyone on this crew, and it shows. At 76, he's the oldest of the six and has paid the steepest price for it.
 
 **Career-Prime Characteristics (age 58):** STR 6 (+0) · DEX 6 (+0) · END 7 (+0) · INT 9 (+1) · EDU 9 (+1) · SOC 6 (+0)
 
@@ -186,9 +316,27 @@ Born on **Krypton** (Albadawi Subsector) — UWP A9A49BC-D, Trade Codes *Fluid O
 
 **Current Characteristics (age 76):** STR 3 (–1) · DEX 3 (–1) · END 5 (–1) · INT 8 (+0) · EDU 9 (+1) · SOC 6 (+0)
 
-**Skills:** Medic 3 · Electronics 0 · Electronics (computers) 2 · Electronics (comms) 2 · Recon 1 · Investigate 1 · Streetwise 1 · Admin 1 · Jack of all Trades 1 · Language 0 · Language (Anglic) 1
+**Skills:**
 
-**Equipment:** No sidearm — he's never trained with one, and Medic 3 is worth more to this crew than a gun would be. Carries: a well-stocked portable Medikit, an old signals decoder he's held onto "just in case" for reasons nobody has ever fully explained, bifocals, a cane that doubles surprisingly well as a signal probe, a heart monitor patch whose readings he keeps strictly to himself.
+- Medic 3
+- Electronics 0
+- Electronics (computers) 2
+- Electronics (comms) 2
+- Recon 1
+- Investigate 1
+- Streetwise 1
+- Admin 1
+- Jack of all Trades 1
+- Language 0
+- Language (Anglic) 1
+
+**Equipment:**
+
+| Item | TL | Range | Damage | Magazine | Notes |
+|---|---|---|---|---|---|
+| Spear-probe — his cane, and not just a cane | 8 | Melee | 2D | — | **Stun trait available** — Akio chooses lethal or Stun each hit. No Melee skill, so he swings it at **DM–2** (unskilled DM–3, bought back by 1 with Jack of all Trades 1) — a real penalty, not a trained hand, which is exactly how an improvised weapon from a 76-year-old medic should play. Homebrew, not a catalog item: built by binding a copper coil and a stunstick's charge pack (TL8, Melee, 2D, Stun, 0.5kg, Cr300; Central Supply Catalogue, p. 133) around the shaft of a plain spear (TL0, Melee, 2D, 2kg, Cr10; Central Supply Catalogue, p. 135). ~2.5kg, ~Cr310. |
+
+No sidearm — he's never trained with one, and Medic 3 is worth more to this crew than a gun would be. Also carries: a well-stocked portable Medikit, an old signals decoder he's held onto "just in case" for reasons nobody has ever fully explained, bifocals, a heart monitor patch whose readings he keeps strictly to himself.
 
 **Personality:** Gentle, sharp-eyed, the first to notice when someone's hiding a limp or a bad night's sleep. Ageing hit him hardest of anyone on this crew — physically he's the frailest by a wide margin — but Medic 3 and a genuine gift for cracking old-fashioned electronic security make him irreplaceable in a way none of the others can quite match. He knows it, and he's decided not to be smug about it. Mostly.
 

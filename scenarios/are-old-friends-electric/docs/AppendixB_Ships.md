@@ -5,70 +5,119 @@
 
 ---
 
-## B.1 — DIMENSIONS (MEASURED FROM DECK PLANS)
 
-Neither *High Guard* nor the *Small Craft Catalogue* states hull length or beam anywhere in the text — Mongoose Traveller 2e only defines ship size by displacement tonnage (1 ton ≈ 14 m³; *Core Rulebook*, 2022 Update, p. 149). The deck plan grids themselves are scaled "1 square = 0.5 Ton" (volume, not a fixed physical measurement) — but at a typical ~3m deck height, a 0.5-ton square works out to a footprint close to 1.5m × 1.5m, which is the convention used below.
+## B.1 — DIMENSIONS
 
-**Figures below are measured directly off the deck plan images via pixel-level grid-line detection, not stated in either book's text — treat them as a solid working estimate rather than an official citation.**
+Neither *High Guard* nor the *Small Craft Catalogue* states hull length or beam in its text — ship size is defined by displacement tonnage only (1 ton ≈ 14 m³; *Core Rulebook*, 2022 Update, p. 149). Deck plan grids are scaled "1 square = 0.5 Ton"; at a typical ~3m deck height that works out to roughly 1.5m per square, the convention used here.
 
-| Ship | Length | Beam | Method |
-|---|---|---|---|
-| Empress Marava-class Far Trader (*Terminal Leave*) | 25 squares → **37.5m** | 13.7 squares (widest point, turret pods) → **~20.6m** | Grid-line spacing measured at 17.6px/square across multiple clean rows; hull outline traced pixel-by-pixel. Main pressurized hull body (cargo hold/staterooms only, excluding the pods) is narrower — ~11.1 squares, **~16.7m**. |
-| Fighting Launch | 11 squares → **16.5m** | 3.5 squares → **5.25m** | This image has no rendered grid, so squares couldn't be counted directly. Instead, the outline's length:width pixel ratio (3.17:1) was measured and cross-checked against the 11:3.5 count (3.14:1) — the near-exact match supports this figure. |
-
-**On the Marava's beam:** the hull isn't a simple rectangle — it necks in sharply at the bridge towers, widens through the main body, and flares widest at the two turret/drive pods on Deck 1's stern. 13.7 squares is that single widest cross-section, not a uniform beam along the whole hull; the 11.1-square figure is more representative of the actual working interior.
-
-**On the Fighting Launch's 20m question:** unresolved — I have no way to independently verify whatever source gave 20m without seeing it, but it doesn't match either the square count or the measured pixel ratio from this project's own reference image. Treat **16.5m** as the supported figure until that source can be checked.
+| Ship | Volume | Length | Beam | Basis |
+|---|---|---|---|---|
+| *Terminal Leave* (Star Bird) | 200 tons = 2,800 m³ (orbiter section 10 tons = 140 m³) | ~37.5m | ~20m | **Working proxy only.** The Star Bird has no published deck plan. Figures borrow the measured footprint of the Empress Marava-class plan (*High Guard*, p. 168 — 25 squares long, 13.7 squares at its widest point), the only 200-ton streamlined hull in the book with a plan to measure. Replace when a Star Bird deck plan is drawn. |
+| Fighting Launch | 20 tons = 280 m³ | **16.5m** | **5.25m** | 11 × 3.5 squares at 1.5m, measured off the deck plan (*Small Craft Catalogue*, p. 58). No grid is printed on the crop, so the count was cross-checked by outline ratio (3.17:1 measured vs 3.14:1 counted). A 20m length seen elsewhere does not match either check and is unconfirmed. |
 
 ---
 
-## B.2 — TERMINAL LEAVE
+## B.2 — TERMINAL LEAVE (STAR BIRD CLASS TRANSPORT)
 
 *"She starts. She always starts. Give her a second."* — Desmond Farrow, every single time.
 
-**Class:** Far Trader, Empress Marava-class (*High Guard*, 2022 Update, p. 167)
+**Class:** Star Bird Class Transport — a modular sector-hopping transport with a detachable front orbiter. The design is supplied by the referee (not a *High Guard* stock ship) and has been **rebuilt to the *High Guard* design rules** in the tables below; several figures in the original write-up did not survive that check and were corrected (see §B.2.3).
 **Registry:** Civilian, Alizarin — a working tramp trader on paper, and not entirely a lie
-**Owner of record:** Perpetua Achterberg, jointly held with the rest of the crew
+**Owner of record:** Antonella Interlenghi, jointly held with the rest of the crew
 
-Twenty-two years ago, the six of them pooled Ship Shares and mustering-out cash earned across four separate careers and bought a tired, secondhand Empress Marava-class hull that nobody in the yard at Krypton expected to see fly again. Priya Lindqvist has kept her running ever since through a combination of real engineering skill and sheer stubbornness. They've made a modest, legal, entirely boring living hauling agricultural goods and the occasional passenger contract around the Rimward Gap and into Jardin — a cover story that has the enormous advantage of being almost entirely true.
+Twenty-two years ago the six of them pooled Ship Shares and mustering-out cash from four separate careers and bought a tired secondhand Star Bird hull that nobody at the Krypton yard expected to see fly again. Yatika Lindqvist has kept her running ever since through real engineering skill and sheer stubbornness. They've made a modest, legal, entirely boring living hauling agricultural goods and the occasional passenger around the Rimward Gap and into Jardin — a cover story with the enormous advantage of being almost entirely true.
 
-**Full Specification** (TL12, 200 tons, Streamlined; *High Guard*, p. 167):
+### B.2.1 — Full Specification
 
-| System | Detail | Tons | Cost (MCr) |
-|---|---|---|---|
-| Hull | 200 tons, Streamlined | — | — |
-| M-Drive | Thrust 1 | 2 | 4 |
-| J-Drive | Jump 2 | 15 | 22.5 |
-| Power Plant | Fusion (TL12), Power 90 | 6 | 6 |
-| Fuel Tanks | Jump-2 plus 4 weeks operation | 41 | — |
-| Bridge | Standard | 10 | 1 |
-| Computer | Computer/5bis | — | 0.045 |
-| Sensors | Civilian Grade | 1 | 3 |
-| Weapons | Double Turrets (beam laser ×2) ×2 mounts | 2 | 3 |
-| Craft | Docking Space (4 tons) + Air/Raft | 5 | 1.25 |
-| Systems | Cargo Airlocks ×2, Fuel Processor (40 tons/day) | 8 | 0.7 |
-| Staterooms | Standard ×10, Low Berths ×4 | 42 | 5.2 |
-| Common Areas | — | 10 | 1 |
-| Cargo | — | 57 | — |
-| **Hull rating** | **80** | | |
-| **Total cost** | | | **MCr60.148** |
+TL12, 200 tons, Streamlined, Hull 80 (76 main hull / 4 orbiter, proportionate). All rules from *High Guard* (2022 Update); page numbers in the right-hand column.
 
-**Weapons:** each double turret fires its pair of beam lasers together as a single attack — Range Medium, Damage **1D+1**, Power 4 per weapon (*High Guard*, p. 28, turret weapon table and multiple-weapon-fire rule). Fired singly, a lone barrel deals the base 1D. Two independently-targetable mounts means the ship can engage two contacts at once, or put both turrets on one target for real weight of fire.
+| System | Detail | Tons | Cost (MCr) | Power | *High Guard* |
+|---|---|---|---|---|---|
+| Hull | 200 tons, Streamlined (+20% cost) | — | 12 | — | p. 11 |
+| Breakaway hull | Bulkheads, 2% of hull, MCr2 per ton consumed | 4 | 8 | — | p. 12 |
+| Armour — main hull | Crystaliron, Armour 2 (190 tons: 1.25% × 1.2 streamlined = 2.85 tons/point) | 5.7 | 1.14 | — | p. 13 |
+| Armour — orbiter | Crystaliron, Armour 2 (10 tons: 1.25% × 4 (small-hull multiplier) × 1.2 = 6%, or 0.6 tons/point) | 1.2 | 0.24 | — | p. 13 |
+| M-Drive — main | Thrust 3 (5.7 tons = 3% of the 190-ton section) | 5.7 | 11.4 | 57 | p. 16 |
+| M-Drive — orbiter | Thrust 4 (0.4 tons = 4% of the 10-ton section) | 0.4 | 0.8 | 4 | p. 16 |
+| J-Drive | Jump 2 (5% of 200 tons + 5) | 15 | 22.5 | 40 (jump only) | p. 16 |
+| Power plant — main | Fusion (TL12), Power 120 | 8 | 8 | +120 | p. 17 |
+| Power plant — orbiter | Fusion (TL12), Power 15 | 1 | 1 | +15 | p. 17 |
+| Fuel tanks | Jump-2 (40) + main plant 8 weeks (2) + orbiter plant 4 weeks (1) | 43 | — | — | p. 18 |
+| Bridge | Standard, main hull | 10 | 1.0 | — | p. 19 |
+| Cockpit | Dual cockpit, orbiter | 2.5 | 0.015 | — | p. 19 |
+| Computers | Computer/5bis (main, MCr0.045); Computer/5 (orbiter, MCr0.03) | — | 0.075 | — | p. 20 |
+| Software | Manoeuvre; Jump Control/2 (MCr0.2); Library; Intellect | — | 0.2 | — | p. 20 |
+| Sensors | Civilian Grade | 1 | 3.0 | 1 | p. 21 |
+| Weapons | Double turret, 2 × beam laser (dorsal) | 1 | 1.5 | 9 | p. 28 |
+| Systems | Fuel processor (40 tons/day); fuel scoops built in (streamlined) | 2 | 0.1 | 2 | p. 49 |
+| Staterooms | Standard ×6 (4 tons, MCr0.5 each) | 24 | 3.0 | — | p. 24 |
+| Common area | ¼ of stateroom tonnage | 6 | 0.6 | — | p. 24 |
+| Cargo | 65.6 main hold + 3.9 orbiter hold | 69.5 | — | — | — |
+| **Total** | | **200.0** | **74.57** | | |
 
-**Nominal Crew:** Pilot/Astrogator, Engineer, Gunners ×2, Steward.
+**Purchase cost** (after the standard 10% discount): MCr67.113. **Maintenance:** Cr5,593/month (total ÷ 12,000; *High Guard*, p. 25). Life support and running costs per the Core Rulebook.
+
+**Power budget:**
+
+| Mode | Load | Available |
+|---|---|---|
+| Normal operation, docked (basic 40 + M-drive 60 + sensors 1 + turret 9 + processor 2) | 112 | 120 (+15 orbiter plant) |
+| Jump (basic 40 + J-drive 40 + sensors 1) | 81 | 120 |
+| Main hull detached (basic 38 + M-drive 57 + sensors 1 + turret 9 + processor 2) | 107 | 120 |
+| Orbiter detached (basic 2 + M-drive 4) | 6 | 15 |
+
+**Performance:** docked, Thrust 3 (combined drives 6.1 tons = 3.05% of 200 tons) and Jump 2. Main hull alone: Thrust 3, no orbiter. Orbiter alone: **Thrust 4, no jump**, Armour 2, Hull 4.
+
+**Weapon:** dorsal double turret, two beam lasers fired together as one attack — Range Medium, Damage **1D+1**, Power 9 (1 mount + 4 per laser); a single laser deals the base 1D. Beam laser turrets receive DM+4 to attack rolls (*High Guard*, p. 28). One turret, not two: with no second mount, the ship punches well below the Empress Marava's weight, which suits a crew that would rather not be shot at in the first place.
+
+### B.2.2 — The Detachable Orbiter
+
+The forward 10-ton section separates as an independent craft (*High Guard*, p. 12, Breakaway Hulls). Each section must have its own bridge or cockpit and power plant — the reason the orbiter carries its own plant, fuel, drive and computer rather than borrowing the main hull's.
+
+| Orbiter | |
+|---|---|
+| Hull | 10 tons, Streamlined; Hull 4; Armour 2 |
+| Crew | Pilot plus one (dual cockpit, 2.5 tons) |
+| Drive | Thrust 4, no jump |
+| Endurance | Plant fuel 4 weeks; life support 24 hours (cockpit rule, p. 19) |
+| Hold | 3.9 tons |
+| Separation | 1D rounds |
+| Weapons | None |
+
+**Ruling used:** the orbiter's Computer/5 and the main hull's Computer/5bis are treated as belonging to two separate ships, not a primary/backup pair (the "second computer must be lower" rule applies to one ship's computers). Combined Thrust is rounded down from total drive tonnage, following the book's own 1,000-ton breakaway example.
+
+**At the table:** the orbiter is Farrow's toy and the crew's only real answer to a chase — he flies it while Yatika takes the main hull's stick (Pilot 1), and it is fast enough to be useful but too lightly armed to be tempting. It cannot outrun a Fighting Launch (Thrust 5), so its value in Chapter 3 is as a decoy and a way to put a hull between the crew and trouble, not a way to win a pursuit.
+
+### B.2.3 — What Was Corrected From the Original Star Bird Write-Up
+
+| Original | Corrected |
+|---|---|
+| Jump-2 drive 13 tons, MCr19.5 | 15 tons, MCr22.5 (p. 16) |
+| Power plant 8 tons, MCr16 | MCr8 — TL12 fusion is MCr1/ton; MCr16 is the TL15 price (p. 17) |
+| Crystaliron armour, no tonnage or cost | 5.7 + 1.2 tons, MCr1.38 (p. 13) |
+| "Model/2bis" computer, MCr0.3 | Computer/5bis, MCr0.045, plus Jump Control/2 software MCr0.2 (p. 20) |
+| "Basic (TL10)" sensors, 1 ton, MCr0.3 | Civilian Grade, 1 ton, MCr3.0, 1 Power (p. 21) |
+| Two staterooms | Six, one per crew member (p. 24) |
+| Bridge "housed in the detachable hull", autopilot main hull | Breakaway sections each need their own bridge/cockpit and plant; 2% bulkheads cost MCr8 (p. 12) |
+| Wing clamps, 2 × 2-ton interceptor drones | Removed — no such component or 2-ton drone design in *High Guard*; the tonnage becomes cargo. Can be restored with a drone design and docking space (p. 61) |
+| Escape-pod turret | Flavour only — no rule in *High Guard* for an integrated escape pod; treat as a story detail, not a mechanic |
+| Power surplus +19 | +8 in normal operation once basic systems, turret and processor are counted |
+| 2 tons fuel for "4 weeks" | 2 tons is 8 weeks (10% of plant size per 4 weeks, min 1 ton) (p. 18) |
+
+**Nominal crew (*High Guard*, p. 23):** Captain, Pilot (+1 for the orbiter), Astrogator, Engineer (drives and plant total 30 tons — one engineer), Gunner ×1.
 
 **Crew assignment (the six of them):**
 
 | Station | Character |
 |---|---|
-| Pilot | Desmond Farrow |
-| Astrogator / Engineer | Priya Lindqvist (both — nobody's told her the ship design only budgeted for one of her) |
-| Gunner, forward turret | Hendrik Vosloo |
-| Gunner, aft turret / boarding defense | Rosa Delacroix |
-| Medic / Comms / "Steward" | Kwame Okonkwo |
-| Master | Perpetua Achterberg |
+| Captain / owner | Antonella Interlenghi |
+| Pilot (main hull); flies the orbiter when it splits | Desmond Farrow |
+| Astrogator / Engineer (also main-hull pilot when the orbiter is away) | Yatika Lindqvist |
+| Gunner, dorsal turret | Hendrik Vosloo |
+| Engineering hand / boarding and breach team | Rosa Delacroix |
+| Medic / Comms | Akio Komatsubara |
 
-**Referee note:** the ship is old, not derelict — thirty-plus years of hard use with excellent maintenance is a very different thing from neglect, and Priya would take real offense at the suggestion otherwise. Nothing about *Terminal Leave*'s stats needs to be worse than a stock Empress Marava; she just *looks* like exactly what she is. That's the whole point — nobody expects trouble from her, right up until the moment they get some.
+**Referee note:** the ship is old, not derelict — thirty-plus years of hard use with excellent maintenance is a very different thing from neglect. Nothing here needs to be worse than the stat block; she just *looks* like exactly what she is. That's the point: nobody expects trouble from her, right up until the moment they get some.
 
 ---
 

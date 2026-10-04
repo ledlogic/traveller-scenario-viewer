@@ -34,7 +34,7 @@ Wei's full career file — his 1106 field record, his authorization of Operation
 
 *"This is Syndicate space. You want to keep flying it, you pay the toll."*
 
-Born on Sionnach (Jardin Subsector) — one of the neglected Jardin-Cluster worlds the sourcebook itself calls "of little importance" (*Solomani Front*, p. 208). Grandson of **Absalom Renner**, a Confederation courier and informant Perpetua Achterberg ran on this stretch of border more than forty years ago — protected for years, then quietly not, when the border stabilized and the Directorate's attention moved on. Tavish never met Perpetua. He grew up on half-remembered family stories about a grandfather who "used to matter to somebody" and a Confederation that stopped calling. Running small protection rackets for the Jardin Syndicate is not the life he'd have picked if this corner of the Rim had any other economy on offer.
+Born on Sionnach (Jardin Subsector) — one of the neglected Jardin-Cluster worlds the sourcebook itself calls "of little importance" (*Solomani Front*, p. 208). Grandson of **Absalom Renner**, a Confederation courier and informant Antonella Interlenghi ran on this stretch of border more than forty years ago — protected for years, then quietly not, when the border stabilized and the Directorate's attention moved on. Tavish never met Antonella. He grew up on half-remembered family stories about a grandfather who "used to matter to somebody" and a Confederation that stopped calling. Running small protection rackets for the Jardin Syndicate is not the life he'd have picked if this corner of the Rim had any other economy on offer.
 
 **Characteristics:** STR 7 (+0) · DEX 7 (+0) · END 6 (+0) · INT 7 (+0) · EDU 5 (–1) · SOC 5 (–1)
 

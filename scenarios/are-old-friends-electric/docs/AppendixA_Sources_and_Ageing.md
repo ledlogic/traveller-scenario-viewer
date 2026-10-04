@@ -20,7 +20,7 @@ Per Core Rulebook (2022 Update), pp. 48–49: ageing effects begin when a Travel
 | 0 | Reduce one physical characteristic by 1 |
 | 1+ | No effect |
 
-**Ageing Crisis:** if any characteristic is reduced to 0, the Traveller suffers an ageing crisis and dies unless 1D × Cr10,000 is paid for medical care, which restores the characteristic to 1 (Core Rulebook, p. 48). No character on the Chapter 2 roster came anywhere close to this threshold — Kwame Okonkwo's DEX 3 and STR 3 are the lowest results on the crew, well clear of crisis.
+**Ageing Crisis:** if any characteristic is reduced to 0, the Traveller suffers an ageing crisis and dies unless 1D × Cr10,000 is paid for medical care, which restores the characteristic to 1 (Core Rulebook, p. 48). No character on the Chapter 2 roster came anywhere close to this threshold — Akio Komatsubara's DEX 3 and STR 3 are the lowest results on the crew, well clear of crisis.
 
 **Method used for this document:** each character's number of ageing checks equals (total terms served − 3), applied at the DM appropriate to their final term count. Rather than log every individual 2D6 roll, each write-up states the total number of checks made and the net characteristic change — the same level of abstraction the *Operation Ashfall* stat block for Baldwin Wei uses when comparing his 1106 and 1117 characteristics (*Operation Ashfall*, Appendix K, §K.2). The underlying math is real: six terms produces three checks at DM−6, ten terms produces seven checks at DM−10, and so on.
 
@@ -46,6 +46,10 @@ Per Core Rulebook (2022 Update), pp. 48–49: ageing effects begin when a Travel
 | Thassor — UWP C6A2A9A-D, Fluid/High Population/High Tech, Solomani Confederation allegiance | *Solomani Front* | Oriah Subsector world table, p. 265 |
 | "The majority of the [Oriah] subsector is under Solomani Confederation control" | *Solomani Front* | p. 266 |
 | Baldwin Wei — SolSec Directorate, Solomani Rim Desk, career file, age 41 in IY1117, quoted 1106 memo re: Rushorin/Aristotle/Thinking Machines Incorporated | *Operation Ashfall* (this project) | Appendix K, §K.2 |
+| SolSec career (Field Agent / Administrator / Secret Agent assignments) — a Solomani-specific career distinct from the Core Rulebook's generic Agent, including its own Qualification, Survival, Advancement, rank table, and the 4-term Field Agent limit forcing a transfer to Administration | *Aliens of Charted Space, Vol. 2* | p. 134–135 |
+| Solomani Life Events table (replaces the generic Core Rulebook Life Events table when a SolSec Event sends a character there) | *Aliens of Charted Space, Vol. 2* | p. 136 |
+| Restricted Careers for Solomani Confederation Travellers — Noble unavailable (join Solomani Party instead), Scout unavailable (use Confederation Navy instead), Marine limited to the star marine assignment only | *Aliens of Charted Space, Vol. 2* | p. 128 |
+| Prisoner career — special forced-entry career, Parole Threshold mechanic in place of normal Advancement for leaving it | *Core Rulebook* | p. 56–57 |
 | Wei's pattern of acting alone on his own authority, unofficial information channels, personal exposure and risk | *Operation Ashfall* | Appendix K, §K.2–K.3 |
 | Baldwin Wei aged to 66 in IY1142 (25 years after Ashfall), "special consultant" status | Original to this project | Extrapolated from the Appendix K stat block; not drawn from any sourcebook |
 | Rosa Delacroix as native-born resident of Alizarin, explaining the crew's retirement location | Original to this project | Built to connect the real Rimward Gap/Alizarin setting data (above) to the scenario's premise |
@@ -63,7 +67,15 @@ Per Core Rulebook (2022 Update), pp. 48–49: ageing effects begin when a Travel
 | Revolver, TL4, Range 10m, 3D−3, 6-round magazine | *Central Supply Catalogue* | Weapon table, p. 142 |
 | Cutlass, TL2, Melee, 3D damage | *Central Supply Catalogue* | Melee weapon table, p. 134 |
 | Plastic Explosive, TL6, 3D damage, Blast 9 trait | *Central Supply Catalogue* | p. 159 |
+| Spear, TL0, Melee, 2D damage | *Central Supply Catalogue* | p. 135 |
+| Stunstick, TL8, Melee, 2D damage, Stun trait | *Central Supply Catalogue* | p. 133 |
+| Akio Komatsubara's spear-probe — a Spear and a Stunstick combined into one improvised item | Original to this project | Not a catalog item; built from the two real entries above |
 | Vacc Suit, Basic, TL8, Protection +4, 15-hour endurance | *Central Supply Catalogue* | p. 28 |
+| Augments table — Wafer Jack, Skill Augmentation, Subdermal Armour (TL/Improvement/Cost) | *Core Rulebook* (2022 Update) | p. 106 |
+| Expert software rule — mimics a skill at the program's Bandwidth if untrained, or grants DM+1 if the skill is already trained | *Core Rulebook* | p. 110 |
+| Cybernetic Implant mustering-out benefit — any augmentation up to Cr75,000/TL12; a repeat roll may take a different augment or improve an existing one past that cap | *Core Rulebook* | p. 47 |
+| Antonella Interlenghi taking on personal debt to exceed her mustering-out benefits (the TL13 Wafer Jack upgrade and the Expert 3 program) | Original to this project | Not an explicit Core Rulebook mechanic — the only published debt rule covers unpaid medical bills (p. 49); this is a deliberate house ruling, not RAW |
+| Terminal Leave — Star Bird Class Transport, rebuilt to ship design rules (hull, breakaway hulls, armour, drives, power plant, fuel, bridge, computers, sensors, crew, staterooms, docking space, turrets, fuel processor, maintenance) | *High Guard* (2022 Update) | pp. 11–13, 16–21, 23–25, 28, 49, 61; original design is referee-supplied, corrections listed in Appendix B, §B.2.3 |
 
 ---
 
