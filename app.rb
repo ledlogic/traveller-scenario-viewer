@@ -405,12 +405,14 @@ get '/' do
     href  = first ? "/s/#{s['slug']}/#{first['file']}" : "/s/#{s['slug']}"
     acc   = s['color'] || '#c8a96e'
     date  = s['inception_date']
+    gdate = s['game_date']
     <<~CARD
       <a class="scenario-card" href="#{href}" style="--card-accent:#{acc}">
         <div class="card-system">#{s['system'] || 'RPG Scenario'}</div>
         <div class="card-title">#{s['title']}</div>
         #{s['subtitle'] ? "<div class=\"card-sub\">#{s['subtitle']}</div>" : ''}
         #{s['setting']  ? "<div class=\"card-setting\">#{s['setting']}</div>"  : ''}
+        #{gdate ? "<div class=\"card-gamedate\">#{gdate}</div>" : ''}
         #{date ? "<div class=\"card-date\">Started #{date}</div>" : ''}
         <div class="card-count">#{(s['docs'] || []).size} documents</div>
       </a>
