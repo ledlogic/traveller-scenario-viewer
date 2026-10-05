@@ -127,7 +127,7 @@ The forward 10-ton section separates as an independent craft (HG:12, Breakaway H
 **Class:** Fighting Launch, unnamed / unregistered (SCC:58)
 **Registry:** None on record, flying on a cannibalized transponder that reads back to a scrapped survey ship
 
-Bought secondhand, badly maintained, and crewed well past its design capacity, this is exactly the kind of "budget fighter" the sourcebook describes finding better sales with private operators than with the militaries it was built for. Tavish talks about it like it's the fastest thing in the Jardin-Cluster. It isn't. It's just louder than everything else out here.
+Bought secondhand, badly maintained, and crewed well past its design capacity, this is exactly the kind of "budget fighter" the sourcebook describes finding better sales with private operators than with the militaries it was built for. Tavish talks about it like it's the fastest thing in the Bajavanang belt. It isn't. It's just louder than everything else out here.
 
 **Full Specification** (TL12, 20 tons, Streamlined; SCC:58):
 

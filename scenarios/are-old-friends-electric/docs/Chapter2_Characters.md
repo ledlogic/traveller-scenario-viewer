@@ -308,7 +308,7 @@ No personal firearm; Explosives is her trade, and her hands do the rest. Also ca
 
 *"Sit down. Let me look at that. Then we'll talk about whatever terrible idea you're all having."*
 
-Born on **Krypton** (Albadawi Subsector), UWP A9A49BC-D, Trade Codes *Fluid Oceans, High Population, High Tech*, home to a Confederation naval base and, like Alizarin, part of the Solomani Confederation despite sitting inside Imperial Albadawi via the Rimward Gap (SF:176). Akio served five terms as a Krypton Home Forces medic and signals NCO, a posting the sourcebook notes for its "excellent reputation for professionalism and political reliability" (SF:208), then another five terms attached to field units doing quiet SolSec-adjacent medical support work. Ten terms in all, the longest career of anyone on this crew, and it shows. At 76, he's the oldest of the six and has paid the steepest price for it.
+Born on **Krypton** (Albadawi Subsector), UWP A9A49BC-D, Trade Codes *Fluid Oceans, High Population, High Tech*, home to a Confederation naval base and, like Alizarin, part of the Solomani Confederation despite sitting inside Imperial Albadawi via the Rimward Gap (SF:176). Akio served five terms as a Krypton Home Forces medic and signals NCO, a posting the sourcebook notes for its "excellent reputation for professionalism and political reliability" (SF:209), then another five terms attached to field units doing quiet SolSec-adjacent medical support work. Ten terms in all, the longest career of anyone on this crew, and it shows. At 76, he's the oldest of the six and has paid the steepest price for it.
 
 **Career-Prime Characteristics (age 58):** STR 6 (+0) · DEX 6 (+0) · END 7 (+0) · INT 9 (+1) · EDU 9 (+1) · SOC 6 (+0)
 

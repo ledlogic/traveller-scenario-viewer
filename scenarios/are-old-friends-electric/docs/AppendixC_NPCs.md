@@ -60,11 +60,11 @@ Wei's full career file, his 1106 field record, his authorization of Operation As
 ## C.2: TAVISH RENNER, "REAPER"
 
 ![Tavish Renner, "Reaper"](img/reaper-01.webp)
-**Jardin Syndicate, low-level muscle · Sionnach fringe operator**
+**Jardin Syndicate, low-level muscle · Bajavanang outer-system racketeer**
 
-*"This is Syndicate space. You want to keep flying it, you pay the toll."*
+*"Nobody crosses the Gap with fuel to spare. You want to skim here, you pay the toll."*
 
-Born on Sionnach (Jardin Subsector), one of the neglected Jardin-Cluster worlds the sourcebook itself calls "of little importance" (SF:208). Grandson of **Absalom Renner**, a Confederation courier and informant Antonella Interlenghi ran on this stretch of border more than forty years ago, protected for years, then quietly not, when the border stabilized and the Directorate's attention moved on. Tavish never met Antonella. He grew up on half-remembered family stories about a grandfather who "used to matter to somebody" and a Confederation that stopped calling. Running small protection rackets for the Jardin Syndicate is not the life he'd have picked if this corner of the Rim had any other economy on offer.
+Born on Sionnach (Jardin Subsector), one of the neglected Jardin-Cluster worlds the sourcebook itself calls "of little importance" (SF:208). Grandson of **Absalom Renner**, a Confederation courier and informant Antonella Interlenghi ran on this stretch of border more than forty years ago, protected for years, then quietly not, when the border stabilized and the Directorate's attention moved on. Tavish never met Antonella. He grew up on half-remembered family stories about a grandfather who "used to matter to somebody" and a Confederation that stopped calling. He left Sionnach at nineteen for Syndicate work on the Imperial side of the border, where the Syndicate has spread (SF:103), and now works a cell at Bajavanang that preys on Confederation ships arriving dry from the Gap. It is not the life he'd have picked if this corner of the Rim had any other economy on offer.
 
 **Characteristics:** STR 7 (+0) · DEX 7 (+0) · END 6 (+0) · INT 7 (+0) · EDU 5 (–1) · SOC 5 (–1)
 
@@ -81,7 +81,7 @@ Born on Sionnach (Jardin Subsector), one of the neglected Jardin-Cluster worlds 
 ## C.3: TAVISH'S CREW (2)
 **Unnamed · Local muscle, along for the intimidation factor**
 
-Two locals from the same Sionnach settlement Tavish grew up in, recruited more for loyalty than competence. Neither has fired a weapon at another person before this. Both are riding in what the Fighting Launch's own deck plan labels Cargo (Appendix B, §B.3); there was nowhere else to put them.
+Two Sionnach expatriates from the same settlement Tavish grew up in, who followed him to Bajavanang, recruited more for loyalty than competence. Neither has fired a weapon at another person before this. Both are riding in what the Fighting Launch's own deck plan labels Cargo (Appendix B, §B.3); there was nowhere else to put them.
 
 **Characteristics (both):** STR 7 (+0) · DEX 6 (+0) · END 6 (+0) · INT 5 (–1) · EDU 4 (–1) · SOC 4 (–1)
 
@@ -96,7 +96,7 @@ Two locals from the same Sionnach settlement Tavish grew up in, recruited more f
 
 One Blade (TL1, Melee, 2D; CSC:134), shared, since neither trusts the other enough to carry it unwatched.
 
-**Referee note:** these two exist to make the boarding-action option (Chapter 3, §3.4) feel like it has stakes without actually threatening the crew. Gun Combat 0 with no specialty means they're rolling with real difficulty against any trained defender. Use them for colour and chaos, not lethality.
+**Referee note:** these two exist to make the boarding-action option (Chapter 3, §3.5) feel like it has stakes without actually threatening the crew. Gun Combat 0 with no specialty means they're rolling with real difficulty against any trained defender. Use them for colour and chaos, not lethality.
 
 ---
 

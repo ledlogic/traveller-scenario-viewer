@@ -15,6 +15,7 @@
 | RH | *Robot Handbook* |
 | ACS2 | *Aliens of Charted Space, Vol. 2* |
 | VH | *Vehicle Handbook* |
+| C31 | *Challenge* magazine, issue 31 (Erraisol news entry; page not recorded) |
 | OA | *Operation Ashfall* (this project's own earlier scenario; section refs, not page numbers) |
 
 ---
@@ -47,13 +48,15 @@ Per CRB:48-49: ageing effects begin when a Traveller reaches 34 years of age, at
 | Element | Reference |
 |---|---|
 | Alizarin: UWP A566987-C, Garden/High Population/High Tech, Solomani Confederation allegiance | SF:176 (Albadawi Subsector world table) |
-| "The Rimward Gap isolates two worlds, Alizarin and Krypton, from the rest of the subsector. They are part of the Solomani Confederation and politically aligned with the worlds in Jardin." | SF:177 |
+| "The Rimward Gap isolates two worlds, Alizarin and Krypton, from the rest of the subsector. They are part of the Solomani Confederation and politically aligned with the worlds in Jardin." | SF:178 |
 | Krypton: UWP A9A49BC-D, Fluid/High Population/High Tech, Naval Base, Solomani Confederation allegiance | SF:176 (Albadawi Subsector world table) |
-| Krypton Home Forces reputation for "professionalism and political reliability" | SF:208 |
+| Krypton: extremely restrictive dictatorship under a small Party ruling class; large, well-equipped Home Forces with a reputation for "professionalism and political reliability"; naval base with a modest patrol force of frigates and light carriers | SF:209 |
 | Halo: UWP C000679-B, Asteroid Belt/Non-Agricultural/Non-Industrial/Vacuum, Imperium allegiance | SF:176 (Albadawi Subsector world table) |
-| Rimward Gap crossing: hex distances between Alizarin 0230, Krypton 0330, Bajavanang 0628, Kidashi 0528, Halo 0726, Cadmus 0532 and Sionnach 0632, measured on the sector grid (even columns offset down) | SF:176, SF:206 (coordinates); distances calculated for this project |
+| Imperial Admiralty report, day 150 of IY1117: a Solomani fleet "has jumped from Krypton through Kidashi" into the Albadawi subsector, the same three-parsec leg used for the Rimward Gap crossing | C31 (Erraisol 0207, date as read from the scan) |
+| Rimward Gap crossing: hex distances between Alizarin 0230, Krypton 0330, Bajavanang 0628, Kidashi 0528 and Halo 0726, measured on the sector grid (even columns offset down) | SF:176, SF:206 (coordinates); distances calculated for this project |
+| Jardin Syndicate: originated in Jardin, has since spread "on both sides of the Solomani border"; basis for a Syndicate cell operating at Bajavanang | SF:103 |
 | Jump drive rules: Jump-3 is 7.5% of hull + 5 tons at TL12, MCr1.5 per ton; refits cannot enlarge a jump drive | HG:16, HG:72 |
-| Albadawi Subsector as Imperial-Confederation border territory, "hotbed of political machinations and covert operations" | SF:177 |
+| Albadawi Subsector as Imperial-Confederation border territory, "hotbed of political machinations and covert operations" | SF:178 |
 | Scaramouche: UWP A7C6503-A, Fluid/Non-Industrial/Asteroid Belt, Imperium allegiance | SF:140 (Harlequin Subsector world table) |
 | Scaramouche: pure Solomani descent, ~15% of adults volunteered for Confederation Navy/Army/merchant marine during the Rim War, subsequent decades of Imperial military occupation | SF:143-144 |
 | Scaramouche allegiance: Imperium, not Solomani Confederation, per the world data table | SF (world table, hex 2509) |
