@@ -35,7 +35,7 @@ Per CRB:48-49: ageing effects begin when a Traveller reaches 34 years of age, at
 | 0 | Reduce one physical characteristic by 1 |
 | 1+ | No effect |
 
-**Ageing Crisis:** if any characteristic is reduced to 0, the Traveller suffers an ageing crisis and dies unless 1D × Cr10,000 is paid for medical care, which restores the characteristic to 1 (CRB:48). No character on the Chapter 2 roster came anywhere close to this threshold; Akio Komatsubara's DEX 3 and STR 3 are the lowest results on the crew, well clear of crisis.
+**Ageing Crisis:** if any characteristic is reduced to 0, the Traveller suffers an ageing crisis and dies unless 1D × Cr10,000 is paid for medical care, which restores the characteristic to 1 (CRB:48). No character on the Chapter 2 roster came anywhere close to this threshold; Yatika Lindqvist's STR 2 is the lowest result on the crew, followed by Akio Komatsubara's DEX 3 and STR 3, Desmond Farrow's STR 3 and Hendrik Vosloo's END 3, all clear of crisis.
 
 **Method used for this document:** each character's number of ageing checks equals (total terms served − 3), applied at the DM appropriate to their final term count. Rather than log every individual 2D6 roll, each write-up states the total number of checks made and the net characteristic change, the same level of abstraction the *Operation Ashfall* stat block for Baldwin Wei uses when comparing his 1106 and 1117 characteristics (OA:App K §K.2). The underlying math is real: six terms produces three checks at DM−6, ten terms produces seven checks at DM−10, and so on.
 
@@ -72,6 +72,14 @@ Per CRB:48-49: ageing effects begin when a Traveller reaches 34 years of age, at
 | SolSec career (Field Agent / Administrator / Secret Agent assignments), a Solomani-specific career distinct from the Core Rulebook's generic Agent, including its own Qualification, Survival, Advancement, rank table, and the 4-term Field Agent limit forcing a transfer to Administration | ACS2:134-135 |
 | Solomani Life Events table (replaces the generic Core Rulebook Life Events table when a SolSec Event sends a character there) | ACS2:136 |
 | Restricted Careers for Solomani Confederation Travellers: Noble unavailable (join Solomani Party instead), Scout unavailable (use Confederation Navy instead), Marine limited to the star marine assignment only | ACS2:128 |
+| Army career (Support, Infantry, Cavalry assignments), its rank table, Mishaps and Events, used for Hendrik Vosloo's infantry service | CRB:24-25 |
+| Frozen Watch (Navy mishap 2): no skill or advancement rolls that term, and the term doesn't count toward physical age for ageing | ACS2:133 |
+| Navy career (Crew, Technical, Flight assignments), its rank table, Mishaps and Events, used for Desmond Farrow's Flight service | ACS2:132-133 |
+| Pre-career education: University entry, skills, events, graduation benefits (used for Yatika Lindqvist's Astrogation) | CRB:16-17 |
+| Retirement pay in the Confederation is half the Imperial rate | ACS2:136 |
+| Human Racial Background roll and the Mixed Race advancement penalty (DM−1 in every career except Drifter, Rogue and worker Citizen) | ACS2:125-126 |
+| Merchant career, including the mishap that lets a Traveller take the Rogue career without a qualification roll | CRB:34-35 |
+| Rogue career (Thief, Enforcer, Pirate assignments), its Mishaps and Events | CRB:40-41 |
 | Prisoner career: special forced-entry career, Parole Threshold mechanic in place of normal Advancement for leaving it | CRB:56-57 |
 | Wei's pattern of acting alone on his own authority, unofficial information channels, personal exposure and risk | OA:App K §K.2-K.3 |
 | Baldwin Wei aged to 62 in IY1142 (born IY1080; 37 at Ashfall), "special consultant" status | Original to this project | Extrapolated from the Appendix K stat block; not drawn from any sourcebook |

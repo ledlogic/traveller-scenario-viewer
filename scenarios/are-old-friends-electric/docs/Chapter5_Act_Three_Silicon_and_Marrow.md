@@ -57,6 +57,8 @@ It is rooted, not mobile, a spreading mass of fused tissue and cabling occupying
 
 **It talks.** Not always coherently, not always to the crew specifically; it talks to old logs, to itself, to people who aren't there and haven't been for decades. But it can focus, when something genuinely new happens nearby, and six armed strangers walking into its chamber for the first time in years counts. If anyone says Wei's name, or the word "Aristotle," or asks it a direct question and waits for an answer, give it one. Let it be lucid exactly long enough to be unbearable.
 
+**What it asks.** If the crew lets it speak, Subject 1106 does not demand to be freed or begs for mercy. In the flat, patient tone of a man reading a roll call, it asks whether the old team is still coming, and whether the machines that kept it company all these years can be counted as friends. It uses that word for the Line Servitors and does not seem to be joking. Whoever answers, Wei or Antonella or anyone else who knew the work, should feel how much the question costs.
+
 **Referee note, the point of this scene:** Subject 1106 is dangerous and it should be played as dangerous, but the actual horror of this encounter is supposed to be the same shape as Chapter 3's Tavish Renner reveal, scaled up to something that can no longer be resolved with a conversation. There is no version of this fight that is purely a monster to be killed. Somewhere in the room is what's left of a man SolSec used, lost, and then let a corporation quietly torture for three and a half decades because nobody with the authority to stop it ever had to see it happen. Whatever the crew decides to do about that is theirs to decide, not the module's.
 
 ---

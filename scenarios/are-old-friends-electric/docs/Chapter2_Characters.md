@@ -18,9 +18,9 @@
 | # | Name | Callsign | Role | Homeworld | Age | Key Skills |
 |---|------|----------|------|-----------|-----|------------|
 | 1 | Antonella Interlenghi | "Deacon" | Team Leader | Scaramouche | 74 | Admin 3, Advocate 3, Persuade (augmented, effective 3) |
-| 2 | Desmond Farrow | "Coot" | Pilot | Kukulcan | 68 | Pilot (spacecraft) 3, Astrogation 1 |
-| 3 | Yatika Lindqvist | "Vector" | Astrogator / Engineer | Point | 71 | Astrogation 2, Engineer (power) 2 |
-| 4 | Hendrik Vosloo | "Big Henno" | Gunner / Heavy Weapons | Thassor | 69 | Gunner (turret) 3, Heavy Weapons (man portable) 2 |
+| 2 | Desmond Farrow | "Coot" | Pilot | Kukulcan | 68 | Pilot (spacecraft) 4, Astrogation 2, Streetwise 2 |
+| 3 | Yatika Lindqvist | "Vector" | Astrogator / Engineer | Point | 71 | Astrogation 2, Engineer (power) 2, Electronics (computers) 2 |
+| 4 | Hendrik Vosloo | "Big Henno" | Gunner / Heavy Weapons | Thassor | 69 | Gunner (turret) 3, Gun Combat (slug) 4, Heavy Weapons (man portable) 1 |
 | 5 | Rosa Delacroix | "Primer" | Breacher / Demolitions | Alizarin | 66 | Explosives 3, Stealth 1 |
 | 6 | Akio Komatsubara | "Patch" | Medic / Signals | Krypton | 76 | Medic 3, Electronics (computers) 2 |
 
@@ -108,42 +108,66 @@ Also carries: an encrypted comm unit older than most of her teammates' grandchil
 
 **Personality:** Blunt warmth with a spine of iron underneath, harder-edged now than the version of her that never saw the inside of an Imperial cell. She leads by making sure everyone has the information they need and trusting them to use it, same instinct as always. What's new is that she knows exactly what it costs when a mission goes wrong, because it happened to her once already, and she knows exactly what she was willing to spend (money she doesn't have) to make sure it doesn't happen to this crew.
 
-**Neural.AI image prompt:** A woman in her mid-70s with close-cropped grey hair, sharp deep-set eyes, and the upright bearing of someone who spent a career being underestimated in rooms full of younger men. Wearing a plain civilian coat over lightweight armour, reading glasses pushed up into her hair. Leaning slightly on a cane that is very obviously also useful for other things. Standing in a cluttered, book-lined townhouse room, warm lamplight, a half-packed field bag open on the table behind her. Photorealistic, science fiction character portrait, no text, no logos.
+**Neural.AI image prompt:** A woman in her mid-70s with close-cropped grey hair, sharp deep-set eyes, and the upright bearing of someone who spent a career being underestimated in rooms full of younger men. Wearing a plain civilian coat over lightweight armour, reading glasses pushed up into her hair. Leaning slightly on a cane that is very obviously also useful for other things. Standing in a cluttered, book-lined condominium room, warm lamplight, a half-packed field bag open on the table behind her. Photorealistic, science fiction character portrait, no text, no logos.
 
 ---
 
 ## 2.3: CHARACTER 2: DESMOND FARROW, "COOT"
 
 ![Desmond Farrow, "Coot"](img/coot-01.webp)
-**Pilot · Scout Service & Free Trader, Retired**
+**Pilot · Confederation Navy (Flight), Merchant and Rogue (Pirate), Retired**
 
-**Age:** 68 · **Homeworld:** Kukulcan (Kukulcan Subsector) · **Credits:** Cr2,000
+**Age:** 68 · **Homeworld:** Kukulcan (Kukulcan Subsector) · **Credits:** Cr70,000
 
 *"She'll start. She always starts. Give her a second."*
 
-Born on **Kukulcan** (Kukulcan Subsector), UWP A568A9A-D, Trade Codes *Garden, High Population, High Tech* (SF:221), a heavily industrialised, thoroughly Solomani world that dominates its subsector's shipping trade (SF:223). Desmond grew up around Kukulcan's ageing merchant fleet, ran couriers for the Scout Service for three terms, then spent another five hauling cargo and the occasional favour for people who didn't ask too many questions. Eight terms all told. He's 68, and he still refers to any ship he's flying as "she" within the first hour of boarding it.
+Born on **Kukulcan** (Kukulcan Subsector), UWP A568A9A-D, Trade Codes *Garden, High Population, High Tech* (SF:221), a heavily industrialised, thoroughly Solomani world that dominates its subsector's shipping trade (SF:223). Desmond is **Mixed Race**: part racial Solomani, part not, which meant a quiet DM−1 on nearly every promotion board he ever faced (ACS2:125). He qualified for the Confederation Navy's Flight branch at 18 and was a good pilot. He made Delegate, flew shuttles and system defence boats, and was shut out of further promotion in 1104 when the promotion board passed him over once too often. Four years in the merchant trade ended when Imperial trade restrictions put his employer out of business. Rather than go home, he spent three terms flying for pirates on the Rimward Gap run, until a man he trusted sold him out in 1120. He was 46, with Cr70,000 in his pocket, no pension, and no reason to go back. He joined the others to buy *Terminal Leave*, and he has never once told anyone how much of that Cr70,000 went into her.
 
-**Career-Prime Characteristics (age 50):** STR 7 (+0) · DEX 9 (+1) · END 8 (+0) · INT 7 (+0) · EDU 6 (+0) · SOC 5 (–1)
+**Timeline:**
 
-**Ageing Record:** 8 terms → DM–8. Five checks, Terms 4 through 8. Net: **STR –2, DEX –2, END –1**.
+| Term | Career | Age | Years (IY) |
+|---|---|---|---|
+| 0 | Youth, Kukulcan | 0–18 | 1074–1092 |
+| 1 | Navy, Flight (Alternate) | 18–22 | 1092–1096 |
+| 2 | Navy, Flight (Delegate) | 22–26 | 1096–1100 |
+| 3 | Navy, Flight: cannot continue after a failed advancement roll | 26–30 | 1100–1104 |
+| 4 | Merchant, Free Trader: forced out by Imperial trade restrictions | 30–34 | 1104–1108 |
+| 5 | Rogue, Pirate (Henchman) | 34–38 | 1108–1112 |
+| 6 | Rogue, Pirate (Corporal) | 38–42 | 1112–1116 |
+| 7 | Rogue, Pirate: betrayed | 42–46 | 1116–1120 |
+| — | Retired | 46–68 | 1120–1142 |
 
-**Current Characteristics (age 68):** STR 5 (–1) · DEX 7 (+0) · END 7 (+0) · INT 7 (+0) · EDU 6 (+0) · SOC 5 (–1)
+**Relationships:** a Rival, the man who betrayed him (IY1116 to 1120).
+
+**Career-Prime Characteristics (age 46):** STR 6 (+0) · DEX 10 (+1) · END 9 (+1) · INT 7 (+0) · EDU 3 (–1) · SOC 9 (+1)
+
+**Ageing Record:** 7 terms, DM–7 (CRB:48-49). Nine checks in all: four during his career (terms 4 to 7), all of which came back clean, and five afterwards at ages 50, 54, 58, 62 and 66. Net: **STR –3, DEX –2, END –1**.
+
+**Current Characteristics (age 68):** STR 3 (–1) · DEX 8 (+0) · END 8 (+0) · INT 7 (+0) · EDU 3 (–1) · SOC 9 (+1)
 
 **Skills:**
 
-- Pilot 0
-- Pilot (spacecraft) 3
-- Astrogation 1
-- Vacc Suit 1
-- Electronics 0
-- Electronics (sensors) 1
-- Streetwise 2
-- Mechanic 1
-- Gun Combat 0
-- Gun Combat (slug) 1
-- Broker 1
+- Admin 1
+- Astrogation 2
+- Broker 0
 - Carouse 1
-- Jack of all Trades 1
+- Electronics 0
+- Engineer 0
+- Engineer (power) 1
+- Flyer 0
+- Flyer (grav) 1
+- Gun Combat 0
+- Gunner 0
+- Gunner (turret) 1
+- Mechanic 1
+- Pilot 0
+- Pilot (small craft) 1
+- Pilot (spacecraft) 4
+- Recon 0
+- Streetwise 2
+- Vacc Suit 1
+
+**Mustering out:** Navy (4 rolls): Cr10,000, SOC +1, a Ship Share, INT +1. Rogue (3 rolls): Cr10,000, Cr50,000, DEX +1. No pension, since no career reached five terms (CRB:48).
 
 **Equipment:**
 
@@ -153,7 +177,7 @@ Born on **Kukulcan** (Kukulcan Subsector), UWP A568A9A-D, Trade Codes *Garden, H
 
 Also carries: a flight jacket that's outlived three ships, a personal comm unit, reading glasses he pretends not to need at the console, an empty hip flask kept purely on principle.
 
-**Personality:** Unbothered by almost everything short of turbulence he didn't call. Terrible with paperwork, worse with excuses. The steadiest hands on the crew, right up until you ask him to fill out a customs form.
+**Personality:** Unbothered by almost everything short of turbulence he didn't call. Terrible with paperwork, worse with excuses, and carefully vague about the twelve years he spent flying for pirates. The steadiest hands on the crew, right up until you ask him to fill out a customs form.
 
 **Neural.AI image prompt:** A wiry, weathered man in his late 60s with thinning grey hair under a battered flight cap, wearing a well-worn flight jacket over civilian clothes. Reading glasses perched on his nose, one hand resting familiarly on a starship console's edge, the other holding a mug of something. Relaxed, unhurried posture despite visible age. Cramped, lived-in cockpit interior, warm instrument-panel glow. Photorealistic, science fiction character portrait, no text, no logos.
 
@@ -162,45 +186,69 @@ Also carries: a flight jacket that's outlived three ships, a personal comm unit,
 ## 2.4: CHARACTER 3: YATIKA LINDQVIST, "VECTOR"
 
 ![Yatika Lindqvist, "Vector"](img/vector-03.png)
-**Astrogator / Engineer · Confederation Navy, Retired · Rank 4, Chief Engineer**
+**Astrogator / Engineer · Confederation Navy (Technical), Retired · Lieutenant Junior Grade**
 
-**Age:** 71 · **Homeworld:** Point (Oriah Subsector) · **Credits:** Cr11,000
+**Age:** 71 · **Homeworld:** Point (Oriah Subsector) · **Credits:** Cr38,000 · **Pension:** Cr7,000 a year
 
 *"Farrow flies it. I make sure it arrives somewhere on purpose."*
 
-Born on **Point** (Oriah Subsector), UWP A6729C7-E, Trade Codes *High Population, High Tech, Industrial* (SF:265), a heavily industrial Confederation world in a subsector the sourcebook describes as "majority under Solomani Confederation control" (SF:266). Yatika spent eight terms in the Confederation Navy's engineering branch, made Chief Engineer, and picked up astrogation as a practical extension of "knowing exactly where the ship is and exactly how much fuel that costs." She is 71 and still corrects other people's mental arithmetic out loud, whether or not she's been asked to.
+Born on **Point** (Oriah Subsector), UWP A6729C7-E, Trade Codes *High Population, High Technology, Industrial* (SF:265), a heavily industrial Confederation world in a subsector the sourcebook describes as "majority under Solomani Confederation control" (SF:266). Yatika is a **Non-Solomani human**, descended from a non-Terran branch of humanity (most likely Vilani), and a visible minority on a Solomani world (ACS2:125). That cost her a quiet DM−2 on every promotion she ever went for, and it is the reason a woman who graduated University with Astrogation and took a commission on day one spent five years as an Ensign. She served seven terms in the Confederation Navy's Technical branch, collected Admin, Electronics and Engineer from whatever the service offered, and added Pilot and Science along the way. In 1117, in her final term, SolSec arrested her on charges of sedition. She was cleared, but proving it ate most of her severance. Her advancement board passed her over again in 1121 and she left at 50, a Lieutenant Junior Grade with Cr18,000, a half-rate pension, and a standing grudge. She is 71 and still corrects other people's mental arithmetic out loud, whether or not she's been asked to.
 
-**Career-Prime Characteristics (age 50):** STR 6 (+0) · DEX 6 (+0) · END 8 (+0) · INT 10 (+1) · EDU 11 (+1) · SOC 6 (+0)
+**Timeline:**
 
-**Ageing Record:** 8 terms → DM–8. Five checks, Terms 4 through 8. Net: **STR –1, DEX –2, END –2**.
+| Term | Career | Age | Years (IY) |
+|---|---|---|---|
+| 0 | Youth, Point | 0–18 | 1071–1089 |
+| Univ. | University: graduated, no honours | 18–22 | 1089–1093 |
+| 1 | Navy, Technical (Ensign) | 22–26 | 1093–1097 |
+| 2 | Navy, Technical (Ensign) | 26–30 | 1097–1101 |
+| 3 | Navy, Technical (Ensign) | 30–34 | 1101–1105 |
+| 4 | Navy, Technical (Ensign) | 34–38 | 1105–1109 |
+| 5 | Navy, Technical (Ensign) | 38–42 | 1109–1113 |
+| 6 | Navy, Technical (Lieutenant Junior Grade) | 42–46 | 1113–1117 |
+| 7 | Navy, Technical: SolSec sedition investigation, cleared; cannot continue after a failed advancement roll | 46–50 | 1117–1121 |
+| — | Retired | 50–71 | 1121–1142 |
 
-**Current Characteristics (age 71):** STR 5 (–1) · DEX 4 (–1) · END 6 (+0) · INT 10 (+1) · EDU 11 (+1) · SOC 6 (+0)
+**Relationships:** an Ally, from a relationship that began in her first Navy term (IY1093 to 1097).
+
+**Career-Prime Characteristics (age 50):** STR 4 (–1) · DEX 6 (+0) · END 7 (+0) · INT 11 (+1) · EDU 8 (+0) · SOC 8 (+0)
+
+**Ageing Record:** 7 terms, DM–7 (CRB:48-49). Nine checks in all: four during her career (terms 4 to 7) and five afterwards, at ages 54, 58, 62, 66 and 70. Three came back with effects: STR –1 in term 7, STR –1 at 58, and STR and END –1 at 66. Net: **STR –3, END –1**.
+
+**Current Characteristics (age 71):** STR 2 (–2) · DEX 6 (+0) · END 6 (+0) · INT 11 (+1) · EDU 8 (+0) · SOC 8 (+0)
 
 **Skills:**
 
+- Admin 1
 - Astrogation 2
+- Electronics 0
+- Electronics (comms) 2
+- Electronics (computers) 2
 - Engineer 0
 - Engineer (power) 2
-- Engineer (life support) 1
-- Electronics 0
-- Electronics (computers) 2
+- Gun Combat 0
+- Gunner 0
+- Leadership 1
 - Mechanic 1
+- Medic 1
+- Navigation 1
 - Pilot 0
 - Pilot (spacecraft) 1
-- Vacc Suit 1
-- Admin 1
 - Science 0
 - Science (physics) 1
+- Vacc Suit 0
+
+**Mustering out:** the sedition arrest cost her 3 of 8 Benefit rolls, leaving 5: Cr10,000, Cr8,000 and Cr20,000 (her three lifetime Cash rolls), SOC +1, and a Ship Share. Pension Cr7,000 a year, half the Imperial rate (CRB:48, ACS2:136).
 
 **Equipment:**
 
 | Item | TL | Protection | Endurance | Notes |
 |---|---|---|---|---|
-| Vacc Suit, Basic, personal, in better repair than most of the ship's spares | 8 | +4 | 15 hours | 28kg, Cr12,000, requires Vacc Suit 1 (CSC:28) |
+| Vacc Suit, Improved, personal, in better repair than most of the ship's spares | 10 | +8 | 60 hours | 12kg, Cr10,000, requires Vacc Suit 0 (CSC:28) |
 
 No sidearm; she's never carried one, and nobody on this crew has ever suggested she should. Also carries: a slide-rule pendant her old engine room crew gave her as a joke that stuck, a calculator wrist unit, a tool belt she still keeps stocked, reading glasses on a chain.
 
-**Personality:** Precise, dryly funny, allergic to sloppy navigation. She double-checks Farrow's jump plots without being asked and has been right often enough that he's stopped complaining about it. The one who will tell you exactly how many hours of margin you don't actually have.
+**Personality:** Precise, dryly funny, allergic to sloppy navigation, and carrying a quiet certainty that she was always graded on a harder curve. She double-checks Farrow's jump plots without being asked and has been right often enough that he's stopped complaining about it. The one who will tell you exactly how many hours of margin you don't actually have.
 
 **Neural.AI image prompt:** A slight, silver-haired woman in her early 70s with sharp, birdlike attentiveness, wearing a worn engineer's coverall with a tool belt, a slide-rule pendant visible at her collar. Reading glasses on a chain, one hand tracing a course line on a star chart display, the other holding a stylus. Focused, unhurried competence. Cramped astrogation alcove aboard an older starship, cool instrument light. Photorealistic, science fiction character portrait, no text, no logos.
 
@@ -211,33 +259,64 @@ No sidearm; she's never carried one, and nobody on this crew has ever suggested 
 ![Hendrik Vosloo, "Big Henno"](img/henno-01.webp)
 **Gunner / Heavy Weapons · Confederation Army & Navy, Retired**
 
-**Age:** 69 · **Homeworld:** Thassor (Oriah Subsector) · **Credits:** Cr4,000
+**Age:** 69 · **Homeworld:** Thassor (Oriah Subsector) · **Credits:** Cr70,000 · **Pension:** Cr6,000 a year
 
 *"Nobody shoots at my crew twice. Once, maybe. I'm slow now, not blind."*
 
-Born on **Thassor** (Oriah Subsector), UWP C6A2A9A-D, Trade Codes *Fluid Oceans, High Population, High Tech* (SF:265), a Confederation world in the same subsector as Yatika's. Hendrik spent four terms as an Army heavy weapons NCO and another four in the Navy manning turrets, eight terms in all. He started strong and it shows; even now, at 69, he can still out-lift most people half his age. His knees, on the other hand, have opinions about the weather.
+Born on **Thassor** (Oriah Subsector), UWP C6A2A9A-D, Trade Codes *Fluid Oceans, High Population, High Technology* (SF:265), a Confederation world in the same subsector as Yatika's. Hendrik is Racial Solomani and grew into the build his nickname promises: STR 12 at eighteen. He spent four terms in the Army's infantry, a heavy weapons NCO who never got past Corporal, and in 1107 a failed advancement roll closed that door. He joined the Navy at 34 and spent twenty-four years in its Technical branch behind turrets, rising to **Chairman**, the printed title for Navy NCO rank 5 (ACS2:132). One of those terms was the **Frozen Watch**, four years asleep in a cryoberth that don't count toward his physical age (ACS2:133). He is 69 on paper and, by the ageing tables, a little younger than that. Somewhere in there a Party official took a liking to him, which is why a gunner has the social standing of a minor administrator and has never once used it. He retired at 58 with Cr70,000 and a half-rate pension. His knees, on the other hand, have opinions about the weather.
 
-**Career-Prime Characteristics (age 50):** STR 11 (+1) · DEX 7 (+0) · END 9 (+1) · INT 6 (+0) · EDU 5 (–1) · SOC 4 (–1)
+**Timeline:**
 
-**Ageing Record:** 8 terms → DM–8. Five checks, Terms 4 through 8. Net: **STR –2, DEX –1, END –2**.
+| Term | Career | Age | Years (IY) |
+|---|---|---|---|
+| 0 | Youth, Thassor | 0–18 | 1073–1091 |
+| 1 | Army, Infantry (Lance Corporal) | 18–22 | 1091–1095 |
+| 2 | Army, Infantry (Corporal) | 22–26 | 1095–1099 |
+| 3 | Army, Infantry (Corporal) | 26–30 | 1099–1103 |
+| 4 | Army, Infantry (Corporal): cannot continue after a failed advancement roll | 30–34 | 1103–1107 |
+| 5 | Navy, Technical (Alternate) | 34–38 | 1107–1111 |
+| 6 | Navy, Technical: Frozen Watch, no skill or advancement rolls | 38–42 | 1111–1115 |
+| 7 | Navy, Technical (Delegate) | 42–46 | 1115–1119 |
+| 8 | Navy, Technical (Deputy) | 46–50 | 1119–1123 |
+| 9 | Navy, Technical (Commissioner) | 50–54 | 1123–1127 |
+| 10 | Navy, Technical (Chairman): cannot continue after a failed advancement roll | 54–58 | 1127–1131 |
+| — | Retired | 58–69 | 1131–1142 |
 
-**Current Characteristics (age 69):** STR 9 (+1) · DEX 6 (+0) · END 7 (+0) · INT 6 (+0) · EDU 5 (–1) · SOC 4 (–1)
+**Relationships:** a Rival, an officer he quarrelled with (IY1103 to 1107); a Contact, a Party official (IY1107 to 1111); a Contact from a diplomatic mission (IY1123 to 1127).
+
+**Career-Prime Characteristics (age 58):** STR 9 (+1) · DEX 7 (+0) · END 5 (–1) · INT 10 (+1) · EDU 11 (+1) · SOC 14 (+2)
+
+**Ageing Record:** 10 terms, but the Frozen Watch term doesn't count, so DM–9 at the end (CRB:48-49, ACS2:133). Eight checks in all: six during his career (the Frozen Watch term has none), and two afterwards at ages 62 and 66. Net from his rolled characteristics: **STR –5, DEX –4, END –5** (his END was raised by +2 at mustering out before the ageing began).
+
+**Current Characteristics (age 69):** STR 7 (+0) · DEX 5 (–1) · END 3 (–1) · INT 10 (+1) · EDU 11 (+1) · SOC 14 (+2)
 
 **Skills:**
 
-- Gunner 0
-- Gunner (turret) 3
-- Gun Combat 0
-- Gun Combat (slug) 2
-- Heavy Weapons 0
-- Heavy Weapons (man portable) 2
-- Tactics 0
-- Tactics (military) 1
+- Admin 1
+- Advocate 1
+- Astrogation 1
 - Athletics 0
 - Athletics (strength) 1
+- Electronics 0
+- Electronics (comms) 2
+- Gun Combat 0
+- Gun Combat (slug) 4
+- Gunner 0
+- Gunner (turret) 3
+- Heavy Weapons 0
+- Heavy Weapons (man portable) 1
+- Leadership 1
+- Mechanic 1
 - Melee 0
 - Melee (blade) 1
-- Vacc Suit 1
+- Pilot 0
+- Pilot (spacecraft) 1
+- Recon 2
+- Tactics 0
+- Tactics (military) 1
+- Vacc Suit 3
+
+**Mustering out:** Army (5 rolls): Cr10,000, Cr20,000, END +1, END +1, EDU +1. Navy (6 terms plus 3 rank-bonus rolls, with DM+1): Cr40,000, INT +1, INT +1, SOC +1, INT +1, SOC +1, SOC +2, SOC +2, EDU +2. Pension Cr6,000 a year, half the Imperial rate (CRB:48, ACS2:136).
 
 **Equipment:**
 
@@ -261,9 +340,9 @@ Also carries: a heavy coat that fit better twenty years ago, a photo of his old 
 
 **Age:** 66 · **Homeworld:** Alizarin (Albadawi Subsector) · **Credits:** Cr5,500
 
-*"It's my house. It's my garden. And yes, some of what's in that shed is technically illegal. Are we doing this or not?"*
+*"It's my plot on the roof, and yes, some of what's in that shed is technically illegal. Are we doing this or not?"*
 
-Born and still living on **Alizarin** (Albadawi Subsector), UWP A566987-C, Trade Codes *Garden, High Population, High Tech*, Solomani Confederation despite sitting inside otherwise-Imperial Albadawi via the Rimward Gap (SF:176-177; Chapter 1, §1.3). Rosa is the reason the other five ended up here at all; she came home after six terms as a Confederation Marine combat engineer, and one by one the rest of the crew followed her back to the one retirement posting that actually felt like Confederation soil. At 66 she's the youngest of the six, and the one everyone privately still checks in with before doing anything dangerous.
+Born and still living on **Alizarin** (Albadawi Subsector), UWP A566987-C, Trade Codes *Garden, High Population, High Tech*, Solomani Confederation despite sitting inside otherwise-Imperial Albadawi via the Rimward Gap (SF:176-177; Chapter 1, §1.3). Rosa is the reason the other five ended up here at all; she came home after six terms as a Confederation Marine combat engineer, and one by one the rest of the crew followed her back to the one retirement posting that actually felt like Confederation soil. At 66 she's the youngest of the six, and the one everyone privately still checks in with before doing anything dangerous. Her rooftop garden is the one thing that keeps her tied to the condominium: the plot is a reserved space, and if she let it lapse for a single year she would go back into the building's lottery and almost certainly never see another in her lifetime.
 
 **Career-Prime Characteristics (age 42):** STR 9 (+1) · DEX 8 (+0) · END 8 (+0) · INT 7 (+0) · EDU 6 (+0) · SOC 5 (–1)
 
@@ -293,9 +372,9 @@ Born and still living on **Alizarin** (Albadawi Subsector), UWP A566987-C, Trade
 
 No personal firearm; Explosives is her trade, and her hands do the rest. Also carries: a genuinely excellent pair of boots, reading glasses she will not wear in front of anyone she hasn't known for at least a decade, and, staying home for this one, a small, opinionated dog.
 
-**Personality:** Direct, dryly funny, never really stopped working; her garden shed holds considerably more "surplus ordnance" than SolSec's decommissioning paperwork would suggest. Quietly proud that the whole crew ended up living on *her* world, and not shy about reminding them whose kitchen table this all got planned at.
+**Personality:** Direct, dryly funny, never really stopped working; her roof-garden shed holds considerably more "surplus ordnance" than SolSec's decommissioning paperwork would suggest. Quietly proud that the whole crew ended up living on *her* world, and not shy about reminding them whose kitchen table this all got planned at. The first thing she does after saying yes is arrange for someone to water the plot, and her last words to them are to keep the fence locked.
 
-**Neural.AI image prompt:** A compact, wiry woman in her mid-60s with close-cropped grey hair and calloused hands, wearing practical work clothes, kneeling beside an open toolbox of demolition gear in a cluttered garden shed. Sharp, focused expression, a small dog watching from a doorway in the background. Warm late-afternoon light through a dusty window. Photorealistic, science fiction character portrait, no text, no logos.
+**Neural.AI image prompt:** A compact, wiry woman in her mid-60s with close-cropped grey hair and calloused hands, wearing practical work clothes, kneeling beside an open toolbox of demolition gear in a cramped rooftop garden shed, raised beds and open sky behind her. Sharp, focused expression, a small dog watching from a doorway in the background. Warm late-afternoon light through a dusty window. Photorealistic, science fiction character portrait, no text, no logos.
 
 ---
 
