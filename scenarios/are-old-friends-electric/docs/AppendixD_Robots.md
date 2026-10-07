@@ -68,7 +68,7 @@ Same chassis, same Slot cost (zero), same everything structural. **The only thin
 
 ## D.3: SHADOW SECURITY ROBOT (PRE-BUILT, PARKSIDE'S LEVEL 3 GUARDIAN)
 
-*Guards the sub-level vault (Chapter 4, §4.4), the one thing on this facility actually built to hurt people. Reused as-is from the Robot Handbook's own pre-generated design; nothing homebrewed here.*
+*Guards the sub-level vault (Chapter 4, §4.4), the one thing on this facility actually built to hurt people. Reused as-is from the Robot Handbook's own pre-generated design (RH:139); nothing homebrewed here.*
 
 | Robot | Hits | Locomotion | Speed | TL | Cost |
 |---|---|---|---|---|---|
@@ -87,4 +87,22 @@ Designed to blend into any environment and open with a first shot from ambush be
 
 ---
 
-*Last updated: 2026-10-06*
+## D.4: SIZE AND SCALE AT A GLANCE
+
+The Robot Handbook gives robots a **Size number**, not dimensions in metres. Size sets the Attack Roll DM that makes a target easier or harder to hit (RH:13, the Robot Size table). The dimensions below are **referee guides only**, taken from the Handbook's own comparison creatures, not printed figures.
+
+| Robot | RH Size | Attack Roll DM | Targeting category | Rough dimensions (referee guide) |
+|---|---|---|---|---|
+| **Line Servitor** (D.2) | 6 (Aslan, cow, lion) | **+1** (Large) | Large | about 2.5m long, 1.5m wide, 2m tall |
+| **Shadow Security Robot** (D.3) | not stated in the entry; Hits 21 fits **Size 5** (20 base Hits) | **+0** (assumed) | Normal | human-scale, about 1.8m tall |
+| **Subject 1106** (Appendix E) | 7 (K'kree, bear, shark) | **+2** (Large) | Large | the core is about 0.5 tons, roughly 7 m³, about 2m across; its growth spreads through the whole chamber |
+
+**Targeting categories.** Small is Size 4 or less (Attack DM –1 to –4), Normal is Size 5 (DM +0), Large is Size 6 or more (DM +1 and up). A larger target is easier to hit and has more Hits to chew through, which is the trade the Large trait represents.
+
+**Why the Shadow Security Robot has no size trait.** The Handbook's stat block doesn't list one. I read it as Size 5 from its Hits (21, against a Size 5 base of 20), but that is an inference, not a printed fact. If you would rather it be small, treat it as Size 4 (DM –1), which suits a stealth ambusher.
+
+**Movement is in metres.** Line Servitor 5m and Shadow Security Robot 9m, per action, as printed.
+
+---
+
+*Last updated: 2026-10-07*

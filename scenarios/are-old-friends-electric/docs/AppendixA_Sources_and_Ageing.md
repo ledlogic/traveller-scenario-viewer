@@ -104,6 +104,7 @@ Per CRB:48-49: ageing effects begin when a Traveller reaches 34 years of age, at
 | Long Blade (TL1, 3D, Cr200; TL3, 3D+2, Cr300), Accelerator Rifle (TL9, 3D, Zero-G, Cr900), Weapon Implant with an Autopistol (TL10, Cr12,000; shielded from scanners of TL12 and lower), Natural-looking option (TL10, +25% of the augment, DM+2 to Deception to hide it) | CSC:135, CSC:145, CSC:57, CSC:49 |
 | Protec Suit: Protection +4, TL9, 1kg, Cr500; turns melee weapons and softens small arms fire | CSC:12 (Armour table) |
 | A Traveller can normally sell an undamaged item for half its purchase price | CRB:97 |
+| Shadow Security Robot: Hits 21, Walker, 9m, TL12, Cr300,000, Armour +13, Advanced brain (INT 9), reused as-is from the pre-generated design | RH:139 |
 | Autopistol, TL5, Range 10m, 3D−3, 15-round magazine | CSC:142 (Weapon table) |
 | Revolver, TL4, Range 10m, 3D−3, 6-round magazine | CSC:142 (Weapon table) |
 | Cutlass, TL2, Melee, 3D damage | CSC:134 (Melee weapon table) |
