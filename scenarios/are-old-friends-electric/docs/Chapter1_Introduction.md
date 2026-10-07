@@ -20,11 +20,11 @@ Thirty-six years ago, a much younger Baldwin Wei wrote those words about a resea
 
 **Title:** Traveller: Are Old Friends Electric
 
-**Short Description** *(144 characters)*
+**Short Description** *(140 characters)*
 > Six retired SolSec veterans. One old friend's last favor. A black site nobody was supposed to remember. Bad knees, worse odds. Going anyway.
 
-**Longer Description** *(496 characters)*
-> Thirty-six years ago, Baldwin Wei chased a project called Aristotle, and it ended his field career. Now 62, he's watched that thread come back to life inside a black-site facility on Halo, deep in Imperial space, where a corporate crew is about to erase what's left. He can't go through channels, so he goes to six retired veterans who don't exist anymore. Late 60s and 70s, bad knees, still able to fly, plot, shoot, and breach. Nobody asks if they're too old. They ask if the ship still starts.
+**Longer Description** *(494 characters)*
+> Thirty-six years ago, Baldwin Wei chased a project called Aristotle, and it ended his field career. Now 62, he's watched that thread come back to life inside a black-site facility on Halo, deep in Imperial space, where a corporate crew is about to erase what's left. He can't go through channels, so he goes to six retired veterans who don't exist anymore. Mid-60s to 70s, bad knees, still able to fly, plot, shoot, and breach. Nobody asks if they're too old. They ask if the ship still starts.
 
 **Con of the North: Table Pitch**
 > You're retired. Have been for years: a shared house, old grudges, bad knees, better stories than anyone believes. Then an old friend shows up at your door needing one more impossible favor, and you find out you never actually stopped being who you were. Mongoose Traveller 2nd Edition. Six pre-generated characters provided, no experience necessary.
@@ -33,7 +33,7 @@ Thirty-six years ago, a much younger Baldwin Wei wrote those words about a resea
 
 ## 1.2: THE SETUP
 
-It is **Imperial Year 1142**. Six retired Solomani Confederation veterans (Navy, Marines, Army, SolSec Intelligence, a Krypton Home Forces medic) have spent the last decade-plus living together in a condominium on **Alizarin** (Chapter 1, §1.3), the kind of arrangement that starts as "temporary, just until we're back on our feet" and quietly becomes permanent. They argue about the thermostat. They argue about the limited parking in a small suburb that should have allocated more space for vehicles, but nobody had the foresight to reserve it before the buildings went up around them. They have, by any reasonable measure, retired.
+It is **Imperial Year 1142**. Six retired Solomani Confederation veterans (Navy, Army, Marines, SolSec Intelligence, a Krypton Home Forces medic, and one former pirate) have spent the last decade-plus living together in a condominium on **Alizarin** (Chapter 1, §1.3), the kind of arrangement that starts as "temporary, just until we're back on our feet" and quietly becomes permanent. They argue about the thermostat. They argue about the limited parking in a small suburb that should have allocated more space for vehicles, but nobody had the foresight to reserve it before the buildings went up around them. They have, by any reasonable measure, retired.
 
 Baldwin Wei has not, quite. At 62, he no longer runs the Solomani Rim Desk. He was eased into a "special consultant" role eight years ago, the SolSec Directorate's polite way of admitting a man who never once asked permission before acting was never going to stop, so they'd rather keep him close than push him out entirely. He still has a desk. He still has a line to people who owe him. He does not, any longer, have a team.
 
@@ -48,7 +48,7 @@ He is about to ask his last one for one more favour. It is a cold account, close
 
 **Alizarin** (hex 0230, Albadawi Subsector), UWP **A566987-C**, Trade Codes **Garden, High Population, High Tech**, sits inside a geographic and political oddity. The Albadawi Subsector is, and has been since the Solomani Rim War, overwhelmingly Imperial territory: a "hotbed of political machinations and covert operations" on the Imperial-Confederation border (SF:178). But the *Rimward Gap* physically isolates two of its 27 worlds, Alizarin and Krypton, from the rest of the subsector entirely. Cut off from Imperial space by the Gap and connected instead to the neighbouring Jardin Subsector, both worlds are **part of the Solomani Confederation and politically aligned with the worlds in Jardin** (SF:178; SF:176).
 
-In practice: a pocket of home soil, tucked in behind Imperial lines, that nobody on either side particularly patrols. It's exactly the kind of place an old intelligence hand retires to, not because it's glamorous (it isn't; Alizarin's a pleasant, unremarkable garden world doing pleasant, unremarkable garden-world things), but because nobody looking for Confederation veterans thinks to look inside what is, on every strategic map, "Imperial territory." Rosa Delacroix (Chapter 2, §2.6) was born there and never really left; the other five followed her home, one at a time, over about six years.
+In practice: a pocket of home soil, tucked in behind Imperial lines, that nobody on either side particularly patrols. It's exactly the kind of place an old intelligence hand retires to, not because it's glamorous (it isn't; Alizarin's a pleasant, unremarkable garden world doing pleasant, unremarkable garden-world things), but because nobody looking for Confederation veterans thinks to look inside what is, on every strategic map, "Imperial territory." Rosa Delacroix (Chapter 2, §2.6) was born there, came home in 1126 after thirty-two years of service, and the other five followed her one at a time over the next five years. *Terminal Leave* does not sit at the downport: she is berthed on a reinforced rooftop platform above a garage in the commercial district, a short and awkward drive from the condominium.
 
 ---
 
@@ -80,10 +80,43 @@ He needs six people who officially don't exist anymore. He knows exactly six.
 
 Wei doesn't get a hero's welcome. He gets six people who are annoyed he tracked down their address, more annoyed that he's clearly not sleeping, and *most* annoyed that he's right about needing them. Play the recruitment scene for what it actually is: not excitement, but a group of old friends recognising, all at once, that the alternative to going is watching Wei go alone and die of it. Rosa is the one who says yes first, mostly to shut everyone else up, and then asks quietly who is going to water the roof, and tells them to keep the fence locked. Akio Komatsubara makes Wei sit down and takes his pulse before agreeing to anything. Nobody asks whether they're too old for this. They ask whether the ship still starts on the first try.
 
+**Wei's one instruction.** Before anyone leaves the table, Wei says the only thing he is sure of: *come prepared.* "It took three teams to solve this the first time," he tells them. "Three. Bring everything you would bring to a fight you don't think you can lose, and bring a toolkit you trust for the control point at the end, and something that counts radiation. I don't want to find out what happens to a crew that assumed it would be easier." He doesn't say what the three teams were. He doesn't need to.
+
 It does. Barely.
+
+---
+
+## 1.7: THE DRIVE (OPTIONAL COLD OPEN)
+
+If the table wants a prologue before Act One, it opens on a failed plan. Wei, who arrived on foot, has borrowed a **SolSec Security Van** from an old Directorate contact who owes him. It was left in the condominium's lot the night before, and its surface changes to blend into the neighbourhood, so the neighbours took it for a delivery van. The plan was to take it across the city to *Terminal Leave*'s berth above the garage in the commercial district (§1.3). Overnight, somebody has attacked it. The van is disabled, Wei is waiting, and a hired car would be a record of where six retired veterans went on the night he showed up. Then Antonella remembers the two cars.
+
+**The two cars.** In the far corner of the lot sit two vehicles the neighbours have complained about for years, **Hendrik's and Rosa's**. Each is wrapped in a printed cover that makes it look like a rusted, flat-tyred wreck, and each takes up one of the parking spaces everybody fights over. The wraps are deliberate: they keep thieves, curious children and the building's board away, and the owners have paid the fines rather than move them. Pull the covers off and the reveal is the point. Underneath are two **1960s muscle cars**, sparkling paint and chrome, with full tanks and engines that start on the first turn of the key.
+
+**Who attacked the van** (referee's choice):
+
+| Option | Why it fits |
+|---|---|
+| TMI cleaners | Someone at the Annex already knows Wei has gone looking (Chapter 5) |
+| A Rival from the crew's past | Desmond's betrayer, Rosa's Rival, Hendrik's quarrelsome officer, or Antonella's old tutor |
+| Jardin Syndicate scouts | The Syndicate has spread across the border (SF:103) and may have noticed an old Navy hull on a rooftop |
+
+**Running it.** Treat the drive as 15 minutes, not an encounter. Only **Antonella has Drive (Drive 0)**; anyone else at the wheel is unskilled at DM–3, which includes the owners themselves. Desmond is the only one with a grav skill, Flyer (grav) 1, which would have made him the van's natural pilot. The van seats six (2 crew, 4 passengers) and there are seven of them with Wei, so even an undamaged van would have been one seat short. Three Average (8+) Drive checks cover the drive: the suburb streets, the commercial district's traffic, and the garage ramp. A failure costs time or draws attention, not the car.
+
+| | SolSec Security Van (VC:101) | Classic muscle car (reskin of the Ground Car, VH:105) |
+|---|---|---|
+| TL | 12 | 8 (restored) |
+| Skill | Flyer (grav) | Drive (wheel) |
+| Agility | +3 | +0 |
+| Speed | Fast (High) | Fast, one band above the printed Ground Car |
+| Range | 3,000 km | 250 km |
+| Crew / passengers | 2 / 4 | 1 / 4 |
+| Armour | 12 forward, side and aft; 9 dorsal and ventral | 2 |
+| Structure / Hull | Structure 4 | Hull 14 |
+| Cost | MCr2.43, Directorate property | Collector's price, about Cr20,000 (a ruling) |
+| Notes | VTOL, can reach orbit; Camouflage (Recon DM−4) lets it blend into a neighbourhood | Speed, range and hull changes are rulings, not printed rules |
 
 ---
 
 *The scenario's title, and the mood of lonely people answering a door they'd rather not open, borrow from Tubeway Army's 1979 single "Are 'Friends' Electric?" No lyrics are reproduced here.*
 
-*Last updated: 2026-09-09*
+*Last updated: 2026-10-07*

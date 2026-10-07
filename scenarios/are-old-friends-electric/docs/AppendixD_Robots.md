@@ -62,7 +62,7 @@ Same chassis, same Slot cost (zero), same everything structural. **The only thin
 
 **Referee note, the actual point of this build:** the swap from D.2a to D.2b costs **Cr2,000** and no Slots at all. That number should land hard at the table if anyone asks. This is not an arms race requiring new hardware, it's a chip. TMI is not building an army from scratch; it's quietly repurposing a maintenance fleet that was already there, using tech nobody was supposed to still have. That's the whole horror of "they thought they were all burned to silicon" in one line item.
 
-**Hacking option (RH:106-107):** a corrupted Line Servitor's firewall is Security/1, Very Difficult (12+) to intrude on remotely via Electronics (computers), one full step harder than an unmodified unit's Security/0. **Direct physical contact bypasses this entirely.** A Parasite Link or an equivalent hard connection to the chassis grants automatic access, at which point a second successful intrusion attempt (same difficulty, Electronics (computers), Science (robotics), or Profession (robotics)) seizes control outright rather than requiring the unit be destroyed. This is Akio Komatsubara's moment: Electronics (computers) 2 makes him the only one on the crew who can walk up to an active Hunter/Killer unit mid-fight and simply take it away from whoever's running it, if he's willing to get close enough to touch it.
+**Hacking option (RH:106-107):** a corrupted Line Servitor's firewall is Security/1, Very Difficult (12+) to intrude on remotely via Electronics (computers), one full step harder than an unmodified unit's Security/0. **Direct physical contact bypasses this entirely.** A Parasite Link or an equivalent hard connection to the chassis grants automatic access, at which point a second successful intrusion attempt (same difficulty, Electronics (computers), Science (robotics), or Profession (robotics)) seizes control outright rather than requiring the unit be destroyed. This is Akio Komatsubara's moment, and Yatika Lindqvist's: Electronics (computers) 2 makes them the only two on the crew who can walk up to an active Hunter/Killer unit mid-fight and simply take it away from whoever's running it, if they're willing to get close enough to touch it.
 
 ---
 
@@ -87,4 +87,4 @@ Designed to blend into any environment and open with a first shot from ambush be
 
 ---
 
-*Last updated: 2026-09-09*
+*Last updated: 2026-10-06*

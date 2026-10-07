@@ -47,7 +47,7 @@ At the far end, a small sub-station most of the floor's own traffic simply route
 
 - **Fight them conventionally.** Gun Combat or Melee against Hits 32/Armour +4 targets is winnable but not trivial for a crew this size; this is where Hendrik earns his keep if any weapon heavier than a sidearm made it off the ship, and where Rosa's Explosives can drop one Servitor in a single well-placed charge instead of a slow melee grind.
 - **Shut the sub-station down instead of fighting the floor.** Destroying or disabling the chip-installation bench (Explosives or brute force) stops any *further* robots from flipping mid-fight, even if it doesn't help against ones already converted.
-- **Hack rather than fight.** Any corrupted Line Servitor can be taken rather than destroyed: Akio Komatsubara, Electronics (computers) 2, direct physical contact for automatic access, then a second Very Difficult (12+) intrusion check to seize control outright (Appendix D, §D.2b). A captured Hunter/Killer unit fighting for the crew for the rest of the scene is a genuinely satisfying payoff for a character whose Chapter 2 writeup calls him "gentle" and "sharp-eyed" rather than a frontline fighter.
+- **Hack rather than fight.** Any corrupted Line Servitor can be taken rather than destroyed: Akio Komatsubara or Yatika Lindqvist, both Electronics (computers) 2, direct physical contact for automatic access, then a second Very Difficult (12+) intrusion check to seize control outright (Appendix D, §D.2b). A captured Hunter/Killer unit fighting for the crew for the rest of the scene is a genuinely satisfying payoff for a character whose Chapter 2 writeup calls him "gentle" and "sharp-eyed" rather than a frontline fighter.
 
 **Referee note:** resist the urge to make this a wave-based grind. Two dozen corrupted robots would be a slog and would also not make sense; TMI doesn't have infinite chip stock sitting out on the floor, and the point of this scene is the *reveal* (the chips are still being made, right now, by people who told everyone they weren't) more than pure attrition. 2D converted units per alert is plenty.
 
@@ -63,4 +63,4 @@ What's actually inside the vault, data, a person, or both, per Wei's own uncerta
 
 ---
 
-*Last updated: 2026-09-09*
+*Last updated: 2026-10-06*

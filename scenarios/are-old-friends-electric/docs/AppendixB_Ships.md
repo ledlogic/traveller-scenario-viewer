@@ -22,9 +22,10 @@ Neither *High Guard* nor the *Small Craft Catalogue* states hull length or beam 
 
 **Class:** Star Bird Class Transport, a modular sector-hopping transport with a detachable front orbiter. The design is supplied by the referee (not a *High Guard* stock ship) and has been **rebuilt to the *High Guard* design rules** in the tables below; several figures in the original write-up did not survive that check and were corrected (see §B.2.3).
 **Registry:** Civilian, Alizarin, a working tramp trader on paper, and not entirely a lie
+**Berth:** a reinforced rooftop platform above a garage in Alizarin's commercial district, not the downport
 **Owner of record:** Antonella Interlenghi, jointly held with the rest of the crew
 
-Twenty-two years ago the six of them pooled Ship Shares and mustering-out cash from four separate careers and bought a tired secondhand Star Bird hull that nobody at the Krypton yard expected to see fly again. Yatika Lindqvist has kept her running ever since through real engineering skill and sheer stubbornness. They've made a modest, legal, entirely boring living hauling agricultural goods and the occasional passenger around the Rimward Gap and into Jardin, a cover story with the enormous advantage of being almost entirely true. Her Jump-3 drive is the one unusual thing about her: it is the only reason a tramp this size can cross the Rimward Gap at all (Chapter 3, §3.1).
+Eleven years ago, once the last of them had retired, the six of them pooled Ship Shares and mustering-out cash from six very different careers and bought a tired secondhand Star Bird hull that nobody at the Krypton yard expected to see fly again. Yatika Lindqvist has kept her running ever since through real engineering skill and sheer stubbornness. They've made a modest, legal, entirely boring living hauling agricultural goods and the occasional passenger around the Rimward Gap and into Jardin, a cover story with the enormous advantage of being almost entirely true. Her Jump-3 drive is the one unusual thing about her: it is the only reason a tramp this size can cross the Rimward Gap at all (Chapter 3, §3.1).
 
 ### B.2.1: Full Specification
 
@@ -48,26 +49,29 @@ TL12, 200 tons, Streamlined, Hull 80 (76 main hull / 4 orbiter, proportionate). 
 | Software | Manoeuvre; Jump Control/3 (MCr0.3); Library; Intellect | — | 0.3 | — | p. 20 |
 | Sensors | Civilian Grade | 1 | 3.0 | 1 | p. 21 |
 | Weapons | Double turret, 2 × beam laser (dorsal) | 1 | 1.5 | 9 | p. 28 |
+| Weapons | Fixed mount, 2 × pulse laser (nose, main hull) | — | 2.1 | 8 | p. 28 |
 | Systems | Fuel processor (40 tons/day); fuel scoops built in (streamlined) | 2 | 0.1 | 2 | p. 49 |
 | Staterooms | Standard ×6 (4 tons, MCr0.5 each) | 24 | 3.0 | — | p. 24 |
 | Common area | ¼ of stateroom tonnage | 6 | 0.6 | — | p. 24 |
 | Cargo | 40.6 main hold + 3.9 orbiter hold | 44.5 | — | — | — |
-| **Total** | | **200.0** | **82.37** | | |
+| **Total** | | **200.0** | **84.47** | | |
 
-**Purchase cost** (after the standard 10% discount): MCr74.129. **Maintenance:** Cr6,177/month (total ÷ 12,000; HG:25). Life support and running costs per the Core Rulebook.
+**Purchase cost** (after the standard 10% discount): MCr76.019. **Maintenance:** Cr6,335/month (total ÷ 12,000; HG:25). Life support and running costs per the Core Rulebook.
 
 **Power budget:**
 
 | Mode | Load | Available |
 |---|---|---|
-| Normal operation, docked (basic 40 + M-drive 60 + sensors 1 + turret 9 + processor 2) | 112 | 120 (+15 orbiter plant) |
+| Normal operation, docked (basic 40 + M-drive 60 + sensors 1 + turret 9 + nose mount 8 + processor 2) | 120 | 120 (+15 orbiter plant) |
 | Jump (basic 40 + J-drive 60 + sensors 1) | 101 | 120 |
-| Main hull detached (basic 38 + M-drive 57 + sensors 1 + turret 9 + processor 2) | 107 | 120 |
+| Main hull detached (basic 38 + M-drive 57 + sensors 1 + turret 9 + nose mount 8 + processor 2) | 115 | 120 |
 | Orbiter detached (basic 2 + M-drive 4) | 6 | 15 |
 
 **Performance:** docked, Thrust 3 (combined drives 6.1 tons = 3.05% of 200 tons) and **Jump 3**. Main hull alone: Thrust 3, no orbiter. Orbiter alone: **Thrust 4, no jump**, Armour 2, Hull 4.
 
-**Weapon:** dorsal double turret, two beam lasers fired together as one attack. Range Medium, Damage **1D+1**, Power 9 (1 mount + 4 per laser); a single laser deals the base 1D. Beam laser turrets receive DM+4 to attack rolls (HG:28). One turret, not two: with no second mount, the ship punches well below the Empress Marava's weight, which suits a crew that would rather not be shot at in the first place.
+**Weapon:** dorsal double turret, two beam lasers fired together as one attack. Range Medium, Damage **1D+1**, Power 9 (1 mount + 4 per laser); a single laser deals the base 1D. Beam laser turrets receive DM+4 to attack rolls (HG:28). 
+
+**Nose weapon:** a fixed mount holding two pulse lasers, the pair of forward "laser lights" on the toy. Range Long, Damage **2D+2** fired together as one attack (two weapons, so +1 per damage die), Power 8 (4 per laser), no tonnage. It fires only at targets directly ahead, so the pilot has to point the ship. It sits on the second of her two Hardpoints (one per 100 tons of hull; one turret or fixed mount per Hardpoint, HG:28), and on the main hull because the 10-ton orbiter has a single Firmpoint that holds only one weapon. Desmond fires it from the pilot's seat, Hendrik works the dorsal turret, and with both Hardpoints used she has no room for a third mount. The pulse note is deliberate: the toy pulses when it fires, and so does she.
 
 ### B.2.2: The Detachable Orbiter
 
@@ -85,7 +89,7 @@ The forward 10-ton section separates as an independent craft (HG:12, Breakaway H
 
 **Ruling used:** the orbiter's Computer/5 and the main hull's Computer/10bis are treated as belonging to two separate ships, not a primary/backup pair (the "second computer must be lower" rule applies to one ship's computers). Combined Thrust is rounded down from total drive tonnage, following the book's own 1,000-ton breakaway example.
 
-**At the table:** the orbiter is Farrow's toy and the crew's only real answer to a chase. He flies it while Yatika takes the main hull's stick (Pilot 1), and it is fast enough to be useful but too lightly armed to be tempting. It cannot outrun a Fighting Launch (Thrust 5), so its value in Chapter 3 is as a decoy and a way to put a hull between the crew and trouble, not a way to win a pursuit.
+**At the table:** the orbiter is Farrow's toy and the crew's only real answer to a chase. He flies it while Akio takes the main hull's stick (Pilot (spacecraft) 3), and it is fast enough to be useful but too lightly armed to be tempting. It cannot outrun a Fighting Launch (Thrust 5), so its value in Chapter 3 is as a decoy and a way to put a hull between the crew and trouble, not a way to win a pursuit.
 
 ### B.2.3: What Was Corrected From the Original Star Bird Write-Up
 
@@ -102,8 +106,9 @@ The forward 10-ton section separates as an independent craft (HG:12, Breakaway H
 | Escape-pod turret | Flavour only. No rule in *High Guard* for an integrated escape pod; treat as a story detail, not a mechanic |
 | Power surplus +19 | +8 in normal operation once basic systems, turret and processor are counted |
 | 2 tons fuel for "4 weeks" | 2 tons is 8 weeks (10% of plant size per 4 weeks, min 1 ton) (p. 18) |
+| (none in the original) | Added: a nose fixed mount with two pulse lasers, 2.1 MCr and 8 Power, on the second Hardpoint (p. 28) |
 
-**Nominal crew (HG:23):** Captain, Pilot (+1 for the orbiter), Astrogator, Engineer ×2 (drives and plants total 35.1 tons, one engineer per 35 tons), Gunner ×1.
+**Nominal crew (HG:23):** Captain, Pilot (+1 for the orbiter), Astrogator, Engineer ×2 (drives and plants total 35.1 tons, one engineer per 35 tons), Gunner ×2 (one per mount).
 
 **Why it was built Jump-3 and not refitted:** a later refit from Jump-2 to Jump-3 is not allowed, because items covered by a major refit cannot be increased in size (HG:72), and Jump-3 needs 20 tons against Jump-2's 15.
 
@@ -112,11 +117,12 @@ The forward 10-ton section separates as an independent craft (HG:12, Breakaway H
 | Station | Character |
 |---|---|
 | Captain / owner | Antonella Interlenghi |
-| Pilot (main hull); flies the orbiter when it splits | Desmond Farrow |
-| Astrogator / Engineer (also main-hull pilot when the orbiter is away) | Yatika Lindqvist |
+| Pilot (main hull); flies the orbiter when it splits; second navigator (Astrogation 2) and backup jump engineer | Desmond Farrow |
+| Astrogator / Engineer (jump drive); runs the jump check with Desmond | Yatika Lindqvist |
 | Gunner, dorsal turret | Hendrik Vosloo |
+| Gunner, nose fixed mount (from the pilot's seat) | Desmond Farrow |
 | Second engineer (engineering hand) / boarding and breach team; Mechanic 1, no Engineer skill | Rosa Delacroix |
-| Medic / Comms | Akio Komatsubara |
+| Medic / Comms; second pilot, takes the main hull's stick when the orbiter splits | Akio Komatsubara |
 
 **Referee note:** the ship is old, not derelict. Thirty-plus years of hard use with excellent maintenance is a very different thing from neglect. Nothing here needs to be worse than the stat block; she just *looks* like exactly what she is. That's the point: nobody expects trouble from her, right up until the moment they get some.
 
@@ -127,7 +133,7 @@ The forward 10-ton section separates as an independent craft (HG:12, Breakaway H
 **Class:** Fighting Launch, unnamed / unregistered (SCC:58)
 **Registry:** None on record, flying on a cannibalized transponder that reads back to a scrapped survey ship
 
-Bought secondhand, badly maintained, and crewed well past its design capacity, this is exactly the kind of "budget fighter" the sourcebook describes finding better sales with private operators than with the militaries it was built for. Tavish talks about it like it's the fastest thing in the Bajavanang belt. It isn't. It's just louder than everything else out here.
+Bought secondhand, badly maintained, and crewed well past its design capacity, this is exactly the kind of "budget fighter" the sourcebook describes finding better sales with private operators than with the militaries it was built for. Tavish talks about it like it's the fastest thing in the Bajavanang belt. It isn't. It's just louder than everything else out here. She is a TL12 hull (SCC:58) dressed with custom paint and bolted-on extra panels so that she passes for a clunkier TL11 boat.
 
 **Full Specification** (TL12, 20 tons, Streamlined; SCC:58):
 
@@ -152,4 +158,4 @@ Bought secondhand, badly maintained, and crewed well past its design capacity, t
 
 ---
 
-*Last updated: 2026-09-09*
+*Last updated: 2026-10-07*

@@ -19,10 +19,10 @@
 |---|------|----------|------|-----------|-----|------------|
 | 1 | Antonella Interlenghi | "Deacon" | Team Leader | Scaramouche | 74 | Admin 3, Advocate 3, Persuade (augmented, effective 3) |
 | 2 | Desmond Farrow | "Coot" | Pilot | Kukulcan | 68 | Pilot (spacecraft) 4, Astrogation 2, Streetwise 2 |
-| 3 | Yatika Lindqvist | "Vector" | Astrogator / Engineer | Point | 71 | Astrogation 2, Engineer (power) 2, Electronics (computers) 2 |
+| 3 | Yatika Lindqvist | "Vector" | Astrogator / Engineer | Point | 71 | Astrogation 2, Electronics (computers) 2, Engineer (j-drive) 1 |
 | 4 | Hendrik Vosloo | "Big Henno" | Gunner / Heavy Weapons | Thassor | 69 | Gunner (turret) 3, Gun Combat (slug) 4, Heavy Weapons (man portable) 1 |
-| 5 | Rosa Delacroix | "Primer" | Breacher / Demolitions | Alizarin | 66 | Explosives 3, Stealth 1 |
-| 6 | Akio Komatsubara | "Patch" | Medic / Signals | Krypton | 76 | Medic 3, Electronics (computers) 2 |
+| 5 | Rosa Delacroix | "Primer" | Breacher / Demolitions | Alizarin | 66 | Explosives 3, Gun Combat (slug) 3, Melee (unarmed) 2 |
+| 6 | Akio Komatsubara | "Patch" | Medic / Signals | Krypton | 76 | Medic 4, Pilot (spacecraft) 3, Electronics (computers) 2 |
 
 ---
 
@@ -82,6 +82,7 @@ Born on **Scaramouche** (Harlequin Subsector), UWP A7C6503-A, Trade Codes *Fluid
 - Jack of all Trades 1
 - Leadership 1
 - Mechanic 1
+- Melee 0
 - Melee (unarmed) 1
 - Streetwise 1
 
@@ -121,7 +122,7 @@ Also carries: an encrypted comm unit older than most of her teammates' grandchil
 
 *"She'll start. She always starts. Give her a second."*
 
-Born on **Kukulcan** (Kukulcan Subsector), UWP A568A9A-D, Trade Codes *Garden, High Population, High Tech* (SF:221), a heavily industrialised, thoroughly Solomani world that dominates its subsector's shipping trade (SF:223). Desmond is **Mixed Race**: part racial Solomani, part not, which meant a quiet DM−1 on nearly every promotion board he ever faced (ACS2:125). He qualified for the Confederation Navy's Flight branch at 18 and was a good pilot. He made Delegate, flew shuttles and system defence boats, and was shut out of further promotion in 1104 when the promotion board passed him over once too often. Four years in the merchant trade ended when Imperial trade restrictions put his employer out of business. Rather than go home, he spent three terms flying for pirates on the Rimward Gap run, until a man he trusted sold him out in 1120. He was 46, with Cr70,000 in his pocket, no pension, and no reason to go back. He joined the others to buy *Terminal Leave*, and he has never once told anyone how much of that Cr70,000 went into her.
+Born on **Kukulcan** (Kukulcan Subsector), UWP A568A9A-D, Trade Codes *Garden, High Population, High Tech* (SF:221), a heavily industrialised, thoroughly Solomani world that dominates its subsector's shipping trade (SF:223). Desmond is **Mixed Race**: part racial Solomani, part not, which meant a quiet DM−1 on nearly every promotion board he ever faced (ACS2:125). He qualified for the Confederation Navy's Flight branch at 18 and was a good pilot. He made Delegate, flew shuttles and system defence boats, and was shut out of further promotion in 1104 when the promotion board passed him over once too often. Four years in the merchant trade ended when Imperial trade restrictions put his employer out of business. Rather than go home, he spent three terms flying for pirates on the Rimward Gap run, until a man he trusted sold him out in 1120. He was 46, with Cr70,000 in his pocket, no pension, and no reason to go back. He spent the next eleven years flying other people's ships. When the last of the old crew finally settled on Alizarin, he put what was left of the Cr70,000 into buying *Terminal Leave* with them, and he has never once told anyone how much that was.
 
 **Timeline:**
 
@@ -225,7 +226,8 @@ Born on **Point** (Oriah Subsector), UWP A6729C7-E, Trade Codes *High Population
 - Electronics (comms) 2
 - Electronics (computers) 2
 - Engineer 0
-- Engineer (power) 2
+- Engineer (j-drive) 1
+- Engineer (power) 1
 - Gun Combat 0
 - Gunner 0
 - Leadership 1
@@ -242,9 +244,9 @@ Born on **Point** (Oriah Subsector), UWP A6729C7-E, Trade Codes *High Population
 
 **Equipment:**
 
-| Item | TL | Protection | Endurance | Notes |
+| Item | TL | Protection | Rad | Notes |
 |---|---|---|---|---|
-| Vacc Suit, Improved, personal, in better repair than most of the ship's spares | 10 | +8 | 60 hours | 12kg, Cr10,000, requires Vacc Suit 0 (CSC:28) |
+| Vacc Suit, Improved, personal, in better repair than most of the ship's spares | 10 | +8 | 60 | 12kg, Cr10,000, six-hour air supply, requires Vacc Suit 0 (CSC:28) |
 
 No sidearm; she's never carried one, and nobody on this crew has ever suggested she should. Also carries: a slide-rule pendant her old engine room crew gave her as a joke that stuck, a calculator wrist unit, a tool belt she still keeps stocked, reading glasses on a chain.
 
@@ -325,7 +327,7 @@ Born on **Thassor** (Oriah Subsector), UWP C6A2A9A-D, Trade Codes *Fluid Oceans,
 | Revolver, kept oiled and functional since his last day in uniform | 4 | 10m | 3D–3 | 6 (Cr5/mag) | 0.5kg, Cr150 (CSC:142) |
 | Cutlass | 2 | Melee | 3D | — | 2kg, Cr200 (CSC:134) |
 
-Also carries: a heavy coat that fit better twenty years ago, a photo of his old unit tucked in his breast pocket, a hearing aid (a lifetime of gunnery fire took its toll), a knee brace he'll deny needing right up until he needs it.
+Also carries: a heavy coat that fit better twenty years ago, a photo of his old unit tucked in his breast pocket, a hearing aid (a lifetime of gunnery fire took its toll), a knee brace he'll deny needing right up until he needs it. Owns one of the two wrapped muscle cars in the condominium's lot (Chapter 1, §1.7).
 
 **Personality:** Gruff, sentimental about people he served with, first to volunteer for anything and last to admit anything hurts. Genuinely gentle with anyone weaker than him, which, these days, is most people, and he still hasn't noticed the irony.
 
@@ -336,41 +338,70 @@ Also carries: a heavy coat that fit better twenty years ago, a photo of his old 
 ## 2.6: CHARACTER 5: ROSA DELACROIX, "PRIMER"
 
 ![Rosa Delacroix, "Primer"](img/primer-01.png)
-**Breacher / Demolitions · Confederation Marines, Retired · Rank 3**
+**Breacher / Demolitions · Confederation Marines and Army (Support), Retired · Sergeant Major**
 
-**Age:** 66 · **Homeworld:** Alizarin (Albadawi Subsector) · **Credits:** Cr5,500
+**Age:** 66 · **Homeworld:** Alizarin (Albadawi Subsector) · **Credits:** Cr40,000 · **Pension:** Cr7,000 a year
 
 *"It's my plot on the roof, and yes, some of what's in that shed is technically illegal. Are we doing this or not?"*
 
-Born and still living on **Alizarin** (Albadawi Subsector), UWP A566987-C, Trade Codes *Garden, High Population, High Tech*, Solomani Confederation despite sitting inside otherwise-Imperial Albadawi via the Rimward Gap (SF:176-177; Chapter 1, §1.3). Rosa is the reason the other five ended up here at all; she came home after six terms as a Confederation Marine combat engineer, and one by one the rest of the crew followed her back to the one retirement posting that actually felt like Confederation soil. At 66 she's the youngest of the six, and the one everyone privately still checks in with before doing anything dangerous. Her rooftop garden is the one thing that keeps her tied to the condominium: the plot is a reserved space, and if she let it lapse for a single year she would go back into the building's lottery and almost certainly never see another in her lifetime.
+Born and still living on **Alizarin** (Albadawi Subsector), UWP A566987-C, Trade Codes *Garden, High Population, High Tech*, Solomani Confederation despite sitting inside otherwise-Imperial Albadawi via the Rimward Gap (SF:176-177; Chapter 1, §1.3). Rosa joined the Confederation Marines at 18, as a star marine, the only Marine assignment open to Solomani (ACS2:128). She lost her left eye in a boarding action in her first term, and the replacement is good enough that most people never notice. The Marines had no further use for her. The Army did: she spent seven terms in its Support branch as a combat engineer, rose from Lance Corporal to **Sergeant Major**, and came home to Alizarin in 1126 at 50, the first of the crew to settle there. One by one the others followed her over the next five years, to the one retirement posting that actually felt like Confederation soil. At 66 she's the youngest of the six, and the one everyone privately still checks in with before doing anything dangerous. Her rooftop garden is the one thing that keeps her tied to the condominium: the plot is a reserved space, and if she let it lapse for a single year she would go back into the building's lottery and almost certainly never see another in her lifetime.
 
-**Career-Prime Characteristics (age 42):** STR 9 (+1) · DEX 8 (+0) · END 8 (+0) · INT 7 (+0) · EDU 6 (+0) · SOC 5 (–1)
+**Timeline:**
 
-**Ageing Record:** 6 terms → DM–6. Three checks, Terms 4 through 6. Net: **STR –1, DEX –1, END –1**, the lightest ageing toll of the crew.
+| Term | Career | Age | Years (IY) |
+|---|---|---|---|
+| 0 | Youth, Alizarin | 0–18 | 1076–1094 |
+| 1 | Marines, Star Marine: wounded in action, loses an eye (DEX –2), discharged | 18–22 | 1094–1098 |
+| 2 | Army, Support (Lance Corporal) | 22–26 | 1098–1102 |
+| 3 | Army, Support (Lance Corporal) | 26–30 | 1102–1106 |
+| 4 | Army, Support (Corporal) | 30–34 | 1106–1110 |
+| 5 | Army, Support (Lance Sergeant) | 34–38 | 1110–1114 |
+| 6 | Army, Support (Sergeant) | 38–42 | 1114–1118 |
+| 7 | Army, Support (Gunnery Sergeant) | 42–46 | 1118–1122 |
+| 8 | Army, Support (Sergeant Major): cannot continue after a failed advancement roll | 46–50 | 1122–1126 |
+| — | Retired | 50–66 | 1126–1142 |
 
-**Current Characteristics (age 66):** STR 8 (+0) · DEX 7 (+0) · END 7 (+0) · INT 7 (+0) · EDU 6 (+0) · SOC 5 (–1)
+**Relationships:** a Rival, from a relationship that ended badly (IY1110 to 1114).
+
+**Career-Prime Characteristics (age 50):** STR 8 (+0) · DEX 6 (+0) · END 7 (+0) · INT 10 (+1) · EDU 11 (+1) · SOC 8 (+0)
+
+**Ageing Record:** 8 terms, DM–8 (CRB:48-49). Nine checks in all: five during her career (terms 4 to 8) and four afterwards, at ages 54, 58, 62 and 66. Five came back clean. Net: **STR –4, DEX –3, END –3**. Her DEX also lost 2 points to the Marine injury, before any ageing.
+
+**Current Characteristics (age 66):** STR 6 (+0) · DEX 3 (–1) · END 5 (–1) · INT 10 (+1) · EDU 11 (+1) · SOC 8 (+0)
 
 **Skills:**
 
-- Explosives 3
-- Mechanic 1
 - Athletics 0
 - Athletics (strength) 1
-- Melee 0
-- Melee (unarmed) 1
-- Recon 1
 - Electronics 0
+- Electronics (comms) 1
 - Electronics (sensors) 1
-- Stealth 1
-- Vacc Suit 1
+- Explosives 3
+- Gun Combat 0
+- Gun Combat (slug) 3
+- Heavy Weapons 0
+- Leadership 1
+- Mechanic 1
+- Medic 2
+- Melee 0
+- Melee (unarmed) 2
+- Recon 2
+- Stealth 0
+- Tactics 0
+- Vacc Suit 2
+
+**Mustering out:** the Marine term paid nothing, since the mishap lost its roll. Army (7 terms plus 3 rank-bonus rolls): Cr10,000, Cr30,000, a Weapon, END +1, SOC +1, EDU +1, Armour, EDU +1, INT +1, and a second Weapon. Pension Cr7,000 a year, half the Imperial rate (CRB:48, ACS2:136).
 
 **Equipment:**
 
-| Item | TL | Range | Damage | Notes |
-|---|---|---|---|---|
-| Plastic Explosive (demolition kit, with detonating cord) | 6 | — (placed) | 3D | **Blast 9**, 1kg, Cr200 (CSC:159) |
+| Item | TL | Range | Damage | Magazine | Notes |
+|---|---|---|---|---|---|
+| Shotgun, her mustering-out Weapon, kept for the roof's pigeons | 4 | 50m | 4D | 6 (Cr10/mag) | **Bulky**, 4kg, Cr200 (CSC:146) |
+| Autopistol, her second mustering-out Weapon | 5 | 10m | 3D–3 | 15 (Cr10/mag) | 1kg, Cr200 (CSC:142) |
+| Plastic Explosive (demolition kit, with detonating cord) | 6 | — (placed) | 3D | | **Blast 9**, 1kg, Cr200 (CSC:159) |
+| Cloth Jacket, her mustering-out Armour, worn under a work coat | 10 | — | — | | **Protection +5**, 2kg, Cr500 (CSC:12) |
 
-No personal firearm; Explosives is her trade, and her hands do the rest. Also carries: a genuinely excellent pair of boots, reading glasses she will not wear in front of anyone she hasn't known for at least a decade, and, staying home for this one, a small, opinionated dog.
+Explosives is her trade, and her hands do the rest. Also carries: a genuinely excellent pair of boots, reading glasses she will not wear in front of anyone she hasn't known for at least a decade, and, staying home for this one, a small, opinionated dog. Owns one of the two wrapped muscle cars in the condominium's lot (Chapter 1, §1.7).
 
 **Personality:** Direct, dryly funny, never really stopped working; her roof-garden shed holds considerably more "surplus ordnance" than SolSec's decommissioning paperwork would suggest. Quietly proud that the whole crew ended up living on *her* world, and not shy about reminding them whose kitchen table this all got planned at. The first thing she does after saying yes is arrange for someone to water the plot, and her last words to them are to keep the fence locked.
 
@@ -381,46 +412,76 @@ No personal firearm; Explosives is her trade, and her hands do the rest. Also ca
 ## 2.7: CHARACTER 6: AKIO KOMATSUBARA, "PATCH"
 
 ![Akio Komatsubara, "Patch"](img/patch-01.png)
-**Medic / Signals · Krypton Home Forces, Retired**
+**Medic / Signals · Krypton Home Forces and Confederation Navy, Retired · Minister (Navy NCO rank 6)**
 
-**Age:** 76 · **Homeworld:** Krypton (Albadawi Subsector) · **Credits:** Cr9,000
+**Age:** 76 · **Homeworld:** Krypton (Albadawi Subsector) · **Credits:** Cr80,000 · **Pension:** Cr6,000 a year
 
 *"Sit down. Let me look at that. Then we'll talk about whatever terrible idea you're all having."*
 
-Born on **Krypton** (Albadawi Subsector), UWP A9A49BC-D, Trade Codes *Fluid Oceans, High Population, High Tech*, home to a Confederation naval base and, like Alizarin, part of the Solomani Confederation despite sitting inside Imperial Albadawi via the Rimward Gap (SF:176). Akio served five terms as a Krypton Home Forces medic and signals NCO, a posting the sourcebook notes for its "excellent reputation for professionalism and political reliability" (SF:209), then another five terms attached to field units doing quiet SolSec-adjacent medical support work. Ten terms in all, the longest career of anyone on this crew, and it shows. At 76, he's the oldest of the six and has paid the steepest price for it.
+Born on **Krypton** (Albadawi Subsector), UWP A9A49BC-D, Trade Codes *Fluid Oceans, High Population, High Tech*, home to a Confederation naval base and, like Alizarin, part of the Solomani Confederation despite sitting inside Imperial Albadawi via the Rimward Gap (SF:176). Akio began in the Krypton Home Forces' Support branch, a posting the sourcebook notes for its "excellent reputation for professionalism and political reliability" (SF:209). Two terms in, a failed advancement roll closed that door, and he moved to the Confederation Navy's Technical branch at 26. Six terms later he had risen through the printed NCO ranks to **Minister**, the Navy's rank 6, as a ship's medic and signals specialist who also learned to fly a medevac shuttle. He retired at 50 in 1116 and stayed on Krypton for years before joining the others on Alizarin. He is the best-educated of the six by a wide margin, and at 76 the oldest and the frailest, the steepest price of all.
 
-**Career-Prime Characteristics (age 58):** STR 6 (+0) · DEX 6 (+0) · END 7 (+0) · INT 9 (+1) · EDU 9 (+1) · SOC 6 (+0)
+**Timeline:**
 
-**Ageing Record:** 10 terms → DM–10, the worst modifier on the crew. Seven checks, Terms 4 through 10. Net: **STR –3, DEX –3, END –2, INT –1**, the only character on this roster to lose a mental characteristic to ageing.
+| Term | Career | Age | Years (IY) |
+|---|---|---|---|
+| 0 | Youth, Krypton | 0–18 | 1066–1084 |
+| 1 | Army, Support, Home Forces (Lance Corporal) | 18–22 | 1084–1088 |
+| 2 | Army, Support: cannot continue after a failed advancement roll | 22–26 | 1088–1092 |
+| 3 | Navy, Technical (Alternate) | 26–30 | 1092–1096 |
+| 4 | Navy, Technical (Delegate) | 30–34 | 1096–1100 |
+| 5 | Navy, Technical (Deputy) | 34–38 | 1100–1104 |
+| 6 | Navy, Technical (Commissioner) | 38–42 | 1104–1108 |
+| 7 | Navy, Technical (Chairman) | 42–46 | 1108–1112 |
+| 8 | Navy, Technical (Minister): cannot continue after a failed advancement roll | 46–50 | 1112–1116 |
+| — | Retired | 50–76 | 1116–1142 |
 
-**Current Characteristics (age 76):** STR 3 (–1) · DEX 3 (–1) · END 5 (–1) · INT 8 (+0) · EDU 9 (+1) · SOC 6 (+0)
+**Relationships:** a Contact from a diplomatic mission (IY1108 to 1112) and a Contact he met afterward (IY1112 to 1116).
+
+**Career-Prime Characteristics (age 50):** STR 8 (+0) · DEX 6 (+0) · END 7 (+0) · INT 13 (+2) · EDU 17 (+3) · SOC 12 (+2)
+
+**Ageing Record:** 8 terms, DM–8 (CRB:48-49). Eleven checks in all: five during his career (terms 4 to 8) and six afterwards, at ages 54, 58, 62, 66, 70 and 74. Eight came back with effects. Net: **STR –7, DEX –5, END –6**.
+
+**Current Characteristics (age 76):** STR 4 (–1) · DEX 3 (–1) · END 3 (–1) · INT 13 (+2) · EDU 17 (+3) · SOC 12 (+2)
 
 **Skills:**
 
-- Medic 3
+- Admin 2
+- Advocate 1
+- Athletics 0
 - Electronics 0
-- Electronics (computers) 2
 - Electronics (comms) 2
-- Recon 1
-- Investigate 1
-- Streetwise 1
-- Admin 1
-- Jack of all Trades 1
+- Electronics (computers) 2
+- Electronics (sensors) 2
+- Explosives 1
+- Gun Combat 0
+- Gun Combat (slug) 1
+- Heavy Weapons 0
 - Language 0
 - Language (Anglic) 1
+- Leadership 1
+- Medic 4
+- Melee 0
+- Pilot 0
+- Pilot (spacecraft) 3
+- Recon 1
+- Streetwise 1
+- Vacc Suit 0
+
+**Mustering out:** Army (3 rolls): Cr10,000, Cr20,000 and a Weapon. Navy (6 terms plus 3 rank-bonus rolls, with DM+1): Cr50,000, EDU +2, INT +1, INT +1, EDU +2, INT +1, SOC +2, SOC +2 and Terran Adventurers Society. Pension Cr6,000 a year, half the Imperial rate (CRB:48, ACS2:136).
 
 **Equipment:**
 
 | Item | TL | Range | Damage | Magazine | Notes |
 |---|---|---|---|---|---|
-| Spear-probe, his cane, and not just a cane | 8 | Melee | 2D | — | **Stun trait available**: Akio chooses lethal or Stun each hit. No Melee skill, so he swings it at **DM–2** (unskilled DM–3, bought back by 1 with Jack of all Trades 1), a real penalty, not a trained hand, which is exactly how an improvised weapon from a 76-year-old medic should play. Homebrew, not a catalog item: built by binding a copper coil and a stunstick's charge pack (TL8, Melee, 2D, Stun, 0.5kg, Cr300; CSC:133) around the shaft of a plain spear (TL0, Melee, 2D, 2kg, Cr10; CSC:135). ~2.5kg, ~Cr310. |
+| Spear-probe, his cane, and not just a cane | 8 | Melee | 2D | — | **Stun trait available**: Akio chooses lethal or Stun each hit. No Melee skill, so he swings it unskilled at **DM–3**, a real penalty, not a trained hand, which is exactly how an improvised weapon from a 76-year-old medic should play. Homebrew, not a catalog item: built by binding a copper coil and a stunstick's charge pack (TL8, Melee, 2D, Stun, 0.5kg, Cr300; CSC:133) around the shaft of a plain spear (TL0, Melee, 2D, 2kg, Cr10; CSC:135). ~2.5kg, ~Cr310. |
+| Body Pistol, his mustering-out Weapon, kept in the Medikit | 8 | 5m | 2D | 6 (Cr10/mag) | Cr500 (CSC:142) |
 
-No sidearm; he's never trained with one, and Medic 3 is worth more to this crew than a gun would be. Also carries: a well-stocked portable Medikit, an old signals decoder he's held onto "just in case" for reasons nobody has ever fully explained, bifocals, a heart monitor patch whose readings he keeps strictly to himself.
+Also carries: a well-stocked portable Medikit, an old signals decoder he's held onto "just in case" for reasons nobody has ever fully explained, bifocals, a heart monitor patch whose readings he keeps strictly to himself.
 
-**Personality:** Gentle, sharp-eyed, the first to notice when someone's hiding a limp or a bad night's sleep. Ageing hit him hardest of anyone on this crew; physically he's the frailest by a wide margin, but Medic 3 and a genuine gift for cracking old-fashioned electronic security make him irreplaceable in a way none of the others can quite match. He knows it, and he's decided not to be smug about it. Mostly.
+**Personality:** Gentle, sharp-eyed, the first to notice when someone's hiding a limp or a bad night's sleep. Ageing hit him hardest of anyone on this crew; physically he's the frailest by a wide margin, but Medic 4 and a genuine gift for cracking old-fashioned electronic security make him irreplaceable in a way none of the others can quite match. He knows it, and he's decided not to be smug about it. Mostly.
 
 **Neural.AI image prompt:** An elderly man in his mid-70s with white close-cropped hair, wearing simple civilian clothes and bifocal glasses, one hand resting on a cane that has a coil of wire and a small probe attachment visible at its tip. Kind, alert eyes, a portable medikit open on a table beside him. Slight stoop, but a steady, attentive gaze. Warm, cluttered study or clinic-corner setting. Photorealistic, science fiction character portrait, no text, no logos.
 
 ---
 
-*Last updated: 2026-09-09*
+*Last updated: 2026-10-07*
