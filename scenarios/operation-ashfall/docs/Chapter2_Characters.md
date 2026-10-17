@@ -22,7 +22,7 @@
 | 3 | Dietrich Voss | "Fuse" | Demolitions / Breacher | Explosives 3, Mechanic 2 |
 | 4 | Marisol Achebe | "Doc" | Combat Medic | Mechanic 3, Diplomat 2, Leadership 2 |
 | 5 | Coyle Reyes | "Ten-Ton" | Pilot / Driver | Recon 3, Mechanic 2, Vacc Suit 2 |
-| 6 | Unit designation unknown | "Rivit" | Robot / Technical Specialist | Electronics (computers) 4, Engineer (life support) 3 *(adjusted for brain INT DM, see §2.7)* |
+| 6 | Unit designation unknown | "Rivit" | Robot / Technical Specialist | Electronics (computers) 4, Engineer (life support) 3 *(adjusted for brain INT DM)* |
 | 7 | Nerys (Dolphin, uplifted) | "Echo" | Recon / Underwater Infiltration | Electronics (sensors) 2, Melee (unarmed) 2, Vacc Suit 2 |
 | 8 | Franko Ponchorrorrorrow (Vargr) | "Ponch" | Investigator / Non-Lethal Specialist | Stealth 3, Streetwise 3, Investigate 2 |
 | 9 | Jon Bakerrowowarr (Vargr) | "Shield" | Investigator / Operative | Advocate 4, Streetwise 2, Persuade 2 |
@@ -38,9 +38,9 @@
 
 **Born IY 1079, New Greenpernt** (Gemini Subsector, Solomani Rim 2135, UWP B798443-B: Good starport, dense/tainted atmosphere, 80% ocean, a small population in the tens of thousands, representative democracy, moderate law level, TL11). A racial Solomani by birth, raised on a modest, technically self-sufficient colony world she left at eighteen and has rarely mentioned since.
 
-**Eighteen years in Confederation service, two careers, twenty years apart in tone.** She enlisted in the Confederation Marines' Star Marine branch (the only Marine assignment open to a Confederation citizen, ship's troops trained for boarding actions and anti-boarding defense, not the ground-combat infantry her build suggests at a glance. Her first term alone saw her commissioned and promoted twice in the same four years, capping a besieged border station and its two docked vessels under simultaneous boarding assault) she held a breach point through the worst of it and came out the other side a captain. Two more terms took her to Lieutenant Colonel before she mustered out clean, no scandal, no discharge, just a decorated officer choosing her own moment to leave.
+**Twenty years in Confederation service, two careers, twenty years apart in tone.** She enlisted in the Confederation Marines' Star Marine branch (the only Marine assignment open to a Confederation citizen, ship's troops trained for boarding actions and anti-boarding defense, not the ground-combat infantry her build suggests at a glance. Her first term alone saw her commissioned and promoted twice in the same four years, capping a besieged border station and its two docked vessels under simultaneous boarding assault) she held a breach point through the worst of it and came out the other side a captain. Two more terms took her to Lieutenant Colonel before she mustered out clean, no scandal, no discharge, just a decorated officer choosing her own moment to leave.
 
-**SolSec found her at thirty**, and she found a different kind of trouble almost immediately: a monitor agent she'd recruited as a source became something more personal than professional, and when it threatened to compromise her position, she reported him, took the commendation, took the promotion, and lived with what reporting him actually cost both of them. She still doesn't know if she'd make the same call twice. The monitor's name was Baldwin Wei; neither of them has ever brought it up since, and the fact that he's the one who signed off on sending her to Ys should probably worry her more than it does (Appendix K, §K.2).
+**SolSec found her at thirty**, and she found a different kind of trouble almost immediately: a monitor agent she'd recruited as a source became something more personal than professional, and when it threatened to compromise her position, she reported him, took the commendation, took the promotion, and lived with what reporting him actually cost both of them. She still doesn't know if she'd make the same call twice. The monitor's name was Baldwin Wei; neither of them has ever brought it up since, and the fact that he's the one who signed off on sending her to Ys should probably worry her more than it does.
 
 She made Captain in SolSec's Field Agent track before this posting, Heavy Response Command, exactly the kind of paramilitary field work the assignment was built for. Eight years, two terms, a clean record, and a cybernetic Dexterity Augmentation she paid for with everything her Marine service left her, because by the time she could afford it, she'd already decided she wasn't going to be the reason a breach went wrong twice.
 
@@ -83,11 +83,19 @@ Vacc Suit 1
 
 *Note: this skill list does not include the Connections Rule bonus (CRB22), which grants up to 2 additional free skills at level 1 if this character was linked to another Traveller's Event during group chargen.*
 
-**Cybernetics:** Dexterity Augmentation (DEX +1, TL11, Cr500,000, CRB22 p.106, Physical Characteristic Augmentation) — SolSec-financed, not personally purchased. Armour and weapons are issued outright, but augmentation cost this steep gets loaned against future service rather than given free, and she's carrying that debt now.
+**Cybernetics:** Dexterity Augmentation (DEX +1, TL11, Cr500,000, CRB22 p.106, Physical Characteristic Augmentation), SolSec-financed, not personally purchased. Armour and weapons are issued outright, but augmentation cost this steep gets loaned against future service rather than given free, and she's carrying that debt now.
 
 **Current finances:** roughly Cr47,000 in personal cash (Cr42,000 from Marine mustering out, plus Cr5,000 from selling the Poly Carapace), against a **Cr500,000 debt to SolSec** for the Dexterity Augmentation.
 
-**Equipment:** SolSec-issue Ceramic Combat Armour (**Protection +12, +18 vs fire/lasers/energy, TL13, Rad 150**; Cr90,000, Vacc Suit 1 required), GCCW (Gauss Close-Combat Weapon, TL12, Range 100m, 3D+2, 2kg/3.2kg with the 120-round drum, Cr2250, Magazine 60 or 120, AP3/Auto4 traits), GPDW sidearm (Gauss Personal Defence Weapon, TL12, Range 40m, 3D, 1.4kg, Cr1250, Magazine 40 or 60, AP3/Auto3 traits), command-net encrypted comm, 2x Smoke grenades (TL8), three cigars she is rationing like ammunition. Sold off the Poly Carapace armour (Protection +10, TL10) she'd kept from her Marine mustering-out, roughly Cr5,000 back on its original Cr10,000 market value, once it was clear the Ceramic Combat Armour already covered everything it did and better.
+**Weapons:**
+
+| Weapon | Skill | DM | Damage | TL | Range | KG | Mag | Auto |
+|---|---|---|---|---|---|---|---|---|
+| GCCW (AP 3) | Gun Combat (slug) | +3 | 3D+2 | 12 | 100m | 2 (3.2 with drum) | 60 (120) | 4 |
+| GPDW (AP 3) | Gun Combat (slug) | +3 | 3D | 12 | 40m | 1.4 | 40 (60) | 3 |
+| Smoke Grenade (Blast 9; DM−2 to attacks on targets in the cloud, IR vision ignores it, lasts 1D × 3 rounds) | Athletics (dexterity) | +1 | — | 6 | 20m | 0.5 | — | — |
+
+**Equipment:** SolSec-issue Ceramic Combat Armour (**Protection +12, +18 vs fire/lasers/energy, TL13, Rad 150**; 15kg, Cr90,000, Vacc Suit 1 required), GCCW (Gauss Close-Combat Weapon, Cr2250), GPDW sidearm (Gauss Personal Defence Weapon, Cr1250), SolSec team-net radio transceiver (TL12, Continental 5,000km, Cr500, plus Encryption option +Cr4,000, total Cr4,500; CSC23 pp.64–65), 2x Smoke grenades, three cigars she is rationing like ammunition. Sold off the Poly Carapace armour (Protection +10, TL10) she'd kept from her Marine mustering-out, roughly Cr5,000 back on its original Cr10,000 market value, once it was clear the Ceramic Combat Armour already covered everything it did and better.
 
 **Personality:** Blunt, protective, allergic to speeches. She will not leave a teammate behind, will absolutely leave a schedule behind, and has already privately accepted that this op probably doesn't end clean.
 
@@ -102,11 +110,11 @@ Vacc Suit 1
 
 *"You say 'de-escalate.' I hear 'not yet.'"*
 
-**Born IY 1076, Muan Gwi, Vegan Autonomous District** (Imperial territory, UWP A556A86-E — a district created after the Solomani Rim War specifically to counterbalance Solomani influence in the region, self-governing but answerable to the Third Imperium). Uzgar grew up a Vargr minority within a Vegan-majority world, an outsider from birth on a world whose entire reason for existing is geopolitical tension. He's Imperium-raised, not a Confederation citizen, and standard human-equivalent chargen procedure applies to him exactly as CRB22 specifies for Vargr raised inside the Imperium.
+**Born IY 1076, Muan Gwi, Vegan Autonomous District** (Imperial territory, UWP A556A86-E, a district created after the Solomani Rim War specifically to counterbalance Solomani influence in the region, self-governing but answerable to the Third Imperium). Uzgar grew up a Vargr minority within a Vegan-majority world, an outsider from birth on a world whose entire reason for existing is geopolitical tension. He's Imperium-raised, not a Confederation citizen, and standard human-equivalent chargen procedure applies to him exactly as CRB22 specifies for Vargr raised inside the Imperium.
 
-**Sixteen years of Imperial Marine service, two terms, Ground Assault.** He enlisted straight out of Muan Gwi and made Lieutenant in his first term after a successful fortress assault, then Captain in his second after a black-ops deployment. Two clean terms, no scandal, mustered out with real money and an EDU bump he's never quite explained to anyone who's asked how a heavy weapons specialist ended up better educated leaving the service than he went in.
+**Eight years of Imperial Marine service, two terms, Ground Assault.** He enlisted straight out of Muan Gwi and made Lieutenant in his first term after a successful fortress assault, then Captain in his second after a black-ops deployment. Two clean terms, no scandal, mustered out with a modest cash payout, a set of Poly Carapace armour and an EDU bump he's never quite explained to anyone who's asked how a heavy weapons specialist ended up better educated leaving the service than he went in.
 
-**Then two years he doesn't talk about.** He went private after Marine service, working Enforcer contracts for a criminal outfit, and it went about as well as that kind of work usually does. Two terms in, a job in Solomani territory went sideways badly enough that Solomani authorities arrested him outright, a non-citizen with no diplomatic cover, no Confederation standing, and no reason for anyone to intervene on his behalf. He served one term in a Solomani prison facility, genuinely earned parole on his own record rather than through any outside help, and came out the other side with a Blade, a scar or two, and STR and END both a little harder than they went in.
+**Then eight more years he doesn't talk about.** He went private after Marine service, working Enforcer contracts for a criminal outfit, and it went about as well as that kind of work usually does. Two terms in, a job in Solomani territory went sideways badly enough that Solomani authorities arrested him outright, a non-citizen with no diplomatic cover, no Confederation standing, and no reason for anyone to intervene on his behalf. He served one term in a Solomani prison facility, genuinely earned parole on his own record rather than through any outside help, and came out the other side with a Blade, a scar or two, and STR and END both a little harder than they went in.
 
 **The prison record is exactly what put him on SolSec's radar.** A non-citizen Vargr with real Confederation-facing standing, real combat competency, and a Solomani custody record already on file was too useful an asset to just release and forget. What followed was a secondment into the Confederation's own Marine service, Star Marine assignment specifically (the only track open to him there), effectively on loan, nominally still serving when SolSec's Heavy Response Command actually pulled him for Ys. He is, as far as his own paperwork is concerned, still an active Confederation Marine right now. He is also, as far as anyone on Team UNDERTOW is concerned, SolSec's problem.
 
@@ -126,7 +134,7 @@ Uzgar is enormous even by Vargr standards, and mean in the specific way that mak
 
 **Characteristics:** STR 12 (+2) · DEX 10 (+1) · END 9 (+1) · INT 7 (+0) · EDU 6 (+0) · SOC 4 (–1)
 
-**Species Traits:** **Bite** — pronounced canines usable as a natural close-combat weapon, Melee (Natural), 1D+1 damage, no weapon required. **Heightened Senses** — DM+1 to any Recon or Survival check; DM–1 to any sight-based skill check in dark conditions.
+**Species Traits:** **Bite**, pronounced canines usable as a natural close-combat weapon, Melee (Natural), 1D+1 damage, no weapon required. **Heightened Senses**, DM+1 to any Recon or Survival check; DM–1 to any sight-based skill check in dark conditions.
 
 **Skills:**
 Athletics 0
@@ -149,13 +157,36 @@ Tactics 0
 Tactics (military) 1
 Vacc Suit 1
 
-*Note: this skill list includes both of this character's Connections Rule bonuses (CRB22) — Vacc Suit and Heavy Weapons (Portable) — each still needing a specific linked teammate identified once the rest of the roster is built.*
+*Note: this skill list includes both of this character's Connections Rule bonuses (CRB22), Vacc Suit and Heavy Weapons (Portable), each still needing a specific linked teammate identified once the rest of the roster is built.*
 
-**Equipment:** SolSec-issue Ceramic Combat Armour (**Protection +12, +18 vs fire/lasers/energy, TL13, Rad 150**; Cr90,000, Vacc Suit 1 required) with integrated support-weapon mount, PGHP-14 man-portable plasma gun (TL14, Range 450m, damage rated 1DD in the source catalogue, see Appendix E for a note on this notation), GPDW sidearm (Gauss Personal Defence Weapon, TL12, Range 40m, 3D, 1.4kg, Cr1250, Magazine 40 or 60, AP3/Auto3 traits), heavy combat blade (Melee, no range), 2x Frag grenades (TL8), the unlit cigar (non-negotiable). Personally owns a set of Poly Carapace armour (Protection +10, TL10) and a Ceramic Carapace (Protection +10, +16 vs lasers/heat, TL12) from his Rogue mustering-out, plus a stake in 5 Ship Shares somewhere he's never fully explained, and a Blade from his Prisoner release, kept as a memento more than a working weapon.
+**Mustering out:**
+
+| Career | Terms | Rank | Rolls | Result |
+|---|---|---|---|---|
+| Marine (Imperial, Ground Assault) | 2 | Captain (officer rank 2, +1 bonus roll) | 3 | Benefit 1 Armour (Poly Carapace), Benefit 3 EDU +1, Cash 3 = Cr5,000 |
+| Rogue (Enforcer) | 2 | 0 | 2 | Benefit 5 Armour (Ceramic Carapace), Benefit 4 1D Ship Shares (5 Ship Shares) |
+| Prisoner (Inmate) | 1 | 0 | 1 | Benefit 2 Blade |
+
+*Cash column limit is 3 rolls, 1 used. Benefit table DM+1 needs rank 5+, so none applied. Mustering tables: CRB22 Marine, Rogue and Prisoner careers. The Marine cash roll is the only roll made after the fact; the Armour, EDU +1, Ship Share and Blade results were already part of his sheet. His Rogue rank is assumed to be 0.*
+
+**Current finances:** Cr5,000 in personal cash (Marine mustering out, Cash roll 3). **No debt.** His armour and weapons are SolSec-issued, he has no financed augmentation, and no medical bills are recorded. Owns 5 Ship Shares, Poly Carapace armour, Ceramic Carapace armour and a Blade.
+
+**Weapons:**
+
+| Weapon | Skill | DM | Damage | TL | Range | KG | Mag | Auto |
+|---|---|---|---|---|---|---|---|---|
+| PGHP-14 | Heavy Weapons (portable) | +3 | 1DD | 14 | 450m | 10 | — | — |
+| GPDW (AP 3) | Gun Combat (slug) | +2 | 3D | 12 | 40m | 1.4 | 40 (60) | 3 |
+| Heavy combat blade (Cutlass) | Melee (blade) | +4 | 3D | 2 | Melee | 2 | — | — |
+| Blade (memento) | Melee (blade) | +4 | 2D | 1 | Melee | 1 | — | — |
+| Bite (natural) | Melee (natural) | +2 | 1D+1 | — | Melee | — | — | — |
+| Frag Grenade (Blast 9) | Athletics (dexterity) | +1 | 5D | 6 | 20m | 0.5 | — | — |
+
+**Equipment:** SolSec-issue Ceramic Combat Armour (**Protection +12, +18 vs fire/lasers/energy, TL13, Rad 150**; 15kg, Cr90,000, Vacc Suit 1 required), PGHP-14 man-portable plasma gun (Cr100,000), GPDW sidearm (Gauss Personal Defence Weapon, Cr1250), heavy combat blade (Melee, no range), 2x Frag grenades, the unlit cigar (non-negotiable). Personally owns a set of Poly Carapace armour (Protection +10, TL10) and a Ceramic Carapace (Protection +10, +16 vs lasers/heat, TL12) from his Rogue mustering-out, plus a stake in 5 Ship Shares somewhere he's never fully explained, and a Blade from his Prisoner release, kept as a memento more than a working weapon.
 
 **Personality:** Short-tempered, fiercely loyal to the six people in this specific room and to nobody else, allergic to being told to hang back, and, unhelpfully, also literally allergic to Aslan, Droyne, and Hivers, a genetic quirk that has embarrassed him in front of exactly the wrong people at exactly the wrong times more than once. The referee should let him growl at NPCs, threaten equipment rather than people when possible, and be quietly, unexpectedly gentle around anyone weaker than him, it's the one soft spot the character has, and it's more interesting if the players discover it rather than being told.
 
-**Neural.AI image prompt:** A massive Vargr (canine-derived humanoid alien), heavily muscled, grey-brown fur, standing well over two meters, wearing bulky matte-grey Battle Dress with an integrated support-weapon mount on one shoulder. An unlit cigar clamped in a jaw full of visible teeth. Aggressive stance, ears back, one hand resting on a heavy plasma weapon. Industrial harbor backdrop, warm firelight against cool blue dusk. Photorealistic, science fiction military portrait, no text, no logos.
+**Neural.AI image prompt:** A massive Vargr (canine-derived humanoid alien), heavily muscled, grey-brown fur, standing well over two meters, wearing bulky matte-grey ceramic plate combat armour with an integrated helmet. An unlit cigar clamped in a jaw full of visible teeth. Aggressive stance, ears back, a heavy plasma weapon carried in both hands. Industrial harbor backdrop, warm firelight against cool blue dusk. Photorealistic, science fiction military portrait, no text, no logos.
 
 ---
 
@@ -166,11 +197,11 @@ Vacc Suit 1
 
 *"Everything on this planet is wired to blow up. I just get to pick which parts don't, today."*
 
-**Born IY 1073, Mirabilis, Capella Subsector** (Solomani Rim 1332, UWP A553958-E — high population, high tech, poor; a world permanently on the edge of revolution, where the ordinary citizen struggles under extremely low wages and dissent runs constant). Racial Solomani. Growing up on Mirabilis meant growing up around real explosives before he ever chose the field professionally, the border unrest there produces a steady, grim supply of IEDs that someone has to disarm, and by the time Voss left home at eighteen he already understood the work better than most people twice his age.
+**Born IY 1073, Mirabilis, Capella Subsector** (Solomani Rim 1332, UWP A553958-E, high population, high tech, poor; a world permanently on the edge of revolution, where the ordinary citizen struggles under extremely low wages and dissent runs constant). Racial Solomani. Growing up on Mirabilis meant growing up around real explosives before he ever chose the field professionally, the border unrest there produces a steady, grim supply of IEDs that someone has to disarm, and by the time Voss left home at eighteen he already understood the work better than most people twice his age.
 
 **He started as a scientist, not a soldier.** One term as a Scholar, Field Researcher, built his materials-science foundation, chemistry and physics both, and it was going fine until a research project crossed a line his conscience wouldn't cross quietly. He did the work anyway, came out with real expertise and three genuine Enemies he's never named to anyone on the team.
 
-**SolSec recruited him once, lost him almost immediately, and it took years to get him back.** His first stint as a Field Agent ended when he learned something his own agency didn't want him to know, a Mishap that should have ended his career for good. Instead, using nothing but his own Electronics skill, he built himself a new identity and tried to walk back in the front door. It didn't take, not cleanly, twice. Confederation Draft swept him into the Army instead (Support, forced conscription, decent record, a real EDU bump), then into Agent work in law enforcement (two promotions in one term, on the back of a conspiracy his section never saw coming) before a failed Citizen application and a stint as a Merchant Marine finally rounded him into someone SolSec could use without the paperwork asking uncomfortable questions.
+**SolSec recruited him once, lost him almost immediately, and it took years to get him back.** His first stint as a Field Agent ended when he learned something his own agency didn't want him to know, a Mishap that should have ended his career for good. Instead, using nothing but his own Electronics skill, he built himself a new identity and tried to walk back in the front door. It didn't take, not cleanly, twice. Confederation Draft swept him into the Army instead (Support, forced conscription, decent record, a real INT bump), then into Agent work in law enforcement (two promotions in one term, on the back of a conspiracy his section never saw coming) before two Citizen terms, one as a drafted blue-collar worker and one in a corporate role that grew into his own business, finally rounded him into someone SolSec could use without the paperwork asking uncomfortable questions.
 
 **He's currently running his own explosives supply business.** Small, profitable, exactly legal enough, and it's the reason his relationship with SolSec is contractor rather than employee. Six years in, three careers deep in things he doesn't discuss, and still privately unsure whether creating a false identity to get back into government work was the smartest thing he ever did or the mistake that's still waiting to catch up with him.
 
@@ -187,8 +218,9 @@ Voss is built like a wall, talks like one too, and has the dry, specific gallows
 | 4 | Agent, Law Enforcement (drafted) | 30–34 | 1103–1107 |
 | 5 | Citizen, Worker (drafted) | 34–38 | 1107–1111 |
 | 6 | Citizen, Corporate (own explosives business) | 38–42 | 1111–1115 |
+| Business years | Still running the business, no new term | 42–44 | 1115–1117 |
 
-**Characteristics:** STR 10 (+1) · DEX 7 (+0) · END 10 (+1) · INT 13 (+2) · EDU 10 (+1) · SOC 6 (+0)
+**Characteristics:** STR 10 (+1) · DEX 7 (+0) · END 10 (+1) · INT 14 (+2) · EDU 9 (+1) · SOC 6 (+0)
 
 **Skills:**
 Advocate 2
@@ -215,11 +247,36 @@ Streetwise 0
 Survival 0
 Vacc Suit 1
 
-*Note: this skill list includes 1 of 2 available Connections Rule bonuses (Vacc Suit) — the second remains unused, and the one used still needs a specific linked teammate identified once the rest of the roster is built.*
+*Note: this skill list includes 1 of 2 available Connections Rule bonuses (Vacc Suit), the second remains unused, and the one used still needs a specific linked teammate identified once the rest of the roster is built.*
 
-**Enemies:** 4 total — an Army Officer (Confederation), an Inveterate Gambler, a Dissident, and an unnamed figure tied to classified information uncovered during his first SolSec stint. None have surfaced yet. That doesn't mean they won't.
+**Enemies:** 4 total, an Army Officer (Confederation), an Inveterate Gambler, a Dissident, and an unnamed figure tied to classified information uncovered during his first SolSec stint. None have surfaced yet. That doesn't mean they won't.
 
-**Equipment:** SolSec-issue Ceramic Combat Armour (**Protection +12, +18 vs fire/lasers/energy, TL13, Rad 150**; Cr90,000, Vacc Suit 1 required), breaching charge kit, multi-tool rig, field scanner rated for radiological and thermal hazards (critical for the Glass Reach, see Chapter 1), GCCW (Gauss Close-Combat Weapon, TL12, Range 100m, 3D+2, 2kg/3.2kg with the 120-round drum, Cr2250, Magazine 60 or 120, AP3/Auto4 traits) fitted with a Laser Sight (TL8, DM+1 to attacks under 50m, Cr200) and a Secure lock (TL10, requires authentication before firing, Cr250), GPDW sidearm (Gauss Personal Defence Weapon, TL12, Range 40m, 3D, 1.4kg, Cr1250, Magazine 40 or 60, AP3/Auto3 traits), 4x Plastic explosive charges (TL6, 3D, Blast 9 trait, Cr200 each) alongside his existing 2x Frag grenades (TL8). Personally holds several Ship Shares scattered across his career and roughly Cr63,000 in accumulated mustering-out cash, most of it quietly reinvested in his own explosives supply business.
+**Mustering out:**
+
+| Career | Terms | Rank | Rolls | Result |
+|---|---|---|---|---|
+| Scholar (Field Researcher) | 1 | 0 | 1 | Cash 4 = Cr30,000 |
+| SolSec (Field Agent) | 1, ended by Mishap | n/a | 0 | No muster, the Mishap term forfeits its Benefit roll |
+| Army (Support) | 1 | 0 | 1 | Benefit 2 = INT +1 |
+| Agent (Law Enforcement) | 1 | Sergeant (rank 2, +1 bonus roll) | 2 | Benefit 4 = Weapon (Gauss Pistol), Benefit 3 = Ship Share (1) |
+| Citizen (Worker) | 1 | 0 | 1 | Cash 6 = Cr50,000 |
+| Citizen (Corporate) | 1 | 0 | 1 | Cash 4 = Cr10,000 |
+
+*Six rolls in total, all made on 1D6 with no DMs (no rank 5+, no Gambler). Cash column used 3 of its 3 allowed rolls. Worker to Corporate counts as a new career, so each musters separately. The Army roll gave INT +1 where the older sheet recorded an EDU bump, so INT is now 14 and EDU 9, both DMs unchanged. His Mishap-ended SolSec term is assumed to forfeit its Benefit roll, as the Agent Mishap table states for its own Mishaps.*
+
+**Current finances:** Cr90,000 earned from mustering out (Scholar Cr30,000, Worker Cr50,000, Corporate Cr10,000), most of it reinvested in his explosives supply business. **No debt.** Owns 1 Ship Share and a Gauss Pistol.
+
+**Weapons:**
+
+| Weapon | Skill | DM | Damage | TL | Range | KG | Mag | Auto |
+|---|---|---|---|---|---|---|---|---|
+| GCCW (AP 3) | Gun Combat (slug) | +2 (+3 under 50m, Laser Sight) | 3D+2 | 12 | 100m | 2 (3.2 with drum) | 60 (120) | 4 |
+| GPDW (AP 3) | Gun Combat (slug) | +2 | 3D | 12 | 40m | 1.4 | 40 (60) | 3 |
+| Frag Grenade (Blast 9) | Athletics (dexterity) | −3 (unskilled) | 5D | 6 | 20m | 0.5 | — | — |
+| Breaching Charge (AP 6, Blast 1) | Explosives | +4 | 4D | 8 | Placed | 1 | — | — |
+| Plastic Explosive (Blast 9) | Explosives | +4 | 3D | 6 | Placed | 1 | — | — |
+
+**Equipment:** SolSec-issue Ceramic Combat Armour (**Protection +12, +18 vs fire/lasers/energy, TL13, Rad 150**; 15kg, Cr90,000, Vacc Suit 1 required), 2x Breaching charges (Cr250 each, 1kg each), Advanced Combat Engineering Tool Set (TL8, 15kg, Cr500, includes 12 explosive strips, DM+2 to related skill checks), an Improved Geiger Counter (TL10, negligible mass, Cr400, determines a radiation source's composition and direction) and Improved Infrared Goggles (TL8, lightweight, Cr500, thermal vision), GCCW (Gauss Close-Combat Weapon, Cr2250) fitted with a Laser Sight (TL8, DM+1 to attacks under 50m, Cr200) and a Secure lock (TL10, requires authentication before firing, Cr250), GPDW sidearm (Gauss Personal Defence Weapon, Cr1250), 4x Plastic explosive charges (Cr200 each, 1kg each) alongside his existing 2x Frag grenades. Personally holds 1 Ship Share and a Gauss Pistol (TL13, Range 20m, 3D, 1kg, Cr500, Magazine 40, AP 3/Auto 2, CSC23 p.143) from his Agent mustering out, kept in his shop safe rather than carried on this op, plus Cr90,000 of mustering-out cash, most of it quietly reinvested in his own explosives supply business.
 
 **Personality:** Dry, precise, unhurried even when everyone around him wants him to hurry up, rushing demolitions is how people die, and he will say so, loudly, every time someone tells him to rush. Smokes exactly one cigar per session, always after the most dangerous moment, never before.
 
@@ -234,7 +291,7 @@ Vacc Suit 1
 
 *"Sit still. I've reattached worse than this to people ruder than you."*
 
-**Born IY 1079, Twylo, Capella Subsector** (Solomani Rim 1034, UWP A551AA6-E — a poor, high-population, high-tech world, subsector capital, home to a Naval Base, a Military Base, and SolSec's own sector headquarters). Racial Solomani. Growing up in the literal shadow of SolSec's regional command made her eventual recruitment feel less like a choice and more like gravity.
+**Born IY 1079, Twylo, Capella Subsector** (Solomani Rim 1034, UWP A551AA6-E, a poor, high-population, high-tech world, subsector capital, home to a Naval Base, a Military Base, and SolSec's own sector headquarters). Racial Solomani. Growing up in the literal shadow of SolSec's regional command made her eventual recruitment feel less like a choice and more like gravity.
 
 **She started at the Army's Military Academy**, graduating clean (not with honors, but clean) and commissioned straight into the officer track as a Lieutenant. Two Army terms followed, Support assignment, rising from Lieutenant to Captain to Major, building the mechanical and logistics competency that still shows up in how she field-strips a rifle as casually as she sutures a wound. She mustered out of Army service with real money and a genuinely improved education, two separate EDU boosts stacked on top of what the Academy had already given her.
 
@@ -263,7 +320,6 @@ Athletics (strength) 1
 Diplomat 2
 Drive 0
 Electronics 0
-Electronics (comms) 0
 Electronics (computers) 1
 Explosives 1
 Flyer 0
@@ -282,15 +338,22 @@ Tactics 0
 Tactics (military) 1
 Vacc Suit 1
 
-*Note: this skill list includes both of this character's Connections Rule bonuses (CRB22) — Gun Combat (slug) and Athletics (strength) — each still needing a specific linked teammate identified once the rest of the roster is built.*
+*Note: this skill list includes both of this character's Connections Rule bonuses (CRB22), Gun Combat (slug) and Athletics (strength), each still needing a specific linked teammate identified once the rest of the roster is built.*
 
 **Enemies:** rebels from a border deployment that went badly during her SolSec service.
 
 **Contacts:** an Inveterate Gambler, met during her Army years (possibly the same figure as one of Voss's Enemies, worth deciding if the two threads ever cross).
 
-**Equipment:** SolSec-issue Ceramic Combat Armour (medical variant, integrated trauma kit, **Protection +12, +18 vs fire/lasers/energy, TL13, Rad 150**; Cr90,000, Vacc Suit 1 required), field surgery pack, Enhanced Medikit (TL12, First Aid Medic check DM+2, Cr5,000), 2x Trauma Pack (TL8, field recovery of 1D END for 1D hours via a Medic check, can bring a patient back from 0 END if the last wound was recent enough, once per patient per day, Cr750 each), GPDW sidearm (Gauss Personal Defence Weapon, TL12, Range 40m, 3D, 1.4kg, Cr1250, Magazine 40 or 60, AP3/Auto3 traits), 1x Stun grenade (TL8, Stun trait), a battered cigar case she claims was a gift and won't explain further.
+**Weapons:**
 
-**Cybernetics:** Wafer Jack, Basic (TL12, Computer/2, Bandwidth 4, Cr1,000) running Expert 1 software (Bandwidth 2, TL12, Cr10,000, grants DM+1 to Medic checks since she already holds the skill), plus a Skill Augmentation (TL12, Cr50,000) tied to Medic specifically, granting a further DM+1. All three items — Cr61,000 total — are SolSec-financed rather than personally purchased. Armour and weapons come issued outright, but augmentation at this cost gets loaned against future service instead.
+| Weapon | Skill | DM | Damage | TL | Range | KG | Mag | Auto |
+|---|---|---|---|---|---|---|---|---|
+| GPDW (AP 3) | Gun Combat (slug) | +1 | 3D | 12 | 40m | 1.4 | 40 (60) | 3 |
+| Stun Grenade (Blast 9, Stun) | Athletics (dexterity) | 0 | 3D | 7 | 20m | 0.5 | — | — |
+
+**Equipment:** SolSec-issue Ceramic Combat Armour (**Protection +12, +18 vs fire/lasers/energy, TL13, Rad 150**; 15kg, Cr90,000, Vacc Suit 1 required) with the **Medikit armour modification** (TL10, Cr5,000, CRB22 p.104: an internal medical scanner and drug injector that automatically applies first aid, treated as Medic 3, if she is reduced to 0 END, and can administer Fast Drug on command or if life support fails; armour total Cr95,000), Field Surgical Kit (TL5, 3kg, Cr1,500, CSC23 p.90), Enhanced Medikit (TL12, 1kg, First Aid Medic check DM+2, Cr5,000, CSC23 p.90), 2x Trauma Pack (TL8, 2kg each, CSC23 p.91, field recovery of 1D END for 1D hours via a Medic check, can bring a patient back from 0 END if the last wound was recent enough, once per patient per day, Cr750 each), GPDW sidearm (Gauss Personal Defence Weapon, Cr1250), 1x Stun grenade, a battered cigar case she claims was a gift and won't explain further.
+
+**Cybernetics:** Wafer Jack, Basic (TL12, Computer/2, Bandwidth 4, Cr1,000) running Expert 1 software (Bandwidth 2, TL12, Cr10,000, grants DM+1 to Medic checks since she already holds the skill), plus a Skill Augmentation (TL12, Cr50,000) tied to Medic specifically, granting a further DM+1. All three items, Cr61,000 total, are SolSec-financed rather than personally purchased. Armour and weapons come issued outright, but augmentation at this cost gets loaned against future service instead.
 
 **Current finances:** roughly Cr21,000 in personal cash (Cr20,000 from Army mustering out, Cr1,000 from SolSec), against a **Cr61,000 debt to SolSec** for her cybernetics.
 
@@ -298,7 +361,7 @@ Vacc Suit 1
 
 **Personality:** Warm under a layer of professional bluntness, the moral center of the team without ever saying so out loud. She is the one most likely to push back if the plan requires writing off civilians, and the referee should use her to voice the human cost of the countdown clock.
 
-**Neural.AI image prompt:** A powerfully built woman in her late 30s, dark skin, hair tied back tight, kneeling over a field trauma kit with practiced efficiency. Matte-grey Battle Dress (medical variant, red cross marking on one shoulder plate), helmet off, sleeves pushed up, visible gold jewelry at the wrists and neck, several rings and a chain, each piece subtly engraved with a small plus-sign medical cross. Focused, steady expression, someone mid-triage, unbothered by chaos around her. Industrial harbor backdrop, warm firelight against cool blue dusk. Photorealistic, science fiction military portrait, no text, no logos.
+**Neural.AI image prompt:** A powerfully built woman in her late 30s, dark skin, hair tied back tight, kneeling over a field trauma kit with practiced efficiency. Matte-grey Battle Dress (red cross marking on one shoulder plate), helmet off, sleeves pushed up, visible gold jewelry at the wrists and neck, several rings and a chain, each piece subtly engraved with a small plus-sign medical cross. Focused, steady expression, someone mid-triage, unbothered by chaos around her. Industrial harbor backdrop, warm firelight against cool blue dusk. Photorealistic, science fiction military portrait, no text, no logos.
 
 ---
 
@@ -309,13 +372,13 @@ Vacc Suit 1
 
 *"Give me anything with tracks, wheels, or a repulsor plate and I will get you there. I make no promises about the vehicle afterward."*
 
-**Born Edaazun, Albadawi Subsector** (Solomani Rim 0729, UWP A56A969-E — high population, high tech, a genuine water world, Imperium territory). Non-Solomani Human. Growing up on a world where everyone travels by boat, Reyes never once took to the water, land vehicles were the thing he actually loved, and he left home already knowing it was the only kind of driving he ever wanted to do professionally.
+**Born Edaazun, Albadawi Subsector** (Solomani Rim 0729, UWP A56A969-E, high population, high tech, a genuine water world, Imperium territory). Non-Solomani Human. Growing up on a world where everyone travels by boat, Reyes never once took to the water, land vehicles were the thing he actually loved, and he left home already knowing it was the only kind of driving he ever wanted to do professionally.
 
 **He started in the Imperial Army, Cavalry.** One term behind the wheel of gunships and tanks, commissioned up to Corporal, until his commanding officer's weapon-smuggling operation came apart and he chose to cooperate with the military police rather than get pulled into it. Clean discharge, kept his Benefit roll, no regrets.
 
 **Four terms in the Merchant Marine followed**, rising to 4th Officer, and it's where he actually made his fortune, not in salary but in one improbable run of luck: four separate mustering-out rolls all landed on the same benefit, and by the fourth one the mortgage was gone entirely. He owns a **Far Trader outright**, no debt on the hull itself, though the ship's own upkeep, Cr4,443 a month in maintenance, is a real, unglamorous cost that never stops coming due, and it's plausibly a genuine reason he still takes contract work at all despite technically not needing to.
 
-**One term as a Citizen worker on Ys** rounded him out, settling into the world well enough to know its rhythms before SolSec ever came calling. He tried to formally join SolSec once, a straight attempt, no tricks, no forged papers, and the penalties stacked against a non-citizen his age were simply too steep to overcome. He's never held it against them. **He works for SolSec now as a contractor, not an agent** — his own ship, his own terms, hired for exactly the kind of drive nobody in uniform particularly wants to take responsibility for.
+**One term as a Citizen worker on Ys** rounded him out, settling into the world well enough to know its rhythms before SolSec ever came calling. He tried to formally join SolSec once, a straight attempt, no tricks, no forged papers, and the penalties stacked against a non-citizen his age were simply too steep to overcome. He's never held it against them. **He works for SolSec now as a contractor, not an agent**, his own ship, his own terms, hired for exactly the kind of drive nobody in uniform particularly wants to take responsibility for.
 
 Reyes can drive literally anything and has the scars, citations, and one memorably totaled grav-tank to prove it. Laconic to the point of rudeness, magnificent behind a wheel or a yoke, and the reason the team is even considering a run across the Glass Reach at all, nobody else would sign off on the drive. Cigar permanently present, permanently unlit while driving, permanently relit the second the vehicle stops.
 
@@ -349,7 +412,6 @@ Flyer 0
 Gun Combat 0
 Gun Combat (slug) 1
 Heavy Weapons 0
-Heavy Weapons (vehicle) 0
 Language 0
 Mechanic 2
 Pilot 0
@@ -360,13 +422,22 @@ Seafarer 0
 Streetwise 1
 Vacc Suit 2
 
-*Note: this skill list includes 1 of 2 available Connections Rule bonuses (Electronics (remote operations)) — the second remains unused, and the one used still needs a specific linked teammate identified once the rest of the roster is built.*
+*Note: this skill list includes 1 of 2 available Connections Rule bonuses (Electronics (remote operations)), the second remains unused, and the one used still needs a specific linked teammate identified once the rest of the roster is built.*
 
 **Enemies:** criminals who destroyed his ship or the local starport during his Merchant years.
 
-**Equipment:** SolSec-issue Ceramic Combat Armour (**Protection +12, +18 vs fire/lasers/energy, TL13, Rad 150**; Cr90,000, Vacc Suit 1 required), Gauss Rifle (Range ~400m *(standard published value; see Appendix E note)*, 3D6+1), GPDW sidearm (Gauss Personal Defence Weapon, TL12, Range 40m, 3D, 1.4kg, Cr1250, Magazine 40 or 60, AP3/Auto3 traits), 2x Smoke grenades (TL8), full vehicle diagnostics kit, an entire carton of cigars he insists is "operational necessity" and Command has, for reasons unknown, never contested.
+**Weapons:**
 
-**Assets:** a fully-owned **Far Trader** (Type A2, TL12, 200 tons streamlined, Jump-2, Thrust 1, Hull 80, crews Pilot/Astrogator/Engineer/Medic/Steward, 10 staterooms + 6 low berths, 63 tons cargo; no mortgage, but Cr4,443/month maintenance), a personal Gun (benefit, specific model unspecified).
+| Weapon | Skill | DM | Damage | TL | Range | KG | Mag | Auto |
+|---|---|---|---|---|---|---|---|---|
+| Gauss Rifle (AP 5, Scope) | Gun Combat (slug) | +2 | 4D | 12 | 600m | 4 | 80 | 3 |
+| GPDW (AP 3) | Gun Combat (slug) | +2 | 3D | 12 | 40m | 1.4 | 40 (60) | 3 |
+| Revolver | Gun Combat (slug) | +2 | 3D−3 | 4 | 10m | 0.5 | 6 | — |
+| Smoke Grenade (Blast 9; DM−2 to attacks on targets in the cloud, IR vision ignores it, lasts 1D × 3 rounds) | Athletics (dexterity) | −2 (unskilled) | — | 6 | 20m | 0.5 | — | — |
+
+**Equipment:** SolSec-issue Ceramic Combat Armour (**Protection +12, +18 vs fire/lasers/energy, TL13, Rad 150**; 15kg, Cr90,000, Vacc Suit 1 required), Gauss Rifle (Cr1,500), GPDW sidearm (Gauss Personal Defence Weapon, Cr1250), Revolver (his Weapon mustering benefit; TL4, 10m, 3D−3, 0.5kg, Cr150, 6 rounds, CSC23 p.144), 2x Smoke grenades, Mechanical Toolkit (bought at TL12, 12kg, Cr1,000, CRB22 p.120; no penalty on his TL12 vehicles), an entire carton of cigars he insists is "operational necessity" and Command has, for reasons unknown, never contested.
+
+**Assets:** a fully-owned **Far Trader** (Type A2, TL12, 200 tons streamlined, Jump-2, Thrust 1, Hull 80, crews Pilot/Astrogator/Engineer/Medic/Steward, 10 staterooms + 6 low berths, 63 tons cargo; no mortgage, but Cr4,443/month maintenance), a personal Revolver (Weapon mustering benefit).
 
 **Current finances:** Cr40,000 in personal cash (Cr30,000 from Army, Cr10,000 from Merchant), no debt to SolSec (no cybernetics), no pension (no single career reached the required 5 consecutive terms). His real financial pressure is the Far Trader's own upkeep, not any loan.
 
@@ -393,7 +464,7 @@ None of this is true. All of the "memories" are corrupted composite data, real h
 
 **He is, however, carrying an actual illegal weapon built into his own chassis.** His offensive self-destruct system is prohibited outright under Imperial Law (the Shudusham Concords), and getting him through any Imperial starport with TL12+ scanners active requires a Very Difficult Stealth check to keep it hidden. Nobody on the team mentions this casually. If it's ever discovered, found means a long stay on a prison world for whoever's legally responsible for him and a smelter for Rivit. He does not know this about himself any more than he knows the rest of what's actually true in his own head, SolSec installed it after acquiring him, quietly, and never saw fit to update his own self-awareness on the subject.
 
-### RIVIT — ROBOT SPECIFICATION SHEET (Robot Handbook design rules)
+### RIVIT, ROBOT SPECIFICATION SHEET (Robot Handbook design rules)
 
 **Designation:** Unrecoverable &nbsp;|&nbsp; **Chassis:** Size 5, humanoid &nbsp;|&nbsp; **Legal Class:** Robot (not Android, see above)
 
@@ -409,14 +480,14 @@ None of this is true. All of the "memories" are corrupted composite data, real h
 | Submersible Environment Protection, Enhanced | 16 Base Slots × Cr800; Safe Depth 600m | Cr12,800 | p.42 |
 | Geiger Counter | Flat, Zero-Slot | Cr400 | p.38 |
 | Tactical Speed Enhancement +3m | 10% of Base Chassis Cost per +1m × 3; reduces Endurance 30% (72hrs → ~50hrs) | Cr3,000 | p.21 |
-| Offensive Self-Destruct System | 10% of Base Slots (2 Slots); to Rivit: Hits÷3 D + 3× Severity 1D brain criticals; to others: Hits×⅔ D, Blast = Size, his own armour does not protect bystanders. **Illegal under Imperial Law** (Shudusham Concords) — Very Difficult (12+) Stealth required to pass TL12+ starport scanners undetected; discovery risks life imprisonment or worse for whoever's responsible for him, and a smelter for Rivit himself | Cr16,000 | p.52–53 |
+| Offensive Self-Destruct System | 10% of Base Slots (2 Slots); to Rivit: Hits÷3 D + 3× Severity 1D brain criticals; to others: Hits×⅔ D, Blast = Size, his own armour does not protect bystanders. **Illegal under Imperial Law** (Shudusham Concords), Very Difficult (12+) Stealth required to pass TL12+ starport scanners undetected; discovery risks life imprisonment or worse for whoever's responsible for him, and a smelter for Rivit himself | Cr16,000 | p.52–53 |
 
 | BRAIN | Value | Cost | Page |
 |---|---|---|---|
 | Type | Very Advanced, TL14 (Bandwidth 5, Base INT 11, +1 skill DM) | Cr500,000 | p.65–66 |
 | Bandwidth Upgrade | +6 (required; skills below need 8 total, exceeding the native 5; no smaller package exists) | Cr50,000 | p.67 |
 | SOC / EDU | None, true. Very Advanced brains substitute INT narrowly, per task, not as a standalone score | — | p.73 |
-| Behavioral note | "Not conscious but appears to be so and considers itself to be conscious without fully understanding the concept" — mechanically *why* the false autobiography reads as sincere rather than a detectable glitch | — | p.65 |
+| Behavioral note | "Not conscious but appears to be so and considers itself to be conscious without fully understanding the concept", mechanically *why* the false autobiography reads as sincere rather than a detectable glitch | — | p.65 |
 
 | SKILLS | Purchased | Adjusted (effective) | Cost | Page |
 |---|---|---|---|---|
@@ -425,7 +496,7 @@ None of this is true. All of the "memories" are corrupted composite data, real h
 | Engineer | 0 | 0 | — | p.73–74 |
 | Engineer (life support) | 2 | **3** | Cr20,000 | p.73–74 |
 | Gun Combat | 0 | 0 | — | p.73–74 |
-| Gun Combat (energy) | 1 | 1 *(DEX-based, not INT/EDU — the fold-in rule below doesn't apply; but any actual check still adds his normal DEX 10 DM+1 on top, same as any character, for a real roll of skill 1 + DEX DM+1 = +2 total)* | Cr1,000 | p.73–74 |
+| Gun Combat (energy) | 1 | 1 *(DEX-based, not INT/EDU, the fold-in rule below doesn't apply; but any actual check still adds his normal DEX 10 DM+1 on top, same as any character, for a real roll of skill 1 + DEX DM+1 = +2 total)* | Cr1,000 | p.73–74 |
 | Mechanic | 1 | **2** | Cr1,000 | p.73–74 |
 | Persuade | 0 *(technically untrained; unnervingly effective anyway)* | **1** | Cr500 | p.73–74 |
 
@@ -439,13 +510,13 @@ None of this is true. All of the "memories" are corrupted composite data, real h
 |---|---|---|---|
 | Score (DM) | 12 (+2) | 10 (+1) | 11 (+1) |
 
-*(No true SOC or EDU — see Brain table above.)*
+*(No true SOC or EDU, see Brain table above.)*
 
 | EQUIPMENT | Notes |
 |---|---|
-| Ceramic Combat Armour (heavy chassis variant) | **Protection +12, +18 vs fire/lasers/energy, TL13, Rad 150**; Cr90,000, Vacc Suit 1 required; worn over his own Vacuum Environment Protection rather than replacing it |
+| Ceramic Combat Armour (heavy chassis variant) | **Protection +12, +18 vs fire/lasers/energy, TL13, Rad 150**; 15kg, Cr90,000, Vacc Suit 1 required; worn over his own Vacuum Environment Protection rather than replacing it |
 | Integrated diagnostic suite | Standard issue |
-| Laser Pistol | Range 20m, TL9 baseline; damage figure uncertain, source-extraction gap, see Appendix E. Carried mostly because Gun Combat (energy) 1 implied he ought to have something, rarely drawn |
+| Laser Pistol | Range 20m, TL9 baseline; damage figure uncertain, source-extraction gap. Carried mostly because Gun Combat (energy) 1 implied he ought to have something, rarely drawn |
 | GPDW sidearm | Gauss Personal Defence Weapon, TL12, Range 40m, 3D, 1.4kg, Cr1250, Magazine 40 or 60, AP3/Auto3; issued as standard team loadout, but a gauss weapon sits outside his trained specialty, so he sticks to the Laser Pistol instead |
 | Stun grenades | 2x, TL8, Stun trait; fits his general preference to end a fight without ending anyone |
 | Unlit cigar | Held correctly, never smoked, "respect for the custom" of an era it cannot actually name |
@@ -492,7 +563,8 @@ Nerys, whatever else she is, has strong opinions about being taken seriously. Sh
 **Racial Traits** *(Behind the Claw, Dolphin Travellers)*: **Deep Diver (300m)**, can dive without risk to 300 metres and hold her breath up to 15 minutes unassisted, before even counting her suit's own life support. **Echolocation (100m)**, full situational awareness underwater or in total darkness out to 100 metres, independent of visual light. **Swimmer (12m)**, a swimming Speed of 12 metres, far outpacing anything human or Vargr in the water.
 
 **Skills:**
-Athletics 1
+Athletics 0
+Athletics (dexterity) 1
 Electronics 0
 Electronics (sensors) 2
 Gun Combat 0
@@ -503,27 +575,34 @@ Heavy Weapons (portable) 1
 Investigate 1
 Leadership 1
 Melee 0
-Melee (blade) 0
 Melee (unarmed) 2
 Pilot 0
 Pilot (small craft) 1
 Recon 1
-Science (physics) 1
+Science 0
 Science (geology) 1
+Science (physics) 1
 Seafarer 0
 Stealth 1
 Survival 0
 Vacc Suit 2
 
-*Note: this skill list includes 1 of 2 available Connections Rule bonuses (Stealth) — the second remains unused, and the one used still needs a specific linked teammate identified once the rest of the roster is built.*
+*Note: this skill list includes 1 of 2 available Connections Rule bonuses (Stealth), the second remains unused, and the one used still needs a specific linked teammate identified once the rest of the roster is built.*
 
 **Allies:** Dr. Piet Higgs, physicist from New Greenpernt.
 
 **Cash:** Cr5,000 (Marine, Term 3 muster-out).
 
-**Equipment:** SolSec-issue **Type D Battle Dress** (Behind the Claw, Dolphin-specific combat variant, **Protection +25, TL15, Rad 300**, STR +2/DEX +6, 20 Slots, 12kg, Vacc Suit 1 required), built around a full travel-suit life support core rather than adapted from human-pattern armour. Integrated waldo manipulators (surgically neural-linked, no meaningful penalty at this tech level) let her handle weapons and equipment the same as any hands-and-fingers teammate. Issued a GPDW sidearm (Gauss Personal Defence Weapon, TL12, Range 40m, 3D, 1.4kg, Cr1250, Magazine 40 or 60, AP3/Auto3 traits) as standard team loadout, secured in a waldo-accessible mount rather than a holster, which she's now properly trained to use herself (Gun Combat (slug) 1) rather than only handing off to a teammate. Onboard sonar sensor system (1km range, DM+2 to Electronics (sensors) checks) stacks with her own natural echolocation for genuinely unmatched underwater situational awareness. Carries 1x Stun grenade (TL8, Stun trait) -- effective underwater as a concussive pulse, one of the few grenade types that still functions the way it's meant to when everyone involved is submerged.
+**Weapons:**
 
-**Personality:** Confident, blunt, treats the rest of the team's landlubber instincts with real affection buried under a lot of teasing. She is, unambiguously, the correct answer to Appendix G's Meridian Sound waterfront approach, nobody else on the roster is built to operate in that environment the way she is, and a table fielding her should feel actively encouraged to consider that route into the Pi Building rather than defaulting straight to the Boulevard assault.
+| Weapon | Skill | DM | Damage | TL | Range | KG | Mag | Auto |
+|---|---|---|---|---|---|---|---|---|
+| GPDW (AP 3) | Gun Combat (slug) | +4 (skill 1 + suit DEX 15 DM+3) | 3D | 12 | 40m | 1.4 | 40 (60) | 3 |
+| Stun Grenade (Blast 9, Stun) | Athletics (dexterity) | +4 (skill 1 + suit DEX 15 DM+3) | 3D | 7 | 20m | 0.5 | — | — |
+
+**Equipment:** SolSec-issue **Type D Battle Dress** (Behind the Claw, Dolphin-specific combat variant, **Protection +25, TL15, Rad 300**, STR +2/DEX +6, 20 Slots, 12kg, Vacc Suit 1 required), built around a full travel-suit life support core rather than adapted from human-pattern armour. Integrated waldo manipulators (surgically neural-linked, no meaningful penalty at this tech level) let her handle weapons and equipment the same as any hands-and-fingers teammate. Issued a GPDW sidearm (Gauss Personal Defence Weapon, Cr1250) as standard team loadout, secured in a waldo-accessible mount rather than a holster, which she's now properly trained to use herself (Gun Combat (slug) 1) rather than only handing off to a teammate. Onboard sonar sensor system (1km range, DM+2 to Electronics (sensors) checks) stacks with her own natural echolocation for genuinely unmatched underwater situational awareness. Carries 1x Stun grenade -- effective underwater as a concussive pulse, one of the few grenade types that still functions the way it's meant to when everyone involved is submerged.
+
+**Personality:** Confident, blunt, treats the rest of the team's landlubber instincts with real affection buried under a lot of teasing. Nobody else on the roster is built to operate in a waterfront or underwater environment the way she is, and a table fielding her should feel encouraged to consider an approach by water rather than defaulting straight to the Boulevard assault.
 
 **Neural.AI image prompt:** An uplifted bottlenose dolphin encased in sleek dark-grey powered Battle Dress built around her natural body shape, integrated waldo manipulator arms at the sides, small sensor array along the dorsal line. Positioned mid-water or at a harbor's edge, water beading off the suit's surface. Alert, intelligent posture, sensor array angled toward the viewer as if scanning. Industrial harbor backdrop, dark water reflecting warm firelight against cool blue dusk. Photorealistic, science fiction military portrait, no text, no logos.
 
@@ -540,7 +619,7 @@ Ponch is Vargr, fifty, and from **Carchemish** (Solomani Rim 2536, UWP D778169-7
 
 His first term out was rough: a stretch as a Wanderer that ended in a life-threatening illness and left him flat broke, the lowest point of his life, before an unexpected string of good luck turned it around. From there he found his footing in Law Enforcement, made Sergeant, picked up along the way an investigator's instincts the rest of the team genuinely lacks, a brief, miserable detour through a corporate-adjacent stint he'd rather not discuss, and, later, two years running as a privateer, a Solomani-licensed corsair carrying Letters of Marque rather than a wanted pirate. That career ended in arrest, a term in prison, and a withdrawal crisis that very nearly killed him when his supply of illegal anagathics ran out behind bars. He survived, came out the other side on borrowed time and a debt to the Solomani Confederation that will take him years to clear.
 
-Where Threk (Chapter 2, §2.3) is muscle and Rivit is technical support, Ponch is the one who actually *investigates*, a real gap in a roster this heavy on breaching charges and heavy weapons.
+Where Threk is muscle and Rivit is technical support, Ponch is the one who actually *investigates*, a real gap in a roster this heavy on breaching charges and heavy weapons.
 
 **Timeline:**
 
@@ -558,7 +637,7 @@ Where Threk (Chapter 2, §2.3) is muscle and Rivit is technical support, Ponch i
 
 **Characteristics:** STR 10 (+1) · DEX 11 (+1) · END 3 (–1) · INT 9 (+1) · EDU 10 (+1) · SOC 11 (+1)
 
-**Species Traits:** **Bite** — pronounced canines usable as a natural close-combat weapon, Melee (Natural), 1D+1 damage, no weapon required. **Heightened Senses** — DM+1 to any Recon or Survival check; DM–1 to any sight-based skill check in dark conditions.
+**Species Traits:** **Bite**, pronounced canines usable as a natural close-combat weapon, Melee (Natural), 1D+1 damage, no weapon required. **Heightened Senses**, DM+1 to any Recon or Survival check; DM–1 to any sight-based skill check in dark conditions.
 
 **Anagathics dependency:** acquired during his years in Law Enforcement (quietly kept rather than logged, officially contraband), Ponch has been on an anagathics regimen ever since, pausing his aging for as long as he keeps dosing. It fell apart entirely during his term in prison; the withdrawal nearly killed him before he was stabilized with an emergency Endurance Augmentation (END+1, TL11, Cr500,000, CRB22 p.106), financed as a loan from the Solomani Confederation he is still working off. His current END reflects a man who came back from the edge, not a man who was never there.
 
@@ -569,12 +648,13 @@ Astrogation 1
 Athletics 0
 Athletics (dexterity) 1
 Deception 0
-Drive (wheeled) 0
+Drive 0
 Engineer 0
 Investigate 2
 Jack of All Trades 0
 Mechanic 1
 Medic 1
+Melee 0
 Melee (unarmed) 1
 Pilot 0
 Pilot (small craft) 1
@@ -584,11 +664,21 @@ Streetwise 3
 Survival 0
 Vacc Suit 1
 
-*Note: Advocate and Electronics (comms) never came up across his full career and remain genuine gaps rather than established skills. This skill list includes 1 of 2 available Connections Rule bonuses (Pilot (small craft), Athletics (dexterity)) — the specific linked teammates still need identifying once the full roster's Events are cross-referenced.*
+*Note: Advocate and Electronics (comms) never came up across his full career and remain genuine gaps rather than established skills. This skill list includes 1 of 2 available Connections Rule bonuses (Pilot (small craft), Athletics (dexterity)), the specific linked teammates still need identifying once the full roster's Events are cross-referenced.*
 
-**Equipment:** Cloth Jacket (TL10, **Protection +5, Rad none**, 2kg, no skill required), worn under civilian layers rather than Battle Dress, a deliberate choice matching his investigator role, per Chapter 3's insertion framing where not everyone needs to read as military. Stunner (TL12, Range 10m, 3D, 100-charge magazine, Stun/Zero-G traits), a Stun Blaster (TL13, Range 20m, Damage 4D on beam mode or 3D with Blast 3 on blast mode, 5kg, Cr3000, Magazine 200, Cr500 power pack, Stun/Zero-G traits), and a Stunfist (TL8, 1D+2, melee), Ponch's entire loadout is built around taking people alive, not putting them down permanently; he carries no lethal sidearm at all, a deliberate break from the rest of the team's standard loadout. A Neural Comm (Enhanced, TL14, "multiple forms of data," Computer/2, Cr20,000). Also carries 2x Stun grenades (TL8, Stun trait), a Rescue Tool Set, a personal safe, a computer terminal, a Breather Implant (TL10), binoculars, a backpack, and a small stash of off-world snack food tucked away in a side compartment, non-standard issue, personally sourced, and not up for negotiation.
+**Weapons:**
 
-**Personality:** Wry, patient, genuinely more interested in getting a straight answer out of someone than in winning a fight. His SOC 11 (+1) reads as more socially capable and connected than his combat stats suggest, and referees should let that show: people talk to Ponch, sometimes without meaning to. He is a strong pick for any table that wants to lean into Chapter 3's dockyard screening scene (§3.3) or the StudyDeck investigation in Appendix D, his whole skill set is built for exactly those beats.
+| Weapon | Skill | DM | Damage | TL | Range | KG | Mag | Auto |
+|---|---|---|---|---|---|---|---|---|
+| Stunner (Stun, Zero-G) | Gun Combat (energy) | −2 (unskilled) | 3D | 12 | 10m | — | 100 | — |
+| Stun Blaster (Stun, Zero-G) | Gun Combat (energy) | −2 (unskilled) | 4D (3D Blast 3) | 13 | 20m | 5 | 200 | — |
+| Stunfist (Stun) | Melee (unarmed) | +2 | 1D+2 | 8 | Melee | — | — | — |
+| Bite (natural) | Melee (natural) | +1 | 1D+1 | — | Melee | — | — | — |
+| Stun Grenade (Blast 9, Stun) | Athletics (dexterity) | +2 | 3D | 7 | 20m | 0.5 | — | — |
+
+**Equipment:** Cloth Jacket (TL10, **Protection +5, Rad none**, 2kg, no skill required), worn under civilian layers rather than Battle Dress, a deliberate choice matching his investigator role, since not everyone needs to read as military. Stunner (Cr1,000), a Stun Blaster (Cr3,000, Cr500 power pack), and a Stunfist (Cr250), Ponch's entire loadout is built around taking people alive, not putting them down permanently; he carries no lethal sidearm at all, a deliberate break from the rest of the team's standard loadout. A Neural Comm (Enhanced, TL14, "multiple forms of data," Computer/2, Cr20,000). Also carries 2x Stun grenades, a Rescue Tool Set, a personal safe, a computer terminal, a Breather Implant (TL10), binoculars, a backpack, and a small stash of off-world snack food tucked away in a side compartment, non-standard issue, personally sourced, and not up for negotiation.
+
+**Personality:** Wry, patient, genuinely more interested in getting a straight answer out of someone than in winning a fight. His SOC 11 (+1) reads as more socially capable and connected than his combat stats suggest, and referees should let that show: people talk to Ponch, sometimes without meaning to. His skill set is built for investigation, interrogation and reading people.
 
 Off-duty, he lives out of a small personal shuttle rather than keeping a fixed address, an untethered, bachelor existence he's in no hurry to give up. He flirts constantly and shamelessly, treats competitive zero-G sports and grav-bike racing as a genuine passion rather than just exercise, and keeps a stash of off-world snack food hidden in a side compartment that the rest of the team has learned not to ask about. He despises paperwork and departmental red tape with real, specific venom, Investigate is his love, Admin is his enemy, and he's been known to chase an investigative lead with total, misplaced confidence before admitting he barked up entirely the wrong tree. His full legal given name is Francis. Nobody who values their continued existence calls him that.
 
@@ -605,9 +695,9 @@ Off-duty, he lives out of a small personal shuttle rather than keeping a fixed a
 
 Jon is Vargr, fifty, and out of **Skanderbeg** (Solomani Rim 2932, UWP A5448A7-C, a garden world, high tech, Solomani-governed, a neighboring world to Kukulcan in the same subsector). As a schoolkid he went by "JB," and a college job tutoring at a bowling alley revealed a genuine, unboasted talent, a friend would later try to turn that into a money-making scheme without much success. His career has been built around exactly the kind of situation Team UNDERTOW walks into on Ys: crowds, chaos, and a city that's stopped listening to whoever's supposed to be in charge.
 
-He came up through Citizen work, then Law Enforcement, then two years running SolSec field intelligence, then, unexpectedly, two terms inside the ruling Solomani Party itself as a working Intellectual, before a scandal over a friend's non-Solomani blood forced him out. **That friend was Ponch** (Chapter 2, §2.9); Jon chose to stand by him rather than cut him loose, costing himself standing with the Party but cementing a real, lasting partnership between the two of them that the whole team has come to rely on. He closed out his working life drafted into Army Support duty, picking up genuine field medic training along the way. Like Ponch, he's been managing an anagathics regimen since his SolSec years, quietly pausing the clock on a long, eventful life.
+He came up through Citizen work, then Law Enforcement, then two years running SolSec field intelligence, then, unexpectedly, two terms inside the ruling Solomani Party itself as a working Intellectual, before a scandal over a friend's non-Solomani blood forced him out. **That friend was Ponch**; Jon chose to stand by him rather than cut him loose, costing himself standing with the Party but cementing a real, lasting partnership between the two of them that the whole team has come to rely on. He closed out his working life drafted into Army Support duty, picking up genuine field medic training along the way. Like Ponch, he's been managing an anagathics regimen since his SolSec years, quietly pausing the clock on a long, eventful life.
 
-With a documented **Enemy: Military Governor** on his own record, Ys' Governor Tobias Krein (Appendix A) is exactly the kind of figure that Enemy was written for. Play it as a personal, pre-existing grudge against Krein specifically, whether or not it's ever explained further at the table.
+With a documented **Enemy: Military Governor** on his own record, Ys' Governor Tobias Krein is exactly the kind of figure that Enemy was written for. Play it as a personal, pre-existing grudge against Krein specifically, whether or not it's ever explained further at the table.
 
 **Timeline:**
 
@@ -625,14 +715,15 @@ With a documented **Enemy: Military Governor** on his own record, Ys' Governor T
 
 **Characteristics:** STR 11 (+1) · DEX 7 (+0) · END 7 (+0) · INT 14 (+2) · EDU 7 (+0) · SOC 11 (+1)
 
-**Species Traits:** **Bite** — pronounced canines usable as a natural close-combat weapon, Melee (Natural), 1D+1 damage, no weapon required. **Heightened Senses** — DM+1 to any Recon or Survival check; DM–1 to any sight-based skill check in dark conditions.
+**Species Traits:** **Bite**, pronounced canines usable as a natural close-combat weapon, Melee (Natural), 1D+1 damage, no weapon required. **Heightened Senses**, DM+1 to any Recon or Survival check; DM–1 to any sight-based skill check in dark conditions.
 
 **Anagathics dependency:** acquired during his SolSec years, Jon has been on an anagathics regimen ever since, same as Ponch, pausing his aging as long as he keeps dosing.
 
 **Skills:**
 Advocate 4
-Art (holography) 0
+Art 0
 Deception 1
+Drive 0
 Drive (wheeled) 1
 Electronics 2
 Electronics (comms) 2
@@ -643,6 +734,7 @@ Investigate 1
 Medic 1
 Melee 1
 Persuade 2
+Science 0
 Science (genetics) 1
 Science (philosophy) 1
 Stealth 1
@@ -650,11 +742,22 @@ Streetwise 2
 
 *Note: Animals (handling), Art (holography) (needs +2, currently bare at 0), and Science (cosmology) never came up across his full career and remain genuine gaps rather than established skills.*
 
-**Allies:** Ponch (Chapter 2, §2.9).
+**Allies:** Ponch.
 
-**Equipment:** Riot Shield (TL6, Melee 1D as a weapon; also rated Protection 1/Lsr1/Enrg1, **Rad none**, as wearable cover) and Cloth armour (TL12, Protection 4/Lsr4/Enrg4, **Rad none**) for a combined Protection of 5, the highest personal protection rating on the roster outside of Battle Dress, though with no radiological protection at all, worth remembering if he's ever in the Glass Reach's rad bands (Chapter 4, §4.2) without a suit. Also carries a Club (Melee), a GPDW sidearm (Gauss Personal Defence Weapon, TL12, Range 40m, 3D, 1.4kg, Cr1250, Magazine 40 or 60, AP3/Auto3 traits), a Stunstick (TL8, Range Melee, 2D, Stun), a Neural Comm (Enhanced, TL14, "multiple forms of data," Computer/2, Cr20,000), 2x Smoke grenades (TL8) -- crowd control, not combat, matching his whole approach to Meridian's uprising -- a Portable Mediscan, two Rescue Tool Sets, and a Grav Floater.
+**Weapons:**
 
-**Personality:** Level-headed under exactly the kind of pressure that makes everyone else on this team's instincts run hot. Where Threk wants to escalate and Kade wants control, Jon wants the crowd *contained*, not suppressed, not scattered, just kept from becoming its own disaster. That's a genuinely different read on crowd situations than anyone else on the roster offers, and it's the right lens for a referee running Chapter 3's uprising-torn Meridian (§3.2) as something more complicated than a simple hostile-territory crawl.
+| Weapon | Skill | DM | Damage | TL | Range | KG | Mag | Auto |
+|---|---|---|---|---|---|---|---|---|
+| Riot Shield | Melee | +2 | 1D | 6 | Melee | 1.5 | — | — |
+| Club | Melee | +2 | 2D | 0 | Melee | 2 | — | — |
+| Stunstick (Stun) | Melee | +2 | 2D | 8 | Melee | 0.5 | — | — |
+| GPDW (AP 3) | Gun Combat (slug) | −3 (unskilled) | 3D | 12 | 40m | 1.4 | 40 (60) | 3 |
+| Bite (natural) | Melee (natural) | +2 | 1D+1 | — | Melee | — | — | — |
+| Smoke Grenade (Blast 9; DM−2 to attacks on targets in the cloud, IR vision ignores it, lasts 1D × 3 rounds) | Athletics (dexterity) | −3 (unskilled) | — | 6 | 20m | 0.5 | — | — |
+
+**Equipment:** Riot Shield (Cr175; also rated Protection 1/Lsr1/Enrg1, **Rad none**, as wearable cover) and Cloth armour (TL12, Protection 4/Lsr4/Enrg4, **Rad none**) for a combined Protection of 5, the highest personal protection rating on the roster outside of Battle Dress, though with no radiological protection at all, worth remembering if he's ever in a heavy radiation zone without a suit. Also carries a Club, a GPDW sidearm (Gauss Personal Defence Weapon, Cr1250), a Stunstick (Cr300), a Neural Comm (Enhanced, TL14, "multiple forms of data," Computer/2, Cr20,000), 2x Smoke grenades -- crowd control, not combat, matching his whole approach to Meridian's uprising -- a Portable Mediscan, two Rescue Tool Sets, and a Grav Floater.
+
+**Personality:** Level-headed under exactly the kind of pressure that makes everyone else on this team's instincts run hot. Where Threk wants to escalate and Kade wants control, Jon wants the crowd *contained*, not suppressed, not scattered, just kept from becoming its own disaster. That's a genuinely different read on crowd situations than anyone else on the roster offers, and it's the right lens for a city torn by uprising.
 
 Still, oddly, a natural at bowling. He never brings it up. Ponch never lets him forget it.
 
@@ -664,12 +767,13 @@ Still, oddly, a natural at bowling. He never brings it up. Ponch never lets him 
 
 ## 2.11 - SHARED LOADOUT: ARMOUR
 
-Six of the human/android characters begin the scenario in **SolSec-issue Ceramic Combat Armour** (Protection +12, +18 vs fire/lasers/energy, TL13, Rad 150, Cr90,000, Vacc Suit 1 required; smuggled in ahead of the insertion under diplomatic cover). Nerys wears the separate **Type D Battle Dress** detailed in her own entry (§2.8) instead, built around entirely different underlying anatomy and life-support needs. Ponch and Jon deliberately wear lighter, non-military gear (Cloth Jacket and Riot Shield/Cloth Armour respectively) matching their established roles, see their individual entries.
+Six of the human/android characters begin the scenario in **SolSec-issue Ceramic Combat Armour** (Protection +12, +18 vs fire/lasers/energy, TL13, Rad 150, 15kg, Cr90,000, Vacc Suit 1 required; smuggled in ahead of the insertion under diplomatic cover). Nerys wears the separate **Type D Battle Dress** detailed in her own entry instead, built around entirely different underlying anatomy and life-support needs. Ponch and Jon deliberately wear lighter, non-military gear (Cloth Jacket and Riot Shield/Cloth Armour respectively) matching their established roles, see their individual entries.
 
 | Trait | Value |
 |---|---|
 | Protection | +12 (+18 vs fire, lasers, and energy weapons) |
 | Rad | 150 |
+| Mass | 15 kg |
 | Integrated Environmental Sealing | 6 hours, complete seal (source specifies this shorter window explicitly, down from the older Battle Dress's 12-hour rating) |
 | Required Skill | Vacc Suit 1 |
 | Cost | Cr90,000 |
@@ -677,10 +781,10 @@ Six of the human/android characters begin the scenario in **SolSec-issue Ceramic
 
 *(STR/DEX enhancement not specified in the source material this armor was pulled from; treat as a straight protection/environmental suit rather than a powered-exoskeleton variant unless a referee wants to houserule one in.)*
 
-**Personalisation:** All six suits carry the Improved tier of the Personalisation modification (TL10, programmable custom image/basic camouflage, Cr1000, CRB22) — an urban grey/blue camo pattern as the default display, reconfigurable on the fly for other environments, with the **Solomani Confederation Symbol** (the Solomani Cross, an ancient astrological Earth-symbol, a cross inside a circle, flanked by two olive branches per the Secretariat's 871 modification, rendered in military low-visibility grey) fixed on the chest, back, shoulder, and helmet of each suit. It's not subtle, and it's not meant to be, see Chapter 1's framing on exactly why the team flies its colors openly rather than working under cover this time.
+**Personalisation:** All six suits carry the Improved tier of the Personalisation modification (TL10, programmable custom image/basic camouflage, Cr1000, CRB22), an urban grey/blue camo pattern as the default display, reconfigurable on the fly for other environments, with the **Solomani Confederation Symbol** (the Solomani Cross, an ancient astrological Earth-symbol, a cross inside a circle, flanked by two olive branches per the Secretariat's 871 modification, rendered in military low-visibility grey) fixed on the chest, back, shoulder, and helmet of each suit. It's not subtle, and it's not meant to be; the team flies its colors openly this time rather than working under cover.
 
 The suits are the only reason Team UNDERTOW can seriously consider crossing the Reach at all, and the only reason the Governor's loyalists will make Team UNDERTOW a priority target the moment they're spotted. Six sets of matched armor moving as a unit reads as an Imperial Marine response team to absolutely everyone on Ys, which is a problem Act One deals with directly.
 
 ---
 
-*Last updated: 2026-10-03*
+*Last updated: 2026-10-17*

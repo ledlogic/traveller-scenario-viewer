@@ -109,7 +109,7 @@ This isn't exotic. It's an old, well-understood category of software bug (the sa
 |--|-----|-----|-----|-----|-----|-----|
 | Score | 8 | 8 | 8 | 6 | 6 | 5 |
 
-**Skills:** Gun Combat 0 · Gun Combat (slug) 2 · Tactics 0 · Tactics (military) 1 · Melee 0 · Melee (unarmed) 1 · Recon 1
+**Skills:** Gun Combat 0 · Gun Combat (slug) 2 · Melee 0 · Melee (unarmed) 1 · Recon 1 · Tactics 0 · Tactics (military) 1
 **Armour:** Combat Armour, Basic (**Protection +13, Rad 85**, TL10, Vacc Suit 1 required, CSC23; corrects an earlier placeholder +8 that wasn't sourced from either book)
 **Weapon:** Advanced Combat Rifle (Range ~500m *(standard published value; source PDF's row for this weapon was extraction-corrupted, see Appendix E)*, 3D, Auto 3, CRB22 p.125)
 
@@ -168,4 +168,4 @@ None of these have been updated since H-Hour. The system doesn't know the broadc
 
 ---
 
-*Last updated: 2026-09-29*
+*Last updated: 2026-10-17*

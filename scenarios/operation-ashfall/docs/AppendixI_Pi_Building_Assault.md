@@ -130,20 +130,20 @@ Every loyalist security badge in the building grants routine floor and elevator 
 
 *The only person in the building, Krein included, whose badge opens every door, a deliberate choice on Krein's part, made years ago, to have exactly one person he trusts completely with total physical access.*
 
-Ferro carries visible scarring across one side of her face, old chemical or plasma burn scarring from a posting she doesn't discuss, the kind of injury that reads immediately as "this is someone who's already survived the worst version of her job once." She runs Floor 4's security operation personally rather than delegating it, and she's the reason that floor is a genuine chokepoint (Appendix I, §I.2) rather than just a name on a floor plan.
+**Born IY 1073, on Ys** (Solomani Rim 1732, UWP A847869-C), age 44 in IY 1117, a native of the world she now guards the Governor on, which is part of why Krein trusts her. Ferro carries visible scarring across one side of her face, old chemical or plasma burn scarring from a posting she doesn't discuss, the kind of injury that reads immediately as "this is someone who's already survived the worst version of her job once." She runs Floor 4's security operation personally rather than delegating it, and she's the reason that floor is a genuine chokepoint (Appendix I, §I.2) rather than just a name on a floor plan.
 
 | | STR | DEX | END | INT | EDU | SOC |
 |--|-----|-----|-----|-----|-----|-----|
 | Score | 10 | 9 | 10 | 8 | 9 | 7 |
 | DM | +1 | +1 | +1 | +0 | +1 | +0 |
 
-**Skills:** Gun Combat (slug) 3 · Tactics (military) 2 · Leadership 2 · Melee 0 · Melee (unarmed) 2 · Recon 2 · Electronics 0 · Electronics (security) 1 *(the "extra skillset" that sets her apart from the generic Loyalist Close Protection Detail, Appendix A §A.6, she genuinely administers the badge system, not just carries a token)*
+**Skills:** Electronics 0 · Electronics (computers) 1 · Gun Combat 0 · Gun Combat (slug) 3 · Leadership 2 · Melee 0 · Melee (unarmed) 2 · Recon 2 · Tactics 0 · Tactics (military) 2 *(Electronics (computers) is the "extra skillset" that sets her apart from the generic Loyalist Close Protection Detail, Appendix A §A.6, she genuinely administers the badge system, not just carries a token)*
 **Armour:** Combat Armour, Improved (**Protection +17, Rad 145**, TL12, Vacc Suit 0 required, CSC23)
 **Weapon:** Advanced Combat Rifle (Range ~500m, standard published value, 3D, Auto 3, CRB22 p.125)
 
 **Running her:** she is the single hardest personal obstacle between the team and Krein's door, by design, better armored, better trained, and better informed than anyone else on the floor. She should never feel like a reskinned generic guard. A referee wanting one memorable detail beyond her stats: she checks her own badge against the door reader out of habit, every single time, even though it's never once failed to recognize her.
 
-**Neural.AI image prompt:** A woman in her 40s, powerfully built, short practical hair, one side of her face marked by old scarring (chemical or plasma burn scarring, healed but visibly textured, running from cheekbone toward the jaw. Wearing bulky combat armour, helmet off and tucked under one arm, a security badge visible on a lanyard or chest mount. Sharp, assessing expression) the look of someone constantly running threat calculations. Industrial harbor backdrop, warm firelight against cool blue dusk. Photorealistic, science fiction military portrait, no text, no logos.
+**Neural.AI image prompt:** A woman in her mid-40s, powerfully built, short practical hair, one side of her face marked by old scarring (chemical or plasma burn scarring, healed but visibly textured, running from cheekbone toward the jaw. Wearing bulky combat armour, helmet off and tucked under one arm, a security badge visible on a lanyard or chest mount. Sharp, assessing expression) the look of someone constantly running threat calculations. Industrial harbor backdrop, warm firelight against cool blue dusk. Photorealistic, science fiction military portrait, no text, no logos.
 
 ### Sergeant Rourke - The Two-Gun Guard, Level 5 Hallway
 
@@ -158,7 +158,7 @@ Rourke carries two Advanced Combat Rifles, one in each hand, and fires both toge
 | Score | 12 | 9 | 10 | 6 | 5 | 5 |
 | DM | +2 | +1 | +1 | +0 | –1 | –1 |
 
-**Skills:** Gun Combat 0 · Gun Combat (slug) 3 · Athletics 0 · Athletics (strength) 2 · Melee 0 · Melee (unarmed) 1 · Tactics (military) 1
+**Skills:** Athletics 0 · Athletics (strength) 2 · Gun Combat 0 · Gun Combat (slug) 3 · Melee 0 · Melee (unarmed) 1 · Tactics 0 · Tactics (military) 1
 **Armour:** Combat Armour, Advanced (**Protection +19, Rad 180**, TL14, Vacc Suit 0 required, CSC23), genuinely heavier, Imperial Army-pattern gear rather than standard naval security issue, matching an unusual posting for a naval installation
 **Weapons:** 2× Advanced Combat Rifle (Range ~500m, 3D, Auto 3 each, CRB22 p.125). **Dual Weapons rule (CRB22, p.78):** may attack with both rifles in the same combat round; cannot aim with either; –2 DM to both attack rolls while dual-wielding
 
@@ -189,4 +189,4 @@ Rourke carries two Advanced Combat Rifles, one in each hand, and fires both toge
 
 ---
 
-*Last updated: 2026-09-29*
+*Last updated: 2026-10-17*

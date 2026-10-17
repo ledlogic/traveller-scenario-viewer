@@ -31,6 +31,8 @@ Meridian is a naval company town, three million people, most of them dockworkers
 
 **Color palette for the water and shoreline (Act One, night):** Ys's thin, tainted atmosphere (Chapter 1, §1.3) gives even a clear night sky a faint sickly cast (not enough to notice in daylight, but enough that Meridian Sound at night reads as flat, oily black rather than any true blue, broken only by reflected light: hard orange-white glare where fires are burning in the contested districts, cold blue-white from naval floodlights still running on the drydocks, a thin sodium-amber line along the working shoreline where streetlights haven't been cut yet. The shore itself is industrial, not scenic) dark wet concrete and slag-black rock revetment, no sand, slicked with a permanent film of fuel and ballast runoff that catches every light source in long, smeared streaks rather than clean reflections. It should never read as beautiful. It should read as a working harbor in the middle of the worst night of its life.
 
+**Neural.AI image prompt:** A wide, low-angle view across a working industrial harbor at night, the water flat, oily and almost black with only a faint sickly greenish cast in the thin night sky above, never a true blue. Broken reflections only: hard orange-white glare from fires burning in distant districts across the water, cold blue-white naval floodlights still running on military drydocks in the middle distance, and a thin sodium-amber line of streetlights along the working shoreline. Every light is smeared into long streaks across a permanent film of fuel and ballast runoff on the water surface, not clean reflections. The shore is dark wet concrete quay and slag-black rock revetment, no sand, no vegetation, rusted mooring bollards, coiled hawsers, cargo cranes and drydock gantries in silhouette, thin smoke drifting across the harbor. Gritty, oppressive, never beautiful, the worst night of a harbor's life. Photorealistic, cinematic science fiction concept art, no people, no text, no logos.
+
 None of this is where the team needs to be. What they need (the control bunker's exact status, and a vehicle that can survive the Reach) is going to come from people, not buildings, and the biggest gathering of people in the city tonight is not at any of the above.
 
 ---
@@ -100,4 +102,4 @@ Act Two (The Reach) picks up as the team leaves Meridian behind and crosses thir
 
 ---
 
-*Last updated: 2026-09-29*
+*Last updated: 2026-10-17*

@@ -15,6 +15,7 @@ Every stat block, rule, and setting fact used in this scenario is sourced indivi
 |---|---|
 | **CRB22** | Traveller Core Rulebook Update 2022 |
 | **CSC23** | Central Supply Catalogue Update 2023 |
+| **ACS2** | Aliens of Charted Space Volume 2 |
 | **SolFront** | The Solomani Rim (sourcebook) |
 | **BtC** | Behind the Claw (sourcebook) |
 | **WV1** | Traveller Water Vehicles Volume 1, Colin Dunn, Northern Edge / TAS |
@@ -35,6 +36,7 @@ Every stat block, rule, and setting fact used in this scenario is sourced indivi
 | Advanced Combat Rifle, 3D Auto 3 | App A, §A.6 | CRB22 | p.125; range ~500m is a standard published value, this source PDF's own row was extraction-corrupted |
 | Close Protection / garrison troop NPC conventions | App A, §A.6 | CRB22 | Referee's Toolbox, NPC generation |
 | **Ceramic Combat Armour Protection, +18 vs fire/lasers/energy, Rad, Cost, TL, required skill** | Ch 2, §2.2, §2.3, §2.4, §2.5, §2.6, §2.7 | CSC23 | p.33 |
+| **Radio Transceiver (TL12, Continental 5,000km, Cr500) and Transceiver Encryption option (+Cr4,000)** | Ch 2, §2.2 | CSC23 | pp.64–65 |
 | P-HUD, transceiver encryption module, Security/2 software as standard equipment on prior Battle Dress issue (retained where still applicable) | Ch 2 | CSC23 | p.38 |
 | 6-hour environmental sealing window (current Ceramic Combat Armour, down from the older Battle Dress's 12-hour figure) | Ch 2, §2.11 | CSC23 | p.33 |
 | Medikit automatic first-aid function | Ch 2, §2.5 | CRB22 | Equipment, Medikit entry |
@@ -71,9 +73,9 @@ Not every source in this scenario is a Traveller sourcebook, some worldbuilding 
 | Confederation Marine restriction (Star Marine assignment only) and dedicated SolSec career (Field Agent/Administrator/Secret Agent), basis for Kade's full term-by-term rebuild | Ch 2, §2.2 | Aliens of Charted Space Vol. 2, pp.128–134 |
 | Solomani Cross (ancient astrological Earth-symbol, cross inside a circle) and the Solomani Confederation Symbol (the Cross flanked by two olive branches, adopted 871, military insignia in black or low-visibility grey), basis for Team UNDERTOW's emblem in Ch 1 and the armor Personalisation described in Ch 2, §2.11 | Ch 1; Ch 2, §2.11 | Aliens of Charted Space Vol. 2, Symbology section |
 | Personalisation armor modification, Improved tier (TL10, programmable custom image/basic camouflage, Cr1000), basis for the squad's urban grey/blue camo pattern | Ch 2, §2.11 | CRB22 |
-| GPDW (Gauss Personal Defence Weapon, TL12, Range 40m, 3D, AP3/Auto3), basis for the standard-issue sidearm carried across the roster | Ch 2, all nine character entries | CSC23, Weapons chapter |
+| GPDW (Gauss Personal Defence Weapon, TL12, Range 40m, 3D, 1.4kg, Cr1250, Magazine 40 or 60, AP3/Auto3), basis for the standard-issue sidearm carried across the roster | Ch 2, all weapon tables | ACS2 p.119 (corrected from CSC23) |
 | Skill Augmentation (TL12, DM+1 to one skill of level 0+, Cr50,000), Wafer Jack (Basic tier TL12, Computer/2, Bandwidth 4, Cr1,000), Expert software (Bandwidth 2, TL12, DM+1 if skill already held, Cr10,000), and Enhanced Medikit (TL12, First Aid Medic check DM+2, Cr5,000), basis for Achebe's cybernetics and updated medical loadout | Ch 2, §2.5 | CSC23, Augments and Medical Equipment chapters |
-| Trauma Pack (TL8, field recovery of 1D END for 1D hours via a Medic check, once per patient per day, Cr750), basis for Achebe carrying two | Ch 2, §2.5 | CSC23, Medical Equipment chapter |
+| Trauma Pack (TL8, field recovery of 1D END for 1D hours via a Medic check, once per patient per day, 2kg, Cr750), basis for Achebe carrying two | Ch 2, §2.5 | CSC23 | p.91 |
 | Military Academy pre-career education (Army/Marines/Navy branches, Entry and Graduation rolls, graduation benefits including automatic career entry and a Commission roll), basis for Achebe's Term 1 | Ch 2, §2.5 | CRB22, Traveller Creation chapter |
 | Life Events table (2D, results from Sickness/Injury to Unusual Event), basis for Achebe's Term 3 Life Event (New Contact) | Ch 2, §2.5 | CRB22, Traveller Creation chapter, p.46 |
 | Twylo (Capella Subsector, UWP A551AA6-E, subsector capital, Naval Base, Military Base, SolSec sector headquarters), basis for Achebe's homeworld | Ch 2, §2.5 | Solomani Front, Capella Subsector world listing |
@@ -95,6 +97,19 @@ Not every source in this scenario is a Traveller sourcebook, some worldbuilding 
 | Carchemish (Solomani Rim 2536, UWP D778169-7, Ga/Lo, Solomani Government, TL7), basis for Ponch's homeworld and his TL7-grounded motorcycle/ground-vehicle preference | Ch 2, §2.9 | Solomani Front, world listing |
 | Vargr Heightened Senses trait (DM+1 Recon/Survival, DM-1 sight-based checks in darkness), missing from all three Vargr characters' original sheets (only the Bite trait had been included); added to Threk (§2.3), Ponch (§2.9), and Jon (§2.10) | Ch 2, §2.3, §2.9, §2.10 | CRB22, Vargr species chapter |
 | Drifter, Agent (Law Enforcement), Citizen (Worker), Rogue (Pirate), and Prisoner (Inmate) career tables (Qualification, Survival, Advancement, skill tables, Mishap/Event tables, Mustering Out Benefits, Basic-Training-for-subsequent-careers rule), basis for Ponch's full eight-term rebuild | Ch 2, §2.9 | CRB22, Character Creation chapter |
+| Marine career (Support, Star Marine, Ground Assault; Qualification, Survival, Advancement, Mustering Out Benefits Cash Cr2000/5000/5000/10000/20000/30000/40000, Benefits Armour/INT+1/EDU+1/Weapon/TAS Membership/Armour or END+1/SOC+2, rank bonus rules), Rogue career (Thief, Enforcer, Pirate; Cash None/None/10000/10000/50000/100000/100000, Benefits Ship Share/Weapon/INT+1/1D Ship Shares/Armour/DEX+1/2D Ship Shares), and Prisoner career (Cash None/None/100/200/500/1000/2500, Benefits Contact/Blade/Deception-Persuade-or-Stealth/Ally/Melee-Recon-or-Streetwise/STR+1-or-END+1/all three), basis for Threk's mustering out | Ch 2, §2.3 | CRB22, Traveller Creation chapter, pp.32–33 (Marine), Rogue and Prisoner career pages |
+| Scholar career (Field Researcher; Cash Cr5000/10000/20000/30000/40000/60000/100000, Benefits INT+1/EDU+1/Two Ship Shares/SOC+1/Scientific Equipment/Lab Ship/Lab Ship), Army career (Support; Cash Cr2000/5000/10000/10000/10000/20000/30000, Benefits Cybernetic Implant/INT+1/EDU+1/Weapon/Armour/END+1 or Cybernetic Implant/SOC+1), Agent career (Law Enforcement; Cash Cr1000/2000/5000/7500/10000/25000/50000, Benefits Scientific Equipment/INT+1/Ship Share/Weapon/Cybernetic Implant/SOC+1 or Cybernetic Implant/TAS Membership; Mishap 2 "lose the Benefit roll as normal"), and Citizen career (Worker, Corporate; Cash Cr2000/5000/10000/10000/10000/50000/100000, Benefits Ship Share/Ally/INT+1/Gun/EDU+1/Two Ship Shares/TAS Membership), basis for Voss's mustering out | Ch 2, §2.4 | CRB22, Traveller Creation chapter, career pages |
+| SolSec Field Agent mustering out (Cash Cr1000/2000/5000/7500/10000/25000/50000, Benefits Scientific Equipment/INT+1/Terran Adventurer Society/Weapon/Combat Implant/SOC+1 or Combat Implant/SC Courier), basis for Voss's SolSec term | Ch 2, §2.4 | ACS2, SolSec career |
+| Gauss Pistol (TL13, Range 20m, 3D, 1kg, Cr500, Magazine 40, AP 3/Auto 2), Voss's Agent Weapon benefit | Ch 2, §2.4 | CSC23 | p.143 |
+| Ceramic Combat Armour mass (15 kg) | Ch 2, §2.2 to §2.11 | CSC23 | p.33 |
+| Breaching Charge (TL8, 4D, 1kg, Cr250, AP 6, Blast 1) and Plastic Explosive (TL6, 3D, 1kg, Cr200, Blast 9) | Ch 2, §2.4 | CSC23 | p.159 |
+| Advanced Combat Engineering Tool Set (TL8, 15kg, Cr500, 12 explosive strips, DM+2 to related checks), replacing the unsourced "multi-tool rig" in Voss's equipment | Ch 2, §2.4 | CSC23 | p.125 |
+| Field Surgical Kit (TL5, 3kg, Cr1,500, First Aid DM+0, surgery at DM-2), replacing "field surgery pack" in Achebe's equipment | Ch 2, §2.5 | CSC23 | p.90 |
+| Enhanced Medikit (TL12, 1kg, First Aid Medic check DM+2, Cr5,000) in Achebe's equipment | Ch 2, §2.5 | CSC23 | p.90 |
+| Revolver (TL4, 10m, 3D-3, 0.5kg, Cr150, Mag 6), Reyes's Weapon mustering benefit | Ch 2, §2.6 | CSC23 | p.144 (per book index) |
+| Mechanical Toolkit (listed TL5, 12kg, Cr1,000; DM+2 if toolkit TL is 2+ above the task, DM-2 if 2+ below). CRB22 says toolkits "may be purchased at higher Tech Levels" but gives no price change; Reyes's TL12 purchase at the listed Cr1,000 is a referee ruling, not a printed rule. Replaces the unsourced "full vehicle diagnostics kit" in Reyes's equipment | Ch 2, §2.6 | CRB22 | p.120 |
+| Medikit armour modification (TL10, Cr5,000, treated as Medic 3 when reduced to 0 END, Fast Drug on command; TL11 military version Cr10,000 not used), replacing the invented "medical variant, integrated trauma kit" in Achebe's armour | Ch 2, §2.5 | CRB22 | p.104 |
+| Geiger Counter, Improved (TL10, Cr400, determines source composition and direction) and Infrared Goggles, Improved (TL8, Cr500), replacing the unsourced "field scanner" in Voss's equipment | Ch 2, §2.4 | CSC23 | p.75 |
 | Anagathics (TL15, pauses aging for one month, Cr20,000/dose, withdrawal mechanic after 53+2D days without a dose, Difficult (10+) END check or age rapidly), basis for Ponch's dependency and near-fatal withdrawal crisis in prison | Ch 2, §2.9 | CSC23, Medical and Care Supplies chapter |
 | Endurance Augmentation (END+1, TL11, Cr500,000), basis for the emergency cybernetic that stabilized Ponch after his withdrawal crisis, financed as a debt to the Solomani Confederation | Ch 2, §2.9 | CRB22, p.106 |
 | Injury table and Medical Bills table (Agent/Citizen category: 50%/75%/100% coverage on 2D+Rank), basis for resolving Ponch's Term 6 Injury (Scarred, STR-2) and the Term 1 illness, both later restored at partial cost | Ch 2, §2.9 | CRB22, Character Creation chapter |
@@ -108,7 +123,18 @@ Not every source in this scenario is a Traveller sourcebook, some worldbuilding 
 | Mirabilis (Capella Subsector, UWP A553958-E, Hi/Ht/Po trade codes), basis for Voss's homeworld | Ch 2, §2.4 | Solomani Front, Capella Subsector world listing |
 | Scholar, Agent, Merchant, and Citizen careers (all assignments, ranks, mishaps, and events), and the Solomani Draft table (fallback when a Confederation Traveller fails career qualification), basis for Voss's full term-by-term rebuild | Ch 2, §2.4 | CRB22, Character Creation chapter |
 | Human Racial Background table (2D6 + SOC DM: 2 or less Non-Solomani, 3-4 Mixed Race, 5+ Racial Solomani), basis for confirming Voss (along with Kade, Threk's human teammates, and Achebe/Reyes) as Racial Solomani | Ch 2, §2.4 | Aliens of Charted Space Vol. 2 |
-| GCCW (Gauss Close-Combat Weapon, TL12, Range 100m, 3D+2, AP3/Auto4), Laser Sight accessory (TL8, DM+1 under 50m), Secure weapon lock (TL10, requires authentication), and Plastic explosive (TL6, 3D, Blast 9), basis for Voss's updated equipment loadout | Ch 2, §2.4 | CSC23, Weapons and Accessories chapter |
+| GCCW (Gauss Close-Combat Weapon, TL12, Range 100m, 3D+2, 2 or 3.2kg, Cr2250, Magazine 60 or 120, AP3/Auto4) | Ch 2, §2.2, §2.4 | ACS2 p.119 (corrected from CSC23) |
+| Laser Sight accessory (TL8, DM+1 under 50m), Secure weapon lock (TL10, requires authentication), and Plastic explosive (TL6, 3D, Blast 9), Voss's equipment | Ch 2, §2.4 | CSC23, Weapons and Accessories chapter |
+| Weapons tables: Gauss Rifle (TL12, 600m, 4D, 4kg, Mag 80, AP5/Auto3/Scope) | Ch 2, §2.6 | CSC23 | p.145 |
+| Weapons tables: Stun Blaster | Ch 2, §2.9 | CSC23 | p.153 |
+| Weapons tables: PGHP-14 (TL14, 450m, 1DD, 10kg, Cr100,000) | Ch 2, §2.3 | CSC23 | p.161 |
+| Weapons tables: Frag Grenade (TL6, 5D), Smoke Grenade (TL6), Stun Grenade (TL7, 3D), all 20m, 0.5kg, Blast 9 | Ch 2, all weapon tables | CSC23 | p.157 |
+| Weapons tables: Smoke grenade effect (DM−2 to attacks in cloud, IR vision bypasses, 1D × 3 rounds) | Ch 2, §2.2, §2.6, §2.10 | CRB22 | p.131 |
+| Weapons tables: Club (TL0, 2D, 2kg), Stunstick (TL8, 2D, 0.5kg, Stun) | Ch 2, §2.10 | CSC23 | p.133 |
+| Weapons tables: Blade (TL1, 2D, 1kg), Cutlass (TL2, 3D, 2kg) | Ch 2, §2.3 | CSC23 | p.135 |
+| Weapons tables: Stunfist (TL8, 1D+2, Stun) | Ch 2, §2.9 | CSC23 | p.139 |
+| Weapons tables: Riot Shield (TL6, 1D, 1.5kg, Cr175) | Ch 2, §2.10 | CSC23 | p.140 |
+| Weapons tables: Stunner (TL12, 10m, Mag 100) | Ch 2, §2.9 | CRB22 | p.129 |
 
 ---
 
@@ -118,4 +144,4 @@ Worth flagging on its own: **CRB22's printed armour table is missing Battle Dres
 
 ---
 
-*Last updated: 2026-10-03*
+*Last updated: 2026-10-17*
