@@ -64,7 +64,7 @@ His own words from that memo, on file, and (for anyone who's worked with him sin
 | Score | 8 | 11 | 9 | 10 | 9 | 8 |
 | DM | +0 | +1 | +1 | +1 | +1 | +0 |
 
-**Skills (1117):** Leadership 3 *(up from the 1106 record's Leader-2, a senior coordinator's level now, not a field team lead's)* · Electronics 0 · Electronics (computers) 2 *(from the original record's Computer-2)* · Electronics (comms) 1 *(new since 1106, a reasonable addition for an intelligence coordinator)* · Pilot 0 · Pilot (small craft) 2 · Gun Combat 0 · Gun Combat (slug) 2 *(from the original SMG-2)* · Tactics (military) 1 · Drive 0 · Drive (grav vehicle) 2 *(from the original Grav Vehicle-2)* · Jack of all Trades 2 · Admin 2 *(new)* · Advocate 1 *(new)* · Investigate 1 *(new)*
+**Skills (1117):** Admin 2 *(new)* · Advocate 1 *(new)* · Electronics 0 · Electronics (comms) 1 *(new since 1106, a reasonable addition for an intelligence coordinator)* · Electronics (computers) 2 *(from the original record's Computer-2)* · Flyer 0 · Flyer (grav) 2 *(from the original Grav Vehicle-2)* · Gun Combat 0 · Gun Combat (slug) 2 *(from the original SMG-2)* · Investigate 1 *(new)* · Jack-of-all-Trades 2 · Leadership 3 *(up from the 1106 record's Leader-2, a senior coordinator's level now, not a field team lead's)* · Pilot 0 · Pilot (small craft) 2 · Tactics 0 · Tactics (military) 1
 
 **Age 41.** No armor or weapon loadout given, he's a desk officer now, and the scenario is not built around him ever needing one. If a referee wants him to appear on-page (a tense call, a moment where his support is confirmed or withdrawn), his stats matter for characterization and skill checks, not combat.
 
@@ -91,4 +91,4 @@ His own words from that memo, on file, and (for anyone who's worked with him sin
 
 ---
 
-*Last updated: 2026-09-29*
+*Last updated: 2026-10-17*

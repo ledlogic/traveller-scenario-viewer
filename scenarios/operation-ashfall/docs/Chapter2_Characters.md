@@ -20,12 +20,12 @@
 | 1 | Rosalind Kade | "Anvil" | Team Leader | Gun Combat (slug) 2, Leadership 2, Recon 2, Tactics (military) 2 |
 | 2 | Uzgar Threk (Vargr) | "Snarl" | Heavy Weapons | Athletics (strength) 2, Heavy Weapons (Portable) 2, Melee (blade) 2, Persuade 2 |
 | 3 | Dietrich Voss | "Fuse" | Demolitions / Breacher | Explosives 3, Mechanic 2 |
-| 4 | Marisol Achebe | "Doc" | Combat Medic | Mechanic 3, Diplomat 2, Leadership 2 |
-| 5 | Coyle Reyes | "Ten-Ton" | Pilot / Driver | Recon 3, Mechanic 2, Vacc Suit 2 |
+| 4 | Marisol Achebe | "Doc" | Combat Medic | Diplomat 2, Leadership 2, Mechanic 3 |
+| 5 | Coyle Reyes | "Ten-Ton" | Pilot / Driver | Mechanic 2, Recon 3, Vacc Suit 2 |
 | 6 | Unit designation unknown | "Rivit" | Robot / Technical Specialist | Electronics (computers) 4, Engineer (life support) 3 *(adjusted for brain INT DM)* |
 | 7 | Nerys (Dolphin, uplifted) | "Echo" | Recon / Underwater Infiltration | Electronics (sensors) 2, Melee (unarmed) 2, Vacc Suit 2 |
-| 8 | Franko Ponchorrorrorrow (Vargr) | "Ponch" | Investigator / Non-Lethal Specialist | Stealth 3, Streetwise 3, Investigate 2 |
-| 9 | Jon Bakerrowowarr (Vargr) | "Shield" | Investigator / Operative | Advocate 4, Streetwise 2, Persuade 2 |
+| 8 | Franko Ponchorrorrorrow (Vargr) | "Ponch" | Investigator / Non-Lethal Specialist | Investigate 2, Stealth 3, Streetwise 3 |
+| 9 | Jon Bakerrowowarr (Vargr) | "Shield" | Investigator / Operative | Advocate 4, Persuade 2, Streetwise 2 |
 
 ---
 
@@ -404,10 +404,10 @@ Drive (hovercraft) 1
 Drive (tracked) 1
 Drive (wheeled) 1
 Electronics 0
-Electronics (remote operations) 1
+Electronics (remote ops) 1
 Electronics (sensors) 1
 Engineer 1
-Engineer (power plant) 1
+Engineer (power) 1
 Flyer 0
 Gun Combat 0
 Gun Combat (slug) 1

@@ -17,7 +17,7 @@ Basaran is 61, wiry, and has the specific stillness of a man who's spent decades
 
 **Characteristics:** STR 6 (+0) · DEX 7 (+0) · END 7 (+0) · INT 9 (+1) · EDU 10 (+1) · SOC 5 (–1)
 
-**General Skills:** Streetwise 1 · Recon 1 · Persuade 0 · Athletics 0
+**General Skills:** Athletics 0 · Persuade 0 · Recon 1 · Streetwise 1
 
 **Expert-Level Skills** *(what thirty-one years in and around Ashfall actually taught him)*
 
@@ -56,4 +56,4 @@ These don't need full stat blocks, use Basaran's block as a rough template (civi
 
 ---
 
-*Last updated: 2026-09-29*
+*Last updated: 2026-10-17*

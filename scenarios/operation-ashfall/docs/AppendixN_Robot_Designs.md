@@ -71,7 +71,7 @@ Appendix G's original Sentry Walker was built in-house, before this project had 
 | Dog Sentry | 12 | Walker | ~6m | 15 | Cr18,000 (before its one small weapon and sensor) |
 
 **Traits:** Armour (+20) - ATV - Small (-1) *(Size 4's Attack Roll DM -- smaller than human-scale, genuinely harder to hit, the inverse of the big Walker's problem)*
-**Skills:** Recon 1 - Gun Combat 0 *(minimal -- Basic-tier programming, per the Slot budget above)*
+**Skills:** Gun Combat 0 - Recon 1 *(minimal -- Basic-tier programming, per the Slot budget above)*
 **Weapon:** One small mount -- a stunner or light integrated sidearm is the only realistic fit; there's no Slot budget left for anything heavier
 **Programming:** Basic (security), INT 4 -- matches the real Shadow Security Robot's programming tier from the book, not an invented number
 
@@ -94,4 +94,4 @@ Appendix G's original Sentry Walker was built in-house, before this project had 
 
 ---
 
-*Last updated: 2026-09-29*
+*Last updated: 2026-10-17*
