@@ -1,11 +1,11 @@
 # TRAVELLER: NO CONTACT
-## Appendix H — The Pickup: SolSec Extraction Team "Soft Landing"
+## Appendix H: The Pickup, SolSec Extraction Team "Soft Landing"
 
 *Referee Reference Document*
 
 ---
 
-## H.0 — WHAT THIS COVERS
+## H.0: WHAT THIS COVERS
 
 The extraction the six guests are waiting for is real. A four-person SolSec
 team came for them. They landed **a day early**, in a dry wash just outside the Reserve fence,
@@ -22,7 +22,7 @@ what they did that provoked the Mass, and what happened to them.
 
 ---
 
-## H.1 — THE TEAM AT A GLANCE
+## H.1: THE TEAM AT A GLANCE
 
 | Role | Name | Age | Cover at the Reserve | Notes |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ what they did that provoked the Mass, and what happened to them.
 
 ---
 
-## H.2 — THE SHIP: *SOFT LANDING*
+## H.2: THE SHIP, *SOFT LANDING*
 
 A **TL11 SolSec courier-sloop**, 100 dTon, Jump-1, with a cargo hold with
 four cots, and a quiet, matte-grey hull that looks, from the air, like a
@@ -54,11 +54,11 @@ TL7 surveillance unless something draws attention to it.
 
 ---
 
-## H.3 — THE KEY FOBS
+## H.3: THE KEY FOBS
 
 Each team member wears a **bone-conduction key fob** (TL11, a slim black
 disc on a chain, passes as a dog tag). Under the **2-of-4 rule**, even a
-partial rescue pays off — two fobs, two living people, or two bodies with
+partial rescue pays off: two fobs, two living people, or two bodies with
 their gear. The fobs stay with the person.
 
 | Fob | Wearer | If captured | If trapped | If lost | If held |
@@ -69,17 +69,17 @@ their gear. The fobs stay with the person.
 | 4 | Delacroix | On him | On him | On him | Same cage |
 
 **Referee note:** if the table recovers the fobs but not the team, they can
-leave. The scenario's third Act ends on that choice — everyone out, or only
+leave. The scenario's third Act ends on that choice; everyone out, or only
 the codes out.
 
 ---
 
-## H.4 — TEAM STAT BLOCKS
+## H.4: TEAM STAT BLOCKS
 
 Skills are listed alphabetically, with sub-skills (specialities) immediately
 after their parent.
 
-### Captain Ines Okafor-Brandt — Team Leader / Pilot
+### Captain Ines Okafor-Brandt: Team Leader / Pilot
 
 Seventeen years in Solomani Security. Methodical, unshowy, trusted by Wei,
 and quietly furious that the one thing she was told ("check") has turned
@@ -113,7 +113,7 @@ intelligent gaze, standing at the edge of a steaming desert basin at dusk,
 a black disc on a chain at her collar. Photorealistic, science fiction
 character portrait, no text, no logos.
 
-### Tavish "Tav" Mbeki — Breacher / Engineer
+### Tavish "Tav" Mbeki: Breacher / Engineer
 
 An easy talker with a fondness for shaped charges and a habit of saying
 "it'll be fine."
@@ -144,7 +144,7 @@ smudged grin, standing in a cracked desert shelf with a thin curl of
 steam rising behind him. Photorealistic, science fiction character
 portrait, no text, no logos.
 
-### Dr. Sunniva Hale — Medic / Telepath
+### Dr. Sunniva Hale: Medic / Telepath
 
 A field physician and a trained psion who has spent her career being
 careful. Today she was not careful.
@@ -176,7 +176,7 @@ wide with fear and restraint, one hand pressed to her temple, a steaming
 desert basin blurred behind her. Photorealistic, science fiction
 character portrait, no text, no logos.
 
-### Rook Delacroix — Gunner / Muscle
+### Rook Delacroix: Gunner / Muscle
 
 The youngest of the team and the one who shoots first, mostly because
 somebody has to.
@@ -210,7 +210,7 @@ no text, no logos.
 
 ---
 
-## H.5 — THEIR AFTERNOON (THE TOUR)
+## H.5: THEIR AFTERNOON (THE TOUR)
 
 | Time | What happened |
 |---|---|
@@ -223,7 +223,7 @@ no text, no logos.
 
 ---
 
-## H.6 — WHAT THEY DID: THE AGGRAVATION (d6)
+## H.6: WHAT THEY DID, THE AGGRAVATION (d6)
 
 Something the pickup did woke the Mass. Roll d6, or choose.
 
@@ -239,7 +239,7 @@ if you want a compounded disaster.
 
 ---
 
-## H.7 — WHAT HAPPENED TO THEM: RANDOM CHOICE (d6)
+## H.7: WHAT HAPPENED TO THEM, RANDOM CHOICE (d6)
 
 Roll once for the team (or choose). **C** = Captured (inside an Egg-bloom,
 Area 13). **T** = Trapped (in a Terrace void, Area 12). **L** = Lost (wandering
@@ -283,7 +283,7 @@ you roll here is the truth that the paper trail is hiding.
 
 ---
 
-## H.8 — WHAT THEY KNOW (IF FREED)
+## H.8: WHAT THEY KNOW (IF FREED)
 
 - **Why they were early.** Wei told them to "check that nothing has gone
   bad." They went to look at the one odd site in an hour's drive.
@@ -300,7 +300,7 @@ you roll here is the truth that the paper trail is hiding.
 
 ---
 
-## H.9 — IF THE TABLE FREES NO ONE
+## H.9: IF THE TABLE FREES NO ONE
 
 The fobs alone get two PCs aboard. The ship lifts. The pickup stays in
 the Reserve, in the cradle or the dark, and the final image of the

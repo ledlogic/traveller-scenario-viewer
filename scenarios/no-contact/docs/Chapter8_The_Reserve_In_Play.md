@@ -1,11 +1,11 @@
 # TRAVELLER: NO CONTACT
-## Chapter 8 — The Reserve in Play
+## Chapter 8: The Reserve in Play
 
 *Referee Reference Document*
 
 ---
 
-## 8.0 — WHAT THIS CHAPTER DOES
+## 8.0: WHAT THIS CHAPTER DOES
 
 Chapter 7 says how the Gut came to be. This chapter says what it is like to
 walk into it tonight: the fourteen numbered areas of the Halvorsen Basin
@@ -27,7 +27,7 @@ Areas table are from the Gate (Area 1), by service track.
 
 ---
 
-## 8.1 — THE ALERT TRACK
+## 8.1: THE ALERT TRACK
 
 The Reserve tracks one number: **Alert Points (AP)**, 0–12. Tonight it
 **starts at 6 (Red)**.
@@ -61,7 +61,7 @@ makes every scene harder and removes the quiet routes.
 
 ---
 
-## 8.2 — THE FOURTEEN AREAS
+## 8.2: THE FOURTEEN AREAS
 
 | # | Name | Dist. from Gate | Status tonight | What's there |
 |---|---|---|---|---|
@@ -80,31 +80,31 @@ makes every scene harder and removes the quiet routes.
 | **13** | **The Orchard** | 11 km | **CLOSED** | Grove of Egg-blooms. The pickup's camp. |
 | **14** | **The Sink** | 12 km | **CLOSED** | The deepest part of the basin. A warm, breathing mat, the surface of the Mass. |
 
-### Areas 12, 13, 14 — the closed zone
+### Areas 12, 13, 14: the closed zone
 
-**Area 12 — The Terrace.** A broken shelf, three to ten metres above the
+**Area 12: The Terrace.** A broken shelf, three to ten metres above the
 Sink. The ground rings hollow underfoot. Dozens of **sinkholes** (Athletics
 (dexterity) or Recon check to walk safely; failure drops you 1D metres into
 a void with a warm, damp floor). Two surviving **tunnels** from the Y1113
-collapse run toward the Sink — the best natural place to find *trapped*
+collapse run toward the Sink; the best natural place to find *trapped*
 pickup members, alive but unable to climb out. Fluid seeps through the walls.
 
-**Area 13 — The Orchard.** The Egg-bloom grove: 30-odd plants 6–10 metres
+**Area 13: The Orchard.** The Egg-bloom grove: 30-odd plants 6–10 metres
 tall, spaced a few metres apart, closed like enormous eggs at midday and
 slowly opening at dusk. This is where the pickup pitched camp, and where the
 Mass took them. Captured crew members hang **inside open or half-open
 Egg-blooms** in a sedated, upright sleep. Their tents are still staked out,
 neatly, a few metres from the nearest bloom.
 
-**Area 14 — The Sink.** A breathing mat of tissue about a kilometre wide.
+**Area 14: The Sink.** A breathing mat of tissue about a kilometre wide.
 Heat shimmer, the smell of a butcher's yard in summer, and a soft rhythmic
 *pulse* every few seconds that the body feels through the boots. A person
-can *lose* a pickup member here — wandering, hallucinating from the spores —
+can *lose* a pickup member here (wandering, hallucinating from the spores)
 but cannot easily *find* one. The mole's best approach is from below.
 
 ---
 
-## 8.3 — WHAT LIVES HERE: DRIFTERS, WADERS, EGG-BLOOMS
+## 8.3: WHAT LIVES HERE, DRIFTERS, WADERS, EGG-BLOOMS
 
 Everything alive on the surface is, one way or another, **a part of the
 Mass**. Three kinds matter at the table, and each has a size and a job.
@@ -117,7 +117,7 @@ on tall legs; Egg-blooms as a large egg-shaped terrain piece with opening
 | Area | Drifters (floating blobs) | Waders (long-legged blobs) | Egg-blooms (6–10 m egg plants) |
 |---|---|---|---|
 | 1–2 | A few overhead at dusk. Tourists photograph them. | None | None |
-| 3–4 | Hover over the steam, riding the thermals | **Feeding** — wading the slurry, picking at floating scraps | None |
+| 3–4 | Hover over the steam, riding the thermals | **Feeding**: wading the slurry, picking at floating scraps | None |
 | 5–6 | Rare | Rare (one or two at the lagoon edge) | None |
 | 7 | **Watching**: a ring of Drifters circles the tower at dusk (rangers read them as an alarm) | None | None |
 | 8 | A few; attracted by feed smell | **Waiting**: stand motionless at the docks as feed trucks unload | None |
@@ -125,7 +125,7 @@ on tall legs; Egg-blooms as a large egg-shaped terrain piece with opening
 | 10 | Some; follow the seep | Some; travel in pairs | None |
 | 11 | **Grazing**: dense herds, hundreds, drifting with the wind | Scattered | A few young (3–5 m) |
 | 12 | **Gathered**: low and tight above the sinkholes | **Patrolling** the rim: they have been *called in* | None |
-| 13 | **Pollinating**: moving bloom to bloom | **Carrying**: ferrying wrapped bundles toward the blooms | **The Orchard** — 30+ at full size |
+| 13 | **Pollinating**: moving bloom to bloom | **Carrying**: ferrying wrapped bundles toward the blooms | **The Orchard**: 30+ at full size |
 | 14 | Clustered thick; "sleeping" low on the mat | Few; stand in the mat like reeds | A handful at the edge |
 
 **Drifters (floating blobs).** Translucent, gas-filled bags 1–3 metres
@@ -145,7 +145,7 @@ strong wind.
 
 **Waders (long-legged blobs).** Stilt-legged blobs 3–5 metres tall, with a
 soft, bag-like body slung between four long legs and a cluster of grasping
-tendrils below. They graze slurry at the lagoon and **carry** things —
+tendrils below. They graze slurry at the lagoon and **carry** things,
 wrapped bundles, including live people, to the Orchard. The Mass's hands.
 
 - **Hits 40 · Speed 6 m · Armour 2**
@@ -160,7 +160,7 @@ wrapped bundles, including live people, to the Orchard. The Mass's hands.
 **Egg-blooms (egg-shaped flower plants, 6–10 m).** Tall, egg-shaped buds
 of overlapping petals on a thick, wet stalk. At midday they stay **closed**;
 at dusk the petals unfurl slowly like a flower opening in reverse, revealing a
-**cradle** — a deep, warm, nectar-filled pit lined with soft filaments. They
+**cradle**; a deep, warm, nectar-filled pit lined with soft filaments. They
 are the Mass's **stomach and nursery**: they hold captured creatures in a
 sedated, upright sleep and sample them for days. Prey is not dissolved
 quickly; it is *kept*.
@@ -204,23 +204,23 @@ exactly this at 16:20 today.
 
 ---
 
-## 8.4 — THREE WAYS IN
+## 8.4: THREE WAYS IN
 
 The Reserve is 11 km from the motel by road, on a spur most maps leave off.
-At Red, the Gate (Area 1) checks everything. Three routes in — plan for
+At Red, the Gate (Area 1) checks everything. Three routes in: plan for
 different Acts, and expect the table to invent a fourth.
 
-**Route A — The Big Rig.** Del Ashworth's feed tanker (Appendix B, §B.5; Appendix C, §C.2) is a
+**Route A: The Big Rig.** Del Ashworth's feed tanker (Appendix B, §B.5; Appendix C, §C.2) is a
 **contract Feed Line hauler** carrying **28 tonnes of slaughterhouse offal**
 on a **stamped manifest (Consignment 9-4471)**. Even at Red, a stamped
 manifest gets a feed truck through the Gate to Area 8: "you can't question a
 properly stamped form." Once at the Terminal, the rig can follow the service
 track to Area 9. **Cost:** Del needs the rig fixed (Act II), and he needs to
-be persuaded — or hired, bribed, or forced. He will not abandon his truck.
+be persuaded, or hired, bribed, or forced. He will not abandon his truck.
 A character who rides in the tanker's cab is clean; one in the trailer is
 **coated in feed**, which Drifters and Waders ignore (§8.3).
 
-**Route B — The Form.** **Form 14-R (Request to Retrieve Property from a
+**Route B: The Form.** **Form 14-R (Request to Retrieve Property from a
 Closed Area)** is the legitimate way to ask for a lost bag. A PC with
 **Admin or Bureaucracy** can file one at the Gate: Average (8+) check, DM +2
 if they have the pickup's permit number (Area 13 walk-in #0614) or a
@@ -228,7 +228,7 @@ Jorjor Civil Service seal. Success: a ranger escort to Area 7, with a
 reduction of AP by 1. Failure: +1 AP and a suspicious Compliance Officer
 Pruitt. Pruitt can be an ally (§8.5).
 
-**Route C — On Foot.** Over the fence-line, across the dry wash, and into
+**Route C: On Foot.** Over the fence-line, across the dry wash, and into
 the closed Areas from the north (the same line the pickup's ship sits
 behind). Eleven kilometres with the dust front arriving. Effects: no
 Gate-check, but Drifters and Waders, rangers on patrol, and the weather.
@@ -236,7 +236,7 @@ The ship lies along this route (Appendix H, §H.2).
 
 ---
 
-## 8.5 — RESERVE STAFF
+## 8.5: RESERVE STAFF
 
 Full stat blocks, because the table will talk to every one of them.
 
@@ -369,7 +369,7 @@ crossover, no text, no logos.
 
 ---
 
-## 8.6 — MOLES
+## 8.6: MOLES
 
 The Reserve keeps **two** TL7 **moles** (burrowing excavators) at Area 9,
 used to inspect the Mass and to lay pipe. A mole takes a driver (Drive (mole)
@@ -392,21 +392,21 @@ converge on the vibration. Drilling through *rock* or *soil* is quiet.
 The best route to the Orchard is **soil from Area 9 to Area 12**, then
 the Terrace tunnels, then rock to the grove's roots.
 
-**Distances from Area 9:** Area 12 — 3.5 km; Area 13 — 4.5 km; Area 14 — 5.5 km.
+**Distances from Area 9:** Area 12: 3.5 km; Area 13: 4.5 km; Area 14: 5.5 km.
 
 ---
 
-## 8.7 — THE DUST STORM CLOCK
+## 8.7: THE DUST STORM CLOCK
 
 The storm established in Appendix B is a **haboob**, a dust front rolling in
 from the south-west. It reaches the Reserve in stages.
 
 | Stage | When | At the motel | At the Reserve |
 |---|---|---|---|
-| **1 — Distant wall** | Act I (21:00–22:15) | Orange horizon, static on the radio | Tours cancelled. Drifters low. |
-| **2 — First gusts** | Act II (≈22:15–00:15) | Wind, grit, lights flicker | Visibility 50 m. Egg-blooms close. Gate shut except for manifests. |
-| **3 — Full storm** | Act III (≈00:15–05:00) | Highway closed. Visibility near zero. | Visibility 5 m. Waders blind. Egg-blooms sealed. **Surface patrols withdrawn.** Aircraft grounded. |
-| **4 — Passing** | ≈05:00–05:45 | Clearing sky | Dawn. Everything is visible again. |
+| **1: Distant wall** | Act I (21:00–22:15) | Orange horizon, static on the radio | Tours cancelled. Drifters low. |
+| **2: First gusts** | Act II (≈22:15–00:15) | Wind, grit, lights flicker | Visibility 50 m. Egg-blooms close. Gate shut except for manifests. |
+| **3: Full storm** | Act III (≈00:15–05:00) | Highway closed. Visibility near zero. | Visibility 5 m. Waders blind. Egg-blooms sealed. **Surface patrols withdrawn.** Aircraft grounded. |
+| **4: Passing** | ≈05:00–05:45 | Clearing sky | Dawn. Everything is visible again. |
 
 **The storm helps and hurts.** It hides the players from rangers and hides the
 rig's headlights; it also grinds filters, blinds sensors, chokes engines,
@@ -420,7 +420,7 @@ and is a hard cap on how long anyone can be outside.
 
 ---
 
-## 8.8 — THE RESERVE RESCUE SERVICE ("THE ORANGE VESTS")
+## 8.8: THE RESERVE RESCUE SERVICE ("THE ORANGE VESTS")
 
 Like any big water park, the Reserve keeps trained rescuers on call, because
 visitors get into trouble every day. The **Reserve Rescue Service (RRS)** has
@@ -474,7 +474,7 @@ crossover, no text, no logos.
 
 ---
 
-## 8.9 — THE PAPER TRAIL: WHERE IS THE PICKUP NOW?
+## 8.9: THE PAPER TRAIL, WHERE IS THE PICKUP NOW?
 
 **The park is not optional.** The *Soft Landing* sits in a dry wash
 just outside the Reserve fence, and its crew used their spare day to walk
@@ -541,7 +541,7 @@ three are weapons in a bureaucracy that does not question a stamped form.
 
 ---
 
-## 8.10 — GETTING OFF PLANET
+## 8.10: GETTING OFF PLANET
 
 The *Soft Landing* (Appendix H) sits in a dry wash **11 km north of Area 13**,
 under sensor-shadow. Reaching it, unlocking it, and lifting off is the

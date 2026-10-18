@@ -2,73 +2,73 @@
   "title": "No Contact",
   "subtitle": "A Mongoose Traveller 2e Convention Scenario",
   "system": "Mongoose Traveller 2nd Edition",
-  "setting": "Motel Yermo, Jorjor, Arcturus Subsector, Solomani Rim — Imperial Space",
+  "setting": "Motel Yermo, Jorjor, Arcturus Subsector, Solomani Rim, Imperial Space",
   "color": "#5c4a3a",
   "inception_date": "2026-08-30",
   "docs": [
     {
       "file": "Chapter1_Introduction.md",
-      "label": "Ch 1 — Introduction & Situation"
+      "label": "Ch 1: Introduction & Situation"
     },
     {
       "file": "Chapter2_How_The_Twist_Works.md",
-      "label": "Ch 2 — How The Twist Works"
+      "label": "Ch 2: How The Twist Works"
     },
     {
       "file": "Chapter3_Shift_Structure.md",
-      "label": "Ch 3 — The Three Acts (Night/Graveyard/Morning)"
+      "label": "Ch 3: The Three Acts (Night/Graveyard/Morning)"
     },
     {
       "file": "Chapter4_Maps_Visual_Reference.md",
-      "label": "Ch 4 — Room Relationships & Table Reference"
+      "label": "Ch 4: Room Relationships & Table Reference"
     },
     {
       "file": "Chapter5_The_Setting.md",
-      "label": "Ch 5 — The Setting (Route 66 Analog)"
+      "label": "Ch 5: The Setting (Route 66 Analog)"
     },
     {
       "file": "Chapter6_Player_Characters.md",
-      "label": "Ch 6 — Player Characters"
+      "label": "Ch 6: Player Characters"
     },
     {
       "file": "Chapter7_The_Pit_History.md",
-      "label": "Ch 7 — The Pit: History, Tonnage & Timeline"
+      "label": "Ch 7: The Pit: History, Tonnage & Timeline"
     },
     {
       "file": "Chapter8_The_Reserve_In_Play.md",
-      "label": "Ch 8 — The Reserve in Play"
+      "label": "Ch 8: The Reserve in Play"
     },
     {
       "file": "AppendixA_Motel_Owner_NPC.md",
-      "label": "App A — NPC: The Motel Owner"
+      "label": "App A: NPC: The Motel Owner"
     },
     {
       "file": "AppendixB_Night_Atmosphere_Random_Tables.md",
-      "label": "App B — Night Atmosphere, Detection Risk & Random Tables"
+      "label": "App B: Night Atmosphere, Detection Risk & Random Tables"
     },
     {
       "file": "AppendixC_Lobby_and_NPC_Guests.md",
-      "label": "App C — The Lobby & Civilian Guests (Room 4)"
+      "label": "App C: The Lobby & Civilian Guests (Room 4)"
     },
     {
       "file": "AppendixD_Restaurant.md",
-      "label": "App D — The Restaurant (Semi-Closed)"
+      "label": "App D: The Restaurant (Semi-Closed)"
     },
     {
       "file": "AppendixE_Graveyard_Complications.md",
-      "label": "App E — Graveyard Shift Complications: NPCs"
+      "label": "App E: Graveyard Shift Complications: NPCs"
     },
     {
       "file": "AppendixF_Skill_Spotlight.md",
-      "label": "App F — Skill Spotlight & Combat Hooks"
+      "label": "App F: Skill Spotlight & Combat Hooks"
     },
     {
       "file": "AppendixG_Master_Clue_Summary.md",
-      "label": "App G — Master Clue Summary"
+      "label": "App G: Master Clue Summary"
     },
     {
       "file": "AppendixH_The_Pickup.md",
-      "label": "App H — The Pickup (SolSec Team Soft Landing)"
+      "label": "App H: The Pickup (SolSec Team Soft Landing)"
     }
   ]
 }

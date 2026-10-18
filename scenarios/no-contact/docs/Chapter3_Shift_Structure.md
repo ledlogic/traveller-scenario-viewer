@@ -1,20 +1,20 @@
 # TRAVELLER: NO CONTACT
-## Chapter 3 — The Three Acts (Night / Graveyard / Morning)
+## Chapter 3: The Three Acts (Night / Graveyard / Morning)
 
 *Referee Reference Document*
 
 ---
 
-## 3.0 — OVERVIEW
+## 3.0: OVERVIEW
 
 The session runs as three acts, mirroring a motel's own shift structure. Total
 runtime target: **4 hours**, convention slot length.
 
 | Act | Shift | Time at table | Question | Ends when |
 |---|---|---|---|---|
-| **I — Roll Call** | Night | ~75 min | Who's in the group, and who isn't? | The table has a crew for the road, the interlopers are dealt with, and they know where the pickup went. |
-| **II — The Big Rig** | Graveyard | ~90 min | What happened to our contact? | The rig is running and through the Reserve's gate (or another way in). |
-| **III — Dig Them Out** | Morning | ~75 min | Can we get them (or their codes) off this planet? | The *Soft Landing* lifts, or doesn't. |
+| **I: Roll Call** | Night | ~75 min | Who's in the group, and who isn't? | The table has a crew for the road, the interlopers are dealt with, and they know where the pickup went. |
+| **II: The Big Rig** | Graveyard | ~90 min | What happened to our contact? | The rig is running and through the Reserve's gate (or another way in). |
+| **III: Dig Them Out** | Morning | ~75 min | Can we get them (or their codes) off this planet? | The *Soft Landing* lifts, or doesn't. |
 
 **The park is not optional.** The *Soft Landing* sits in a dry wash just outside
 the Halvorsen Basin Biological Reserve, and the pickup crew used their spare day
@@ -33,26 +33,26 @@ wall in Act I, first gusts in Act II, full storm in Act III, dawn at the end.
 
 ---
 
-## 3.1 — ACT I: NIGHT — "ROLL CALL" (~75 minutes)
+## 3.1: ACT I, NIGHT, "ROLL CALL" (~75 minutes)
 
 Guests arrive and settle in. Small talk, cover stories, first hints something is
-off — a car that doesn't stop at the motel sign, a payphone call that doesn't
+off; a car that doesn't stop at the motel sign, a payphone call that doesn't
 connect, a light that shouldn't be on in an empty room. Players start
 informally sounding each other out without revealing themselves.
 
 **Establish the trap early, quietly:** every PC took a one-way ride to get here,
-assuming extraction would be their ride out — nobody arranged their own return
+assuming extraction would be their ride out; nobody arranged their own return
 transport. Layer in two concrete complications rather than vague dread: a **dust
 storm front is blocking regional highway traffic** (Stage 1: an orange wall on
 the south-west horizon), and it has also knocked out **local commercial comms**
-(payphones, the motel's own line). Neither is supernatural or plot-generated —
+(payphones, the motel's own line). Neither is supernatural or plot-generated;
 both are checkable, ordinary facts a PC can confirm. Full detail, including a
 random table for passing traffic that never stops, local flora/fauna texture,
 and optional unrest/bandit rumors, is in Appendix B.
 
 **Tech discipline matters from the first scene.** Jorjor runs passive detection at
 its own TL7 baseline, escalating to the Imperial Security Service if something
-anomalous is flagged — see Appendix B, §B.1 for the house rule on checks required
+anomalous is flagged, see Appendix B, §B.1 for the house rule on checks required
 when a PC risks using above-TL7 gear.
 
 ### The question: who's in the group, and who isn't?
@@ -66,7 +66,7 @@ Act I's real work is sorting people.
   people, and genuine bystanders if the night turns violent.
 - **The interlopers.** Anyone who should not be riding along, watching, or
   asking questions: **Deputy Marsh** (Appendix E, §E.1), the **idling
-  stranger** (Appendix E, §E.2), a curious Priya, and — the hard one — **the
+  stranger** (Appendix E, §E.2), a curious Priya, and, the hard one, **the
   Version: Imperium mole** (Chapter 2) among the six.
 
 **Get the interlopers out** means the table makes a decision about each:
@@ -100,13 +100,13 @@ Reserve's own signage on the highway.
 
 ---
 
-## 3.2 — ACT II: GRAVEYARD — "THE BIG RIG" (~90 minutes)
+## 3.2: ACT II, GRAVEYARD, "THE BIG RIG" (~90 minutes)
 
 The extraction window comes and goes. Nothing. Panic and suspicion rise. The
 table now has a bearing: the pickup went into the Reserve. Act II is about
 **finding out what happened** and **getting there**.
 
-**Pacing is free-form, not a hard clock.** There is no countdown mechanic — the
+**Pacing is free-form, not a hard clock.** There is no countdown mechanic; the
 referee paces this act by feel, using the complications below and §3.4's notes.
 
 ### The scenes
@@ -139,15 +139,15 @@ referee paces this act by feel, using the complications below and §3.4's notes.
 
 ### Complications
 
-Use these to force decisions under pressure — full NPC stat blocks are in
+Use these to force decisions under pressure; full NPC stat blocks are in
 Appendix E:
 
-- Local police drawn by noise or a nosy neighbor's call — §E.1.
-- A stranger's car idling too long outside, engine running — §E.2,
+- Local police drawn by noise or a nosy neighbor's call, §E.1.
+- A stranger's car idling too long outside, engine running, §E.2,
   built as two interchangeable versions (mundane or a Shutter Project
   Watcher).
 - A phone call to the motel's front desk that hangs up the moment anyone
-  but the owner answers — §E.3, **still deliberately unresolved**, even now.
+  but the owner answers, §E.3, **still deliberately unresolved**, even now.
 
 **Act II ends** when the rig is past the Gate (or the table has found
 another way in) and they are at the Feed Line Terminal (Area 8) with the
@@ -155,7 +155,7 @@ storm rising. If the table is out of time, skip to the Terminal.
 
 ---
 
-## 3.3 — ACT III: MORNING — "DIG THEM OUT" (~75 minutes)
+## 3.3: ACT III, MORNING, "DIG THEM OUT" (~75 minutes)
 
 Dust storm Stage 3. The surface patrols have been pulled in. The only
 quiet way to reach the closed Areas 12–14 is **under** the ground.
@@ -180,7 +180,7 @@ quiet way to reach the closed Areas 12–14 is **under** the ground.
 6. **Lift before dawn.** At about 05:45 the storm passes. If a
    Version: Imperium PC has signalled, an Imperial cutter arrives.
 
-**The mole's endgame plays out here** (Chapter 2) — either they have quietly
+**The mole's endgame plays out here** (Chapter 2): either they have quietly
 signalled Imperial pickup, or the group catches them first. Resolve with an
 escape, a firefight, a betrayal at the ship's hatch, or a tense stand-down,
 depending on how play went.
@@ -192,9 +192,9 @@ the rest (Appendix H, §H.9).
 
 ---
 
-## 3.4 — PACING NOTES
+## 3.4: PACING NOTES
 
-- Don't let any single room's thread eat more than ~20 minutes uninterrupted —
+- Don't let any single room's thread eat more than ~20 minutes uninterrupted;
   cut between rooms (in Act I) and between the cab and the trailer (in Act II)
   to keep all six players engaged.
 - If the table is moving faster than expected, the Graveyard complications
@@ -203,6 +203,6 @@ the rest (Appendix H, §H.9).
   go to the drill.
 - Every action in the Reserve raises the **Alert track** (Chapter 8, §8.1).
   Use it to keep pressure on without a hard clock.
-- For a clock-time reference across all three acts — when the complications
+- For a clock-time reference across all three acts (when the complications
   land, when the dust storm advances, and when each room's scheduled phone
-  check-in call comes through — see Appendix E, §E.4.
+  check-in call comes through) see Appendix E, §E.4.
