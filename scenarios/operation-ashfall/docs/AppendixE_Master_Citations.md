@@ -7,7 +7,7 @@
 
 ## E.1 - WHY THIS EXISTS
 
-Every stat block, rule, and setting fact used in this scenario is sourced individually in the appendix it belongs to (Appendix A §A.7, Appendix C §C.6). This page pulls all of it into one place so you don't have to hunt across four documents to check where a number came from, same convention established in *Cold Trail in Kethara Reach*, Appendix G.
+Every stat block, rule, and setting fact used in this scenario is sourced individually in the appendix it belongs to (Appendix A §A.7, §A.18). This page pulls all of it into one place so you don't have to hunt across four documents to check where a number came from, same convention established in *Cold Trail in Kethara Reach*, Appendix G.
 
 **Abbreviations used throughout Operation Ashfall:**
 
@@ -27,10 +27,10 @@ Every stat block, rule, and setting fact used in this scenario is sourced indivi
 | Element | Used In | Source | Page / Note |
 |---|---|---|---|
 | Ys UWP (A847869-C), Bases, Trade Codes, Allegiance | Ch 1, §1.3 | SolFront | Gemini Subsector gazetteer, world entry, cross-checked against Traveller Map / Traveller Wiki's current Second Survey data, which matches |
-| Captive Government (Government code 6) definition | Ch 1; App A, §A.10 | CRB22 | World Generation, Government table |
+| Captive Government (Government code 6) definition | Ch 1; App A, §A.18 | CRB22 | World Generation, Government table |
 | Underground resistance / martial-law background on Ys | Ch 1, §1.3–1.4 | SolFront | Gemini Subsector gazetteer, world entry |
-| Colonial administration / civil-service career framing (Krein) | App A, §A.10 | SolFront | Solomani Rim political background, administrative worlds |
-| Task difficulty & skill check framework | Throughout; App A, §A.10 | CRB22 | pp.60–63 |
+| Colonial administration / civil-service career framing (Krein) | App A, §A.18 | SolFront | Solomani Rim political background, administrative worlds |
+| Task difficulty & skill check framework | Throughout; App A, §A.18 | CRB22 | pp.60–63 |
 | Admin, Advocate, Diplomat, Leadership skill definitions | App A, §A.2–A.3 | CRB22 | pp.56–59 |
 | Combat Armour, Basic (Protection +13, Rad 85 | App A, §A.6 | CSC23 | pp.38–39) corrects an earlier placeholder +8 that was never sourced from either book |
 | Advanced Combat Rifle (TL10, 450m, 3D, 3kg, Cr1,000, magazine 40 at Cr15, Auto 3, Scope), corrects an earlier unsourced ~500m range | App A, §A.6; App I, §I.9, §I.10 | CSC23 | p.145 |
@@ -45,18 +45,18 @@ Every stat block, rule, and setting fact used in this scenario is sourced indivi
 | Advanced Automedikit (TL14, Cr15,000), replacing the earlier Medikit armour modification on Achebe's suit | Ch 2, §2.5 | CSC23 | p.20 |
 | Laser Pistol (TL9, Range 20m, 3D, 2 kg, Cr2,000, Magazine 100 at Cr1,000, Zero-G), Rivit's sidearm, replacing an earlier unsourced damage entry | Ch 2, §2.7 | CSC23 | p.149 |
 | Radio Transceiver (TL12, Planetary 50,000km, 2 kg, Cr2,000), Encryption option (+Cr4,000) and Advanced Mobile Comm (TL10, Computer/1, Cr500), Governor Krein's comm suite | App A, §A.4 | CSC23 | pp.63–65 |
-| Mobile Comm, Advanced (TL10, Computer/1, Cr500), Marcus Thane's comm | App A, §A.9 | CSC23 | p.63 |
+| Mobile Comm, Advanced (TL10, Computer/1, Cr500), Marcus Thane's comm | App A, §A.8 | CSC23 | p.63 |
 | Automedikit automatic first-aid function (treated as Medic skill equal to the DM of a medikit of the same TL) | Ch 2, §2.5 | CSC23 | p.20 |
 | Task penalty for missing required skill (-2 DM per level, incl. level 0) | Ch 2 | CRB22 | p.100, Armour rules |
 | Radiation exposure rules (Rad protection deducted from rads received per exposure) | Ch 4, §4.2 | CRB22 | p.100 |
 | Immediate and Cumulative Radiation Effects tables (damage and characteristic loss by rad threshold) | Ch 4, §4.2 | CRB22 | p.81 |
 | Anti-rad drugs (100 rads absorbed per dose, once/day, overuse penalty) | Ch 4, §4.2 | CRB22 | Equipment, pharmaceuticals |
 | Combat round length (6 seconds) | General reference | CRB22 | Combat rules, ~p.130 |
-| Cloth Jacket, concealable (Protection +5, Rad)| App C, §C.4 | CSC23 | pp.38–39; CRB22's own parallel row at p.100 never printed a protection number due to a confirmed text-extraction issue |
-| Autopistol, 3D–3 | App C, §C.4 | CRB22 | p.124 |
-| Investigate, Streetwise, Deception skill definitions | App C, §C.4 | CRB22 | pp.56–63 |
-| Imperial counter-intelligence / captive-government institutional tension | App C, §C.1, C.5 | SolFront | Gemini Subsector gazetteer, world entry (Ys) |
-| ISS operational independence from civil governors | App C, §C.1 | CRB22 | Referee's Toolbox, general Imperial institutional framing |
+| Cloth Jacket, concealable (Protection +5, Rad)| App A, §A.12 | CSC23 | pp.38–39; CRB22's own parallel row at p.100 never printed a protection number due to a confirmed text-extraction issue |
+| Autopistol, 3D–3 | App A, §A.12 | CRB22 | p.124 |
+| Investigate, Streetwise, Deception skill definitions | App A, §A.12 | CRB22 | pp.56–63 |
+| Imperial counter-intelligence / captive-government institutional tension | App A, §A.9, A.13 | SolFront | Gemini Subsector gazetteer, world entry (Ys) |
+| ISS operational independence from civil governors | App A, §A.9 | CRB22 | Referee's Toolbox, general Imperial institutional framing |
 | Reach Warden Shotgun | Ch 5, §5.4 | CRB22 | Weapons table, *damage code unverified; source PDF's extraction dropped this row's damage column, same pattern as other flagged tables in this document. Confirm against your own copy before using at the table.* |
 | Dolphin Traveller characteristic modifiers (END+1, SOC–1) and racial traits (Deep Diver, Echolocation, Swimmer) | Ch 2, §2.8 | BtC | p.35 area, "Creating Dolphin Travellers" |
 | Type D Battle Dress (Dolphin-specific): Protection +25, TL15, Rad 300, STR+2/DEX+6, 20 Slots, waldo manipulators, sonar sensor DM+2 | Ch 2, §2.8 | BtC | Specialist Collection, Delphinic Technology, item A01/75324 |

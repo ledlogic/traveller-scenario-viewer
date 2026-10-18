@@ -39,7 +39,7 @@ That's the entire mechanic. Rad rating is a flat subtraction, not a percentage, 
 | Cloth Jacket | Ponch | +5 | **none** |
 | Cloth armour + Riot Shield | Jon | +5 combined | **none** |
 | Combat Armour, Basic | Krein's Loyalist Close Protection Detail (Appendix A, §A.6) | +13 | **85** |
-| Cloth Armour (concealable) | ISS Field Agents (Appendix C, §C.4) | +5 | **none** |
+| Cloth Armour (concealable) | ISS Field Agents (Appendix A, §A.12) | +5 | **none** |
 | Flak Jacket | Reach Wardens (Chapter 5, §5.4) | +3 | **none** |
 | No armor | Governor Krein himself (Appendix A, §A.4) | — | — |
 

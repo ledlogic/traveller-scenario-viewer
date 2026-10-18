@@ -116,7 +116,7 @@ This is a genuinely good structural idea, and it's worth building deliberately r
 
 **How to justify it in-fiction without it feeling arbitrary:** the same institutional chaos already established throughout this project is the natural cause, Vantry's response mobilizing city-wide (Appendix C), loyalist checkpoints multiplying in the aftermath of whatever happened at the Pi Building, ordinary traffic control breaking down as more of the garrison redeploys toward the administration district. A referee doesn't need to invent a new complication; they need to let the ones already on the page compound.
 
-**If you want a hard trigger rather than "the referee decides":** tie it directly to the Appendix C escalation track, reaching **Stage 4 (Active Manhunt)** during or immediately after the Pi Building assault is a clean, mechanically-grounded reason for the referee to declare that reliable city-wide transport is no longer available to anyone, team included, for the remainder of the session. That gives the players a visible cause-and-effect: their own actions at the Pi Building are what closes this door, not an arbitrary GM fiat.
+**If you want a hard trigger rather than "the referee decides":** tie it directly to the Appendix A escalation track (§A.10), reaching **Stage 4 (Active Manhunt)** during or immediately after the Pi Building assault is a clean, mechanically-grounded reason for the referee to declare that reliable city-wide transport is no longer available to anyone, team included, for the remainder of the session. That gives the players a visible cause-and-effect: their own actions at the Pi Building are what closes this door, not an arbitrary GM fiat.
 
 ---
 
