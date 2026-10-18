@@ -43,7 +43,7 @@ Run this as **three linked tasks**, not one big roll. Each can be attempted by a
 
 Keep this small. Ys doesn't have spare loyalist manpower this deep into an uprising, and the scenario is stronger if Act Three's tension comes from the clock and the equipment, not a wall of enemies.
 
-- **A skeleton technical detachment** (2–4 personnel, use the Loyalist Close Protection Detail block, Appendix A §A.5, reduced to Gun Combat 1), present if the team was loud in Act Two, absent if they weren't.
+- **A skeleton technical detachment** (2–4 personnel, use the Loyalist Close Protection Detail block, Appendix A §A.6, reduced to Gun Combat 1), present if the team was loud in Act Two, absent if they weren't.
 - **The pursuit force from Act Two**, if it wasn't lost or turned back (Chapter 5, §5.3), catches up here for a final confrontation, this is the natural place for that thread to pay off if it's still live.
 
 ---
@@ -80,4 +80,4 @@ Whatever the outcome, close on Meridian, not on the bunker, the Act 1 dockyard s
 
 ---
 
-*Last updated: 2026-09-29*
+*Last updated: 2026-10-17*

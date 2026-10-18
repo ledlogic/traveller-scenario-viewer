@@ -33,7 +33,8 @@ Every stat block, rule, and setting fact used in this scenario is sourced indivi
 | Task difficulty & skill check framework | Throughout; App A, §A.10 | CRB22 | pp.60–63 |
 | Admin, Advocate, Diplomat, Leadership skill definitions | App A, §A.2–A.3 | CRB22 | pp.56–59 |
 | Combat Armour, Basic (Protection +13, Rad 85 | App A, §A.6 | CSC23 | pp.38–39) corrects an earlier placeholder +8 that was never sourced from either book |
-| Advanced Combat Rifle, 3D Auto 3 | App A, §A.6 | CRB22 | p.125; range ~500m is a standard published value, this source PDF's own row was extraction-corrupted |
+| Advanced Combat Rifle (TL10, 450m, 3D, 3kg, Cr1,000, magazine 40 at Cr15, Auto 3, Scope), corrects an earlier unsourced ~500m range | App A, §A.6; App I, §I.9, §I.10 | CSC23 | p.145 |
+| Combat Armour, Basic (20kg, Cr96,000), Improved (16kg, Cr88,000), Advanced (12kg, Cr160,000) | App A, §A.6; App I | CSC23 | p.33 |
 | Close Protection / garrison troop NPC conventions | App A, §A.6 | CRB22 | Referee's Toolbox, NPC generation |
 | **Ceramic Combat Armour Protection, +18 vs fire/lasers/energy, Rad, Cost, TL, required skill** | Ch 2, §2.2, §2.3, §2.4, §2.5, §2.6, §2.7 | CSC23 | p.33 |
 | **Radio Transceiver (TL12, Continental 5,000km, Cr500) and Transceiver Encryption option (+Cr4,000)** | Ch 2, §2.2 | CSC23 | pp.64–65 |

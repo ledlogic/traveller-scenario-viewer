@@ -435,6 +435,8 @@ Vacc Suit 2
 | Revolver | Gun Combat (slug) | +2 | 3D−3 | 4 | 10m | 0.5 | 6 | — |
 | Smoke Grenade (Blast 9; DM−2 to attacks on targets in the cloud, IR vision ignores it, lasts 1D × 3 rounds) | Athletics (dexterity) | −2 (unskilled) | — | 6 | 20m | 0.5 | — | — |
 
+*Scope trait (CRB22): the weapon has vision-enhancing sights. Attacks made at more than 100 metres are normally treated as Extreme range automatically, but a weapon with Scope ignores that rule as long as the Traveller aims before shooting.*
+
 **Equipment:** SolSec-issue Ceramic Combat Armour (**Protection +12, +18 vs fire/lasers/energy, TL13, Rad 150**; 15kg, Cr90,000, Vacc Suit 1 required), Gauss Rifle (Cr1,500), GPDW sidearm (Gauss Personal Defence Weapon, Cr1250), Revolver (his Weapon mustering benefit; TL4, 10m, 3D−3, 0.5kg, Cr150, 6 rounds, CSC23 p.144), 2x Smoke grenades, Mechanical Toolkit (bought at TL12, 12kg, Cr1,000, CRB22 p.120; no penalty on his TL12 vehicles), an entire carton of cigars he insists is "operational necessity" and Command has, for reasons unknown, never contested.
 
 **Assets:** a fully-owned **Far Trader** (Type A2, TL12, 200 tons streamlined, Jump-2, Thrust 1, Hull 80, crews Pilot/Astrogator/Engineer/Medic/Steward, 10 staterooms + 6 low berths, 63 tons cargo; no mortgage, but Cr4,443/month maintenance), a personal Revolver (Weapon mustering benefit).

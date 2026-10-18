@@ -137,9 +137,37 @@ Every loyalist security badge in the building grants routine floor and elevator 
 | Score | 10 | 9 | 10 | 8 | 9 | 7 |
 | DM | +1 | +1 | +1 | +0 | +1 | +0 |
 
-**Skills:** Electronics 0 · Electronics (computers) 1 · Gun Combat 0 · Gun Combat (slug) 3 · Leadership 2 · Melee 0 · Melee (unarmed) 2 · Recon 2 · Tactics 0 · Tactics (military) 2 *(Electronics (computers) is the "extra skillset" that sets her apart from the generic Loyalist Close Protection Detail, Appendix A §A.6, she genuinely administers the badge system, not just carries a token)*
-**Armour:** Combat Armour, Improved (**Protection +17, Rad 145**, TL12, Vacc Suit 0 required, CSC23)
-**Weapon:** Advanced Combat Rifle (Range ~500m, standard published value, 3D, Auto 3, CRB22 p.125)
+**Skills:** Electronics 0 · Electronics (computers) 1 · Gun Combat 0 · Gun Combat (slug) 3 · Leadership 2 · Melee 0 · Melee (unarmed) 2 · Recon 2 · Tactics 0 · Tactics (military) 2 · Vacc Suit 0 *(Electronics (computers) is the "extra skillset" that sets her apart from the generic Loyalist Close Protection Detail, Appendix A §A.6, she genuinely administers the badge system, not just carries a token)*
+**Armour:** Combat Armour, Improved (**Protection +17, Rad 145**, TL12, 16kg, Cr88,000, Vacc Suit 0 required, CSC23 p.33)
+**Weapons:**
+
+| Weapon | Skill | DM | Damage | TL | Range | KG | Mag | Auto |
+|---|---|---|---|---|---|---|---|---|
+| Advanced Combat Rifle (Scope) | Gun Combat (slug) | +4 | 3D | 10 | 450m | 3 | 40 | 3 |
+
+*Advanced Combat Rifle: TL10, Cr1,000, magazine Cr15, CSC23 p.145. Includes an electronic battlefield sight and an integral 40mm grenade adaptor.*
+
+*Scope trait (CRB22): the weapon has vision-enhancing sights. Attacks made at more than 100 metres are normally treated as Extreme range automatically, but a weapon with Scope ignores that rule as long as the Traveller aims before shooting.*
+
+**Advanced Combat Rifle firing modes (CRB22 Auto trait, Auto 3):**
+
+- **Single:** normal attack. She may aim first (and use the Scope trait).
+- **Burst:** add the Auto score (+3) to the damage of one attack. Uses 3 rounds.
+- **Full auto:** 3 attacks, which may go against different targets if all are within 6 metres of one another. Uses 9 rounds (three times the Auto score).
+- **Restriction:** a weapon cannot use the Auto trait in the same action as the Scope trait or an aiming action, so burst and full auto get no aiming bonus and no Scope.
+
+**Can she penetrate armour?** Her attack is 2D6 + Gun Combat (slug) 3 + DEX +1 + close range +1 = 2D6+5 against 8+. Effect is the total minus 8, and damage is 3D + Effect (+3 for a burst), less the target's Protection. The Advanced Combat Rifle has no AP trait, so armour counts in full. The table assumes no aiming, no cover and no dodge. "Through" is the share of attacks that get any damage past the armour, and the average is the damage that gets through when it does.
+
+| Target armour | Single shot | Burst (+3 damage) | Full auto (3 attacks, per attack = single shot) |
+|---|---|---|---|
+| Ponch's Cloth Jacket (+5), Jon's Riot Shield and Cloth Armour (about +5) | 97% through, avg 9.7 | 97% through, avg 12.6 | 2.9 of 3 shots expected to get through, avg 9.7 each |
+| Team's Ceramic Combat Armour (+12, ballistic) | 69% through, avg 4.5 | 89% through, avg 6.3 | 2.1 of 3 shots expected to get through, avg 4.5 each |
+| Krein's and the guards' Combat Armour, Basic (+13) | 60% through, avg 4.0 | 84% through, avg 5.6 | 1.8 of 3 shots expected to get through, avg 4.0 each |
+| Ferro's own Combat Armour, Improved (+17) | 22% through, avg 2.7 | 50% through, avg 3.6 | 0.7 of 3 shots expected to get through, avg 2.7 each |
+| Rourke's Combat Armour, Advanced (+19) | 10% through, avg 2.2 | 31% through, avg 2.9 | 0.3 of 3 shots expected to get through, avg 2.2 each |
+| Nerys's Type D Battle Dress (+25) | under 1% through, avg 1.2 | 2% through, avg 1.7 | 0.0 of 3 shots expected to get through, avg 1.2 each |
+
+**What it means at the table:** she hits almost every time, but her rifle is weak against heavy armour. A burst is her best answer to the team's Ceramic suits, since it more than doubles the number of attacks that get through compared with a single shot. Nothing she carries hurts Nerys in Type D Battle Dress, and she should expect to need several turns of fire against Rourke.
 
 **Running her:** she is the single hardest personal obstacle between the team and Krein's door, by design, better armored, better trained, and better informed than anyone else on the floor. She should never feel like a reskinned generic guard. A referee wanting one memorable detail beyond her stats: she checks her own badge against the door reader out of habit, every single time, even though it's never once failed to recognize her.
 
@@ -158,9 +186,9 @@ Rourke carries two Advanced Combat Rifles, one in each hand, and fires both toge
 | Score | 12 | 9 | 10 | 6 | 5 | 5 |
 | DM | +2 | +1 | +1 | +0 | –1 | –1 |
 
-**Skills:** Athletics 0 · Athletics (strength) 2 · Gun Combat 0 · Gun Combat (slug) 3 · Melee 0 · Melee (unarmed) 1 · Tactics 0 · Tactics (military) 1
-**Armour:** Combat Armour, Advanced (**Protection +19, Rad 180**, TL14, Vacc Suit 0 required, CSC23), genuinely heavier, Imperial Army-pattern gear rather than standard naval security issue, matching an unusual posting for a naval installation
-**Weapons:** 2× Advanced Combat Rifle (Range ~500m, 3D, Auto 3 each, CRB22 p.125). **Dual Weapons rule (CRB22, p.78):** may attack with both rifles in the same combat round; cannot aim with either; –2 DM to both attack rolls while dual-wielding
+**Skills:** Athletics 0 · Athletics (strength) 2 · Gun Combat 0 · Gun Combat (slug) 3 · Melee 0 · Melee (unarmed) 1 · Tactics 0 · Tactics (military) 1 · Vacc Suit 0
+**Armour:** Combat Armour, Advanced (**Protection +19, Rad 180**, TL14, 12kg, Cr160,000, Vacc Suit 0 required, CSC23 p.33), genuinely heavier, Imperial Army-pattern gear rather than standard naval security issue, matching an unusual posting for a naval installation
+**Weapons:** 2× Advanced Combat Rifle (Gun Combat (slug), DM +4 before the dual-wield penalty, TL10, 450m, 3D, 3kg each, Cr1,000 each, magazine 40, Auto 3, Scope, CSC23 p.145). Scope: ignores the automatic Extreme range at over 100 metres if the shooter aims first (CRB22). **Dual Weapons rule (CRB22, p.78):** may attack with both rifles in the same combat round; cannot aim with either; –2 DM to both attack rolls while dual-wielding
 
 **Running him:** he is not subtle and shouldn't need to be (Rourke's whole design is a wall of firepower in a narrow hallway, the kind of encounter where cover and positioning matter far more than a straight exchange of fire. His Advanced armor makes him meaningfully tougher than the generic Loyalist Detail (Appendix A, §A.6) or even Commander Ferro's Improved-tier gear) a team expecting a standard guard here is in for a genuine surprise.
 
@@ -181,7 +209,7 @@ Rourke carries two Advanced Combat Rifles, one in each hand, and fires both toge
 | Grenade types (Aerosol, Frag, Smoke, Stun) (TL8, Blast-family weapons, thrown via Athletics (dexterity) or launched via Heavy Weapons (portable) (basis for Chapter 2's per-character grenade loadouts) | CRB22 | Grenade weapons table and description) Damage column for Frag affected by the same extraction issue flagged elsewhere in this project |
 | Heavy Weapons (portable) as the correct skill for launched grenades/rockets | CRB22 | Weapons section, grenade/heavy weapons rules |
 | Fighting Strongpoint's explicit finite shot count (1,100 shots) as the basis for treating plasma weapons as high-capacity but non-infinite | Robot Handbook | Combat robot entries, see Appendix N |
-| Combat Armour, Improved, Protection +17, Rad 145 (Commander Ferro, §I.9) | CSC23 | pp.38–39 |
+| Combat Armour, Improved, Protection +17, TL12, Rad 145, 16kg, Cr88,000, Vacc Suit 0 (Commander Ferro, §I.9) | CSC23 | p.33 |
 | Combat Armour, Advanced, Protection +19, Rad 180 (Sergeant Rourke, §I.9) | CSC23 | pp.38–39 |
 | Dual Weapons rule (attack with both weapons/round, no aim, –2 DM both attacks; intended for one-handed weapon pairs) | CRB22 | p.78, Rourke's dual-ACR loadout is a deliberate referee-discretion exception to this rule's stated intent, flagged as such in §I.9 |
 

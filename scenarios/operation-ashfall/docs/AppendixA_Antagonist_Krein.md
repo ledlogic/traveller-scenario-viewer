@@ -27,7 +27,10 @@ He is not enjoying this. He is not righteous about it. He is a frightened, corne
 ## A.2 - CHARACTERISTICS & GENERAL SKILLS
 
 **Tobias Krein, Planetary Governor, Ys**
-*Age 58 · Career administrator, Imperial Civil Service · 11 years on-station*
+*Age 58 (born IY 1059) · Career administrator, Imperial Civil Service · 11 years on-station*
+
+**Race and homeworld:** Human, Imperial citizen, born on Remulak (Solomani Rim 1833), the nearest Imperial naval base world, where he rose through the civil service before his posting to Ys.
+**Radiation:** 0 cumulative. He lives and works in the naval capital, about 190 km from the Glass Reach crater, and wears no armour (Rad 0), so any exposure in the crater's zone bands lands on him in full.
 
 | | STR | DEX | END | INT | EDU | SOC |
 |--|-----|-----|-----|-----|-----|-----|
@@ -36,31 +39,20 @@ He is not enjoying this. He is not righteous about it. He is a frightened, corne
 
 *Krein is not, and has never needed to be, a physically capable man. If the scenario reaches a point where his personal stats matter in a fight, something has gone very wrong with the plan, he is not built to survive one, and the referee should play that honestly.*
 
-**General Skills** *(the baseline toolkit of a career administrator, nothing here is remarkable, all of it is well-used)*
-
-| Skill | Lvl |
-|---|---|
-| Admin | 3 |
-| Advocate | 2 |
-| Persuade | 2 |
-| Carouse | 1 |
-| Deception | 1 |
-| Investigate | 1 |
-| Electronics (computers) | 0 |
-| Gun Combat | 0 |
+**Skills:** Admin 3 · Advocate 3 · Carouse 1 · Deception 1 · Diplomat 3 · Electronics 0 · Gun Combat 0 · Investigate 1 · Leadership 4 · Persuade 2 · Streetwise 1
 
 ---
 
-## A.3 - EXPERT-LEVEL SKILLS
+## A.3 - WHAT HIS SKILLS DO
 
 *What Krein is actually excellent at, the specific, narrow competencies of a long-serving colonial administrator. Notice what's absent: nothing here is technical, tactical, or operational. He did not build Ashfall, does not understand it in engineering terms, and has never needed to. He has activation authority. He does not have a shutdown plan, because a shutdown plan implies the contingency was ever meant to be survivable for him to walk back.*
 
 | Skill | Lvl | Application |
 |---|---|---|
-| Leadership | 4 | Keeps a fracturing loyalist garrison functionally obedient under impossible pressure |
-| Diplomat | 3 | Eleven years of managing Imperial oversight, naval liaison, and underground back-channels without ever conceding ground |
-| Admin | 3 → 4 (situational, with Leadership synergy) | Bureaucratic control of a captive-government world; knows exactly which levers produce compliance without triggering revolt, until tonight |
+| Admin | 3 | Bureaucratic control of a captive-government world; knows exactly which levers produce compliance without triggering revolt, until tonight |
 | Advocate | 3 | Can justify almost any policy in language that sounds reasonable, including this one, to himself first |
+| Diplomat | 3 | Eleven years of managing Imperial oversight, naval liaison, and underground back-channels without ever conceding ground |
+| Leadership | 4 | Keeps a fracturing loyalist garrison functionally obedient under impossible pressure |
 | Streetwise | 1 | Weak, he has never had to operate outside institutional channels, and it shows |
 
 ---
@@ -68,7 +60,7 @@ He is not enjoying this. He is not righteous about it. He is a frightened, corne
 ## A.4 - EQUIPMENT
 
 - **Governor's authorization codex** (a physical, non-networked authenticator; the only thing separating Ashfall's dead-man activation from an ordinary comms broadcast. Krein does not carry it into danger. It remains in the naval administration building on the Boulevard under his personal guard, which makes it a possible (referee's option, not required) secondary objective if the table wants an alternative to a straight bunker assault: capturing the codex could theoretically buy time or complicate the network's fail-deadly logic, but it does not disarm Ashfall outright) the arrays are already armed and running on their own clock regardless of what happens to the codex now.
-- **Hardened personal comm suite**, what he used for the H-Hour broadcast; still active, still capable of reaching the whole planet if he chooses to speak again.
+- **Personal comm suite**, what he used for the H-Hour broadcast; still active, still capable of reaching the whole planet if he chooses to speak again. It is three sourced items from CSC23: a Radio Transceiver (TL12, Planetary 50,000km, 2kg, Cr2,000, p.64) with the Encryption option (TL specific, +Cr4,000, p.65), and an Advanced Mobile Comm (TL10, Computer/1, Cr500, p.63) for day-to-day use. Total Cr6,500.
 - **No personal weapon of note.** He has never needed one and it would not help him now.
 - **No armor.** Just his administrator's coat, consistent with a man whose whole profile (§A.2) says he was never built for a fight and has no illusions about surviving one if it comes to that.
 - **A battered leather attaché case, carried everywhere, opened rarely.** Inside: nothing operationally useful (old handwritten drafts of curfew extensions, a photo he's never shown staff, and a small sealed crock of homemade horseradish relish, a recipe he's kept since before Ys, that he eats a spoonful of when he's alone and it's bad. It's the one genuinely private thing about him. The case) and faintly, his whole office (carries the smell: sharp, unmistakable, and a quiet, unplanned echo of his own name (see the pronunciation note, top of this appendix). Referees can use the smell as a sensory beat the moment a team searches his office or the case itself) it should read as a real, human detail, not a joke at his expense.
@@ -105,13 +97,27 @@ This isn't exotic. It's an old, well-understood category of software bug (the sa
 
 *Generic NPC block, use for any Imperial Marine or naval security personnel guarding Krein, the administration building, or checkpoints throughout Meridian.*
 
+**Age:** 22 to 42, typically 26 to 34 (one to five four-year terms of service after enlistment at 18). Roll 2D6+20 for a quick age if you need one.
+
+**Race and homeworld:** Human, Imperial citizens. They are the garrison, not locals in revolt. Roll 1D6 for a quick homeworld: 1 to 3, Ys itself (born into naval and station families, which makes the uprising personal); 4 to 5, Remulak (SR 1833), the nearest Imperial naval base; 6, another Imperial world in the Gemini Subsector.
+
+**Radiation:** 0 cumulative rads at the start of the scenario. The Glass Reach (the crater left by the malfunctioned prototype charge thirty-one years ago) lies about 190 km from the naval capital and has been fenced off with warning markers since, so a garrison in Meridian has no routine exposure. Their Combat Armour, Basic gives Rad 85, which only matters if they are sent into an irradiated zone: subtract 85 from the zone's rads per hour (Appendix L).
+
 | | STR | DEX | END | INT | EDU | SOC |
 |--|-----|-----|-----|-----|-----|-----|
 | Score | 8 | 8 | 8 | 6 | 6 | 5 |
 
-**Skills:** Gun Combat 0 · Gun Combat (slug) 2 · Melee 0 · Melee (unarmed) 1 · Recon 1 · Tactics 0 · Tactics (military) 1
-**Armour:** Combat Armour, Basic (**Protection +13, Rad 85**, TL10, Vacc Suit 1 required, CSC23; corrects an earlier placeholder +8 that wasn't sourced from either book)
-**Weapon:** Advanced Combat Rifle (Range ~500m *(standard published value; source PDF's row for this weapon was extraction-corrupted, see Appendix E)*, 3D, Auto 3, CRB22 p.125)
+**Skills:** Gun Combat 0 · Gun Combat (slug) 2 · Melee 0 · Melee (unarmed) 1 · Recon 1 · Tactics 0 · Tactics (military) 1 · Vacc Suit 1
+**Armour:** Combat Armour, Basic (**Protection +13, Rad 85**, TL10, 20kg, Cr96,000, Vacc Suit 1 required, CSC23 p.33; corrects an earlier placeholder +8 that wasn't sourced from either book)
+**Weapons:**
+
+| Weapon | Skill | DM | Damage | TL | Range | KG | Mag | Auto |
+|---|---|---|---|---|---|---|---|---|
+| Advanced Combat Rifle (Scope) | Gun Combat (slug) | +2 | 3D | 10 | 450m | 3 | 40 | 3 |
+
+*Advanced Combat Rifle: TL10, Cr1,000, magazine Cr15, CSC23 p.145. Includes an electronic battlefield sight and an integral 40mm grenade adaptor.*
+
+*Scope trait (CRB22): the weapon has vision-enhancing sights. Attacks made at more than 100 metres are normally treated as Extreme range automatically, but a weapon with Scope ignores that rule as long as the Traveller aims before shooting.*
 
 *These are not elite troops. They are a garrison stretched thin, exhausted, and increasingly uncertain whether the man they're protecting is still worth protecting. Referees running an extended siege on the administration building should let that uncertainty show, a failed loyalty check under pressure is more interesting than a clean firefight.*
 
@@ -143,7 +149,21 @@ None of these have been updated since H-Hour. The system doesn't know the broadc
 
 **Play him as competent, not sinister.** Thane runs the actual logistics of Krein's office (scheduling, correspondence, the day-to-day administrative machinery that lets Krein maintain the fiction of total control. He is fiercely, quietly loyal, in a way that has never required him to agree with anything Krein does; loyalty and agreement aren't the same thing for Thane, and a referee playing him should let that distinction show. He is not read into Ashfall's specifics until the broadcast already happens) same as almost everyone else in the building, and his reaction to finding out should be genuine, not performed.
 
-**Stats:** use Krein's own characteristics and general skills (Appendix A, §A.2) as a direct baseline (same build genuinely means same profile) but Thane carries none of Krein's Expert-Level skills (§A.3); he's an administrator's administrator, not a governor. If a referee wants him to have anything distinct, Admin 2 and Persuade 1 cover his actual day job without inventing a new stat block from scratch.
+**Marcus Thane, Chief of Staff to the Governor**
+*Age 44 (born IY 1073) · Human, Imperial citizen, born on Ys · 6 years as Krein's aide*
+
+| | STR | DEX | END | INT | EDU | SOC |
+|--|-----|-----|-----|-----|-----|-----|
+| Score | 5 | 5 | 6 | 10 | 13 | 12 |
+| DM | –1 | –1 | +0 | +1 | +2 | +2 |
+
+*Same build as Krein, so the same characteristics (same build genuinely means same profile).*
+
+**Skills:** Admin 2 · Carouse 1 · Deception 1 · Electronics 0 · Gun Combat 0 · Investigate 1 · Persuade 1
+**Radiation:** 0 cumulative. Lives and works in the naval capital, about 190 km from the Glass Reach crater, and wears no armour (Rad 0).
+**Equipment:** Advanced Mobile Comm (TL10, Computer/1, Cr500, CSC23 p.63). No weapon, no armour.
+
+He carries none of Krein's Diplomat, Leadership, Advocate or Streetwise (§A.2); he's an administrator's administrator, not a governor. Admin 2 and Persuade 1 cover his actual day job.
 
 **The obvious hook, worth stating plainly so a referee can choose deliberately rather than stumble into it:** a team that hasn't been told which one is which, encountering both men in the same scene, has no in-fiction way to tell them apart except the topknot. Whether Thane ever actually uses that as a deliberate decoy (stepping into Krein's place during a crisis, buying time, drawing fire) is a strong optional beat for Act Three, not a default assumption. He's not a body double by training or design. He's a man who happens to look like his boss, in a building where that stopped being a coincidence and started being a fact everyone quietly accounts for.
 
@@ -157,8 +177,10 @@ None of these have been updated since H-Hour. The system doesn't know the broadc
 |---|---|---|
 | Task difficulty & skill check framework | CRB22 | pp.60–63 |
 | Admin, Advocate, Diplomat, Leadership skill definitions | CRB22 | pp.56–59 |
-| Combat Armour, Protection +8 | CRB22 | p.100 |
-| Advanced Combat Rifle, 3D Auto 3 | CRB22 | p.125 |
+| Combat Armour, Basic (Protection +13, Rad 85, TL10, 20kg, Cr96,000, Vacc Suit 1) | CSC23 | p.33 |
+| Radio Transceiver (TL12, Planetary 50,000km, 2kg, Cr2,000) and Encryption option (+Cr4,000) | CSC23 | pp.64–65 |
+| Mobile Comm, Advanced (TL10, Computer/1, Cr500) | CSC23 | p.63 |
+| Advanced Combat Rifle (TL10, 450m, 3D, 3kg, Cr1,000, magazine 40, Auto 3, Scope) | CSC23 | p.145 |
 | Captive Government (Government code 6) definition | CRB22 | World Generation, Government table |
 | Ys UWP, government, and underground-resistance/military-rule background | SolFront | Gemini Subsector gazetteer, world entry |
 | Colonial administration and civil-service career framing | SolFront | Solomani Rim political background, administrative worlds |
