@@ -7,72 +7,34 @@
 
 ## 7.0: WHAT THIS CHAPTER DOES
 
-The Strange Park (Chapter 5, §5.3) used to be background lore. Tonight it is
-the reason the extraction never came: the SolSec pickup team landed early,
-toured the Reserve, and got into trouble (Appendix G). This chapter takes the
-mystery out of the *origin* of the Gut; it is not Ancient, it is not a
-weapon, it is not a one-of-a-kind miracle. It is **the Imperium's compost
-heap**, and it was never meant to be anything else, and answers the
-question the players will ask ("how did this happen?") in a form you can
-read aloud.
+The Strange Park (Chapter 5, §5.3) used to be background lore. Tonight it is the reason the extraction never came: the SolSec pickup team landed early, toured the Reserve, and got into trouble (Appendix G). This chapter takes the mystery out of the *origin* of the Gut; it is not Ancient, it is not a weapon, it is not a one-of-a-kind miracle. It is **the Imperium's compost heap**, and it was never meant to be anything else, and answers the question the players will ask ("how did this happen?") in a form you can read aloud.
 
-What stays mysterious is what the heap **became**: Chapter 8 and Appendix G
-cover that.
+What stays mysterious is what the heap **became**: Chapter 8 and Appendix G cover that.
 
-**The one sentence to give the table:** *"For a thousand years, the Imperium
-paid Jorjor a few credits a ton to take the stuff nobody else wanted. Nobody
-ever asked what happens when you keep doing that."*
+**The one sentence to give the table:** *"For a thousand years, the Imperium paid Jorjor a few credits a ton to take the stuff nobody else wanted. Nobody ever asked what happens when you keep doing that."*
 
 ---
 
 ## 7.1: THE POLICY
 
-Jorjor's original **Thale Charter (Y31)** was granted to a knight of the
-Imperium, **Sir Edric Thale**, who was given administrative rights to a poor,
-thin-aired, mostly-empty world in exchange for holding it quietly. Thale's
-financial problem was simple: nothing here sells. His solution, entered into
-the Charter's schedule of fees as **Concession 9**, was equally simple.
+Jorjor's original **Thale Charter (Y31)** was granted to a knight of the Imperium, **Sir Edric Thale**, who was given administrative rights to a poor, thin-aired, mostly-empty world in exchange for holding it quietly. Thale's financial problem was simple: nothing here sells. His solution, entered into the Charter's schedule of fees as **Concession 9**, was equally simple.
 
-> *"The Administrator may, for such fee as he shall set, receive upon the
-> Halvorsen flats such organic wastes, spoilage, offal, cullings and
-> nutrient residues as may be consigned to the world by licensed Imperial
-> shippers, and shall bear no liability for the condition thereof."*
+> *"The Administrator may, for such fee as he shall set, receive upon the Halvorsen flats such organic wastes, spoilage, offal, cullings and nutrient residues as may be consigned to the world by licensed Imperial shippers, and shall bear no liability for the condition thereof."*
 
-That is the entire policy: **"Concession 9."** Everything since is
-accretion. Four details make it feel real, not sinister:
+That is the entire policy: **"Concession 9."** Everything since is accretion. Four details make it feel real, not sinister:
 
-- **The fee is modest on purpose.** Roughly **Cr10 per dTon**, unchanged
-  for a millennium because adjusting it would require a form nobody has
-  authority to file. At peak volume that is about **Cr12 million a year**,
-  real money for Jorjor, rounding error for the Imperium.
-- **The shippers are respectable.** Agricultural worlds with a harvest
-  glut, slaughterhouse and cannery combines, food-synthesis plants, and
-  (from **Y212**) corporate biolabs disposing of cell lines, culls and
-  failed engineered stock. Every one has a clean manifest. None of them
-  is doing anything illegal.
-- **The administrators were knights, not villains.** Thale's heirs and the
-  Knight-Administrators who followed (Y31–Y410) were honest, bored
-  gentry. Every one of them signed off on "just one more contract." None
-  of them could have foreseen what a thousand years of mixed biomass,
-  engineered microbes, and cultured tissue would do when left to stew in a
-  warm basin under an unusually sunny sky.
-- **The Bureaucracy kept it going by never questioning it.** After **Y410**
-  the Civil Service Bureaucracy took over Jorjor's administration
-  (Chapter 1, §1.2). It inherited Concession 9 as an item on a schedule,
-  and, true to type, never questioned a properly-stamped form.
+- **The fee is modest on purpose.** Roughly **Cr10 per dTon**, unchanged for a millennium because adjusting it would require a form nobody has authority to file. At peak volume that is about **Cr12 million a year**, real money for Jorjor, rounding error for the Imperium.
+- **The shippers are respectable.** Agricultural worlds with a harvest glut, slaughterhouse and cannery combines, food-synthesis plants, and (from **Y212**) corporate biolabs disposing of cell lines, culls and failed engineered stock. Every one has a clean manifest. None of them is doing anything illegal.
+- **The administrators were knights, not villains.** Thale's heirs and the Knight-Administrators who followed (Y31–Y410) were honest, bored gentry. Every one of them signed off on "just one more contract." None of them could have foreseen what a thousand years of mixed biomass, engineered microbes, and cultured tissue would do when left to stew in a warm basin under an unusually sunny sky.
+- **The Bureaucracy kept it going by never questioning it.** After **Y410** the Civil Service Bureaucracy took over Jorjor's administration (Chapter 1, §1.2). It inherited Concession 9 as an item on a schedule, and, true to type, never questioned a properly-stamped form.
 
 ---
 
 ## 7.2: THE NUMBERS, HOW MUCH?
 
-**Question:** how many metric tonnes have been dumped on Jorjor in 1,085
-years of Concession 9, assuming every corporate biolab and agricultural
-world with a waste problem used it?
+**Question:** how many metric tonnes have been dumped on Jorjor in 1,085 years of Concession 9, assuming every corporate biolab and agricultural world with a waste problem used it?
 
-**Method:** arrivals per month and average load per arrival, in three eras.
-One dTon (14 m³) of wet organic slurry is taken at roughly **14 tonnes**
-(density about 1 t/m³). These are referee-friendly round numbers, not an
-audit, change them freely.
+**Method:** arrivals per month and average load per arrival, in three eras. One dTon (14 m³) of wet organic slurry is taken at roughly **14 tonnes** (density about 1 t/m³). These are referee-friendly round numbers, not an audit, change them freely.
 
 | Era | Years | Arrivals / month | Avg. load | Tonnes / ship | Tonnes / year | Era total |
 |---|---|---|---|---|---|---|
@@ -83,28 +45,14 @@ audit, change them freely.
 
 **Putting 6.6 billion tonnes in context:**
 
-- About **6.6 cubic kilometres** of material; a cube roughly **1.9 km on a
-  side**, or a 165 km² basin floor covered **40 metres** deep.
+- About **6.6 cubic kilometres** of material; a cube roughly **1.9 km on a side**, or a 165 km² basin floor covered **40 metres** deep.
 - About **2,500 Great Pyramids** of Giza, by mass.
-- At the peak rate, **46,000 tonnes arrive every day**; a little under
-  **two tonnes every minute, forever**.
-- Credits earned at Cr10/dTon: roughly Cr0.1 million a year in the Trickle,
-  Cr1.8M in the Contract Era, and Cr12M at peak. Over all 1,085 years:
-  **about Cr4.7 billion**: the price of a few warships, spread over a
-  millennium.
+- At the peak rate, **46,000 tonnes arrive every day**; a little under **two tonnes every minute, forever**.
+- Credits earned at Cr10/dTon: roughly Cr0.1 million a year in the Trickle, Cr1.8M in the Contract Era, and Cr12M at peak. Over all 1,085 years: **about Cr4.7 billion**: the price of a few warships, spread over a millennium.
 
-**Why the motel only sees a trickle of trucks.** Almost none of this comes
-by road. After **Y800** it comes through a **slurry pipeline** fed from the
-orbital downport rail spur, ending at the Feed Line Terminal (Chapter 8,
-Area 8). Trucks carry only about **1%**, roughly 15 truck-trips a day at
-30 tonnes each, mostly for small contractors, local farms, and specialty
-loads that need hand-handling. A heavy truck at an odd hour is therefore
-*normal*, not sinister (Appendix B, §B.2).
+**Why the motel only sees a trickle of trucks.** Almost none of this comes by road. After **Y800** it comes through a **slurry pipeline** fed from the orbital downport rail spur, ending at the Feed Line Terminal (Chapter 8, Area 8). Trucks carry only about **1%**, roughly 15 truck-trips a day at 30 tonnes each, mostly for small contractors, local farms, and specialty loads that need hand-handling. A heavy truck at an odd hour is therefore *normal*, not sinister (Appendix B, §B.2).
 
-**Decomposition does most of the work.** The Mass (§7.4) has been digesting
-this waste for centuries; the pile is not 6.6 billion tonnes of standing
-waste. It is, instead, a *standing biomass* that is still growing, still
-being fed, and, at this point, no longer entirely depending on the feed.
+**Decomposition does most of the work.** The Mass (§7.4) has been digesting this waste for centuries; the pile is not 6.6 billion tonnes of standing waste. It is, instead, a *standing biomass* that is still growing, still being fed, and, at this point, no longer entirely depending on the feed.
 
 ---
 
@@ -131,35 +79,19 @@ being fed, and, at this point, no longer entirely depending on the feed.
 
 ## 7.4: WHAT IT BECAME (AND WHAT IT STILL ISN'T)
 
-The Gut, locals' name for the **Mass**, is not one animal, plant, or
-fungus. It's a single, sprawling, interconnected **ecosystem** with a
-colony's behaviour: a vast root-and-tissue network under the basin (the
-"Mass"), and a surface population of creatures and plants that are organs
-of it, not residents in it.
+The Gut, locals' name for the **Mass**, is not one animal, plant, or fungus. It's a single, sprawling, interconnected **ecosystem** with a colony's behaviour: a vast root-and-tissue network under the basin (the "Mass"), and a surface population of creatures and plants that are organs of it, not residents in it.
 
-- **Source of the unnatural.** A thousand years of engineered stock, culled
-  cell lines, agricultural pathogens, and lab leftovers, left in a warm,
-  sunny sink, produced something with the *functions* of an organism and no
-  clear identity. A xenobiologist would call it a **superorganism**; the
-  locals call it the Gut.
-- **Why it's warm.** Decomposition, plus (optionally) heat from the Ancients'
-  satellite and its shutter (Chapter 5, §5.3 and §5.5). The referee's call
-  whether the satellite is warming the basin on purpose.
-- **What is genuinely unknown.** Why it responds to psionics (the Mass
-  *notices* minds, §7.6), why its fauna move as a herd, and whether it is
-  waiting for something. None of these are answered in this scenario.
+- **Source of the unnatural.** A thousand years of engineered stock, culled cell lines, agricultural pathogens, and lab leftovers, left in a warm, sunny sink, produced something with the *functions* of an organism and no clear identity. A xenobiologist would call it a **superorganism**; the locals call it the Gut.
+- **Why it's warm.** Decomposition, plus (optionally) heat from the Ancients' satellite and its shutter (Chapter 5, §5.3 and §5.5). The referee's call whether the satellite is warming the basin on purpose.
+- **What is genuinely unknown.** Why it responds to psionics (the Mass *notices* minds, §7.6), why its fauna move as a herd, and whether it is waiting for something. None of these are answered in this scenario.
 
-**Nothing is hidden at the level of history.** If a PC with Admin, Streetwise,
-or Science (biology) asks the right local, they can learn nearly all of
-§7.1–§7.3 over a morning's conversation. The *mystery* is not "where did it
-come from." It is "why is it so alert, and why now?"
+**Nothing is hidden at the level of history.** If a PC with Admin, Streetwise, or Science (biology) asks the right local, they can learn nearly all of §7.1–§7.3 over a morning's conversation. The *mystery* is not "where did it come from." It is "why is it so alert, and why now?"
 
 ---
 
 ## 7.5: THE LAST TWO WEEKS
 
-Tonight is **day 245 of Y1116**. "T-" times are days before. Referee-facing
-and spoiler-heavy.
+Tonight is **day 245 of Y1116**. "T-" times are days before. Referee-facing and spoiler-heavy.
 
 | When | Event |
 |---|---|
@@ -185,31 +117,15 @@ and spoiler-heavy.
 
 ## 7.6: THE RESERVE TODAY, THE 10%
 
-The Reserve is **a tourist resort with a body count**, and it is run, quietly,
-as exactly that.
+The Reserve is **a tourist resort with a body count**, and it is run, quietly, as exactly that.
 
-- **Visitors:** roughly **4,000 a year**. About **10%, roughly 400 people,
-  go missing every year**. Locals call it **"gone kissing the Gut,"**
-  grim slang that has become, over decades, the Reserve's only honest
-  description of itself.
+- **Visitors:** roughly **4,000 a year**. About **10%, roughly 400 people, go missing every year**. Locals call it **"gone kissing the Gut,"** grim slang that has become, over decades, the Reserve's only honest description of itself.
 - **How the numbers stay quiet.** Every incident has a form:
-  - **Form 7-D (Departed Without Notice)**: a visitor who "left of their own
-    accord." No body, no investigation.
-  - **Form 11-C (Subsidence, Minor)**: a ground event with "no reported
-    injuries."
-  - **Form 14-R (Request to Retrieve Property from a Closed Area)**: the
-    legitimate way to fetch a lost bag. It is also how the Bureau decides
-    a retrieval is not necessary.
-- **The cover-up mechanics are mundane.** Rented vehicles are driven away by
-  staff and returned to rental agencies in other towns. Hotel rooms are
-  checked out remotely. Messages are sent from the visitor's own comm.
-- **The UBI float.** Death registration and account closure sit in different
-  departments (Chapter 5, §5.4). A missing visitor's accounts are left
-  open; the bank keeps the float. This is why **nobody at the Bureau has a
-  reason to look harder.**
-- **The Mass reacts to minds.** Psionic users are noticed. A character using
-  Telepathy near the basin will see the Mass "look back" (Chapter 8, §8.3).
+  - **Form 7-D (Departed Without Notice)**: a visitor who "left of their own accord." No body, no investigation.
+  - **Form 11-C (Subsidence, Minor)**: a ground event with "no reported injuries."
+  - **Form 14-R (Request to Retrieve Property from a Closed Area)**: the legitimate way to fetch a lost bag. It is also how the Bureau decides a retrieval is not necessary.
+- **The cover-up mechanics are mundane.** Rented vehicles are driven away by staff and returned to rental agencies in other towns. Hotel rooms are checked out remotely. Messages are sent from the visitor's own comm.
+- **The UBI float.** Death registration and account closure sit in different departments (Chapter 5, §5.4). A missing visitor's accounts are left open; the bank keeps the float. This is why **nobody at the Bureau has a reason to look harder.**
+- **The Mass reacts to minds.** Psionic users are noticed. A character using Telepathy near the basin will see the Mass "look back" (Chapter 8, §8.3).
 
-> *Referee note:* "gone kissing" is local gallows humour for "missing."
-> Reserve staff use it to each other, never in front of visitors. Players
-> who ask a local what it means will get the plain answer at once.
+> *Referee note:* "gone kissing" is local gallows humour for "missing." Reserve staff use it to each other, never in front of visitors. Players who ask a local what it means will get the plain answer at once.
