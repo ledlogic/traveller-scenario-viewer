@@ -36,11 +36,17 @@ Every stat block, rule, and setting fact used in this scenario is sourced indivi
 | Advanced Combat Rifle (TL10, 450m, 3D, 3kg, Cr1,000, magazine 40 at Cr15, Auto 3, Scope), corrects an earlier unsourced ~500m range | App A, §A.6; App I, §I.9, §I.10 | CSC23 | p.145 |
 | Combat Armour, Basic (20kg, Cr96,000), Improved (16kg, Cr88,000), Advanced (12kg, Cr160,000) | App A, §A.6; App I | CSC23 | p.33 |
 | Close Protection / garrison troop NPC conventions | App A, §A.6 | CRB22 | Referee's Toolbox, NPC generation |
-| **Ceramic Combat Armour Protection, +18 vs fire/lasers/energy, Rad, Cost, TL, required skill** | Ch 2, §2.2, §2.3, §2.4, §2.5, §2.6, §2.7 | CSC23 | p.33 |
+| **Battle Dress, Improved (Protection +25, TL14, Rad 290, STR +6 / DEX +4, 16 Slots, 100 kg, Cr220,000, Vacc Suit 1) and Scout Battle Dress, Improved (Protection +23, TL14, Rad 260, STR +4 / DEX +6, 12 Slots, 90 kg, Cr300,000, Vacc Suit 1)** | Ch 2, §2.2 to §2.7, §2.11, §2.12; App B | CSC23 | pp.38–39 (table p.39), Scout description p.40 |
 | **Radio Transceiver (TL12, Continental 5,000km, Cr500) and Transceiver Encryption option (+Cr4,000)** | Ch 2, §2.2 | CSC23 | pp.64–65 |
-| P-HUD, transceiver encryption module, Security/2 software as standard equipment on prior Battle Dress issue (retained where still applicable) | Ch 2 | CSC23 | p.38 |
-| 6-hour environmental sealing window (current Ceramic Combat Armour, down from the older Battle Dress's 12-hour figure) | Ch 2, §2.11 | CSC23 | p.33 |
-| Medikit automatic first-aid function | Ch 2, §2.5 | CRB22 | Equipment, Medikit entry |
+| P-HUD, transceiver encryption module, Security/2 software, 12-hour life support and deep-underwater suitability as standard battle dress equipment | Ch 2, §2.11; App B, App G | CSC23 | p.38 |
+| Ceramic Combat Armour (Protection +12, +18 vs fire/lasers/energy, TL13, Rad 150, 15 kg, Cr90,000), the interim team armour recorded in the design history | App B | CSC23 | p.33 |
+| Confederation Marines and Army armour doctrine (combat armour default, battle dress in trained units, TL12 combat armour, gauss and plasma preferred, 'city green' low-key kit) | Ch 2, §2.12 | ACS2 | pp.76, 78 |
+| Solomani Military Industries (arsenals and navy yards trading commercially, body armour and powered armour among the products) | Ch 2, §2.12 | Solomani Front | p.92 |
+| Advanced Automedikit (TL14, Cr15,000), replacing the earlier Medikit armour modification on Achebe's suit | Ch 2, §2.5 | CSC23 | p.20 |
+| Laser Pistol (TL9, Range 20m, 3D, 2 kg, Cr2,000, Magazine 100 at Cr1,000, Zero-G), Rivit's sidearm, replacing an earlier unsourced damage entry | Ch 2, §2.7 | CSC23 | p.149 |
+| Radio Transceiver (TL12, Planetary 50,000km, 2 kg, Cr2,000), Encryption option (+Cr4,000) and Advanced Mobile Comm (TL10, Computer/1, Cr500), Governor Krein's comm suite | App A, §A.4 | CSC23 | pp.63–65 |
+| Mobile Comm, Advanced (TL10, Computer/1, Cr500), Marcus Thane's comm | App A, §A.9 | CSC23 | p.63 |
+| Automedikit automatic first-aid function (treated as Medic skill equal to the DM of a medikit of the same TL) | Ch 2, §2.5 | CSC23 | p.20 |
 | Task penalty for missing required skill (-2 DM per level, incl. level 0) | Ch 2 | CRB22 | p.100, Armour rules |
 | Radiation exposure rules (Rad protection deducted from rads received per exposure) | Ch 4, §4.2 | CRB22 | p.100 |
 | Immediate and Cumulative Radiation Effects tables (damage and characteristic loss by rad threshold) | Ch 4, §4.2 | CRB22 | p.81 |
@@ -73,7 +79,7 @@ Not every source in this scenario is a Traveller sourcebook, some worldbuilding 
 | Skills Packages (group-selected shared skill pool, e.g. Diplomat: Admin, Advocate, Deception, Diplomat, Electronics, Persuade, Stealth, Streetwise), basis for Kade's Admin 1 | Ch 2, §2.2 | CRB22, Character Creation chapter |
 | Confederation Marine restriction (Star Marine assignment only) and dedicated SolSec career (Field Agent/Administrator/Secret Agent), basis for Kade's full term-by-term rebuild | Ch 2, §2.2 | Aliens of Charted Space Vol. 2, pp.128–134 |
 | Solomani Cross (ancient astrological Earth-symbol, cross inside a circle) and the Solomani Confederation Symbol (the Cross flanked by two olive branches, adopted 871, military insignia in black or low-visibility grey), basis for Team UNDERTOW's emblem in Ch 1 and the armor Personalisation described in Ch 2, §2.11 | Ch 1; Ch 2, §2.11 | Aliens of Charted Space Vol. 2, Symbology section |
-| Personalisation armor modification, Improved tier (TL10, programmable custom image/basic camouflage, Cr1000), basis for the squad's urban grey/blue camo pattern | Ch 2, §2.11 | CRB22 |
+| Personalisation armor modification, Improved tier (TL10, programmable custom image/basic camouflage, Cr1000), basis for the squad's urban grey/blue camo pattern | Ch 2, §2.11 | CSC23 | p.25 |
 | GPDW (Gauss Personal Defence Weapon, TL12, Range 40m, 3D, 1.4kg, Cr1250, Magazine 40 or 60, AP3/Auto3), basis for the standard-issue sidearm carried across the roster | Ch 2, all weapon tables | ACS2 p.119 (corrected from CSC23) |
 | Skill Augmentation (TL12, DM+1 to one skill of level 0+, Cr50,000), Wafer Jack (Basic tier TL12, Computer/2, Bandwidth 4, Cr1,000), Expert software (Bandwidth 2, TL12, DM+1 if skill already held, Cr10,000), and Enhanced Medikit (TL12, First Aid Medic check DM+2, Cr5,000), basis for Achebe's cybernetics and updated medical loadout | Ch 2, §2.5 | CSC23, Augments and Medical Equipment chapters |
 | Trauma Pack (TL8, field recovery of 1D END for 1D hours via a Medic check, once per patient per day, 2kg, Cr750), basis for Achebe carrying two | Ch 2, §2.5 | CSC23 | p.91 |
@@ -102,14 +108,14 @@ Not every source in this scenario is a Traveller sourcebook, some worldbuilding 
 | Scholar career (Field Researcher; Cash Cr5000/10000/20000/30000/40000/60000/100000, Benefits INT+1/EDU+1/Two Ship Shares/SOC+1/Scientific Equipment/Lab Ship/Lab Ship), Army career (Support; Cash Cr2000/5000/10000/10000/10000/20000/30000, Benefits Cybernetic Implant/INT+1/EDU+1/Weapon/Armour/END+1 or Cybernetic Implant/SOC+1), Agent career (Law Enforcement; Cash Cr1000/2000/5000/7500/10000/25000/50000, Benefits Scientific Equipment/INT+1/Ship Share/Weapon/Cybernetic Implant/SOC+1 or Cybernetic Implant/TAS Membership; Mishap 2 "lose the Benefit roll as normal"), and Citizen career (Worker, Corporate; Cash Cr2000/5000/10000/10000/10000/50000/100000, Benefits Ship Share/Ally/INT+1/Gun/EDU+1/Two Ship Shares/TAS Membership), basis for Voss's mustering out | Ch 2, §2.4 | CRB22, Traveller Creation chapter, career pages |
 | SolSec Field Agent mustering out (Cash Cr1000/2000/5000/7500/10000/25000/50000, Benefits Scientific Equipment/INT+1/Terran Adventurer Society/Weapon/Combat Implant/SOC+1 or Combat Implant/SC Courier), basis for Voss's SolSec term | Ch 2, §2.4 | ACS2, SolSec career |
 | Gauss Pistol (TL13, Range 20m, 3D, 1kg, Cr500, Magazine 40, AP 3/Auto 2), Voss's Agent Weapon benefit | Ch 2, §2.4 | CSC23 | p.143 |
-| Ceramic Combat Armour mass (15 kg) | Ch 2, §2.2 to §2.11 | CSC23 | p.33 |
+| Battle Dress, Improved mass (100 kg) and Scout Battle Dress, Improved mass (90 kg) | Ch 2, §2.2 to §2.11 | CSC23 | p.39 |
 | Breaching Charge (TL8, 4D, 1kg, Cr250, AP 6, Blast 1) and Plastic Explosive (TL6, 3D, 1kg, Cr200, Blast 9) | Ch 2, §2.4 | CSC23 | p.159 |
 | Advanced Combat Engineering Tool Set (TL8, 15kg, Cr500, 12 explosive strips, DM+2 to related checks), replacing the unsourced "multi-tool rig" in Voss's equipment | Ch 2, §2.4 | CSC23 | p.125 |
 | Field Surgical Kit (TL5, 3kg, Cr1,500, First Aid DM+0, surgery at DM-2), replacing "field surgery pack" in Achebe's equipment | Ch 2, §2.5 | CSC23 | p.90 |
 | Enhanced Medikit (TL12, 1kg, First Aid Medic check DM+2, Cr5,000) in Achebe's equipment | Ch 2, §2.5 | CSC23 | p.90 |
 | Revolver (TL4, 10m, 3D-3, 0.5kg, Cr150, Mag 6), Reyes's Weapon mustering benefit | Ch 2, §2.6 | CSC23 | p.144 (per book index) |
 | Mechanical Toolkit (listed TL5, 12kg, Cr1,000; DM+2 if toolkit TL is 2+ above the task, DM-2 if 2+ below). CRB22 says toolkits "may be purchased at higher Tech Levels" but gives no price change; Reyes's TL12 purchase at the listed Cr1,000 is a referee ruling, not a printed rule. Replaces the unsourced "full vehicle diagnostics kit" in Reyes's equipment | Ch 2, §2.6 | CRB22 | p.120 |
-| Medikit armour modification (TL10, Cr5,000, treated as Medic 3 when reduced to 0 END, Fast Drug on command; TL11 military version Cr10,000 not used), replacing the invented "medical variant, integrated trauma kit" in Achebe's armour | Ch 2, §2.5 | CRB22 | p.104 |
+| Medikit armour modification (TL10, Cr5,000, CRB22 p.104), the earlier replacement for the invented "medical variant, integrated trauma kit", now superseded by the Advanced Automedikit (CSC23 p.20) | Ch 2, §2.5 | CSC23 | p.20 |
 | Geiger Counter, Improved (TL10, Cr400, determines source composition and direction) and Infrared Goggles, Improved (TL8, Cr500), replacing the unsourced "field scanner" in Voss's equipment | Ch 2, §2.4 | CSC23 | p.75 |
 | Anagathics (TL15, pauses aging for one month, Cr20,000/dose, withdrawal mechanic after 53+2D days without a dose, Difficult (10+) END check or age rapidly), basis for Ponch's dependency and near-fatal withdrawal crisis in prison | Ch 2, §2.9 | CSC23, Medical and Care Supplies chapter |
 | Endurance Augmentation (END+1, TL11, Cr500,000), basis for the emergency cybernetic that stabilized Ponch after his withdrawal crisis, financed as a debt to the Solomani Confederation | Ch 2, §2.9 | CRB22, p.106 |
@@ -141,8 +147,8 @@ Not every source in this scenario is a Traveller sourcebook, some worldbuilding 
 
 ## E.4 - A NOTE ON THE TWO CONFIRMED ERRATA
 
-Worth flagging on its own: **CRB22's printed armour table is missing Battle Dress's Protection value**, a confirmed erratum, independently corroborated by other GMs reporting the identical issue on Mongoose's own forums before we ever cross-checked it against CSC23. The team's current armor (Ceramic Combat Armour) is unaffected regardless, its full stat block is confirmed directly from CSC23 p.33. The Radiation Effects tables (Immediate and Cumulative, Chapter 4 §4.2 and Appendix L) were originally miscited and reconstructed from a generic guess before being corrected against CRB22 p.81 directly, worth noting since an earlier draft of this project had them wrong.
+Worth flagging on its own: **CRB22's printed armour table is missing Battle Dress's Protection value**, a confirmed erratum, independently corroborated by other GMs reporting the identical issue on Mongoose's own forums before we ever cross-checked it against CSC23. The team's current armor (Battle Dress, Improved and Scout Battle Dress, Improved) is unaffected regardless, its full stat block is confirmed directly from CSC23 pp.38–39. The history of the team's armour is recorded in Appendix B. The Radiation Effects tables (Immediate and Cumulative, Chapter 4 §4.2 and Appendix L) were originally miscited and reconstructed from a generic guess before being corrected against CRB22 p.81 directly, worth noting since an earlier draft of this project had them wrong.
 
 ---
 
-*Last updated: 2026-10-17*
+*Last updated: 2026-10-18*

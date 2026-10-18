@@ -111,13 +111,13 @@ The map is centred on the crater the Governor's engineers repurposed thirty-one 
 | Zone | Approx. Rate | What crossing it means |
 |---|---|---|
 | **Background** | ~30 rads/hr | Negligible on its own; adds up on a long, slow crossing |
-| **Elevated** | ~150 rads/hr | Fully absorbed by the team's armour; a non-issue for a short crossing |
+| **Elevated** | ~150 rads/hr | Fully absorbed by the team's battle dress (Rad 260 to 290); a non-issue for a short crossing |
 | **Hazard** | ~350 rads/hr | Where the obelisk ring sits, this is the line every warning marker on Ys is telling people not to cross |
 | **Crater Core (bunker approach)** | ~600 rads/hr | Lethal to an unprotected person within the hour; survivable in the team's armour only for a limited window, and only just |
 
 ### The Math That Matters at the Table
 
-Team UNDERTOW's Ceramic Combat Armour carries a **Rad 150** rating (CSC23, p.33); per the general Rad deduction rule (CRB22, p.100), that value is deducted from the rads a wearer receives each exposure. In the Crater Core band, that's roughly 600 rads/hr incoming, reduced to **~450 rads/hr actually absorbed** even at full protection. That's genuinely dangerous, not the comfortable margin the older Battle Dress gave the team; the referee should treat any real time spent in the Crater Core as a serious clock, not a formality. It's *marginally survivable for a fast crossing*, which is the point: the suits get the team through, but lingering here should cost them, visibly.
+Team UNDERTOW's battle dress carries a Rad rating of **290** (Battle Dress, Improved: Kade, Threk, Rivit) or **260** (Scout Battle Dress, Improved: Voss, Achebe, Reyes) (CSC23, pp.38–39); per the general Rad deduction rule (CRB22, p.100), that value is deducted from the rads a wearer receives each exposure. In the Crater Core band, that's roughly 600 rads/hr incoming, so a wearer of Battle Dress, Improved still receives **~310 rads/hr** and a wearer of Scout Battle Dress, Improved receives **~340 rads/hr**. In the Hazard band (~350 rads/hr) the same suits leave only **~60 and ~90 rads/hr**. That's genuinely dangerous in the core, and the six-person team is not evenly protected: the scouts take roughly 30 rads/hr more than the heavies. The referee should treat any real time spent in the Crater Core as a serious clock, not a formality. It's *survivable for a fast crossing*, which is the point: the suits get the team through, but lingering here should cost them, visibly.
 
 **Immediate Radiation Effects** (CRB22, p.81):
 
@@ -177,4 +177,4 @@ Ys's markers use the same four-level logic, built by Imperial engineers thirty-o
 
 ---
 
-*Last updated: 2026-09-30*
+*Last updated: 2026-10-18*

@@ -161,13 +161,13 @@ Every loyalist security badge in the building grants routine floor and elevator 
 | Target armour | Single shot | Burst (+3 damage) | Full auto (3 attacks, per attack = single shot) |
 |---|---|---|---|
 | Ponch's Cloth Jacket (+5), Jon's Riot Shield and Cloth Armour (about +5) | 97% through, avg 9.7 | 97% through, avg 12.6 | 2.9 of 3 shots expected to get through, avg 9.7 each |
-| Team's Ceramic Combat Armour (+12, ballistic) | 69% through, avg 4.5 | 89% through, avg 6.3 | 2.1 of 3 shots expected to get through, avg 4.5 each |
 | Krein's and the guards' Combat Armour, Basic (+13) | 60% through, avg 4.0 | 84% through, avg 5.6 | 1.8 of 3 shots expected to get through, avg 4.0 each |
 | Ferro's own Combat Armour, Improved (+17) | 22% through, avg 2.7 | 50% through, avg 3.6 | 0.7 of 3 shots expected to get through, avg 2.7 each |
 | Rourke's Combat Armour, Advanced (+19) | 10% through, avg 2.2 | 31% through, avg 2.9 | 0.3 of 3 shots expected to get through, avg 2.2 each |
-| Nerys's Type D Battle Dress (+25) | under 1% through, avg 1.2 | 2% through, avg 1.7 | 0.0 of 3 shots expected to get through, avg 1.2 each |
+| Team's Scout Battle Dress, Improved (+23: Voss, Achebe, Reyes) | 1% through, avg 1.5 | 6% through, avg 2.0 | 0.0 of 3 shots expected to get through, avg 1.5 each |
+| Team's Battle Dress, Improved (+25: Kade, Threk, Rivit) and Nerys's Type D Battle Dress (+25) | under 1% through, avg 1.2 | 2% through, avg 1.7 | 0.0 of 3 shots expected to get through, avg 1.2 each |
 
-**What it means at the table:** she hits almost every time, but her rifle is weak against heavy armour. A burst is her best answer to the team's Ceramic suits, since it more than doubles the number of attacks that get through compared with a single shot. Nothing she carries hurts Nerys in Type D Battle Dress, and she should expect to need several turns of fire against Rourke.
+**What it means at the table:** she hits almost every time, but her rifle is weak against heavy armour. Her rifle is no answer to the team's battle dress: a burst gets through Scout Battle Dress about 1 time in 17 and Battle Dress, Improved about 1 time in 60. Nothing she carries hurts anyone in the team's suits or Nerys in Type D Battle Dress, and she should expect to need several turns of fire against Rourke.
 
 **Running her:** she is the single hardest personal obstacle between the team and Krein's door, by design, better armored, better trained, and better informed than anyone else on the floor. She should never feel like a reskinned generic guard. A referee wanting one memorable detail beyond her stats: she checks her own badge against the door reader out of habit, every single time, even though it's never once failed to recognize her.
 
@@ -217,4 +217,4 @@ Rourke carries two Advanced Combat Rifles, one in each hand, and fires both toge
 
 ---
 
-*Last updated: 2026-10-17*
+*Last updated: 2026-10-18*

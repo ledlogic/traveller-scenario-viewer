@@ -59,6 +59,8 @@ She chews a cigar down to a stub before every op and has never once been seen li
 
 **Characteristics:** STR 11 (+1) · DEX 9 (+1) · END 12 (+2) · INT 10 (+1) · EDU 8 (+0) · SOC 7 (+0)
 
+**In the suit:** STR 17 (+3) · DEX 13 (+2), from Battle Dress, Improved (STR +6 / DEX +4). The weapon DMs below use these scores.
+
 **Skills:**
 Admin 1
 Athletics 0
@@ -91,11 +93,11 @@ Vacc Suit 1
 
 | Weapon | Skill | DM | Damage | TL | Range | KG | Mag | Auto |
 |---|---|---|---|---|---|---|---|---|
-| GCCW (AP 3) | Gun Combat (slug) | +3 | 3D+2 | 12 | 100m | 2 (3.2 with drum) | 60 (120) | 4 |
-| GPDW (AP 3) | Gun Combat (slug) | +3 | 3D | 12 | 40m | 1.4 | 40 (60) | 3 |
-| Smoke Grenade (Blast 9; DM−2 to attacks on targets in the cloud, IR vision ignores it, lasts 1D × 3 rounds) | Athletics (dexterity) | +1 | — | 6 | 20m | 0.5 | — | — |
+| GCCW (AP 3) | Gun Combat (slug) | +4 | 3D+2 | 12 | 100m | 2 (3.2 with drum) | 60 (120) | 4 |
+| GPDW (AP 3) | Gun Combat (slug) | +4 | 3D | 12 | 40m | 1.4 | 40 (60) | 3 |
+| Smoke Grenade (Blast 9; DM−2 to attacks on targets in the cloud, IR vision ignores it, lasts 1D × 3 rounds) | Athletics (dexterity) | +2 | — | 6 | 20m | 0.5 | — | — |
 
-**Equipment:** SolSec-issue Ceramic Combat Armour (**Protection +12, +18 vs fire/lasers/energy, TL13, Rad 150**; 15kg, Cr90,000, Vacc Suit 1 required), GCCW (Gauss Close-Combat Weapon, Cr2250), GPDW sidearm (Gauss Personal Defence Weapon, Cr1250), SolSec team-net radio transceiver (TL12, Continental 5,000km, Cr500, plus Encryption option +Cr4,000, total Cr4,500; CSC23 pp.64–65), 2x Smoke grenades, three cigars she is rationing like ammunition. Sold off the Poly Carapace armour (Protection +10, TL10) she'd kept from her Marine mustering-out, roughly Cr5,000 back on its original Cr10,000 market value, once it was clear the Ceramic Combat Armour already covered everything it did and better.
+**Equipment:** SolSec-issue Battle Dress, Improved (Solomani Military Industries; **Protection +25, TL14, Rad 290**; STR +6 / DEX +4 while powered, 16 Slots, 100kg and weightless while powered, Cr220,000, Vacc Suit 1 required; CSC23 pp.38–39), GCCW (Gauss Close-Combat Weapon, Cr2250), GPDW sidearm (Gauss Personal Defence Weapon, Cr1250), SolSec team-net radio transceiver (TL12, Continental 5,000km, Cr500, plus Encryption option +Cr4,000, total Cr4,500; CSC23 pp.64–65), 2x Smoke grenades, three cigars she is rationing like ammunition. Sold off the Poly Carapace armour (Protection +10, TL10) she'd kept from her Marine mustering-out, roughly Cr5,000 back on its original Cr10,000 market value, once it was clear the Battle Dress already covered everything it did and better.
 
 **Personality:** Blunt, protective, allergic to speeches. She will not leave a teammate behind, will absolutely leave a schedule behind, and has already privately accepted that this op probably doesn't end clean.
 
@@ -133,6 +135,8 @@ Uzgar is enormous even by Vargr standards, and mean in the specific way that mak
 | Confederation Marine | Star Marine, still serving, interrupted at 41 | 38→41 | 1114–1117 |
 
 **Characteristics:** STR 12 (+2) · DEX 10 (+1) · END 9 (+1) · INT 7 (+0) · EDU 6 (+0) · SOC 4 (–1)
+
+**In the suit:** STR 18 (+4) · DEX 14 (+2), from Battle Dress, Improved (STR +6 / DEX +4). The weapon DMs below use these scores.
 
 **Species Traits:** **Bite**, pronounced canines usable as a natural close-combat weapon, Melee (Natural), 1D+1 damage, no weapon required. **Heightened Senses**, DM+1 to any Recon or Survival check; DM–1 to any sight-based skill check in dark conditions.
 
@@ -175,18 +179,18 @@ Vacc Suit 1
 
 | Weapon | Skill | DM | Damage | TL | Range | KG | Mag | Auto |
 |---|---|---|---|---|---|---|---|---|
-| PGHP-14 | Heavy Weapons (portable) | +3 | 1DD | 14 | 450m | 10 | — | — |
-| GPDW (AP 3) | Gun Combat (slug) | +2 | 3D | 12 | 40m | 1.4 | 40 (60) | 3 |
-| Heavy combat blade (Cutlass) | Melee (blade) | +4 | 3D | 2 | Melee | 2 | — | — |
-| Blade (memento) | Melee (blade) | +4 | 2D | 1 | Melee | 1 | — | — |
-| Bite (natural) | Melee (natural) | +2 | 1D+1 | — | Melee | — | — | — |
-| Frag Grenade (Blast 9) | Athletics (dexterity) | +1 | 5D | 6 | 20m | 0.5 | — | — |
+| PGHP-14 | Heavy Weapons (portable) | +4 | 1DD | 14 | 450m | 10 | — | — |
+| GPDW (AP 3) | Gun Combat (slug) | +3 | 3D | 12 | 40m | 1.4 | 40 (60) | 3 |
+| Heavy combat blade (Cutlass) | Melee (blade) | +6 | 3D | 2 | Melee | 2 | — | — |
+| Blade (memento) | Melee (blade) | +6 | 2D | 1 | Melee | 1 | — | — |
+| Bite (natural, helmet off, suit STR not applied) | Melee (natural) | +2 | 1D+1 | — | Melee | — | — | — |
+| Frag Grenade (Blast 9) | Athletics (dexterity) | +2 | 5D | 6 | 20m | 0.5 | — | — |
 
-**Equipment:** SolSec-issue Ceramic Combat Armour (**Protection +12, +18 vs fire/lasers/energy, TL13, Rad 150**; 15kg, Cr90,000, Vacc Suit 1 required), PGHP-14 man-portable plasma gun (Cr100,000), GPDW sidearm (Gauss Personal Defence Weapon, Cr1250), heavy combat blade (Melee, no range), 2x Frag grenades, the unlit cigar (non-negotiable). Personally owns a set of Poly Carapace armour (Protection +10, TL10) and a Ceramic Carapace (Protection +10, +16 vs lasers/heat, TL12) from his Rogue mustering-out, plus a stake in 5 Ship Shares somewhere he's never fully explained, and a Blade from his Prisoner release, kept as a memento more than a working weapon.
+**Equipment:** SolSec-issue Battle Dress, Improved (Solomani Military Industries; **Protection +25, TL14, Rad 290**; STR +6 / DEX +4 while powered, 16 Slots, 100kg and weightless while powered, Cr220,000, Vacc Suit 1 required; CSC23 pp.38–39), PGHP-14 man-portable plasma gun (Cr100,000), GPDW sidearm (Gauss Personal Defence Weapon, Cr1250), heavy combat blade (Melee, no range), 2x Frag grenades, the unlit cigar (non-negotiable). Personally owns a set of Poly Carapace armour (Protection +10, TL10) and a Ceramic Carapace (Protection +10, +16 vs lasers/heat, TL12) from his Rogue mustering-out, plus a stake in 5 Ship Shares somewhere he's never fully explained, and a Blade from his Prisoner release, kept as a memento more than a working weapon.
 
 **Personality:** Short-tempered, fiercely loyal to the six people in this specific room and to nobody else, allergic to being told to hang back, and, unhelpfully, also literally allergic to Aslan, Droyne, and Hivers, a genetic quirk that has embarrassed him in front of exactly the wrong people at exactly the wrong times more than once. The referee should let him growl at NPCs, threaten equipment rather than people when possible, and be quietly, unexpectedly gentle around anyone weaker than him, it's the one soft spot the character has, and it's more interesting if the players discover it rather than being told.
 
-**Neural.AI image prompt:** A massive Vargr (canine-derived humanoid alien), heavily muscled, grey-brown fur, standing well over two meters, wearing bulky matte-grey ceramic plate combat armour with an integrated helmet. An unlit cigar clamped in a jaw full of visible teeth. Aggressive stance, ears back, a heavy plasma weapon carried in both hands. Industrial harbor backdrop, warm firelight against cool blue dusk. Photorealistic, science fiction military portrait, no text, no logos.
+**Neural.AI image prompt:** A massive Vargr (canine-derived humanoid alien), heavily muscled, grey-brown fur, standing well over two meters, wearing bulky matte-grey Battle Dress with an integrated helmet. An unlit cigar clamped in a jaw full of visible teeth. Aggressive stance, ears back, a heavy plasma weapon carried in both hands. Industrial harbor backdrop, warm firelight against cool blue dusk. Photorealistic, science fiction military portrait, no text, no logos.
 
 ---
 
@@ -221,6 +225,8 @@ Voss is built like a wall, talks like one too, and has the dry, specific gallows
 | Business years | Still running the business, no new term | 42–44 | 1115–1117 |
 
 **Characteristics:** STR 10 (+1) · DEX 7 (+0) · END 10 (+1) · INT 14 (+2) · EDU 9 (+1) · SOC 6 (+0)
+
+**In the suit:** STR 14 (+2) · DEX 13 (+2), from Scout Battle Dress, Improved (STR +4 / DEX +6). The weapon DMs below use these scores.
 
 **Skills:**
 Advocate 2
@@ -270,13 +276,13 @@ Vacc Suit 1
 
 | Weapon | Skill | DM | Damage | TL | Range | KG | Mag | Auto |
 |---|---|---|---|---|---|---|---|---|
-| GCCW (AP 3) | Gun Combat (slug) | +2 (+3 under 50m, Laser Sight) | 3D+2 | 12 | 100m | 2 (3.2 with drum) | 60 (120) | 4 |
-| GPDW (AP 3) | Gun Combat (slug) | +2 | 3D | 12 | 40m | 1.4 | 40 (60) | 3 |
-| Frag Grenade (Blast 9) | Athletics (dexterity) | −3 (unskilled) | 5D | 6 | 20m | 0.5 | — | — |
+| GCCW (AP 3) | Gun Combat (slug) | +4 (+5 under 50m, Laser Sight) | 3D+2 | 12 | 100m | 2 (3.2 with drum) | 60 (120) | 4 |
+| GPDW (AP 3) | Gun Combat (slug) | +4 | 3D | 12 | 40m | 1.4 | 40 (60) | 3 |
+| Frag Grenade (Blast 9) | Athletics (dexterity) | −1 (unskilled −3, suit DEX +2) | 5D | 6 | 20m | 0.5 | — | — |
 | Breaching Charge (AP 6, Blast 1) | Explosives | +4 | 4D | 8 | Placed | 1 | — | — |
 | Plastic Explosive (Blast 9) | Explosives | +4 | 3D | 6 | Placed | 1 | — | — |
 
-**Equipment:** SolSec-issue Ceramic Combat Armour (**Protection +12, +18 vs fire/lasers/energy, TL13, Rad 150**; 15kg, Cr90,000, Vacc Suit 1 required), 2x Breaching charges (Cr250 each, 1kg each), Advanced Combat Engineering Tool Set (TL8, 15kg, Cr500, includes 12 explosive strips, DM+2 to related skill checks), an Improved Geiger Counter (TL10, negligible mass, Cr400, determines a radiation source's composition and direction) and Improved Infrared Goggles (TL8, lightweight, Cr500, thermal vision), GCCW (Gauss Close-Combat Weapon, Cr2250) fitted with a Laser Sight (TL8, DM+1 to attacks under 50m, Cr200) and a Secure lock (TL10, requires authentication before firing, Cr250), GPDW sidearm (Gauss Personal Defence Weapon, Cr1250), 4x Plastic explosive charges (Cr200 each, 1kg each) alongside his existing 2x Frag grenades. Personally holds 1 Ship Share and a Gauss Pistol (TL13, Range 20m, 3D, 1kg, Cr500, Magazine 40, AP 3/Auto 2, CSC23 p.143) from his Agent mustering out, kept in his shop safe rather than carried on this op, plus Cr90,000 of mustering-out cash, most of it quietly reinvested in his own explosives supply business.
+**Equipment:** SolSec-issue Scout Battle Dress, Improved (Solomani Military Industries; **Protection +23, TL14, Rad 260**; STR +4 / DEX +6 while powered, 12 Slots, 90kg and weightless while powered, grav assist fitted as standard, Cr300,000, Vacc Suit 1 required; CSC23 pp.38–39), 2x Breaching charges (Cr250 each, 1kg each), Advanced Combat Engineering Tool Set (TL8, 15kg, Cr500, includes 12 explosive strips, DM+2 to related skill checks), an Improved Geiger Counter (TL10, negligible mass, Cr400, determines a radiation source's composition and direction) and Improved Infrared Goggles (TL8, lightweight, Cr500, thermal vision), GCCW (Gauss Close-Combat Weapon, Cr2250) fitted with a Laser Sight (TL8, DM+1 to attacks under 50m, Cr200) and a Secure lock (TL10, requires authentication before firing, Cr250), GPDW sidearm (Gauss Personal Defence Weapon, Cr1250), 4x Plastic explosive charges (Cr200 each, 1kg each) alongside his existing 2x Frag grenades. Personally holds 1 Ship Share and a Gauss Pistol (TL13, Range 20m, 3D, 1kg, Cr500, Magazine 40, AP 3/Auto 2, CSC23 p.143) from his Agent mustering out, kept in his shop safe rather than carried on this op, plus Cr90,000 of mustering-out cash, most of it quietly reinvested in his own explosives supply business.
 
 **Personality:** Dry, precise, unhurried even when everyone around him wants him to hurry up, rushing demolitions is how people die, and he will say so, loudly, every time someone tells him to rush. Smokes exactly one cigar per session, always after the most dangerous moment, never before.
 
@@ -314,6 +320,8 @@ Achebe is built like she could carry any one of her squadmates out of a firefigh
 
 **Characteristics:** STR 10 (+1) · DEX 8 (+0) · END 12 (+2) · INT 10 (+1) · EDU 13 (+2) · SOC 6 (+0)
 
+**In the suit:** STR 14 (+2) · DEX 14 (+2), from Scout Battle Dress, Improved (STR +4 / DEX +6). The weapon DMs below use these scores.
+
 **Skills:**
 Athletics 0
 Athletics (strength) 1
@@ -348,10 +356,10 @@ Vacc Suit 1
 
 | Weapon | Skill | DM | Damage | TL | Range | KG | Mag | Auto |
 |---|---|---|---|---|---|---|---|---|
-| GPDW (AP 3) | Gun Combat (slug) | +1 | 3D | 12 | 40m | 1.4 | 40 (60) | 3 |
-| Stun Grenade (Blast 9, Stun) | Athletics (dexterity) | 0 | 3D | 7 | 20m | 0.5 | — | — |
+| GPDW (AP 3) | Gun Combat (slug) | +3 | 3D | 12 | 40m | 1.4 | 40 (60) | 3 |
+| Stun Grenade (Blast 9, Stun) | Athletics (dexterity) | +2 | 3D | 7 | 20m | 0.5 | — | — |
 
-**Equipment:** SolSec-issue Ceramic Combat Armour (**Protection +12, +18 vs fire/lasers/energy, TL13, Rad 150**; 15kg, Cr90,000, Vacc Suit 1 required) with the **Medikit armour modification** (TL10, Cr5,000, CRB22 p.104: an internal medical scanner and drug injector that automatically applies first aid, treated as Medic 3, if she is reduced to 0 END, and can administer Fast Drug on command or if life support fails; armour total Cr95,000), Field Surgical Kit (TL5, 3kg, Cr1,500, CSC23 p.90), Enhanced Medikit (TL12, 1kg, First Aid Medic check DM+2, Cr5,000, CSC23 p.90), 2x Trauma Pack (TL8, 2kg each, CSC23 p.91, field recovery of 1D END for 1D hours via a Medic check, can bring a patient back from 0 END if the last wound was recent enough, once per patient per day, Cr750 each), GPDW sidearm (Gauss Personal Defence Weapon, Cr1250), 1x Stun grenade, a battered cigar case she claims was a gift and won't explain further.
+**Equipment:** SolSec-issue Scout Battle Dress, Improved (Solomani Military Industries; **Protection +23, TL14, Rad 260**; STR +4 / DEX +6 while powered, 12 Slots, 90kg and weightless while powered, grav assist fitted as standard, Cr300,000, Vacc Suit 1 required; CSC23 pp.38–39) fitted with an **Advanced Automedikit** (TL14, Cr15,000, CSC23 p.20: an internal medical scanner and drug injector that automatically applies First Aid if she is reduced to END 0, treated as Medic skill equal to the DM of a TL14 medikit, which is 3, and can administer Fast Drug (Hibernation) on command or if life support is failing; the kit holds one dose of Fast Drug; armour total Cr315,000), Field Surgical Kit (TL5, 3kg, Cr1,500, CSC23 p.90), Enhanced Medikit (TL12, 1kg, First Aid Medic check DM+2, Cr5,000, CSC23 p.90), 2x Trauma Pack (TL8, 2kg each, CSC23 p.91, field recovery of 1D END for 1D hours via a Medic check, can bring a patient back from 0 END if the last wound was recent enough, once per patient per day, Cr750 each), GPDW sidearm (Gauss Personal Defence Weapon, Cr1250), 1x Stun grenade, a battered cigar case she claims was a gift and won't explain further.
 
 **Cybernetics:** Wafer Jack, Basic (TL12, Computer/2, Bandwidth 4, Cr1,000) running Expert 1 software (Bandwidth 2, TL12, Cr10,000, grants DM+1 to Medic checks since she already holds the skill), plus a Skill Augmentation (TL12, Cr50,000) tied to Medic specifically, granting a further DM+1. All three items, Cr61,000 total, are SolSec-financed rather than personally purchased. Armour and weapons come issued outright, but augmentation at this cost gets loaned against future service instead.
 
@@ -396,6 +404,8 @@ Reyes can drive literally anything and has the scars, citations, and one memorab
 
 **Characteristics:** STR 8 (+0) · DEX 11 (+1) · END 8 (+0) · INT 9 (+1) · EDU 8 (+0) · SOC 4 (–1)
 
+**In the suit:** STR 12 (+2) · DEX 17 (+3), from Scout Battle Dress, Improved (STR +4 / DEX +6). The weapon DMs below use these scores.
+
 **Skills:**
 Advocate 1
 Animals 0
@@ -430,14 +440,14 @@ Vacc Suit 2
 
 | Weapon | Skill | DM | Damage | TL | Range | KG | Mag | Auto |
 |---|---|---|---|---|---|---|---|---|
-| Gauss Rifle (AP 5, Scope) | Gun Combat (slug) | +2 | 4D | 12 | 600m | 4 | 80 | 3 |
-| GPDW (AP 3) | Gun Combat (slug) | +2 | 3D | 12 | 40m | 1.4 | 40 (60) | 3 |
-| Revolver | Gun Combat (slug) | +2 | 3D−3 | 4 | 10m | 0.5 | 6 | — |
-| Smoke Grenade (Blast 9; DM−2 to attacks on targets in the cloud, IR vision ignores it, lasts 1D × 3 rounds) | Athletics (dexterity) | −2 (unskilled) | — | 6 | 20m | 0.5 | — | — |
+| Gauss Rifle (AP 5, Scope) | Gun Combat (slug) | +4 | 4D | 12 | 600m | 4 | 80 | 3 |
+| GPDW (AP 3) | Gun Combat (slug) | +4 | 3D | 12 | 40m | 1.4 | 40 (60) | 3 |
+| Revolver | Gun Combat (slug) | +4 | 3D−3 | 4 | 10m | 0.5 | 6 | — |
+| Smoke Grenade (Blast 9; DM−2 to attacks on targets in the cloud, IR vision ignores it, lasts 1D × 3 rounds) | Athletics (dexterity) | 0 (unskilled −3, suit DEX +3) | — | 6 | 20m | 0.5 | — | — |
 
 *Scope trait (CRB22): the weapon has vision-enhancing sights. Attacks made at more than 100 metres are normally treated as Extreme range automatically, but a weapon with Scope ignores that rule as long as the Traveller aims before shooting.*
 
-**Equipment:** SolSec-issue Ceramic Combat Armour (**Protection +12, +18 vs fire/lasers/energy, TL13, Rad 150**; 15kg, Cr90,000, Vacc Suit 1 required), Gauss Rifle (Cr1,500), GPDW sidearm (Gauss Personal Defence Weapon, Cr1250), Revolver (his Weapon mustering benefit; TL4, 10m, 3D−3, 0.5kg, Cr150, 6 rounds, CSC23 p.144), 2x Smoke grenades, Mechanical Toolkit (bought at TL12, 12kg, Cr1,000, CRB22 p.120; no penalty on his TL12 vehicles), an entire carton of cigars he insists is "operational necessity" and Command has, for reasons unknown, never contested.
+**Equipment:** SolSec-issue Scout Battle Dress, Improved (Solomani Military Industries; **Protection +23, TL14, Rad 260**; STR +4 / DEX +6 while powered, 12 Slots, 90kg and weightless while powered, grav assist fitted as standard, Cr300,000, Vacc Suit 1 required; CSC23 pp.38–39), Gauss Rifle (Cr1,500), GPDW sidearm (Gauss Personal Defence Weapon, Cr1250), Revolver (his Weapon mustering benefit; TL4, 10m, 3D−3, 0.5kg, Cr150, 6 rounds, CSC23 p.144), 2x Smoke grenades, Mechanical Toolkit (bought at TL12, 12kg, Cr1,000, CRB22 p.120; no penalty on his TL12 vehicles), an entire carton of cigars he insists is "operational necessity" and Command has, for reasons unknown, never contested.
 
 **Assets:** a fully-owned **Far Trader** (Type A2, TL12, 200 tons streamlined, Jump-2, Thrust 1, Hull 80, crews Pilot/Astrogator/Engineer/Medic/Steward, 10 staterooms + 6 low berths, 63 tons cargo; no mortgage, but Cr4,443/month maintenance), a personal Revolver (Weapon mustering benefit).
 
@@ -498,7 +508,7 @@ None of this is true. All of the "memories" are corrupted composite data, real h
 | Engineer | 0 | 0 | — | p.73–74 |
 | Engineer (life support) | 2 | **3** | Cr20,000 | p.73–74 |
 | Gun Combat | 0 | 0 | — | p.73–74 |
-| Gun Combat (energy) | 1 | 1 *(DEX-based, not INT/EDU, the fold-in rule below doesn't apply; but any actual check still adds his normal DEX 10 DM+1 on top, same as any character, for a real roll of skill 1 + DEX DM+1 = +2 total)* | Cr1,000 | p.73–74 |
+| Gun Combat (energy) | 1 | 1 *(DEX-based, not INT/EDU, the fold-in rule below doesn't apply; but any actual check still adds his normal DEX 10 DM+1 on top, same as any character, for a real roll of skill 1 + DEX DM+1 = +2 total, or +3 in his Battle Dress with DEX 14 (+2))* | Cr1,000 | p.73–74 |
 | Mechanic | 1 | **2** | Cr1,000 | p.73–74 |
 | Persuade | 0 *(technically untrained; unnervingly effective anyway)* | **1** | Cr500 | p.73–74 |
 
@@ -511,14 +521,15 @@ None of this is true. All of the "memories" are corrupted composite data, real h
 | CHARACTERISTICS | STR | DEX | INT |
 |---|---|---|---|
 | Score (DM) | 12 (+2) | 10 (+1) | 11 (+1) |
+| In the Battle Dress | 18 (+4) | 14 (+2) | 11 (+1) |
 
 *(No true SOC or EDU, see Brain table above.)*
 
 | EQUIPMENT | Notes |
 |---|---|
-| Ceramic Combat Armour (heavy chassis variant) | **Protection +12, +18 vs fire/lasers/energy, TL13, Rad 150**; 15kg, Cr90,000, Vacc Suit 1 required; worn over his own Vacuum Environment Protection rather than replacing it |
+| Battle Dress, Improved (heavy chassis variant; Solomani Military Industries) | **Protection +25, TL14, Rad 290**; STR +6 / DEX +4 while powered, 16 Slots, 100kg and weightless while powered, Cr220,000, Vacc Suit 1 required, CSC23 pp.38–39; worn over his own Vacuum Environment Protection rather than replacing it, and his own Radiation Environment Protection above is separate |
 | Integrated diagnostic suite | Standard issue |
-| Laser Pistol | Range 20m, TL9 baseline; damage figure uncertain, source-extraction gap. Carried mostly because Gun Combat (energy) 1 implied he ought to have something, rarely drawn |
+| Laser Pistol (Gun Combat (energy), DM +3 in the suit) | TL9, Range 20m, 3D, 2kg, Cr2,000, Magazine 100 (Cr1,000), Zero-G, CSC23 p.149. Carried mostly because Gun Combat (energy) 1 implied he ought to have something, rarely drawn |
 | GPDW sidearm | Gauss Personal Defence Weapon, TL12, Range 40m, 3D, 1.4kg, Cr1250, Magazine 40 or 60, AP3/Auto3; issued as standard team loadout, but a gauss weapon sits outside his trained specialty, so he sticks to the Laser Pistol instead |
 | Stun grenades | 2x, TL8, Stun trait; fits his general preference to end a fight without ending anyone |
 | Unlit cigar | Held correctly, never smoked, "respect for the custom" of an era it cannot actually name |
@@ -769,24 +780,61 @@ Still, oddly, a natural at bowling. He never brings it up. Ponch never lets him 
 
 ## 2.11 - SHARED LOADOUT: ARMOUR
 
-Six of the human/android characters begin the scenario in **SolSec-issue Ceramic Combat Armour** (Protection +12, +18 vs fire/lasers/energy, TL13, Rad 150, 15kg, Cr90,000, Vacc Suit 1 required; smuggled in ahead of the insertion under diplomatic cover). Nerys wears the separate **Type D Battle Dress** detailed in her own entry instead, built around entirely different underlying anatomy and life-support needs. Ponch and Jon deliberately wear lighter, non-military gear (Cloth Jacket and Riot Shield/Cloth Armour respectively) matching their established roles, see their individual entries.
+Six of the human/android characters begin the scenario in **SolSec-issue Solomani battle dress**, in two patterns chosen by character (the reasoning is in §2.12 below). Kade, Threk and Rivit wear **Battle Dress, Improved**. Voss, Achebe and Reyes wear **Scout Battle Dress, Improved**. All six suits are TL14 and were built by Solomani Military Industries, smuggled in ahead of the insertion under diplomatic cover. Nerys wears the separate **Type D Battle Dress** detailed in her own entry instead, built around entirely different underlying anatomy and life-support needs. Ponch and Jon deliberately wear lighter, non-military gear (Cloth Jacket and Riot Shield/Cloth Armour respectively) matching their established roles, see their individual entries.
 
-| Trait | Value |
-|---|---|
-| Protection | +12 (+18 vs fire, lasers, and energy weapons) |
-| Rad | 150 |
-| Mass | 15 kg |
-| Integrated Environmental Sealing | 6 hours, complete seal (source specifies this shorter window explicitly, down from the older Battle Dress's 12-hour rating) |
-| Required Skill | Vacc Suit 1 |
-| Cost | Cr90,000 |
-| Tech Level | 13 |
+| Trait | Battle Dress, Improved | Scout Battle Dress, Improved |
+|---|---|---|
+| Worn by | Kade, Threk, Rivit | Voss, Achebe, Reyes |
+| Protection | +25 | +23 |
+| Tech Level | 14 | 14 |
+| Rad | 290 | 260 |
+| STR / DEX | +6 / +4 | +4 / +6 |
+| Slots | 16 | 12 |
+| Mass | 100 kg (weightless while powered) | 90 kg (weightless while powered) |
+| Cost | Cr220,000 | Cr300,000 |
+| Required Skill | Vacc Suit 1 | Vacc Suit 1 |
+| Grav assist | Not standard | Fitted as standard, included in the price |
+| Source | CSC23 pp.38–39 | CSC23 pp.38–39 (description p.40) |
 
-*(STR/DEX enhancement not specified in the source material this armor was pulled from; treat as a straight protection/environmental suit rather than a powered-exoskeleton variant unless a referee wants to houserule one in.)*
+**Standard to every suit of battle dress (CSC23 p.38):** an electronics suite appropriate to its Tech Level (CSC23 p.27), a Personal Heads-up Display (P-HUD), a Transceiver Encryption Module, and Security/2 software protecting the suit from hacking. Battle dress is effective in conditions where a hostile environment vacc suit would be required, such as deep underwater, and provides life support for 12 hours by default, with fuel cells for 12 hours of full combat operation. The wearer is treated as having enhanced STR and DEX for carrying equipment and for modifiers in combat, but not for taking damage, and while the suit is powered and active its mass does not count against the wearer's encumbrance.
 
-**Personalisation:** All six suits carry the Improved tier of the Personalisation modification (TL10, programmable custom image/basic camouflage, Cr1000, CRB22), an urban grey/blue camo pattern as the default display, reconfigurable on the fly for other environments, with the **Solomani Confederation Symbol** (the Solomani Cross, an ancient astrological Earth-symbol, a cross inside a circle, flanked by two olive branches per the Secretariat's 871 modification, rendered in military low-visibility grey) fixed on the chest, back, shoulder, and helmet of each suit. It's not subtle, and it's not meant to be; the team flies its colors openly this time rather than working under cover.
+**Personalisation:** All six suits carry the Improved tier of the Personalisation modification (TL10, programmable custom image/basic camouflage, Cr1000, CSC23 p.25), an urban grey/blue camo pattern as the default display, reconfigurable on the fly for other environments, with the **Solomani Confederation Symbol** (the Solomani Cross, an ancient astrological Earth-symbol, a cross inside a circle, flanked by two olive branches per the Secretariat's 871 modification, rendered in military low-visibility grey) fixed on the chest, back, shoulder, and helmet of each suit. It's not subtle, and it's not meant to be; the team flies its colors openly this time rather than working under cover.
 
-The suits are the only reason Team UNDERTOW can seriously consider crossing the Reach at all, and the only reason the Governor's loyalists will make Team UNDERTOW a priority target the moment they're spotted. Six sets of matched armor moving as a unit reads as an Imperial Marine response team to absolutely everyone on Ys, which is a problem Act One deals with directly.
+The suits are the only reason Team UNDERTOW can seriously consider crossing the Reach at all, and the only reason the Governor's loyalists will make Team UNDERTOW a priority target the moment they're spotted. Six sets of matched armor moving as a unit reads as an Imperial Marine response team to absolutely everyone on Ys.
 
 ---
 
-*Last updated: 2026-10-17*
+## 2.12 - SOLOMANI PREFERENCE FOR ARMOUR
+
+The Confederation does not field battle dress the way the Imperium fields Marines. The books say so plainly, and it explains why Team UNDERTOW's kit is as unusual as it is.
+
+> **Confederation Marines** are typically equipped with combat armour, although some units are trained in battle dress operations. They do not have the grav armour and artillery Imperial Marine regiments are equipped with, expecting to rely on navy fire support and ship-launched fighters instead. Typically, Confederation Marines land aboard assault starships or in naval shuttles and pinnaces, although some units may use jump capsules. *(ACS2, p.76)*
+
+> **Confederation Army Equipment.** Most personnel likely to come into contact with the enemy are equipped in TL12 combat armour, with a few units using battle dress. Rear-echelon personnel are usually equipped with a lightweight (and cheaper) version of combat armour, which still provides protection against gas, chemical weapons and the like. For low-key operations the army uses fatigues, body armour and a helmet in 'city green', a green-grey colour that blends into a typical city backdrop surprisingly well. *(ACS2, p.78)*
+
+> Gauss weapons are preferred as small arms and light support weapons, with plasma and fusion guns at the squad level. Battle dress equipped troops may use gauss or plasma weapons depending on their mission or a mix of types. Lasers are generally unpopular other than as multi-use sniper rifle/designator systems. *(ACS2, p.78)*
+
+> **Solomani Military Industries.** This is one of the several names under which the arsenals and navy yards of the Solomani Confederation military engage in commercial business. SMI employs both serving military personnel and civilian contractors. The 'corporation' is quite diversified including sales of military electronics, small arms, body armour and powered armour, grav vehicles, heavy weapons, combat starships and even survival gear and rations. *(Solomani Front, p.92)*
+
+**What this means for the team**
+
+- **Combat armour is the Confederation's default, battle dress is the exception.** Both the Marines and the Army put the line soldier in combat armour. The Army's is TL12, which in CSC23 terms is Combat Armour, Improved (Protection +17, TL12, p.33). The team's suits are TL14 battle dress with Protection +25 and +23, two Tech Levels above what the line army carries, which is exactly why six matched suits mark Team UNDERTOW as an elite formation.
+- **Battle dress goes to units trained for it.** SolSec's Heavy Response Command is that kind of unit, and Kade's Star Marine service is the kind of training the Marines note describes. Nobody hands battle dress to a squad that cannot use it.
+- **The suits come from the arsenals.** Every suit is an SMI product and arrives with SMI's spec sheets. That is why the stat lines in §2.11 are the manufacturer's numbers, not field modifications, and why the two patterns come off the same catalogue.
+- **Two patterns, chosen by character.** Standard Battle Dress, Improved is the heavier suit (Protection +25, STR +6 / DEX +4, 16 Slots), given to the three characters who carry the weight or the firepower. Scout Battle Dress, Improved is lighter and faster (Protection +23, STR +4 / DEX +6, 12 Slots, grav assist as standard). CSC23 describes scout battle dress as normally used by reconnaissance units, artillery spotters and other soldiers needing protection and mobility, popular among some officers and rapid-assault units (p.40).
+
+| Character | Suit | Why this pattern | STR / DEX in the suit |
+|---|---|---|---|
+| Kade | Battle Dress, Improved | Team leader at the breach point, the heaviest protection goes to the person who holds the door | 17 (+3) / 13 (+2) |
+| Threk | Battle Dress, Improved | Carries the PGHP-14 plasma gun and fights in melee, wants the +6 STR | 18 (+4) / 14 (+2) |
+| Rivit | Battle Dress, Improved | Heavy chassis with STR 12, the extra mass and 16 Slots suit his frame | 18 (+4) / 14 (+2) |
+| Voss | Scout Battle Dress, Improved | Demolitions and breaching need quick, steady hands, and his DEX 7 gains the most from +6 | 14 (+2) / 13 (+2) |
+| Achebe | Scout Battle Dress, Improved | Combat medic who has to reach the wounded fast, carries the automedikit | 14 (+2) / 14 (+2) |
+| Reyes | Scout Battle Dress, Improved | Driver and marksman with the Scoped Gauss Rifle, DEX 11 becomes 17 | 12 (+2) / 17 (+3) |
+
+- **The weapons match the doctrine.** The Army prefers gauss weapons for small arms and light support, with plasma at squad level, and says battle dress troops may use gauss or plasma. Team UNDERTOW's GCCW, GPDW and Gauss Rifle are gauss weapons, and Threk's PGHP-14 is the plasma gun. Lasers are the unpopular choice, which fits Rivit's Laser Pistol being the one weapon on the roster that the doctrine does not favour.
+- **Low-key kit is a different uniform.** When the army wants to be quiet it wears fatigues, body armour and a helmet in 'city green'. That is the logic behind Ponch and Jon wearing light, non-military gear: they are the two members of the team who do not need to look like soldiers.
+
+---
+
+*Last updated: 2026-10-18*

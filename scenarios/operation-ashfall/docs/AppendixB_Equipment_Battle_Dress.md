@@ -1,73 +1,100 @@
 # TRAVELLER: OPERATION ASHFALL
-## Appendix B - Equipment: SolSec-Issue Battle Dress
+## Appendix B - Armour: Solomani Battle Dress and Design History
 
 *Referee Reference Document*
 
 ---
 
-## B.1 - A NOTE ON SOURCES
+## B.1 - WHY THIS APPENDIX EXISTS
 
-The Core Rulebook Update 2022's printed armour table (p.100) is missing Battle Dress's Protection value outright (a known erratum, not an oversight on our end (Mongoose's own forums have threads complaining about exactly this: "Can't find the stats for Battle Dress... the Battle Dress stats are missing from the table"). CRB22 is still the right source for the *rules*) the STR/DEX bonus, the on-suit computer, life support, and NBC protection are all described correctly in prose even though the table row is broken.
+Team UNDERTOW's armour has changed twice during the design of this scenario. This appendix records what the suits were, what they became, and why they now sit where they do, so that nobody rebuilding a sheet from an old copy puts the wrong numbers back.
 
-For the actual numbers, the **Central Supply Catalogue Update 2023 (CSC23)** carries the complete, correct stat line, with more granular variants than CRB22 ever listed. Team UNDERTOW's kit below is built on CSC23's numbers.
-
----
-
-## B.2 - WHAT SOLSEC ISSUED
-
-Team UNDERTOW's suits are **Improved Battle Dress (TL14)**, the mid-tier of CSC23's standard line, one step up from entry-level and a significant step down from Artillery or Assault variants in bulk, which matters for six people trying to move through a crowded city without looking like an invasion.
-
-| Armour Type | Protection | TL | Rad | STR | DEX | Slots | Mass (kg) | Cost | Required Skill |
-|---|---|---|---|---|---|---|---|---|---|
-| Battle Dress, Basic | +22 | 13 | 245 | +4 | +4 | 16 | 100 | Cr200,000 | Vacc Suit 2 |
-| **Battle Dress, Improved (SolSec issue)** | **+25** | **14** | **290** | **+6** | **+4** | **16** | **100** | **Cr220,000** | **Vacc Suit 1** |
-| Battle Dress, Advanced | +28 | 15 | 320 | +6 | +4 | 18 | 100 | Cr440,000 | Vacc Suit 1 |
-
-*(Source: CSC23, Armour table, p.38–39.)*
-
-**This corrects Chapter 2's earlier placeholder numbers** (which listed Protection 20, +4 STR/+2 DEX as a rough con-table approximation before these sourcebooks were checked). The figures above are the real thing, use these at the table.
-
-### Standard Features (CRB22 + CSC23)
-
-- **STR +6 / DEX +4** while worn, applies to carrying capacity and combat, not to how much damage the wearer can absorb before the armour itself fails.
-- **On-board Computer/2** (Computer/3 for Improved/Advanced tiers per CSC23's electronics suite scaling) running an Expert Tactics (military) program for battlefield advice and updates.
-- **Fully sealed**, life support rated for **12 hours** by default (CSC23 standardizes this up from CRB22's older 6-hour figure), extendable with a fuel-cell swap.
-- **NBC-rated environmental protection** (nuclear, biological, chemical) equivalent to a Hostile Environment Vacc Suit. This is the line that makes the suits usable for the Glass Reach crossing in Chapter 4.
-- **Weightless while powered:** battle dress mass never counts against the wearer's own encumbrance while active.
-- **Personal Heads-Up Display (P-HUD)**, encrypted transceiver module, and Security/2 software protecting the suit's onboard computer from hacking, all standard equipment per CSC23, not upgrades.
-- **16 equipment Slots** available for field modification, SolSec's quartermasters used some of these for the squad loadout below; the rest are open for referees who want to let players customize mid-campaign.
-
-### SolSec Field Modifications (using suit Slots)
-
-- **Kade, Voss, Reyes:** standard configuration, slots reserved for mission-specific gear (breaching charges, vehicle diagnostics kit, etc., see Chapter 2 equipment lists).
-- **Threk ("Snarl"):** integrated support-weapon mount (plasma weapon hardpoint), uses several slots, reflects his Heavy Weapons role.
-- **Achebe ("Doc"):** medical variant, integrated trauma kit and Medikit-equivalent occupies dedicated slots, functioning per the CRB22 Medikit option (automatic first aid if the wearer is reduced to Endurance 0).
-- **Rivit:** heavy chassis variant, no combat weapon mount by default; slots given over to the diagnostic suite reflecting his Electronics/Engineer specialization.
+**The short version:** the team was designed in Protection +25 Battle Dress with STR and DEX bonuses. It was later swapped for a much weaker Ceramic Combat Armour with no characteristic bonuses. It has now been restored to battle dress, in two patterns chosen by character, because the Confederation's own doctrine and arsenal support it (Chapter 2, §2.12).
 
 ---
 
-## B.3 - WHY THIS MATTERS FOR THE SCENARIO
+## B.2 - TIMELINE
 
-Two things worth flagging for the table:
+The dates below come from the saved copies of the scenario files, so they show when each file was last saved, not the exact day of each decision.
 
-1. **Rad 290** is not decorative. The Glass Reach (Chapter 1, §1.4) is still hot enough in places to register on thermal scans thirty-one years after the incident that created it. Battle Dress at this Rad rating is exactly why Team UNDERTOW can seriously consider the crossing in Chapter 4, civilian-grade Vacc Suits or lower armour tiers would not survive extended exposure.
-2. **Vacc Suit 1** as the required skill (down from Basic's Vacc Suit 2) means Improved Battle Dress is slightly more forgiving to operate, appropriate for a mixed-specialty squad where not everyone has deep vacc-suit training as a primary skill. Characters below Vacc Suit 1 still take the standard CRB22 penalty (-2 DM per missing skill level, including level 0).
+| Stage | Date (saved copies) | Team armour | Notes |
+|---|---|---|---|
+| 1. Original design | 20 Jul 2026 | **Battle Dress, Improved**: Protection +25, TL14, Rad 290, STR +6 / DEX +4, 16 Slots, 100 kg, Cr220,000, Vacc Suit 1 | Appendix B written from CSC23. Medic and support variants carried through the Slots. 12-hour sealed life support. |
+| 2. Still battle dress | 22 Aug 2026 | Unchanged | Chapter 2 and the Chapter 4 radiation math (Rad 290) still match the original. |
+| 3. The swap | Between 22 Aug and 30 Sep 2026 | **Ceramic Combat Armour**: Protection +12 (+18 vs fire, lasers and energy), TL13, Rad 150, 15 kg, Cr90,000, Vacc Suit 1 | Chapter 2 rewritten to Ceramic Combat Armour. Sealing dropped to 6 hours, no STR/DEX bonus. The old Appendix B text was left in place, now out of step with the sheets. |
+| 4. Cleanup | 3 Oct 2026 | Ceramic Combat Armour | By this copy Appendix B had been removed, and the radiation text in Chapter 4 and Appendix L read Rad 150. |
+| 5. Restoration | 18 Oct 2026 | **Battle Dress, Improved** and **Scout Battle Dress, Improved** | This appendix, Chapter 2 §2.11 and §2.12, and every dependent number rebuilt. |
+
+Nerys has worn Behind the Claw's Type D Battle Dress (Protection +25, TL15, Rad 300, STR +2 / DEX +6) at every stage.
 
 ---
 
-## B.4 - SOURCE CITATIONS
+## B.3 - WHAT THE SWAP CHANGED
 
-| Element | Source | Page/Note |
+| Item | Original (Stages 1 to 2) | Ceramic phase (Stages 3 to 4) | Now (Stage 5) |
+|---|---|---|---|
+| Protection | +25 | +12 (+18 vs fire, lasers, energy) | +25 or +23 |
+| Rad | 290 | 150 | 290 or 260 |
+| STR / DEX bonus | +6 / +4 | none | +6 / +4 or +4 / +6 |
+| Mass | 100 kg | 15 kg | 100 kg or 90 kg |
+| Cost each | Cr220,000 | Cr90,000 | Cr220,000 or Cr300,000 |
+| Life support | 12 hours | 6 hours | 12 hours |
+| Crater Core (600 rads/hr) | 310 rads/hr received | 450 rads/hr received | 310 or 340 rads/hr received |
+| Hazard band (350 rads/hr) | 60 rads/hr received | 200 rads/hr received | 60 or 90 rads/hr received |
+
+The Ceramic phase made the Glass Reach crossing far more punishing than it was designed to be, and it would have given Commander Ferro's Advanced Combat Rifle a real chance of hurting the team (about 69% of single shots getting through, against 1% or less now).
+
+---
+
+## B.4 - CURRENT ISSUE
+
+Six characters wear one of two SMI battle dress patterns, both TL14, both from CSC23 pp.38 to 40.
+
+| Trait | Battle Dress, Improved | Scout Battle Dress, Improved |
 |---|---|---|
-| Battle Dress STR/DEX bonus, sealed life support, NBC protection, on-board computer/Tactics program (rules text) | CRB22 | p.101 (descriptive text; table row for Battle Dress Protection value is a confirmed erratum, missing from the printed table) |
-| Battle Dress Protection, Rad, STR/DEX, Slots, Mass, Cost by variant and tier | CSC23 | pp.38–39 |
-| P-HUD, transceiver encryption module, Security/2 software as standard equipment | CSC23 | p.38 |
-| 12-hour default life support (CSC23 supersedes CRB22's 6-hour baseline) | CSC23 | p.38 |
-| Medikit automatic first-aid function | CRB22 | Equipment, Medikit entry |
-| Task penalty for missing required skill (-2 DM per level, including level 0) | CRB22 | p.100, Armour rules |
+| Worn by | Kade, Threk, Rivit | Voss, Achebe, Reyes |
+| Protection | +25 | +23 |
+| Rad | 290 | 260 |
+| STR / DEX | +6 / +4 | +4 / +6 |
+| Slots | 16 | 12 |
+| Mass | 100 kg | 90 kg |
+| Cost | Cr220,000 | Cr300,000 |
+| Required skill | Vacc Suit 1 | Vacc Suit 1 |
 
-*(CRB22 = Traveller Core Rulebook Update 2022. CSC23 = Central Supply Catalogue Update 2023. Citation convention per Cold Trail in Kethara Reach, Appendix G.)*
+**Characteristic bonuses.** CSC23 treats battle dress wearers as having enhanced characteristics (usually STR and DEX) for carrying equipment and modifiers in combat, but not for taking damage. Every weapon DM on the character sheets therefore uses the in-suit STR and DEX shown on each sheet. END is not affected.
+
+| Character | Suit | STR / DEX out of suit | STR / DEX in suit |
+|---|---|---|---|
+| Kade | Battle Dress, Improved | 11 / 9 | 17 (+3) / 13 (+2) |
+| Threk | Battle Dress, Improved | 12 / 10 | 18 (+4) / 14 (+2) |
+| Rivit | Battle Dress, Improved | 12 / 10 | 18 (+4) / 14 (+2) |
+| Voss | Scout Battle Dress, Improved | 10 / 7 | 14 (+2) / 13 (+2) |
+| Achebe | Scout Battle Dress, Improved | 10 / 8 | 14 (+2) / 14 (+2) |
+| Reyes | Scout Battle Dress, Improved | 8 / 11 | 12 (+2) / 17 (+3) |
+
+**Gear that depends on the suit.** Achebe's suit carries an Advanced Automedikit (TL14, Cr15,000, CSC23 p.20) in place of the earlier Medikit armour modification, giving a suit total of Cr315,000. The automedikit is a general armour modification, so it takes none of the suit's Slots.
+
+**Standard features (CSC23 p.38).** An electronics suite appropriate to the suit's Tech Level, a P-HUD, a Transceiver Encryption Module, Security/2 software, 12 hours of default life support, fuel cells for 12 hours of full combat operation, and hostile environment protection suitable for deep underwater use. The suit's mass does not count against the wearer's encumbrance while it is powered and active.
 
 ---
 
-*Last updated: 2026-09-29*
+## B.5 - SOURCE CITATIONS
+
+| Element | Source | Page |
+|---|---|---|
+| Battle Dress, Improved and Scout Battle Dress, Improved: Protection, TL, Rad, STR, DEX, Slots, mass, cost, required skill | CSC23 | pp.38 to 39 (table p.39) |
+| Scout Battle Dress description (reconnaissance units, grav assist standard) | CSC23 | p.40 |
+| Standard battle dress equipment, 12-hour life support, enhanced characteristics rule | CSC23 | p.38 |
+| Ceramic Combat Armour (Protection +12, +18 vs fire, lasers and energy, TL13, Rad 150, 15 kg, Cr90,000) | CSC23 | p.33 |
+| Advanced Automedikit (TL14, Cr15,000) | CSC23 | p.20 |
+| Confederation Marines and Army armour doctrine | ACS2 | pp.76 and 78 |
+| Solomani Military Industries | Solomani Front | p.92 |
+| Type D Battle Dress (Nerys) | BtC | Specialist Collection, Delphinic Technology, item A01/75324 |
+| Rad deduction rule | CRB22 | p.100 |
+| Characteristic Modifiers (12 to 14 is +2, 15 to 17 is +3) | CRB22 | p.9 |
+
+*(CRB22 = Core Rulebook Update 2022. CSC23 = Central Supply Catalogue Update 2023. ACS2 = Aliens of Charted Space Volume 2. BtC = Behind the Claw. CRB22's printed armour table omits the Protection value for battle dress, so every battle dress figure here comes from CSC23.)*
+
+---
+
+*Last updated: 2026-10-18*
