@@ -16,7 +16,7 @@
     },
     {
       "file": "Chapter3_Shift_Structure.md",
-      "label": "Ch 3 — Shift Structure (Night/Graveyard/Morning)"
+      "label": "Ch 3 — The Three Acts (Night/Graveyard/Morning)"
     },
     {
       "file": "Chapter4_Maps_Visual_Reference.md",
@@ -29,6 +29,14 @@
     {
       "file": "Chapter6_Player_Characters.md",
       "label": "Ch 6 — Player Characters"
+    },
+    {
+      "file": "Chapter7_The_Pit_History.md",
+      "label": "Ch 7 — The Pit: History, Tonnage & Timeline"
+    },
+    {
+      "file": "Chapter8_The_Reserve_In_Play.md",
+      "label": "Ch 8 — The Reserve in Play"
     },
     {
       "file": "AppendixA_Motel_Owner_NPC.md",
@@ -57,6 +65,10 @@
     {
       "file": "AppendixG_Master_Clue_Summary.md",
       "label": "App G — Master Clue Summary"
+    },
+    {
+      "file": "AppendixH_The_Pickup.md",
+      "label": "App H — The Pickup (SolSec Team Soft Landing)"
     }
   ]
 }

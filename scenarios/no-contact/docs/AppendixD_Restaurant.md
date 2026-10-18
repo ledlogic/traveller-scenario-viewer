@@ -131,3 +131,23 @@ elbow-deep in a sink of dishwater in a cramped back kitchen, glancing toward
 the dining room through a half-open doorway rather than looking at the viewer
 directly. Dim, greasy fluorescent light. Photorealistic, science fiction
 character portrait, no text, no logos.
+
+---
+
+## D.5 — WHAT THEY SAW TODAY: THE PICKUP
+
+Earlier today, four off-worlder-looking hikers passed through the restaurant
+(Appendix H). The cook and the washboy are the table's best early
+pointers to the Reserve (Chapter 3, §3.1).
+
+- **The cook** (Act I clue): served four strangers — two women and two men in
+  good boots and field jackets, one younger man carrying a pack too heavy
+  for a tourist — at about 10:30. They ordered strong coffee and pie, asked
+  the road to "the Gut," and left a large cash tip in unfamiliar notes. He
+  tells the story if asked about strangers, or volunteers it if the table is
+  stuck.
+- **The washboy** (Act I clue): saw the four walk off down the spur road at
+  about 11:30. A woman handed him a coin as thanks: a **silver Solomani
+  "Terran" coin**, TL10-minted, plainly not Jorjor currency. He is proud of it.
+  A PC with Streetwise, Electronics, or the right Science check can tell it is
+  not Imperial.

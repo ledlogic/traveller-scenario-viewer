@@ -44,6 +44,15 @@ officer, *Signal GK*), whose silence tonight could mean he's been compromised, h
 this cell loose as a loss, or is testing them. Wei does not need to appear in person;
 his absence is the engine of the scenario.
 
+**What's really going on.** The extraction team — four SolSec agents aboard
+the courier-sloop *Soft Landing* (Appendix H) — landed a day early, toured
+the nearby Halvorsen Basin Biological Reserve (Chapters 7–8), and were
+taken by it. The game is in three acts (Chapter 3): **Act I**, sort the
+group from the interlopers and learn where the pickup went; **Act II**, take
+a stranded feed hauler's big rig through the Reserve's gate; **Act III**, use
+the Reserve's own mole vehicles to drill to the pickup, or at least to their
+ship's key fobs, and get off planet before dawn.
+
 ---
 
 ## 1.1 — THE WORLD: JORJOR
@@ -269,6 +278,8 @@ with a behavioral one so sharp roleplay is rewarded as much as sharp system mast
 | 3 | 1 | Tabloid Reporter | Chapter 6, §6.5 |
 | 3 | 2 | Mob Enforcer | Chapter 6, §6.6 |
 | 4 | 1–2 | Civilian NPC guests (unconnected to SolSec/Imperial plot) | Appendix C |
+| Pickup | — | SolSec extraction team *Soft Landing* — four missing agents | Appendix H |
+| Reserve | — | Ranger-Supervisor Quill, Compliance Officer Pruitt, Visitor Officer Tolliver, Mole Driver Teller; Rescue Captain Pell (§8.8) | Chapter 8, §8.5 and §8.8 |
 | Office | — | Motel Owner (NPC) | Appendix A |
 | Lobby | — | Shared space — vending machines, jukebox, sometimes food | Appendix C |
 | Restaurant | — | Semi-closed, separate structure across the lot | Appendix D |

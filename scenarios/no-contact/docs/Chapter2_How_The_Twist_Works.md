@@ -76,6 +76,15 @@ these three explanations, depending on how dark you want the table's night to go
 Any of these lets Wei function as the looming, competent threat from *Signal GK*
 without needing him to physically appear until the climax (or at all).
 
+**What actually happened.** None of the three — or rather, all three stay
+*suspicions*. The true reason there is no contact is that the **pickup team
+arrived a day early, toured the Halvorsen Basin Biological Reserve, and was
+taken** (Appendix H; Chapter 7, §7.5). Wei did not burn anyone, was not
+compromised, and set no test. The players will argue the three theories for
+the first half of the night; the scenario's Acts II and III are about
+discovering that the answer is a place, not a person. Okafor-Brandt, if
+freed, doesn't know which of the three Wei is playing (Appendix H, §H.8).
+
 ---
 
 ## 2.4 — WEI'S PRESENCE: RESOLVED

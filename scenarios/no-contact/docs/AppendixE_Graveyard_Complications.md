@@ -103,9 +103,10 @@ about the body-bank accounts or the Project itself. Their concern is entirely
 selfish and local: protecting a decades-old secret, not stopping an
 extraction. Use this version when a referee wants dread and outside
 attention to feel real without pulling Imperial Intelligence into a scenario
-that's meant to stay self-contained — and as a way to let the Strange Park's
-background lore brush up against tonight's plot without the two threads
-actually connecting.
+that's meant to stay self-contained. Now that the Reserve is the reason
+the extraction never came (Chapters 7–8), the Watcher is also a small,
+early warning of the Reserve's own attention: he can mention "the closed
+areas" if cornered.
 
 **Age:** 41
 
@@ -197,19 +198,24 @@ don't let the miss itself become a mystery to chase.
 | Approx. time | Event | Affects | Reference |
 |---|---|---|---|
 | 9:00 PM | Guests arrive and check in, staggered over roughly 30 minutes | All rooms | Chapter 3, §3.1 |
+| 9:00 PM | **Dust storm Stage 1:** distant orange wall on the horizon, static on the radio | All | Chapter 8, §8.7 |
 | 9:40 PM | Extraction window originally expected — passes without comment; nothing happens, which is itself the first quiet wrongness of the night | — | Chapter 3, §3.1 |
 | 10:05 PM | **Room 1 check-in call** | Room 1 | §E.4 above |
 | 10:35 PM | Idling stranger first sighted (roll/pick version) | Highway/lot | §E.2 |
-| 11:00 PM | End of Night shift | — | Chapter 3, §3.1 |
-| 12:00 AM | Graveyard shift begins; extraction is now unambiguously overdue | — | Chapter 3, §3.2 |
+| 10:15 PM | **Dust storm Stage 2:** first gusts, grit, lights flicker. Reserve tours cancelled | All | Chapter 8, §8.7 |
+| 11:00 PM | End of Act I (Night shift). The table should know where the pickup went | — | Chapter 3, §3.1 |
+| 12:00 AM | Act II (Graveyard shift) begins; extraction is now unambiguously overdue. Del's rig repair (≈2D hours) and the persuasion scene run through this window | — | Chapter 3, §3.2 |
 | 12:15 AM | **Room 2 check-in call** | Room 2 | §E.4 above |
 | 12:50 AM | Deputy Callum Marsh's patrol pass (or a call draws him) | Lot/office | §E.1 |
 | 1:15 AM | **Room 3 check-in call** | Room 3 | §E.4 above |
 | 1:35 AM | The hang-up call to the front desk | Office | §E.3 |
-| 1:45 AM | End of Graveyard shift | — | Chapter 3, §3.2 |
-| 4:30 AM | Morning shift begins; sky starts to lighten | — | Chapter 3, §3.3 |
+| 1:45 AM | End of Act II. Rig is past the Reserve's Gate (Chapter 8, §8.4) | — | Chapter 3, §3.2 |
+| 2:00 AM | **Dust storm Stage 3:** full storm; surface patrols withdrawn; Egg-blooms seal | All | Chapter 8, §8.7 |
+| 3:00 AM | Lost pickup members reach the Sink unless found (Appendix H, §H.7) | Reserve | Appendix H |
+| 4:30 AM | Act III (Morning shift) in its last third; sky starts to lighten | — | Chapter 3, §3.3 |
+| 5:00 AM | **Dust storm Stage 4:** the storm passes | All | Chapter 8, §8.7 |
 | 5:15 AM | Last plausible moment for any deferred complication (a missed check-in call is **not** retried here — see hard rule above) | — | §E.4 above |
-| 5:45 AM | Dawn. Whatever's going to happen, happens now | — | Chapter 3, §3.3 |
+| 5:45 AM | Dawn. The *Soft Landing* must be airborne; an Imperial cutter arrives if the mole signalled | — | Chapter 3, §3.3; Chapter 8, §8.10 |
 
 **Using this table:** treat every time as approximate, not a hard clock (Chapter
 3's own pacing notes already establish Graveyard as free-form) — shift events

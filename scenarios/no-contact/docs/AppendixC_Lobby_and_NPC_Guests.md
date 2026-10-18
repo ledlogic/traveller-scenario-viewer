@@ -69,6 +69,17 @@ everyone else.
   something odd next door. Skills: Persuade 1, Streetwise 1, Admin 0,
   Admin (records) 1.
 
+**Del's load (Chapter 3, Act II):** Del is a **contract Feed Line hauler**. His
+tanker holds **28 tonnes of slaughterhouse offal** on a **stamped manifest
+(Consignment 9-4471)** bound for the Reserve's Feed Line Terminal (Chapter 8,
+Area 8) — stranded by the dust storm and a fouled fuel line (Appendix B, §B.5).
+That is why his rig is the one vehicle that can pass a Red-alert gate. He
+knows the Reserve's drivers and hears its news on the CB: this afternoon it
+"closed up tight at five"; there were **shots, then a bang** around 4:20; and
+**areas 12 through 14 are shut** to camping. He mentions it unprompted if
+asked about the Reserve, and as idle gossip otherwise. He knows nothing about
+the pickup.
+
 **Referee use:** The Ashworths should never turn out to be secretly anything. Their
 value is entirely in being ordinary — a red herring PCs can investigate and rule out,
 a source of harmless CB-radio traffic gossip, and a pair of genuine bystanders whose

@@ -101,20 +101,22 @@ be true, rather than existing only because the plot needs them to.
 
 ---
 
-## 5.3 — THE STRANGE PARK (OPTIONAL, BACKGROUND ONLY)
+## 5.3 — THE STRANGE PARK (THE GUT)
 
 Roughly an hour's drive from the motel, off a spur road most maps don't bother
 labeling — and in the opposite direction from the regional bypass (§5.0) that
 stranded this stretch of road — sits a fenced, half-abandoned tourist site the locals just call
 **the Gut** — officially the **Halvorsen Basin Biological Reserve**, discovered
-by a rancher-turned-prospector decades before tonight and briefly a real
-regional attraction before a disaster in **Y1113** quietly ended public
-access. What's actually down there — a colossal, still-living subsurface
-organism of uncertain extent, first mapped in fragments and never fully
-understood — is entirely original to this document set, not drawn from any
-existing published setting, and exists purely as background texture for a
-referee's wider Jorjor campaign. **It has no mechanical connection to No
-Contact's SolSec/Imperium plot** unless a referee deliberately builds one.
+by a rancher-turned-prospector (Ansel Halvorsen, **~Y1097**) about two
+decades before tonight, made a government Reserve in **Y1101**, and struck
+by a disaster in **Y1113** (the Terrace collapse in Areas 12–14) that closed
+it to the public until it was **relicensed in Y1114** for escorted tours and
+camping. What's down there — a colossal, still-living subsurface
+ecosystem, a thousand years in the making — is entirely original to this
+document set, not drawn from any existing published setting.
+**It is no longer background.** Chapter 7 explains where it came from,
+Chapter 8 is the Reserve in play, and Appendix H is the SolSec pickup team
+that vanished into it: it is the reason the extraction never came.
 
 ### Why the biowaste trucks
 
@@ -123,12 +125,12 @@ contract, administered — inevitably — through Jorjor's Civil Service
 Bureaucracy (Chapter 1, §1.2): regional slaughterhouses and agricultural
 operations pay a modest fee to have their organic waste hauled to the edge of
 the flats and dumped, under a permit whose paperwork describes it as routine
-"organic waste processing." In practice, it's feed — a decades-old, half-
-forgotten arrangement that keeps the organism sedated and quiet rather than
-hungry and active. Almost nobody administering the contract today knows *why*
+"organic waste processing." In practice, it's feed — a thousand-year-old, half-
+forgotten arrangement (**Concession 9**, Chapter 7, §7.1) that keeps the
+organism sedated and quiet rather than hungry and active. Almost nobody administering the contract today knows *why*
 it exists; it survives the same way Osei's compromised clearances do (Chapter
 1, §1.2) — because a bureaucracy this committed to procedure treats a
-correctly-filed permit as self-justifying, and questioning a decades-old
+correctly-filed permit as self-justifying, and questioning a thousand-year-old
 arrangement is itself the irregular act.
 
 **Referee use:** the truck route to the flats is a good source of incidental
@@ -165,8 +167,8 @@ they're here so the referee has somewhere to go next.
 
 ## 5.4 — WHERE THE MONEY GOES: THE BODY BANK
 
-Same optional-background status as §5.3 — none of this is wired into
-tonight's motel scenario, but it answers the natural follow-up question of how
+Optional background — none of this is wired into
+tonight's scenario, but it answers the natural follow-up question of how
 a fenced, half-forgotten reserve and a derelict Ancients platform both stay
 funded on a poor, unremarkable hellworld nobody's watching closely.
 

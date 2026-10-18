@@ -54,6 +54,18 @@ content of each character's Page 2 (Chapter 6, §6.0).
   the other.
 - **Del's broken rig and the Ashworths' CB gossip** (Appendix C, §C.2) —
   mundane, intentionally ruled-out red herrings.
+- **The pickup's day** (Appendix D, §D.5; Appendix C, §C.2) — the cook, the
+  washboy's Solomani coin, and Del's CB gossip about shots and a bang at the
+  Reserve. Any two point at the Gut (Chapter 3, §3.1).
+- **The Reserve's cover-up** (Chapter 7, §7.6; Chapter 8, §8.5) — Pruitt's
+  Form 11-C count and her list of missing names; the Incident Room; the
+  Gate ledger entry for the pickup's permit #0614.
+- **The paper trail** (Chapter 8, §8.9) — the Gate's false "departed"
+  stamp, the Clinic's "S. Hall," Pell's whiteboard, Teller's work orders;
+  each office has a slice, spelled differently, and the contradictions are
+  the clue to where the pickup really is.
+- **What the Mass is and does** (Chapter 8, §8.3) — Drifters, Waders and
+  Egg-blooms; the way it reacts to psionics, gunfire and explosives.
 - **The idling stranger, if the Shutter Project Watcher version is used**
   (Appendix E, §E.2) — confirms *someone* local is genuinely watching the
   motel without ever making contact, but ties to the Strange Park's hidden
@@ -69,12 +81,14 @@ Built to stay ambiguous regardless of how the session plays out — resist any
 pressure, including from a persistent table, to pin these down:
 
 - **The hang-up call** to the front desk (Appendix E, §E.3).
-- **Why the extraction didn't come** — Wei burned them, Wei's compromised, or
-  it's a test (Chapter 2, §2.3). Pick one to seed clues toward if you want a
-  throughline, but never confirm it outright at the table.
-- **Any details of the Strange Park or the Shutter Project** (Chapter 5,
-  §5.3–5.6) — explicitly optional background lore, not meant to resolve
-  within this scenario at all.
+- **Wei's own role** — whether he burned them, is compromised, or is running
+  a test (Chapter 2, §2.3). The *immediate* reason for no extraction is now
+  known (the pickup was taken in the Reserve — Appendix H), but whether Wei
+  sent them blind is never confirmed.
+- **The Shutter Project and the satellite** (Chapter 5, §5.5–5.6) — still
+  explicitly optional background, not meant to resolve in this scenario.
+- **Exactly what the Mass is** (Chapter 7, §7.4) — its origin is known; its
+  nature (one mind? waiting?) is not.
 
 ---
 
@@ -89,5 +103,9 @@ Before or during a session, confirm you've:
       didn't come (Chapter 2, §2.3)
 - [ ] Decided whether Deputy Marsh's radio net is storm-affected (Appendix E,
       §E.1)
+- [ ] Decided the Act III pickup fate (roll or choose, Appendix H, §H.7) and
+      what aggravated the Mass (Appendix H, §H.6)
+- [ ] Decided the Alert track starts at 6 / Red (Chapter 8, §8.1) and noted
+      the dust storm clock (Chapter 8, §8.7)
 - [ ] Reviewed each PC's Page 2 (§G.2 above) so you know what's actually in
       play before anyone reveals anything

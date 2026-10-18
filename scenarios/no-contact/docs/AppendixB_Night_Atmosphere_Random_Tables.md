@@ -17,7 +17,7 @@ walk down a two-lane highway in the dark.
 
 Layer in two concrete, external complications:
 
-- **A storm is blocking regional traffic** on the highway approach — real, checkable
+- **A dust storm (haboob) front is blocking regional traffic** on the highway approach — see Chapter 8, §8.7 for its clock — real, checkable
   (a radio weather bulletin, a trucker who mentions it, downed branches visible from
   the parking lot), not a mystical omen. It's the reason a normal ride out isn't
   simple even before anyone suspects anything's wrong.
@@ -140,7 +140,7 @@ gravel lot belongs to someone else:
 | Vehicle | Owner | Condition | Notes |
 |---|---|---|---|
 | Battered pickup truck | Motel owner (Appendix A) | Running, TL7, half a tank | The owner's own errand vehicle. Borrowing it without asking is theft under Jorjor's High Law 8 — a real legal risk, not just a social one. |
-| Long-haul freight rig + trailer | Del Ashworth (Appendix C) | **Not currently running** — see below | Parked at the edge of the lot, engine cover up. Del's been "fixing" it since he arrived, which is also his cover for being out in the lot at odd hours if a referee wants a red-herring beat. |
+| Long-haul feed tanker + trailer | Del Ashworth (Appendix C) | **Not currently running** — see below | A contract Feed Line hauler carrying 28 tonnes of offal on a stamped manifest (Chapter 8, §8.4, Route A). Parked at the edge of the lot, engine cover up. Del's been "fixing" it since he arrived, which is also his cover for being out in the lot at odd hours if a referee wants a red-herring beat. |
 | Motel's own courtesy van | Motel (shared) | Running, but visibly marked with the motel's name/logo | Useless for a quiet getaway — recognizable on sight to anyone in the area. |
 
 **Del's rig, specifically:** genuinely broken down, not staged — a fouled fuel line,
