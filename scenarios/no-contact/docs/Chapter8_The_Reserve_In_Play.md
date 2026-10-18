@@ -184,7 +184,7 @@ quickly; it is *kept*.
 A character using **Telepathy** near the basin (even Life Detection) finds
 the Mass **looking back**: the whole basin registers as one vast, slow
 mind. The Mass notices telepaths: +1 AP, and Drifters turn toward them.
-If the pickup's aggravation was psionic (Appendix H, §H.6), Dr. Hale did
+If the pickup's aggravation was psionic (Appendix G, §G.6), Dr. Hale did
 exactly this at 16:20 today.
 
 ### Neural.AI image prompts (creatures)
@@ -210,14 +210,14 @@ The Reserve is 11 km from the motel by road, on a spur most maps leave off.
 At Red, the Gate (Area 1) checks everything. Three routes in: plan for
 different Acts, and expect the table to invent a fourth.
 
-**Route A: The Big Rig.** Del Ashworth's feed tanker (Appendix B, §B.5; Appendix C, §C.2) is a
+**Route A: The Big Rig.** Del Ashworth's rig, *the Gravy Train* (Appendix B, §B.5; Appendix C, §C.2), is a
 **contract Feed Line hauler** carrying **28 tonnes of slaughterhouse offal**
 on a **stamped manifest (Consignment 9-4471)**. Even at Red, a stamped
 manifest gets a feed truck through the Gate to Area 8: "you can't question a
 properly stamped form." Once at the Terminal, the rig can follow the service
 track to Area 9. **Cost:** Del needs the rig fixed (Act II), and he needs to
 be persuaded, or hired, bribed, or forced. He will not abandon his truck.
-A character who rides in the tanker's cab is clean; one in the trailer is
+A character who rides in the cab or sleeper is clean; one on the catwalk or tank hatch is
 **coated in feed**, which Drifters and Waders ignore (§8.3).
 
 **Route B: The Form.** **Form 14-R (Request to Retrieve Property from a
@@ -232,7 +232,7 @@ Pruitt. Pruitt can be an ally (§8.5).
 the closed Areas from the north (the same line the pickup's ship sits
 behind). Eleven kilometres with the dust front arriving. Effects: no
 Gate-check, but Drifters and Waders, rangers on patrol, and the weather.
-The ship lies along this route (Appendix H, §H.2).
+The ship lies along this route (Appendix G, §G.2).
 
 ---
 
@@ -528,7 +528,7 @@ narrows the answer; none is automatic.
 | 0 | They are somewhere in the Reserve. The Gate says they left, which is a lie. |
 | 1 | The **kind** of trouble: held by staff, trapped, lost, or taken. |
 | 2 | **Which Area** each is probably in (7, 12, 11 or 14, 13). |
-| 3 | Area plus **how long they have** (H.7, "Condition by state") and who else is looking. |
+| 3 | Area plus **how long they have** (G.7, "Condition by state") and who else is looking. |
 
 **Contradictions are the clue.** The Gate says four left; the Property room
 still holds four packs; the clinic has a "Hall"; Pell heard shouting at 17:40.
@@ -543,12 +543,12 @@ three are weapons in a bureaucracy that does not question a stamped form.
 
 ## 8.10: GETTING OFF PLANET
 
-The *Soft Landing* (Appendix H) sits in a dry wash **11 km north of Area 13**,
+The *Soft Landing* (Appendix G) sits in a dry wash **11 km north of Area 13**,
 under sensor-shadow. Reaching it, unlocking it, and lifting off is the
 final scene.
 
-- **To unlock the ship:** any **two** of the four **key fobs** (Appendix H,
-  §H.3). If the crew are lost, the ship's cache can be opened with the
+- **To unlock the ship:** any **two** of the four **key fobs** (Appendix G,
+  §G.3). If the crew are lost, the ship's cache can be opened with the
   captain's **spoken codeword**, found on a rescued crew member or in
   her tent.
 - **To lift:** the ship can fly itself with a PC at the controls. A

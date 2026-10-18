@@ -22,7 +22,7 @@ to tour it. Whatever else the table decides, the only way off Jorjor runs
 through the Reserve.
 
 **The secret under the premise.** "No contact" is literally true. The
-extraction team (Appendix H) came a day early, toured the Halvorsen Basin
+extraction team (Appendix G) came a day early, toured the Halvorsen Basin
 Biological Reserve (Chapter 8), and were taken by something in the closed
 camping areas 12–14. Baldwin Wei's three possible explanations (Chapter 2,
 §2.3) remain the *suspicions* the players will voice all night. The Reserve
@@ -122,7 +122,7 @@ referee paces this act by feel, using the complications below and §3.4's notes.
    (Chapter 8, §8.9). Captain Pell of the Rescue Service (§8.8) is the
    best ally: his whiteboard is the only honest record, and Policy RS-9 has
    stopped his people from going in.
-3. **Del's rig.** Del Ashworth's long-haul tanker (Appendix B, §B.5;
+3. **Del's rig.** Del Ashworth's long-haul tanker, *the Gravy Train* (Appendix B, §B.5;
    Appendix C, §C.2) is the only vehicle that can get through a Red-alert
    Gate (Chapter 8, §8.4, Route A). It is broken: a fouled fuel line,
    about **2D hours** to fix. The party can speed it up (Mechanic, Engineer
@@ -165,7 +165,7 @@ quiet way to reach the closed Areas 12–14 is **under** the ground.
 1. **The Maintenance Yard (Area 9).** Mole driver Gus Teller and the Reserve's
    two moles (Chapter 8, §8.6). Persuade him, steal a mole, or bring your
    own driver (Drive (mole)).
-2. **Where are they?** The location depends on Appendix H, §H.7: roll the
+2. **Where are they?** The location depends on Appendix G, §G.7: roll the
    team's fate or choose. Captured crew are sedated in the Orchard
    (Area 13); trapped crew are in a Terrace void (Area 12); lost crew are
    in the meadows or the Sink; held crew are in the tower's Incident Room
@@ -174,8 +174,8 @@ quiet way to reach the closed Areas 12–14 is **under** the ground.
    Orchard (Chapter 8, §8.6). Drilling the Mass raises the Alert track and
    calls the Waders.
 4. **The rescue.** Open an Egg-bloom, free a trapped team member, find a
-   lost one, or break a held one out of the Incident Room (Appendix H, §H.7).
-5. **The ship.** Reach the *Soft Landing* (Appendix H, §H.2), 11 km north of
+   lost one, or break a held one out of the Incident Room (Appendix G, §G.7).
+5. **The ship.** Reach the *Soft Landing* (Appendix G, §G.2), 11 km north of
    Area 13. Any **two fobs** or Okafor-Brandt's codeword unlock it.
 6. **Lift before dawn.** At about 05:45 the storm passes. If a
    Version: Imperium PC has signalled, an Imperial cutter arrives.
@@ -188,7 +188,7 @@ depending on how play went.
 **What success looks like.** Best case: all four of the pickup are out and
 aboard. Middle case: some are out; the others are in the Mass. Floor: the
 **fobs and the codeword** get at least two PCs off Jorjor. The Mass keeps
-the rest (Appendix H, §H.9).
+the rest (Appendix G, §G.9).
 
 ---
 

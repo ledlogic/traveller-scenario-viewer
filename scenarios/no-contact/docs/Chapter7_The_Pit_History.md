@@ -9,14 +9,14 @@
 
 The Strange Park (Chapter 5, §5.3) used to be background lore. Tonight it is
 the reason the extraction never came: the SolSec pickup team landed early,
-toured the Reserve, and got into trouble (Appendix H). This chapter takes the
+toured the Reserve, and got into trouble (Appendix G). This chapter takes the
 mystery out of the *origin* of the Gut; it is not Ancient, it is not a
 weapon, it is not a one-of-a-kind miracle. It is **the Imperium's compost
 heap**, and it was never meant to be anything else, and answers the
 question the players will ask ("how did this happen?") in a form you can
 read aloud.
 
-What stays mysterious is what the heap **became**: Chapter 8 and Appendix H
+What stays mysterious is what the heap **became**: Chapter 8 and Appendix G
 cover that.
 
 **The one sentence to give the table:** *"For a thousand years, the Imperium
@@ -167,14 +167,14 @@ and spoiler-heavy.
 | **T-12** | A Reserve tour group is lost in Area 11. Staff close the file as "withdrawn from reservation." Four of the six accounts continue to draw UBI (Chapter 5, §5.4). |
 | **T-10** | **Compliance Officer Dara Pruitt** arrives from the regional Bureau to review the Reserve's incident forms. She is not warned that the numbers are bad. |
 | **T-9** | Pruitt files **Form 11-C (Subsidence, Minor)**; her 40th. She begins to suspect the Reserve is hiding its numbers. |
-| **T-6** | **Baldwin Wei issues the extraction order** to the six guests (Chapter 2, §2.4). Separately, he dispatches the pickup; the *Soft Landing* (Appendix H). |
+| **T-6** | **Baldwin Wei issues the extraction order** to the six guests (Chapter 2, §2.4). Separately, he dispatches the pickup; the *Soft Landing* (Appendix G). |
 | **T-5** | PCs begin their journeys to Motel Yermo (Chapter 6). |
 | **T-3** | Dust-front forecasts issued for the basin; the Reserve moves to **Alert: Amber** on a rumour of "ground sounds" in the Terrace. |
 | **T-1** (day 244) | **The Soft Landing arrives early**, 02:00, landing in a dry wash 11 km north of Area 13 under sensor-shadow. The crew sleeps, then plans an advance look at the Gut: Wei's one note to them was "check that nothing has gone bad." |
 | **T-0, morning** (day 245) | The four-person pickup eats at Motel Yermo's restaurant (Appendix D); asks the way to the Gut. |
 | **T-0, 13:00** | Pickup signs in at the Reserve visitor centre under cover names. Books a day tour and a walk-in overnight permit for **Area 13**. |
 | **T-0, 15:30** | Tour reaches the Terrace. The pickup breaks from the group "to take photos." |
-| **T-0, 16:20** | **The incident** (Appendix H, §H.6). Something the pickup does provokes the Mass. |
+| **T-0, 16:20** | **The incident** (Appendix G, §G.6). Something the pickup does provokes the Mass. |
 | **T-0, 17:10** | **Alert: Red.** Areas 12–14 closed. Camping reservations frozen. Ranger-Supervisor Quill orders the cover-up (Chapter 8, §8.5). |
 | **T-0, 19:00** | Dust-front warning issued to the Reserve. All tours cancelled. |
 | **T-0, 21:00** | The six PCs are at Motel Yermo, waiting for a pickup that was due at 21:40. |

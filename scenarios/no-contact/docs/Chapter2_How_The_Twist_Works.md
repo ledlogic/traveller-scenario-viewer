@@ -79,11 +79,11 @@ without needing him to physically appear until the climax (or at all).
 **What actually happened.** None of the three, or rather, all three stay
 *suspicions*. The true reason there is no contact is that the **pickup team
 arrived a day early, toured the Halvorsen Basin Biological Reserve, and was
-taken** (Appendix H; Chapter 7, §7.5). Wei did not burn anyone, was not
+taken** (Appendix G; Chapter 7, §7.5). Wei did not burn anyone, was not
 compromised, and set no test. The players will argue the three theories for
 the first half of the night; the scenario's Acts II and III are about
 discovering that the answer is a place, not a person. Okafor-Brandt, if
-freed, doesn't know which of the three Wei is playing (Appendix H, §H.8).
+freed, doesn't know which of the three Wei is playing (Appendix G, §G.8).
 
 ---
 

@@ -116,6 +116,15 @@ insurance policy in case his cover here is ever questioned from either direction
 **Tell (honest roleplay):** Oddly incurious about the "sacrament" ingredients; a
 detail a real true-believer-adjacent operator would obsess over.
 
+### Clue summary: Corvin Danh
+
+Known only to this player until revealed at the table; this is the content of their Page 2.
+
+| Version | Carries |
+|---|---|
+| Confederation | The real rendezvous protocol, in memory or as a physical prop per the owning player's choice |
+| Imperium | An audio log of two nights' worth of cult-front "confessions" |
+
 ---
 
 ## 6.2: ROOM 1, GUEST 2, "THE BULB MAN"
@@ -206,6 +215,15 @@ tonight's cell.
 **Tell (honest roleplay):** A little too good at appearing to not be listening; a
 beat of a pause before he "notices" you've spoken to him.
 
+### Clue summary: Dabney Kroll
+
+Known only to this player until revealed at the table; this is the content of their Page 2.
+
+| Version | Carries |
+|---|---|
+| Confederation | A year of memorized highway traffic patterns |
+| Imperium | A written log naming past SolSec guests who passed through |
+
 ---
 
 ## 6.3: ROOM 2, GUEST 1, "PSYCHIC MEDIUM"
@@ -287,6 +305,15 @@ on at least one guest already; a physiological read suggesting who's under unusu
 duress about tonight's failed extraction, without her having any idea why.
 
 **Tell (honest roleplay):** Too accurate. A real charlatan hedges; she doesn't need to.
+
+### Clue summary: Yeva Kessler
+
+Known only to this player until revealed at the table; this is the content of their Page 2.
+
+| Version | Carries |
+|---|---|
+| Confederation | Partial debrief notes on one other guest, recorded but unlabeled |
+| Imperium | A stress-response profile on one guest, taken without their knowledge |
 
 ---
 
@@ -373,6 +400,15 @@ for a trigger.
 **Tell (honest roleplay):** Fear is a half-second too controlled, flinches land
 exactly when it's useful to be noticed flinching.
 
+### Clue summary: Dex
+
+Known only to this player until revealed at the table; this is the content of their Page 2.
+
+| Version | Carries |
+|---|---|
+| Confederation | An active-but-unexplained distress beacon sewn into a jacket |
+| Imperium | The same beacon, already calling the opposite direction |
+
 ---
 
 ## 6.5: ROOM 3, GUEST 1, "TABLOID REPORTER"
@@ -454,6 +490,15 @@ it. Swapping it wouldn't just protect Osei; it would hand Imperial counter-intel
 proof of exactly how SolSec turned him.
 
 **Tell (honest roleplay):** A little too calm about the missed extraction.
+
+### Clue summary: Corrin Ashe
+
+Known only to this player until revealed at the table; this is the content of their Page 2.
+
+| Version | Carries |
+|---|---|
+| Confederation | The real data chip; the original leverage material on Osei |
+| Imperium | A forged duplicate chip, ready to swap for the real one |
 
 ---
 
@@ -549,3 +594,14 @@ since arrival.
 
 **Tell (honest roleplay):** Postures and threatens more readily than a real enforcer
 would need to, performing the role rather than living it.
+
+---
+
+### Clue summary: Tomas Reyes
+
+Known only to this player until revealed at the table; this is the content of their Page 2.
+
+| Version | Carries |
+|---|---|
+| Confederation | A verbal kill-order, no physical trace |
+| Imperium | A mentally-mapped inventory of the motel's choke points |

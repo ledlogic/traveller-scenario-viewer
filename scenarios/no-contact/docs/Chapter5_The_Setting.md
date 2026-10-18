@@ -115,7 +115,7 @@ camping. What's down there (a colossal, still-living subsurface
 ecosystem, a thousand years in the making) is entirely original to this
 document set, not drawn from any existing published setting.
 **It is no longer background.** Chapter 7 explains where it came from,
-Chapter 8 is the Reserve in play, and Appendix H is the SolSec pickup team
+Chapter 8 is the Reserve in play, and Appendix G is the SolSec pickup team
 that vanished into it: it is the reason the extraction never came.
 
 ### Why the biowaste trucks

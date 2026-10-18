@@ -1,11 +1,11 @@
 # TRAVELLER: NO CONTACT
-## Appendix H: The Pickup, SolSec Extraction Team "Soft Landing"
+## Appendix G: The Pickup, SolSec Extraction Team "Soft Landing"
 
 *Referee Reference Document*
 
 ---
 
-## H.0: WHAT THIS COVERS
+## G.0: WHAT THIS COVERS
 
 The extraction the six guests are waiting for is real. A four-person SolSec
 team came for them. They landed **a day early**, in a dry wash just outside the Reserve fence,
@@ -22,7 +22,7 @@ what they did that provoked the Mass, and what happened to them.
 
 ---
 
-## H.1: THE TEAM AT A GLANCE
+## G.1: THE TEAM AT A GLANCE
 
 | Role | Name | Age | Cover at the Reserve | Notes |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ what they did that provoked the Mass, and what happened to them.
 
 ---
 
-## H.2: THE SHIP, *SOFT LANDING*
+## G.2: THE SHIP, *SOFT LANDING*
 
 A **TL11 SolSec courier-sloop**, 100 dTon, Jump-1, with a cargo hold with
 four cots, and a quiet, matte-grey hull that looks, from the air, like a
@@ -44,7 +44,7 @@ TL7 surveillance unless something draws attention to it.
   fence line. Reachable on foot across the flats (Route C, Chapter 8, §8.4).
 - **Fuel:** enough for one lift and one jump.
 - **Lock:** TL11 biometric-and-key. **Any two of the four key fobs**
-  (H.3) open the hatch and wake the flight computer. A fob alone gets the
+  (G.3) open the hatch and wake the flight computer. A fob alone gets the
   door open and nothing else.
 - **Backup:** Okafor-Brandt's spoken codeword *("Bluebird, no reply")*
   overrides the lock from inside the hatch comm panel. Anyone who hears it
@@ -54,7 +54,7 @@ TL7 surveillance unless something draws attention to it.
 
 ---
 
-## H.3: THE KEY FOBS
+## G.3: THE KEY FOBS
 
 Each team member wears a **bone-conduction key fob** (TL11, a slim black
 disc on a chain, passes as a dog tag). Under the **2-of-4 rule**, even a
@@ -74,7 +74,7 @@ the codes out.
 
 ---
 
-## H.4: TEAM STAT BLOCKS
+## G.4: TEAM STAT BLOCKS
 
 Skills are listed alphabetically, with sub-skills (specialities) immediately
 after their parent.
@@ -101,7 +101,7 @@ out to be a reason to.
 - Tactics 0
   - Tactics (military) 1
 
-**Gear:** TL11 slug pistol, TL11 fob (H.3), TL10 comm unit disguised as a camera.
+**Gear:** TL11 slug pistol, TL11 fob (G.3), TL10 comm unit disguised as a camera.
 
 **Role at the table:** Controlled and logical. Once freed she takes
 charge in the way a captain does: short sentences, clear orders. She
@@ -210,7 +210,7 @@ no text, no logos.
 
 ---
 
-## H.5: THEIR AFTERNOON (THE TOUR)
+## G.5: THEIR AFTERNOON (THE TOUR)
 
 | Time | What happened |
 |---|---|
@@ -219,11 +219,11 @@ no text, no logos.
 | 13:00 | Sign in at the Gate (Area 1) under cover names. Book a day tour and a walk-in overnight **permit for Area 13 (#0614)**. |
 | 14:00–15:30 | Tour the front areas (2–4, 7). Okafor-Brandt asks too many questions about feed volumes. |
 | 15:30 | Tour reaches the Terrace (Area 12). The team breaks from the group "for photos." |
-| 16:20 | **The incident** (H.6). |
+| 16:20 | **The incident** (G.6). |
 
 ---
 
-## H.6: WHAT THEY DID, THE AGGRAVATION (d6)
+## G.6: WHAT THEY DID, THE AGGRAVATION (d6)
 
 Something the pickup did woke the Mass. Roll d6, or choose.
 
@@ -239,7 +239,7 @@ if you want a compounded disaster.
 
 ---
 
-## H.7: WHAT HAPPENED TO THEM, RANDOM CHOICE (d6)
+## G.7: WHAT HAPPENED TO THEM, RANDOM CHOICE (d6)
 
 Roll once for the team (or choose). **C** = Captured (inside an Egg-bloom,
 Area 13). **T** = Trapped (in a Terrace void, Area 12). **L** = Lost (wandering
@@ -279,11 +279,11 @@ you roll here is the truth that the paper trail is hiding.
   or by deal.
 - **Dead (X).** Body at the site. Their fob and gear are recoverable.
 
-**Fobs:** per H.3, the fob stays with the wearer. Two fobs open the ship.
+**Fobs:** per G.3, the fob stays with the wearer. Two fobs open the ship.
 
 ---
 
-## H.8: WHAT THEY KNOW (IF FREED)
+## G.8: WHAT THEY KNOW (IF FREED)
 
 - **Why they were early.** Wei told them to "check that nothing has gone
   bad." They went to look at the one odd site in an hour's drive.
@@ -300,7 +300,7 @@ you roll here is the truth that the paper trail is hiding.
 
 ---
 
-## H.9: IF THE TABLE FREES NO ONE
+## G.9: IF THE TABLE FREES NO ONE
 
 The fobs alone get two PCs aboard. The ship lifts. The pickup stays in
 the Reserve, in the cradle or the dark, and the final image of the

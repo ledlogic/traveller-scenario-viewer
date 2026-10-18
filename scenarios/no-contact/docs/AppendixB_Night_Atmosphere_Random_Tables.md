@@ -140,16 +140,44 @@ gravel lot belongs to someone else:
 | Vehicle | Owner | Condition | Notes |
 |---|---|---|---|
 | Battered pickup truck | Motel owner (Appendix A) | Running, TL7, half a tank | The owner's own errand vehicle. Borrowing it without asking is theft under Jorjor's High Law 8; a real legal risk, not just a social one. |
-| Long-haul feed tanker + trailer | Del Ashworth (Appendix C) | **Not currently running**: see below | A contract Feed Line hauler carrying 28 tonnes of offal on a stamped manifest (Chapter 8, §8.4, Route A). Parked at the edge of the lot, engine cover up. Del's been "fixing" it since he arrived, which is also his cover for being out in the lot at odd hours if a referee wants a red-herring beat. |
+| Long-haul feed tanker, *the Gravy Train* | Del Ashworth (Appendix C) | **Not currently running**: see below | A contract Feed Line hauler carrying 28 tonnes of offal on a stamped manifest (Chapter 8, §8.4, Route A). Parked at the edge of the lot, engine cover up. Del's been "fixing" it since he arrived, which is also his cover for being out in the lot at odd hours if a referee wants a red-herring beat. |
 | Motel's own courtesy van | Motel (shared) | Running, but visibly marked with the motel's name/logo | Useless for a quiet getaway, recognizable on sight to anyone in the area. |
 
-**Del's rig, specifically:** genuinely broken down, not staged; a fouled fuel line,
-plausible for a TL7 diesel-analog engine after a long haul through dust and heat.
-Fixable with an **Engineer (life support) or Mechanic-equivalent check** (referee's
-choice of skill per house ruleset) at roughly **2D hours** of work and whatever
-period-appropriate parts are on hand. If the party wants Del's rig running faster
-than that, treat it as a scene, not an automatic timer skip, Del is possessive of
-his truck and won't hand off repairs to a stranger without a good reason.
+### Del's rig: *the Gravy Train*
+
+Yes, there is a big rig, and it is the table's best way to the Reserve (Chapter 8,
+§8.4, Route A). Del calls it **the Gravy Train**, the name hand-lettered in
+flaking cream paint on both doors, under a chrome bull and a row of amber
+roof lamps. It is a TL7 diesel-analog 6x4 tractor pulling a 30-tonne
+stainless **feed tanker**, loaded tonight with 28 tonnes of slaughterhouse
+offal on a stamped manifest (Consignment 9-4471).
+
+| | |
+|---|---|
+| **Seats** | Cab bench seats three (driver plus two). A curtained sleeper berth fits two more. Up to five inside, comfortably. |
+| **Riding outside** | Catwalk and tank-top hatch fit three or four more, holding on, in grit and wind. Anyone up there is **coated in feed** by the end of the trip (Chapter 8, §8.3). |
+| **Speed** | 90 km/h on the highway; 40 km/h on the Reserve's service track; 15 km/h in a dust storm. |
+| **Hull / Armour** | Hull 40, Structure 40, Armour 4 (a heavy steel bumper and a lot of tank). Tires are the weak point. |
+| **Range** | About 800 km on a full tank; fuel is not the problem tonight. |
+| **Kit** | Air horn (audible 5 km, which raises attention), CB radio, roof floodlight bar, front winch (rated for the rig itself, useful for pulling a person or a stuck mole), steam-wash hose from the tank pump. |
+| **Quirks** | Reeks of offal; Del swears the smell washes out. Idles with a rattle and a cough. Del drives it with great care and will not let anyone else take the wheel without a very good reason. |
+
+**Its problem tonight:** genuinely broken down, not staged; a fouled fuel
+line, plausible for a TL7 diesel-analog engine after a long haul through dust
+and heat. Fixable with a **Mechanic check** (Engineer (power) also works) at
+roughly **2D hours** of work and whatever period-appropriate parts are on
+hand. Each additional person with Mechanic or Engineer skill working on it
+cuts the time by about a quarter. If the party wants the rig running faster
+than that, treat it as a scene, not an automatic timer skip. Del is possessive
+of his truck and won't hand off repairs to a stranger without a good reason.
+He also will not leave without it.
+
+**Neural.AI image prompt:** A battered 1970s-style long-haul semi tractor with
+a long stainless fuel tanker trailer, "Gravy Train" hand-lettered in flaking
+cream paint on the cab door, amber roof lamps glowing, steam rising from the
+tank hatch, parked at the edge of a gravel motel lot under an orange dust-storm
+sky. Photorealistic, science fiction/Americana crossover, no text beyond the
+door lettering, no logos.
 
 ### Repairable vehicles within 100km
 

@@ -45,7 +45,7 @@ this cell loose as a loss, or is testing them. Wei does not need to appear in pe
 his absence is the engine of the scenario.
 
 **What's really going on.** The extraction team, four SolSec agents aboard
-the courier-sloop *Soft Landing* (Appendix H), landed a day early, toured
+the courier-sloop *Soft Landing* (Appendix G), landed a day early, toured
 the nearby Halvorsen Basin Biological Reserve (Chapters 7–8), and were
 taken by it. The game is in three acts (Chapter 3): **Act I**, sort the
 group from the interlopers and learn where the pickup went; **Act II**, take
@@ -278,7 +278,7 @@ with a behavioral one so sharp roleplay is rewarded as much as sharp system mast
 | 3 | 1 | Tabloid Reporter | Chapter 6, §6.5 |
 | 3 | 2 | Mob Enforcer | Chapter 6, §6.6 |
 | 4 | 1–2 | Civilian NPC guests (unconnected to SolSec/Imperial plot) | Appendix C |
-| Pickup | n/a | SolSec extraction team *Soft Landing*, four missing agents | Appendix H |
+| Pickup | n/a | SolSec extraction team *Soft Landing*, four missing agents | Appendix G |
 | Reserve | n/a | Ranger-Supervisor Quill, Compliance Officer Pruitt, Visitor Officer Tolliver, Mole Driver Teller; Rescue Captain Pell (§8.8) | Chapter 8, §8.5 and §8.8 |
 | Office | n/a | Motel Owner (NPC) | Appendix A |
 | Lobby | n/a | Shared space: vending machines, jukebox, sometimes food | Appendix C |
@@ -288,3 +288,110 @@ The motel complex has **six occupied/usable spaces total**: three PC-pair rooms
 (1–3), one civilian-guest room (4), a shared lobby, and a semi-closed restaurant
 across the lot. See Chapter 4 for room relationships, Chapter 6 for the six PCs,
 and Appendix C/D for lobby and restaurant detail.
+
+### Character build roster
+
+**Honest status:** none of these characters has yet been generated with the
+Mongoose Traveller 2e character-creation rules (qualification and survival
+rolls, term-by-term skills, benefits, aging). Every UPP, age and skill list was
+assigned by hand to fit the role, and "career terms" appear in some entries as
+narrative only; ages and skill counts have not been checked against terms
+served. Treat the **Authored** column as when the stat block was written, and
+tick **Rules-built** and fill **Built on** as each character is regenerated
+properly.
+
+| Character | Role | Age | Stat block | Authored | Rules-built | Built on |
+|---|---|---|---|---|---|---|
+| Corvin Danh (Confed. / Imperium) | PC, Room 1 | 38 | Ch 6, §6.1 | Aug 2026 | ☐ | |
+| Dabney Kroll (Confed. / Imperium) | PC, Room 1 | 56 | Ch 6, §6.2 | Aug 2026 | ☐ | |
+| Yeva Kessler (Confed. / Imperium) | PC, Room 2 | 44 | Ch 6, §6.3 | Aug 2026 | ☐ | |
+| Dex (Confed. / Imperium) | PC, Room 2 | 19 | Ch 6, §6.4 | Aug 2026 | ☐ | |
+| Corrin Ashe (Confed. / Imperium) | PC, Room 3 | 33 | Ch 6, §6.5 | Aug 2026 | ☐ | |
+| Big Tomas Reyes (Confed. / Imperium) | PC, Room 3 | 45 | Ch 6, §6.6 | Aug 2026 | ☐ | |
+| Earlene Vance | Motel owner | 61 | App A | Aug 2026 | ☐ | |
+| Del Ashworth | Civilian, feed hauler | 54 | App C, §C.2 | Aug 2026 | ☐ | |
+| Priya Ashworth | Civilian | 47 | App C, §C.2 | Aug 2026 | ☐ | |
+| The cook | Restaurant manager | 57 | App D, §D.2 | Aug 2026 | ☐ | |
+| The regular | Restaurant | 49 | App D, §D.2 | Aug 2026 | ☐ | |
+| The washboy | Restaurant | 15 | App D, §D.2 | Aug 2026 | ☐ | |
+| Deputy Callum Marsh | Local police | 36 | App E, §E.1 | Aug 2026 | ☐ | |
+| The idling stranger (Version 1) | Mundane traveler | 44 | App E, §E.2 | Aug 2026 | ☐ | |
+| The Watcher (Version 2) | Shutter Project observer | 41 | App E, §E.2 | Aug-Sep 2026 | ☐ | |
+| Deputy Comptroller Yannick Osei | The Prize | 55 | Ch 1, §1.2 | Aug 2026 | ☐ | |
+| Capt. Ines Okafor-Brandt | Pickup, leader/pilot | 46 | App G, §G.4 | 2026-10-16 | ☐ | |
+| Tavish Mbeki | Pickup, breacher | 39 | App G, §G.4 | 2026-10-16 | ☐ | |
+| Dr. Sunniva Hale | Pickup, medic/telepath | 52 | App G, §G.4 | 2026-10-16 | ☐ | |
+| Rook Delacroix | Pickup, gunner | 29 | App G, §G.4 | 2026-10-16 | ☐ | |
+| Hollis Quill | Reserve, Ranger-Supervisor | 48 | Ch 8, §8.5 | 2026-10-16 | ☐ | |
+| Dara Pruitt | Reserve, Compliance Officer | 41 | Ch 8, §8.5 | 2026-10-16 | ☐ | |
+| Marcy Tolliver | Reserve, Visitor Services | 29 | Ch 8, §8.5 | 2026-10-16 | ☐ | |
+| Gus Teller | Reserve, mole driver | 56 | Ch 8, §8.5 | 2026-10-16 | ☐ | |
+| Jonah Pell | Reserve, Rescue Captain | 37 | Ch 8, §8.8 | 2026-10-18 | ☐ | |
+
+*Baldwin Wei is offscreen and has no stat block. The Ashworths, restaurant staff and other civilians are lighter blocks and may be built with fewer terms.*
+
+---
+
+## 1.6: ALREADY KNOWN (GIVEN, NOT DISCOVERED)
+
+Every PC already has **Baldwin Wei's original transmission** (Chapter 2,
+§2.4); the order that sent them to Motel Yermo, including the "no loose
+threads" instruction. This is backstory every player starts with, not a clue
+anyone needs to find.
+
+---
+
+## 1.7: DISCOVERABLE THROUGH PLAY
+
+What the table can find out, and where it lives. Use this mid-session instead of
+reconstructing the knowledge landscape from memory across the other documents.
+
+- **The TL gear gap** (§1.4), TL12 gear is the mole's core
+  mechanical tell across every guest pairing, surfaced through Electronics
+  checks or sharp in-fiction observation, never handed over for free.
+- **Osei's situation** (§1.2), why the extraction never came,
+  reachable only indirectly if a PC tries the manifest office tonight: a busy
+  signal, an evasive night clerk, or worse.
+- **Highway traffic table results** (Appendix B, §B.2) and **lobby random
+  events** (Appendix C, §C.1), mostly ambient texture, occasionally real
+  signal buried in it.
+- **The Fence-Line Hum** and **the Big Queue** (Appendix B, §B.3; Chapter 5,
+  §5.7): rumor-tier local color, deliberately never confirmed one way or
+  the other.
+- **Del's broken rig and the Ashworths' CB gossip** (Appendix C, §C.2),
+  mundane, intentionally ruled-out red herrings.
+- **The pickup's day** (Appendix D, §D.5; Appendix C, §C.2): the cook, the
+  washboy's Solomani coin, and Del's CB gossip about shots and a bang at the
+  Reserve. Any two point at the Gut (Chapter 3, §3.1).
+- **The Reserve's cover-up** (Chapter 7, §7.6; Chapter 8, §8.5): Pruitt's
+  Form 11-C count and her list of missing names; the Incident Room; the
+  Gate ledger entry for the pickup's permit #0614.
+- **The paper trail** (Chapter 8, §8.9); the Gate's false "departed"
+  stamp, the Clinic's "S. Hall," Pell's whiteboard, Teller's work orders;
+  each office has a slice, spelled differently, and the contradictions are
+  the clue to where the pickup really is.
+- **What the Mass is and does** (Chapter 8, §8.3), Drifters, Waders and
+  Egg-blooms; the way it reacts to psionics, gunfire and explosives.
+- **The idling stranger, if the Shutter Project Watcher version is used**
+  (Appendix E, §E.2), confirms *someone* local is genuinely watching the
+  motel without ever making contact, but ties to the Strange Park's hidden
+  agenda (Chapter 5, §5.4–5.6) rather than the SolSec/Imperium plot.
+- **Room check-in calls** (Appendix E, §E.4); one per SolSec room; if
+  missed, gone for good, no message, no clue in the silence itself.
+
+---
+
+## 1.8: DELIBERATELY UNRESOLVABLE
+
+Built to stay ambiguous regardless of how the session plays out, resist any
+pressure, including from a persistent table, to pin these down:
+
+- **The hang-up call** to the front desk (Appendix E, §E.3).
+- **Wei's own role**: whether he burned them, is compromised, or is running
+  a test (Chapter 2, §2.3). The *immediate* reason for no extraction is now
+  known (the pickup was taken in the Reserve; see Appendix G), but whether Wei
+  sent them blind is never confirmed.
+- **The Shutter Project and the satellite** (Chapter 5, §5.5–5.6), still
+  explicitly optional background, not meant to resolve in this scenario.
+- **Exactly what the Mass is** (Chapter 7, §7.4); its origin is known; its
+  nature (one mind? waiting?) is not.

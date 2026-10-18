@@ -210,7 +210,7 @@ don't let the miss itself become a mystery to chase.
 | 1:35 AM | The hang-up call to the front desk | Office | §E.3 |
 | 1:45 AM | End of Act II. Rig is past the Reserve's Gate (Chapter 8, §8.4) | n/a | Chapter 3, §3.2 |
 | 2:00 AM | **Dust storm Stage 3:** full storm; surface patrols withdrawn; Egg-blooms seal | All | Chapter 8, §8.7 |
-| 3:00 AM | Lost pickup members reach the Sink unless found (Appendix H, §H.7) | Reserve | Appendix H |
+| 3:00 AM | Lost pickup members reach the Sink unless found (Appendix G, §G.7) | Reserve | Appendix G |
 | 4:30 AM | Act III (Morning shift) in its last third; sky starts to lighten | n/a | Chapter 3, §3.3 |
 | 5:00 AM | **Dust storm Stage 4:** the storm passes | All | Chapter 8, §8.7 |
 | 5:15 AM | Last plausible moment for any deferred complication (a missed check-in call is **not** retried here, see hard rule above) | n/a | §E.4 above |

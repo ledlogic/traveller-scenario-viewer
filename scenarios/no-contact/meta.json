@@ -63,12 +63,8 @@
       "label": "App F: Skill Spotlight & Combat Hooks"
     },
     {
-      "file": "AppendixG_Master_Clue_Summary.md",
-      "label": "App G: Master Clue Summary"
-    },
-    {
-      "file": "AppendixH_The_Pickup.md",
-      "label": "App H: The Pickup (SolSec Team Soft Landing)"
+      "file": "AppendixG_The_Pickup.md",
+      "label": "App G: The Pickup (SolSec Team Soft Landing)"
     }
   ]
 }

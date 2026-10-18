@@ -137,7 +137,7 @@ character portrait, no text, no logos.
 ## D.5: WHAT THEY SAW TODAY, THE PICKUP
 
 Earlier today, four off-worlder-looking hikers passed through the restaurant
-(Appendix H). The cook and the washboy are the table's best early
+(Appendix G). The cook and the washboy are the table's best early
 pointers to the Reserve (Chapter 3, §3.1).
 
 - **The cook** (Act I clue): served four strangers (two women and two men in
