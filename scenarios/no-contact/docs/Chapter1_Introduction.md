@@ -1,5 +1,5 @@
 # TRAVELLER: NO CONTACT
-## Chapter 1: Introduction & Situation
+## Chapter 1: Introduction
 
 *Referee Reference Document*
 
@@ -13,9 +13,9 @@ Six strangers. One roadside motel on the edge of a dying desert world. Each of y
 
 ---
 
-## 1.0: PREMISE
+## 1.1: PREMISE
 
-All six player characters are **Solomani Security (SolSec) assets** who have each been told, separately and through their own handler or cutout, to go to ground at a specific three-room motel, **Motel Yermo** *(Spanish, "wasteland/barren place"; five letters, matches the hellworld texture of Jorjor itself)*, and wait for extraction back across the border to Confederation space. **Each was also told they'd be paired with a partner for this job (sharing a room, a cover story, and the wait for extraction) but each received that instruction independently, and most pairs have never actually met their partner in person before tonight.** Verifying that the person who shows up matching your partner's description really is who they say they are is part of the job, not a given. No pair was told anything about the other two rooms; as far as any given pair knows, they may be the only SolSec presence at the motel tonight. Each pair has a cover identity, a matched pair of motel-guest personas, they believe is unique to them.
+All six player characters are **Solomani Security (SolSec) assets** who have each been told, separately and through their own handler, to go to ground at a specific three-room motel, **Motel Yermo** *(Spanish, "wasteland/barren place"; matches the hellworld texture of Jorjor itself)*, and wait for extraction back across the border to Confederation space. **Each was also told they'd be paired with a partner for this job (sharing a room, a cover story, and the wait for extraction) but each received that instruction independently, and most pairs have never actually met their partner in person before tonight.** Verifying that the person who shows up matching your partner's description really is who they say they are is part of the job, not a given. No pair was told anything about the other two rooms; as far as any given pair knows, they may be the only SolSec presence at the motel tonight. Each pair has a cover identity, a matched pair of motel-guest personas, they believe is unique to them.
 
 **The extraction never comes.**
 
@@ -23,129 +23,28 @@ Over one night, broken into **Night / Graveyard / Morning** shifts, the six agen
 
 Looming over the whole thing is **Baldwin Wei**, the network's controller (canon SolSec officer, *Signal GK*), whose silence tonight could mean he's been compromised, has cut this cell loose as a loss, or is testing them. Wei does not need to appear in person; his absence is the engine of the scenario.
 
-**What's really going on.** The extraction team, four SolSec agents aboard the courier-sloop *Soft Landing* (Appendix G), landed a day early, toured the nearby Halvorsen Basin Biological Reserve (Chapters 7–8), and were taken by it. The game is in three acts (Chapter 3): **Act I**, sort the group from the interlopers and learn where the pickup went; **Act II**, take a stranded feed hauler's big rig through the Reserve's gate; **Act III**, use the Reserve's own mole vehicles to drill to the pickup, or at least to their ship's key fobs, and get off planet before dawn.
+**What's really going on.** The extraction team, four SolSec agents aboard the courier-sloop *Soft Landing* (Chapter 4, §4.8), landed a day early, toured the nearby Halvorsen Basin Biological Reserve (Chapter 2, §2.17–2.32), and were taken by it. The game is in three acts (Chapters 6–8): **Act I**, sort the group from the interlopers and learn where the pickup went; **Act II**, take a stranded feed hauler's big rig through the Reserve's gate; **Act III**, use the Reserve's own mole vehicles to drill to the pickup, or at least to their ship's key fobs, and get off planet before dawn.
 
 ---
 
-## 1.1: THE WORLD, JORJOR
-
-**Jorjor** *(pronounced "hor-HOR", J as a breathy Spanish H, equal stress on both syllables; yes, it's definitely a hor-hor adventure)*, Arcturus Subsector, Solomani Rim Sector, hex 3225. UWP **B641888-7**.
-
-| UWP element | Value | Meaning |
-|---|---|---|
-| Starport | B | Good quality: refined fuel, shipyard, both highport and downport. Real, unremarkable ship traffic. |
-| Size | 6 | Medium, 9,600 km diameter |
-| Atmosphere | 4 | Thin, tainted |
-| Hydrographics | 1 | Dry world, 10% surface water |
-| Population | 8 | Moderate, ~100 million |
-| Government | 8 | Civil Service Bureaucracy |
-| Law | 8 | High Law: controlled blades (firearms are legal and common) |
-| Tech Level | 7 | Pre-stellar electronics |
-
-Jorjor is a **hellworld**, poor for its size, never became the industrial power it hoped to be, and its people are described as grim realists who survive daily hardship. That's exactly why it's a good place to disappear. The Class B starport means real ship traffic in and out, so a late extraction reads as *late*, not *suspicious*, at first.
-
-Jorjor sits in the same subsector (Arcturus) that *Signal GK* uses for Baldwin Wei's home turf, keeping this scenario in continuity with existing SolSec/Wei material.
-
----
-
-## 1.2: THE PRIZE, WHY JORJOR
-
-The answer isn't a thing. It's a stamp.
-
-Jorjor's government is a **Civil Service Bureaucracy**, and per the pattern this government type follows, its administration runs on exactly the kind of fastidious, jealously-guarded procedural minutiae that makes a "Jobsworth's World": permits and restrictions abound, demarcation lines between departments are exactly drawn, and inspections and manifests are treated as sacred process rather than practical security.
-
-**That rigidity is the vulnerability.** SolSec doesn't want anything buried, mined, or built on Jorjor. It wants **quiet, repeatable control of one procedural chokepoint**: the office that stamps off-world cargo and personnel manifests as inspected and cleared.
-
-### The compromised official
-
-**Deputy Comptroller Yannick Osei**, Off-World Manifest & Clearance Office, Jorjor Civil Service Bureaucracy; a career bureaucrat, twenty-two years in the department, utterly unremarkable on paper.
-
-**Age:** 55
-
-**UPP:** 546598 *(STR 5 (-1), DEX 4 (-1), END 6 (0), INT 5 (-1), EDU 9 (+1), SOC 8 (0))*
-
-**Career history:** Four terms **Bureaucrat**, entirely within Jorjor's Civil Service Bureaucracy, climbing by seniority and procedural correctness rather than any particular ability, exactly the promotion path the government type rewards. Twenty-two years in the Off-World Manifest & Clearance Office specifically.
-
-**Skills:** Admin 2, Persuade 1, Streetwise 0, Electronics 0 *(genuinely minimal, see below)*, Gambler 1 *(the debt that got him turned in the first place)*
-
-SolSec identified Osei four years ago through a pattern any patient handler would recognize: chronic gambling debt, quietly spiraling, invisible to his superiors because his departmental paperwork was flawless. A soft approach (help with the debt, no strings, "a friend") became leverage inside eighteen months. Osei now has the authority to issue **administrative clearance stamps** that route a shipment or a travel manifest past physical inspection entirely; a routine, boring, correctly filed exception that a bureaucracy this proud of its own procedure never double-checks, because *questioning a properly stamped form* is itself procedurally irregular.
-
-**What this actually buys SolSec:** not a single prize, but a standing **smuggling corridor**; the ability to move personnel, documents, and material through Jorjor's Class B starport undetected, repeatedly, for as long as Osei's position and cover hold. That's why this motel, in this jurisdiction, on this world: it sits inside Osei's practical reach, close enough for an asset in trouble to be plausibly cleared through his office on short notice.
-
-### Inept with technology, holds the keys anyway
-
-Osei's **Electronics skill sits at 0**, not a gap in the writeup, a real and important fact about him. He does not understand, in any functional sense, the systems his office nominally controls. He can operate the terminal that issues a clearance stamp because the interface is built to require nothing more than that, and because he's done the same handful of keystrokes for over two decades. Ask him to troubleshoot it, explain how it verifies anything, or notice when something about it is behaving oddly, and he's lost.
-
-**How he passes Imperial competency reviews anyway:** Jorjor's civil service requires periodic technical-proficiency testing for anyone holding a clearance-issuing post. Osei passes these using a **mind-enhancing pharmaceutical** (referee's call on a period-appropriate name and TL, something TL8-9, short-acting, legitimately prescribed for exam performance rather than exotic or illegal) that sharpens recall and test-taking focus for a few hours at a time without granting any lasting understanding. He walks out of every review having technically passed, and forgets most of what the test covered within a day. Nobody above him has ever had reason to look closer, because the test result is the only thing the bureaucracy's own procedure actually checks, "questioning a properly stamped form is itself procedurally irregular" applies just as well to questioning a properly passed exam.
-
-**Referee use:** if a PC ever needs Osei to *do* something technical under pressure (investigate an anomaly, verify a system remotely, adapt on the fly) he cannot, full stop, regardless of how much he's threatened or bribed. This is a hard limit, not a skill check to beat. It's also a quiet source of dramatic irony: SolSec's whole corridor runs through a man who doesn't understand the system he's exploiting any better than the bureaucracy that employs him does.
-
-### The quota
-
-Osei's other survival mechanism is entirely mundane: he **processes a steady quota of ordinary, legitimate manifest clearances** every cycle, enough real, boring, correctly-handled cases that his output looks like bare-minimum competent diligence to anyone doing a surface review. The SolSec-compromised exceptions are a small, carefully limited fraction hidden inside a much larger body of genuine work. He treats the quota itself as his real job security, more than the bribe money or the blackmail leverage, "keep the numbers normal" is his own survival instinct as much as SolSec's operational requirement.
-
-**Referee use:** this is the mechanism behind the "internal audit" explanation below for why this ties to no extraction. An audit wouldn't find Osei's compromised clearances by volume, his numbers look ordinary, it would only find them by pattern, which is exactly the kind of narrow, specific anomaly a jealous rival department (per Jorjor's administrative culture) might stumble onto while looking for something else entirely.
-
-### He asks questions sometimes
-
-Osei is not a pushover or a fool, and playing him as one undersells the character. Every so often (unpredictably, not on any schedule a PC could game) genuine scrutiny surfaces: he'll ask a real, specific question about a manifest, push back on a request, or notice a detail that doesn't fit. This isn't competence breaking through the fog; it's exactly the fastidious, procedure-worshipping instinct the whole bureaucracy runs on, firing on him the same as it would on anyone else in the department, entirely independent of whether he understands the technology behind what he's looking at.
-
-**Referee use:** a good beat if Osei ever appears directly (he doesn't need to, see below) is to let him ask one sharp, correct, procedurally-minded question that has nothing to do with technology and everything to do with paperwork, and let it briefly, genuinely rattle whichever PC is dealing with him, before he moves on and signs off anyway.
-
-### Neural.AI image prompt
-
-A soft, unremarkable man in his mid-50s in a rumpled civil-service uniform, seated at a cluttered desk stacked with paper forms rather than any visible technology, wire-rimmed glasses pushed up on his forehead, an absent, slightly-too-focused expression as if concentrating hard on something simple. Fluorescent government-office lighting, beige walls, a small pill bottle half-hidden under a stack of forms. Photorealistic, science fiction character portrait, no text, no logos.
-
-### Why this ties to "no extraction"
-
-Bureaucracies built on Jorjor's exacting, procedure-worshipping model are also *compulsive record-keepers*, precisely the trait that made Osei useful is the same trait that could expose him. Pick one (or seed both as red herrings):
-
-- **An internal audit.** Some other department, jealously competing for budget and relevance per the world's own administrative culture, ran a routine cross-check and flagged an anomalous pattern of clearances bearing Osei's stamp. If this is the cause, Osei may currently be in an "interview" with Internal Compliance, not arrested, not yet, just delayed, and unreachable.
-- **Osei got cold feet.** Four years is a long time to live compromised. He may have simply stopped answering, uncertain whether the safer move is to keep serving SolSec or to confess and throw himself on the bureaucracy's notoriously procedural mercy (which, per the government's own texture, tends to go easy on anyone willing to correctly fill out the right form of contrition).
-- **Imperial counter-intelligence found him first**: independently of, or in coordination with, the Version B mole seeded among tonight's guests (Chapter 2). If so, Osei may already be turned, and the "clearance" the PCs are waiting on could arrive from the wrong direction entirely.
-
-### Referee use
-
-Osei never needs to appear in person for this to work; his absence, like Wei's, is load-bearing. If a PC (in either version) tries to independently reach the manifest office tonight, that's a legitimate way to surface Graveyard-shift information (Chapter 3, §3.2): a busy signal, a night-shift clerk who's never heard of any "administrative exception," or, worse, someone on the other end who asks a few too many careful questions before hanging up.
-
----
-
-## 1.3: TONE & SETTING DRESSING
-
-The surface culture around the motel reads close to Earth, circa **1970s**, tuned to Jorjor's actual **TL7**: sedans, wired phones, film cameras, revolvers and shotguns (legal and common, only blades are controlled under High Law), grimy analog electronics rather than clean consumer tech, no visible grav vehicles or fusion tech in daily life. Think dust, heat-shimmer, and a gas station sign missing half its neon, not a leafy highway diner.
-
----
-
-## 1.4: TECH LEVEL REFERENCE
-
-| Layer | TL | Notes |
-|---|---|---|
-| **Jorjor (surface world)** | **TL7** | Everything visible reads as period-plausible: cars, phones, cameras, firearms (legal, unremarkable), analog/early-digital electronics, no obvious spacer tech. |
-| **True SolSec gear (Version "A")** | **TL10–11** | Concealed inside period objects. A real edge, but survives casual inspection. |
-| **Imperial mole gear (Version "B")** | **TL12** | One tier better than SolSec issue. This is the fair, discoverable tell; a device that does something SolSec kit shouldn't be able to do, a wound that heals a little too fast, a lock picked a little too cleanly. |
-
-**Referee tip:** Never let the TL gap be the *only* tell. Pair every mechanical tell with a behavioral one so sharp roleplay is rewarded as much as sharp system mastery.
-
----
-
-## 1.5: CAST OVERVIEW
+## 1.2: CAST OVERVIEW
 
 | Room | Guest | Cover | Full stats |
 |---|---|---|---|
-| 1 | 1 | The Cultist | Chapter 6, §6.1 |
-| 1 | 2 | The Bulb Man | Chapter 6, §6.2 |
-| 2 | 1 | Psychic Medium | Chapter 6, §6.3 |
-| 2 | 2 | The Runaway | Chapter 6, §6.4 |
-| 3 | 1 | Tabloid Reporter | Chapter 6, §6.5 |
-| 3 | 2 | Mob Enforcer | Chapter 6, §6.6 |
-| 4 | 1–2 | Civilian NPC guests (unconnected to SolSec/Imperial plot) | Appendix C |
-| Pickup | n/a | SolSec extraction team *Soft Landing*, four missing agents | Appendix G |
-| Reserve | n/a | Ranger-Supervisor Quill, Compliance Officer Pruitt, Visitor Officer Tolliver, Mole Driver Teller; Rescue Captain Pell (§8.8) | Chapter 8, §8.5 and §8.8 |
-| Office | n/a | Motel Owner (NPC) | Appendix A |
-| Lobby | n/a | Shared space: vending machines, jukebox, sometimes food | Appendix C |
-| Restaurant | n/a | Semi-closed, separate structure across the lot | Appendix D |
+| 1 | 1 | The Cultist | Chapter 3, §3.2 |
+| 1 | 2 | The Bulb Man | Chapter 3, §3.3 |
+| 2 | 1 | Psychic Medium | Chapter 3, §3.4 |
+| 2 | 2 | The Runaway | Chapter 3, §3.5 |
+| 3 | 1 | Tabloid Reporter | Chapter 3, §3.6 |
+| 3 | 2 | Mob Enforcer | Chapter 3, §3.7 |
+| 4 | 1–2 | Civilian NPC guests (unconnected to SolSec/Imperial plot) | Chapter 4, §4.2 |
+| Pickup | n/a | SolSec extraction team *Soft Landing*, four missing agents | Chapter 4, §4.8 |
+| Reserve | n/a | Ranger-Supervisor Quill, Compliance Officer Pruitt, Visitor Officer Tolliver, Mole Driver Teller; Rescue Captain Pell (§4.12) | Chapter 4, §4.11 and §4.12 |
+| Office | n/a | Motel Owner (NPC) | Chapter 4, §4.1 |
+| Lobby | n/a | Shared space: vending machines, jukebox, sometimes food | Chapter 2, §2.13 |
+| Restaurant | n/a | Semi-closed, separate structure across the lot | Chapter 2, §2.14–2.15 |
 
-The motel complex has **six occupied/usable spaces total**: three PC-pair rooms (1–3), one civilian-guest room (4), a shared lobby, and a semi-closed restaurant across the lot. See Chapter 4 for room relationships, Chapter 6 for the six PCs, and Appendix C/D for lobby and restaurant detail.
+The motel complex has **six occupied/usable spaces total**: three PC-pair rooms (1–3), one civilian-guest room (4), a shared lobby, and a semi-closed restaurant across the lot. See Chapter 2, §2.12 for room relationships, Chapter 3 for the six PCs, and Chapter 2, §2.13–2.15 for lobby and restaurant detail.
 
 ### Character build roster
 
@@ -153,65 +52,205 @@ The motel complex has **six occupied/usable spaces total**: three PC-pair rooms 
 
 | Character | Role | Age | Stat block | Authored | Rules-built | Built on |
 |---|---|---|---|---|---|---|
-| Corvin Danh (Confed. / Imperium) | PC, Room 1 | 38 | Ch 6, §6.1 | Aug 2026 | ☐ | |
-| Dabney Kroll (Confed. / Imperium) | PC, Room 1 | 56 | Ch 6, §6.2 | Aug 2026 | ☐ | |
-| Yeva Kessler (Confed. / Imperium) | PC, Room 2 | 44 | Ch 6, §6.3 | Aug 2026 | ☐ | |
-| Dex (Confed. / Imperium) | PC, Room 2 | 19 | Ch 6, §6.4 | Aug 2026 | ☐ | |
-| Corrin Ashe (Confed. / Imperium) | PC, Room 3 | 33 | Ch 6, §6.5 | Aug 2026 | ☐ | |
-| Big Tomas Reyes (Confed. / Imperium) | PC, Room 3 | 45 | Ch 6, §6.6 | Aug 2026 | ☐ | |
-| Earlene Vance | Motel owner | 61 | App A | Aug 2026 | ☐ | |
-| Del Ashworth | Civilian, feed hauler | 54 | App C, §C.2 | Aug 2026 | ☐ | |
-| Priya Ashworth | Civilian | 47 | App C, §C.2 | Aug 2026 | ☐ | |
-| The cook | Restaurant manager | 57 | App D, §D.2 | Aug 2026 | ☐ | |
-| The regular | Restaurant | 49 | App D, §D.2 | Aug 2026 | ☐ | |
-| The washboy | Restaurant | 15 | App D, §D.2 | Aug 2026 | ☐ | |
-| Deputy Callum Marsh | Local police | 36 | App E, §E.1 | Aug 2026 | ☐ | |
-| The idling stranger (Version 1) | Mundane traveler | 44 | App E, §E.2 | Aug 2026 | ☐ | |
-| The Watcher (Version 2) | Shutter Project observer | 41 | App E, §E.2 | Aug-Sep 2026 | ☐ | |
-| Deputy Comptroller Yannick Osei | The Prize | 55 | Ch 1, §1.2 | Aug 2026 | ☐ | |
-| Capt. Ines Okafor-Brandt | Pickup, leader/pilot | 46 | App G, §G.4 | 2026-10-16 | ☐ | |
-| Tavish Mbeki | Pickup, breacher | 39 | App G, §G.4 | 2026-10-16 | ☐ | |
-| Dr. Sunniva Hale | Pickup, medic/telepath | 52 | App G, §G.4 | 2026-10-16 | ☐ | |
-| Rook Delacroix | Pickup, gunner | 29 | App G, §G.4 | 2026-10-16 | ☐ | |
-| Hollis Quill | Reserve, Ranger-Supervisor | 48 | Ch 8, §8.5 | 2026-10-16 | ☐ | |
-| Dara Pruitt | Reserve, Compliance Officer | 41 | Ch 8, §8.5 | 2026-10-16 | ☐ | |
-| Marcy Tolliver | Reserve, Visitor Services | 29 | Ch 8, §8.5 | 2026-10-16 | ☐ | |
-| Gus Teller | Reserve, mole driver | 56 | Ch 8, §8.5 | 2026-10-16 | ☐ | |
-| Jonah Pell | Reserve, Rescue Captain | 37 | Ch 8, §8.8 | 2026-10-18 | ☐ | |
+| Corvin Danh (Confed. / Imperium) | PC, Room 1 | 38 | Ch 3, §3.2 | Aug 2026 | ☐ | |
+| Dabney Kroll (Confed. / Imperium) | PC, Room 1 | 56 | Ch 3, §3.3 | Aug 2026 | ☐ | |
+| Yeva Kessler (Confed. / Imperium) | PC, Room 2 | 44 | Ch 3, §3.4 | Aug 2026 | ☐ | |
+| Dex (Confed. / Imperium) | PC, Room 2 | 19 | Ch 3, §3.5 | Aug 2026 | ☐ | |
+| Corrin Ashe (Confed. / Imperium) | PC, Room 3 | 33 | Ch 3, §3.6 | Aug 2026 | ☐ | |
+| Big Tomas Reyes (Confed. / Imperium) | PC, Room 3 | 45 | Ch 3, §3.7 | Aug 2026 | ☐ | |
+| Earlene Vance | Motel owner | 61 | Ch 4, §4.1 | Aug 2026 | ☐ | |
+| Del Ashworth | Civilian, feed hauler | 54 | Ch 4, §4.2 | Aug 2026 | ☐ | |
+| Priya Ashworth | Civilian | 47 | Ch 4, §4.2 | Aug 2026 | ☐ | |
+| The cook | Restaurant manager | 57 | Ch 4, §4.3 | Aug 2026 | ☐ | |
+| The regular | Restaurant | 49 | Ch 4, §4.3 | Aug 2026 | ☐ | |
+| The washboy | Restaurant | 15 | Ch 4, §4.3 | Aug 2026 | ☐ | |
+| Deputy Callum Marsh | Local police | 36 | Ch 4, §4.5 | Aug 2026 | ☐ | |
+| The idling stranger (Version 1) | Mundane traveler | 44 | Ch 4, §4.6 | Aug 2026 | ☐ | |
+| The Watcher (Version 2) | Shutter Project observer | 41 | Ch 4, §4.6 | Aug-Sep 2026 | ☐ | |
+| Deputy Comptroller Yannick Osei | The Prize | 55 | Ch 4, §4.7 | Aug 2026 | ☐ | |
+| Capt. Ines Okafor-Brandt | Pickup, leader/pilot | 46 | Ch 4, §4.10 | 2026-10-16 | ☐ | |
+| Tavish Mbeki | Pickup, breacher | 39 | Ch 4, §4.10 | 2026-10-16 | ☐ | |
+| Dr. Sunniva Hale | Pickup, medic/telepath | 52 | Ch 4, §4.10 | 2026-10-16 | ☐ | |
+| Rook Delacroix | Pickup, gunner | 29 | Ch 4, §4.10 | 2026-10-16 | ☐ | |
+| Hollis Quill | Reserve, Ranger-Supervisor | 48 | Ch 4, §4.11 | 2026-10-16 | ☐ | |
+| Dara Pruitt | Reserve, Compliance Officer | 41 | Ch 4, §4.11 | 2026-10-16 | ☐ | |
+| Marcy Tolliver | Reserve, Visitor Services | 29 | Ch 4, §4.11 | 2026-10-16 | ☐ | |
+| Gus Teller | Reserve, mole driver | 56 | Ch 4, §4.11 | 2026-10-16 | ☐ | |
+| Jonah Pell | Reserve, Rescue Captain | 37 | Ch 4, §4.12 | 2026-10-18 | ☐ | |
 
 *Baldwin Wei is offscreen and has no stat block. The Ashworths, restaurant staff and other civilians are lighter blocks and may be built with fewer terms.*
 
 ---
 
-## 1.6: ALREADY KNOWN (GIVEN, NOT DISCOVERED)
+## 1.3: SESSION STRUCTURE
 
-Every PC already has **Baldwin Wei's original transmission** (Chapter 2, §2.4); the order that sent them to Motel Yermo, including the "no loose threads" instruction. This is backstory every player starts with, not a clue anyone needs to find.
+The session runs as three acts, mirroring a motel's own shift structure. Total runtime target: **4 hours**, convention slot length.
+
+| Act | Shift | Time at table | Question | Ends when |
+|---|---|---|---|---|
+| **I: Roll Call** | Night | ~75 min | Who's in the group, and who isn't? | The table has a crew for the road, the interlopers are dealt with, and they know where the pickup went. |
+| **II: The Big Rig** | Graveyard | ~90 min | What happened to our contact? | The rig is running and through the Reserve's gate (or another way in). |
+| **III: Dig Them Out** | Morning | ~75 min | Can we get them (or their codes) off this planet? | The *Soft Landing* lifts, or doesn't. |
+
+**The park is not optional.** The *Soft Landing* sits in a dry wash just outside the Halvorsen Basin Biological Reserve, and the pickup crew used their spare day to tour it. Whatever else the table decides, the only way off Jorjor runs through the Reserve.
+
+**The secret under the premise.** "No contact" is literally true. The extraction team (Chapter 4, §4.8) came a day early, toured the Halvorsen Basin Biological Reserve (Chapter 2, §2.28), and were taken by something in the closed camping areas 12–14. Baldwin Wei's three possible explanations (Chapter 1, §1.8) remain the *suspicions* the players will voice all night. The Reserve is what is actually true.
+
+**The dust storm clock** (Chapter 2, §2.32) runs through all three acts: a distant wall in Act I, first gusts in Act II, full storm in Act III, dawn at the end.
 
 ---
 
-## 1.7: DISCOVERABLE THROUGH PLAY
+## 1.4: TONE & SETTING DRESSING
+
+The surface culture around the motel reads close to Earth, circa **1970s**, tuned to Jorjor's actual **TL7**: sedans, wired phones, film cameras, revolvers and shotguns (legal and common, only blades are controlled under High Law), grimy analog electronics rather than clean consumer tech, no visible grav vehicles or fusion tech in daily life. Think dust, heat-shimmer, and a gas station sign missing half its neon, not a leafy highway diner.
+
+---
+
+## 1.5: THE CORE MECHANIC
+
+Each of the six PCs has two full versions of their character in Chapter 3: **Version: Confederation (True Solomani Agent)** and **Version: Imperium (Imperial Mole)**. Skill totals are matched between versions (only emphasis, secret objective, and tells differ) so a sheet alone shouldn't give the game away to a player glancing at a neighbor's.
+
+---
+
+## 1.6: SETUP STEPS
+
+1. Before the session, **secretly choose one PC** to be the Imperial mole. Randomize with a card draw (six cards, one marked) if you want plausible deniability as referee.
+2. Hand that player their **Version: Imperium** sheet privately, folded card, sealed envelope, or a private message if playing online. Everyone else gets **Version: Confederation**.
+3. The mole player keeps playing their cover persona normally. **The deception is in-fiction, not a metagame trick.** The mole doesn't know who the other five are either; nobody has a full picture at the start, including their own roommate.
+4. **Room assignment matters:** the mole is one half of a room pair. Their roommate was told to expect a partner matching a certain description and cover, but (per Chapter 1, §1.1) most partners haven't actually met in person before tonight. That's what makes the mole's cover survivable at close range: the roommate has no prior relationship to compare against, only a briefing to match. Whether the real partner was quietly intercepted, reassigned, or simply never existed as described is a detail the referee can decide (or leave deliberately unresolved) per table.
+5. The mole's secret objective is to identify and signal the location of the other five assets to an Imperial pickup team before morning, without blowing their own cover, including their own roommate's trust.
+6. The other five are trying to work out why extraction didn't come, whether Wei is dead, turned, or testing them, and (as suspicion mounts, both within their own room and across the motel) who among them might be the leak.
+
+---
+
+## 1.7: REFEREEING THE MOLE
+
+- Never let the TL gear gap (Chapter 1, §1.4) be a free confession. It's a clue a sharp player can notice, not an automatic reveal.
+- The mole should get real, achievable small wins across the night (a successful eavesdrop, a plausible excuse for a slip) so the reveal, whenever it comes, feels earned rather than telegraphed.
+- If the mole is identified early, don't let the scenario collapse. Pivot to a chase/escape/negotiation for the endgame instead of ending the mystery portion outright.
+- If no one identifies the mole, that's a valid and interesting ending, let the extraction (or its absence) play out with the network compromised and nobody the wiser. Reveal the mole's identity at the table afterward, in the debrief.
+
+---
+
+## 1.8: WHY THE EXTRACTION DIDN'T COME
+
+Baldwin Wei is a **very good tracker, detective, and secret agent, not superhuman** (per his established characterization in *Signal GK*). Pick or seed clues toward one of these three explanations, depending on how dark you want the table's night to go:
+
+- **Wei burned them.** He decided one or more of these assets were compromised or expendable and quietly redirected or cancelled the extraction rather than risk a larger network exposure.
+- **Wei's compromised.** Imperial counter-intelligence is onto his network, the extraction was intercepted, and Wei himself is now racing to clean house before Imperial agents roll the motel up, putting him on a collision course with the PCs.
+- **It's a test.** Wei planted six agents at one site deliberately, knowing not all of them are genuine; one's a plant testing the others' discipline, and "no extraction" *is* the test.
+
+Any of these lets Wei function as the looming, competent threat from *Signal GK* without needing him to physically appear until the climax (or at all).
+
+**What actually happened.** None of the three, or rather, all three stay *suspicions*. The true reason there is no contact is that the **pickup team arrived a day early, toured the Halvorsen Basin Biological Reserve, and was taken** (Chapter 4, §4.8; Chapter 2, §2.23). Wei did not burn anyone, was not compromised, and set no test. The players will argue the three theories for the first half of the night; the scenario's Acts II and III are about discovering that the answer is a place, not a person. Okafor-Brandt, if freed, doesn't know which of the three Wei is playing (Chapter 8, §8.2).
+
+---
+
+## 1.9: WEI'S PRESENCE, RESOLVED
+
+**Wei stays offscreen.** He does not physically appear in this scenario. His only direct presence is the original transmission every PC received before tonight; the order that sent them here in the first place. He does not check in again, and he does not need to for the scenario to work.
+
+### The original transmission
+
+Every PC (in both versions; the mole received an equivalent, intercepted or fabricated copy of the same order, referee's choice) received some form of this, days before tonight, through their own handler:
+
+> *"Good. You've completed your mission. Now meet up with your partner, identified by the codename provided, at [the motel]. Do not leave lingering traces to this location; we intend to use it again. That means no loaner car, no parking fees on record, nothing that puts a name or a transaction anywhere near this address. Understand: no loose threads."*
+
+This single order is load-bearing for several things already established elsewhere in this document set, treat it as the *reason* those details exist, not a retroactive patch:
+
+- It's why **every PC took a one-way ride** rather than arranging their own transport (Chapter 1, §1.1).
+- It's why **Corrin Ashe arranged for her rented sedan to be quietly returned** rather than keeping it (Chapter 3, §3.6); a direct, individual compliance with "no loaner car."
+- It's why **nobody's vehicle is sitting in the lot tonight** except the owner's, the Ashworths', and Del's broken-down rig (Chapter 5, §5.3), none of which are PC-arranged, so none of them violate the order.
+- It gives every PC a **shared, concrete piece of received orders** to compare notes on if they choose to, and a shared, concrete thing to notice is now *not happening* (the promised follow-up that never comes).
+
+**Referee use:** this transmission can be read aloud, handed out as a printed prop, or simply summarized, whichever suits the table. It should feel like a routine, competent order from a controller who expects to be obeyed exactly, not a dramatic monologue. The mundane, procedural tone (matching Wei's own established characterization in *Signal GK*, §1.8 above) is the point.
+
+### If Wei has to show up, it's already gone wrong
+
+**Wei does not appear in person during this scenario, and a referee should not introduce him as a character who walks through the door.** The reason is stated plainly, in-fiction, as a fact every PC should already understand about their own chain of command: **if Baldwin Wei personally comes to a compromised site, it's because the situation has escalated to a black operation; clean sweep, no survivors, no exceptions for agents who might simply be confused or slow to respond.** Nobody on the SolSec side wants that outcome, including Wei himself; it's a last resort, not a rescue.
+
+This gives the table a real, understood stake without ever needing to stat Wei out or bring him to the table: **the longer the PCs take, and the messier they are, the more plausible it becomes that this is the outcome that's coming for them instead of extraction.** Let this pressure build entirely through implication and the transmission's own tone (competent, procedural, faintly threatening even at its most polite) rather than through any explicit countdown or announcement.
+
+---
+
+## 1.10: FULL NIGHT TIMELINE
+
+A referee-facing timetable for every scheduled or randomly-triggered event across all three shifts (Chapters 6–8), including a new mechanic: **periodic check-in calls to each SolSec room.**
+
+### The room check-in calls
+
+Each PC room (1, 2, and 3; the SolSec pairs, Chapter 3) has **one scheduled check-in call** attempted during the night, placed by each pair's own handler as standard tradecraft, unrelated to whether extraction itself is happening, just routine contact protocol. This is separate from, and should not be confused with, the ambiguous hang-up call to the front desk in §7.2.
+
+**Hard rule: no answering devices exist at this TL.** If nobody in the room picks up before it stops ringing, the call is simply gone. No message, no recording, no retry later in the scene. Jorjor is TL7; period phone lines have no voicemail or answering machines of any kind, and the storm (Chapter 2, §2.5) makes the line's reliability genuinely uncertain rather than a sure thing either way. A missed call is not itself a clue; it's exactly as explicable as "they were in the shower, arguing next door, or just didn't reach the phone in time," and should be played that plainly if a PC asks about it afterward.
+
+**Referee use:** if a room answers, deliver one short, mundane, low-content line appropriate to that pair's situation (a supply confirmation, a generic all-clear, nothing that resolves the main mystery); the value is in the *rhythm* of the night having a call each room could get right or miss, not in delivering plot. If a room misses its call, say so factually and move on; don't let the miss itself become a mystery to chase.
+
+### Timetable
+
+| Approx. time | Event | Affects | Reference |
+|---|---|---|---|
+| 9:00 PM | Guests arrive and check in, staggered over roughly 30 minutes | All rooms | Chapter 6, §6.1 |
+| 9:00 PM | **Dust storm Stage 1:** distant orange wall on the horizon, static on the radio | All | Chapter 2, §2.32 |
+| 9:40 PM | Extraction window originally expected, passes without comment; nothing happens, which is itself the first quiet wrongness of the night | n/a | Chapter 6, §6.1 |
+| 10:05 PM | **Room 1 check-in call** | Room 1 | §1.10 above |
+| 10:35 PM | Idling stranger first sighted (roll/pick version) | Highway/lot | §4.6 |
+| 10:15 PM | **Dust storm Stage 2:** first gusts, grit, lights flicker. Reserve tours cancelled | All | Chapter 2, §2.32 |
+| 11:00 PM | End of Act I (Night shift). The table should know where the pickup went | n/a | Chapter 6, §6.1 |
+| 12:00 AM | Act II (Graveyard shift) begins; extraction is now unambiguously overdue. Del's rig repair (≈2D hours) and the persuasion scene run through this window | n/a | Chapter 7, §7.1 |
+| 12:15 AM | **Room 2 check-in call** | Room 2 | §1.10 above |
+| 12:50 AM | Deputy Callum Marsh's patrol pass (or a call draws him) | Lot/office | §4.5 |
+| 1:15 AM | **Room 3 check-in call** | Room 3 | §1.10 above |
+| 1:35 AM | The hang-up call to the front desk | Office | §7.2 |
+| 1:45 AM | End of Act II. Rig is past the Reserve's Gate (Chapter 7, §7.3) | n/a | Chapter 7, §7.1 |
+| 2:00 AM | **Dust storm Stage 3:** full storm; surface patrols withdrawn; Egg-blooms seal | All | Chapter 2, §2.32 |
+| 3:00 AM | Lost pickup members reach the Sink unless found (Chapter 7, §7.6) | Reserve | Chapter 8, §8.1 |
+| 4:30 AM | Act III (Morning shift) in its last third; sky starts to lighten | n/a | Chapter 8, §8.1 |
+| 5:00 AM | **Dust storm Stage 4:** the storm passes | All | Chapter 2, §2.32 |
+| 5:15 AM | Last plausible moment for any deferred complication (a missed check-in call is **not** retried here, see hard rule above) | n/a | §1.10 above |
+| 5:45 AM | Dawn. The *Soft Landing* must be airborne; an Imperial cutter arrives if the mole signalled | n/a | Chapter 8, §8.1; Chapter 8, §8.3 |
+
+**Using this table:** treat every time as approximate, not a hard clock (Chapter 7 already establishes Graveyard as free-form), shift events earlier or later by ten or fifteen minutes freely to match how a given table's scenes are actually landing. What matters is the *order and spacing*, not the literal clock: each room gets exactly one call, the complications land roughly evenly spaced through Night and Graveyard rather than clustering, and nothing repeats or escalates outside of what's written in each event's own section.
+
+---
+
+## 1.11: PACING NOTES
+
+- Don't let any single room's thread eat more than ~20 minutes uninterrupted; cut between rooms (in Act I) and between the cab and the trailer (in Act II) to keep all six players engaged.
+- If the table is moving faster than expected, the Graveyard complications (§7.1) can be introduced early. If slower, cut them, or reveal them as a false alarm to buy time. In Act III, skip the Maintenance Yard haggling and go to the drill.
+- Every action in the Reserve raises the **Alert track** (Chapter 2, §2.29). Use it to keep pressure on without a hard clock.
+- For a clock-time reference across all three acts (when the complications land, when the dust storm advances, and when each room's scheduled phone check-in call comes through) see Chapter 1, §1.10.
+
+---
+
+## 1.12: ALREADY KNOWN (GIVEN, NOT DISCOVERED)
+
+Every PC already has **Baldwin Wei's original transmission** (Chapter 1, §1.9); the order that sent them to Motel Yermo, including the "no loose threads" instruction. This is backstory every player starts with, not a clue anyone needs to find.
+
+---
+
+## 1.13: DISCOVERABLE THROUGH PLAY
 
 What the table can find out, and where it lives. Use this mid-session instead of reconstructing the knowledge landscape from memory across the other documents.
 
-- **The TL gear gap** (§1.4), TL12 gear is the mole's core mechanical tell across every guest pairing, surfaced through Electronics checks or sharp in-fiction observation, never handed over for free.
-- **Osei's situation** (§1.2), why the extraction never came, reachable only indirectly if a PC tries the manifest office tonight: a busy signal, an evasive night clerk, or worse.
-- **Highway traffic table results** (Appendix B, §B.2) and **lobby random events** (Appendix C, §C.1), mostly ambient texture, occasionally real signal buried in it.
-- **The Fence-Line Hum** and **the Big Queue** (Appendix B, §B.3; Chapter 5, §5.7): rumor-tier local color, deliberately never confirmed one way or the other.
-- **Del's broken rig and the Ashworths' CB gossip** (Appendix C, §C.2), mundane, intentionally ruled-out red herrings.
-- **The pickup's day** (Appendix D, §D.5; Appendix C, §C.2): the cook, the washboy's Solomani coin, and Del's CB gossip about shots and a bang at the Reserve. Any two point at the Gut (Chapter 3, §3.1).
-- **The Reserve's cover-up** (Chapter 7, §7.6; Chapter 8, §8.5): Pruitt's Form 11-C count and her list of missing names; the Incident Room; the Gate ledger entry for the pickup's permit #0614.
-- **The paper trail** (Chapter 8, §8.9); the Gate's false "departed" stamp, the Clinic's "S. Hall," Pell's whiteboard, Teller's work orders; each office has a slice, spelled differently, and the contradictions are the clue to where the pickup really is.
-- **What the Mass is and does** (Chapter 8, §8.3), Drifters, Waders and Egg-blooms; the way it reacts to psionics, gunfire and explosives.
-- **The idling stranger, if the Shutter Project Watcher version is used** (Appendix E, §E.2), confirms *someone* local is genuinely watching the motel without ever making contact, but ties to the Strange Park's hidden agenda (Chapter 5, §5.4–5.6) rather than the SolSec/Imperium plot.
-- **Room check-in calls** (Appendix E, §E.4); one per SolSec room; if missed, gone for good, no message, no clue in the silence itself.
+- **The TL gear gap** (§5.1), TL12 gear is the mole's core mechanical tell across every guest pairing, surfaced through Electronics checks or sharp in-fiction observation, never handed over for free.
+- **Osei's situation** (§4.7), why the extraction never came, reachable only indirectly if a PC tries the manifest office tonight: a busy signal, an evasive night clerk, or worse.
+- **Highway traffic table results** (Chapter 2, §2.7) and **lobby random events** (Chapter 2, §2.13), mostly ambient texture, occasionally real signal buried in it.
+- **The Fence-Line Hum** and **the Big Queue** (Chapter 2, §2.8; Chapter 2, §2.10): rumor-tier local color, deliberately never confirmed one way or the other.
+- **Del's broken rig and the Ashworths' CB gossip** (Chapter 4, §4.2), mundane, intentionally ruled-out red herrings.
+- **The pickup's day** (Chapter 6, §6.2; Chapter 4, §4.2): the cook, the washboy's Solomani coin, and Del's CB gossip about shots and a bang at the Reserve. Any two point at the Gut (Chapter 6, §6.1).
+- **The Reserve's cover-up** (Chapter 2, §2.24; Chapter 4, §4.11): Pruitt's Form 11-C count and her list of missing names; the Incident Room; the Gate ledger entry for the pickup's permit #0614.
+- **The paper trail** (Chapter 7, §7.7); the Gate's false "departed" stamp, the Clinic's "S. Hall," Pell's whiteboard, Teller's work orders; each office has a slice, spelled differently, and the contradictions are the clue to where the pickup really is.
+- **What the Mass is and does** (Chapter 2, §2.31), Drifters, Waders and Egg-blooms; the way it reacts to psionics, gunfire and explosives.
+- **The idling stranger, if the Shutter Project Watcher version is used** (Chapter 4, §4.6), confirms *someone* local is genuinely watching the motel without ever making contact, but ties to the Strange Park's hidden agenda (Chapter 2, §2.25–2.27) rather than the SolSec/Imperium plot.
+- **Room check-in calls** (Chapter 1, §1.10); one per SolSec room; if missed, gone for good, no message, no clue in the silence itself.
 
 ---
 
-## 1.8: DELIBERATELY UNRESOLVABLE
+## 1.14: DELIBERATELY UNRESOLVABLE
 
 Built to stay ambiguous regardless of how the session plays out, resist any pressure, including from a persistent table, to pin these down:
 
-- **The hang-up call** to the front desk (Appendix E, §E.3).
-- **Wei's own role**: whether he burned them, is compromised, or is running a test (Chapter 2, §2.3). The *immediate* reason for no extraction is now known (the pickup was taken in the Reserve; see Appendix G), but whether Wei sent them blind is never confirmed.
-- **The Shutter Project and the satellite** (Chapter 5, §5.5–5.6), still explicitly optional background, not meant to resolve in this scenario.
-- **Exactly what the Mass is** (Chapter 7, §7.4); its origin is known; its nature (one mind? waiting?) is not.
+- **The hang-up call** to the front desk (Chapter 7, §7.2).
+- **Wei's own role**: whether he burned them, is compromised, or is running a test (Chapter 1, §1.8). The *immediate* reason for no extraction is now known (the pickup was taken in the Reserve; see Chapter 4, §4.8), but whether Wei sent them blind is never confirmed.
+- **The Shutter Project and the satellite** (Chapter 2, §2.26–2.27), still explicitly optional background, not meant to resolve in this scenario.
+- **Exactly what the Mass is** (Chapter 2, §2.22); its origin is known; its nature (one mind? waiting?) is not.

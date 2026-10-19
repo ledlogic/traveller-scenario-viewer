@@ -1,13 +1,13 @@
 # TRAVELLER: NO CONTACT
-## Chapter 6: Player Characters
+## Chapter 3: Characters
 
 *Referee Reference Document*
 
 ---
 
-## 6.0: HOW TO USE THIS CHAPTER
+## 3.1: HOW TO USE THIS CHAPTER
 
-All six guests, three room pairs, are here in one place. Each guest has two full versions: **Version: Confederation** (a genuine SolSec agent) and **Version: Imperium** (the Imperial mole). Exactly one PC across the whole table is secretly Version: Imperium; the assignment mechanic is in Chapter 2.
+All six guests, three room pairs, are here in one place. Each guest has two full versions: **Version: Confederation** (a genuine SolSec agent) and **Version: Imperium** (the Imperial mole). Exactly one PC across the whole table is secretly Version: Imperium; the assignment mechanic is in Chapter 1, §1.5.
 
 A player's Page 1 is identical in shape (though not in content) whether they're later handed a Confederation or Imperium Page 2, so nobody can infer their own assignment, or anyone else's, from which packet they got first.
 
@@ -15,7 +15,7 @@ A player's Page 1 is identical in shape (though not in content) whether they're 
 
 ---
 
-## 6.1: ROOM 1, GUEST 1, "THE CULTIST"
+## 3.2: ROOM 1, GUEST 1, "THE CULTIST"
 
 **Surface bio:** All harsh angles and severe clothes. Never seems to blink. Speaks quietly, but perfectly audible from yards away. Whatever they're proselytizing, it's nothing you'd take your mother to.
 
@@ -80,7 +80,7 @@ Known only to this player until revealed at the table; this is the content of th
 
 ---
 
-## 6.2: ROOM 1, GUEST 2, "THE BULB MAN"
+## 3.3: ROOM 1, GUEST 2, "THE BULB MAN"
 
 **Surface bio:** Kind of lives here, kind of lives everywhere. Amicable and outgoing, no concept of "inside voice." No one calls him anything else; no one knows why he's called that.
 
@@ -104,7 +104,7 @@ Low-level courier and lookout, useful specifically because he's dismissed as har
 
 **Secret objective:** Physically watches the highway approach all night; he's the early-warning system, and his silence about *not* seeing extraction traffic is itself a clue.
 
-**Carrying:** A year's worth of memorized traffic patterns for this stretch of highway, who normally passes, when, and how often. He's the only PC equipped to recognize when tonight's traffic (Appendix B, §B.2) is genuinely anomalous rather than just unfamiliar.
+**Carrying:** A year's worth of memorized traffic patterns for this stretch of highway, who normally passes, when, and how often. He's the only PC equipped to recognize when tonight's traffic (Chapter 2, §2.7) is genuinely anomalous rather than just unfamiliar.
 
 **Tell (honest roleplay):** Genuinely, guilelessly friendly. Talks too much about mundane motel trivia, which is cover, but also just who he is.
 
@@ -145,7 +145,7 @@ Known only to this player until revealed at the table; this is the content of th
 
 ---
 
-## 6.3: ROOM 2, GUEST 1, "PSYCHIC MEDIUM"
+## 3.4: ROOM 2, GUEST 1, "PSYCHIC MEDIUM"
 
 **Surface bio:** Palms read, cards laid, mirrors scried, and, so rumors say, other, stranger services provided. Probably a liar, maybe a believer, possibly touched. Looks at you like she knows something.
 
@@ -210,7 +210,7 @@ Known only to this player until revealed at the table; this is the content of th
 
 ---
 
-## 6.4: ROOM 2, GUEST 2, "THE RUNAWAY"
+## 3.5: ROOM 2, GUEST 2, "THE RUNAWAY"
 
 **Surface bio:** Gangly frame, big eyes, doesn't belong here but you can't imagine where they do. Demeanor like a feral cat and about as skittish. Pays in fistfuls of sweaty dollar bills.
 
@@ -275,7 +275,7 @@ Known only to this player until revealed at the table; this is the content of th
 
 ---
 
-## 6.5: ROOM 3, GUEST 1, "TABLOID REPORTER"
+## 3.6: ROOM 3, GUEST 1, "TABLOID REPORTER"
 
 **Surface bio:** Always working an angle. Outgoing, charming in a sleazy way, a surprising depth of knowledge about a surprising number of topics. Comfortable anywhere. And always, always working an angle.
 
@@ -299,7 +299,7 @@ SolSec courier, six years running low-level intel out of Imperial space under pr
 
 **Secret objective:** Carrying a data chip meant for the extraction contact, proof of an Imperial officer's Confederation sympathies.
 
-**Carrying:** The data chip itself, in the light meter housing; the original leverage material used to recruit **Deputy Comptroller Osei** of Jorjor's Off-World Manifest office (see Chapter 1, §1.2). It's due for a scheduled handoff tonight, renewing the blackmail's teeth for another cycle. If it never reaches the extraction contact, Osei's compliance may simply lapse on its own; a quiet, non-violent way this whole operation could unravel with nobody firing a shot.
+**Carrying:** The data chip itself, in the light meter housing; the original leverage material used to recruit **Deputy Comptroller Osei** of Jorjor's Off-World Manifest office (see Chapter 4, §4.7). It's due for a scheduled handoff tonight, renewing the blackmail's teeth for another cycle. If it never reaches the extraction contact, Osei's compliance may simply lapse on its own; a quiet, non-violent way this whole operation could unravel with nobody firing a shot.
 
 **Tell (honest roleplay):** Asks too many questions about *other* guests, not herself.
 
@@ -340,7 +340,7 @@ Known only to this player until revealed at the table; this is the content of th
 
 ---
 
-## 6.6: ROOM 3, GUEST 2, "MOB ENFORCER"
+## 3.7: ROOM 3, GUEST 2, "MOB ENFORCER"
 
 **Surface bio:** The perfect intersection of big money and low taste, packaged in a too-tight suit. To hear them tell it, Popes and Kings quiver when "the boss" sends them around. True or not, those knuckles stay bruised.
 
@@ -390,7 +390,7 @@ Imperial field operative playing muscle specifically to be the one "allowed" to 
 
 **Secret objective:** Positioned to physically neutralize the cell once identified.
 
-**Carrying:** A mentally-mapped inventory of the motel's physical layout and choke points, prepared in advance for an eventual Imperial raid, sightlines, door positions, the thin shared walls noted in Chapter 4, §4.1, all quietly cataloged since arrival.
+**Carrying:** A mentally-mapped inventory of the motel's physical layout and choke points, prepared in advance for an eventual Imperial raid, sightlines, door positions, the thin shared walls noted in Chapter 2, §2.12, all quietly cataloged since arrival.
 
 **Tell (honest roleplay):** Postures and threatens more readily than a real enforcer would need to, performing the role rather than living it.
 
@@ -404,3 +404,66 @@ Known only to this player until revealed at the table; this is the content of th
 |---|---|
 | Confederation | A verbal kill-order, no physical trace |
 | Imperium | A mentally-mapped inventory of the motel's choke points |
+
+---
+
+## 3.8: SKILL SPOTLIGHT & COMBAT HOOKS: OVERVIEW
+
+A cross-reference guide, not new mechanics: for each of the six PCs, at least three of their listed skills (§3.2–3.7) tied to a concrete beat already present elsewhere in this document set, so no player is sitting on an unused skill all night. Also covers where to lean for a table with a combat/military-minded player, since this scenario runs investigation-forward by design.
+
+---
+
+## 3.9: HONEST FRAMING FOR A COMBAT-LEANING PLAYER
+
+*No Contact* is built as a social-deduction/investigation scenario first; that's a real tradeoff worth naming at the table, not hiding. That said, there are genuine levers:
+
+- **Big Tomas Reyes** (Chapter 3, §3.7) is the built-in action valve in both versions, Melee/Gun Combat focus, a literal kill-order as his Confederation secret objective, "positioned to physically neutralize the cell" as Imperium. He should feel useful the moment a scene turns physical.
+- **Deputy Marsh** (Chapter 4, §4.5) carries a real weapon and real stakes once talking stops working; the idling stranger's Shutter Project version (Chapter 4, §4.6) is deliberately built to de-escalate and drive off instead, so lean on Marsh if a table wants that kind of tension.
+- Chapter 8, §8.1 explicitly allows a **firefight** as one of three valid endings, alongside escape and stand-down.
+- **Wei's black-op threshold** (Chapter 1, §1.9) is the strongest lever: a player who pushes the table toward aggression or carelessness is the one most likely to trigger it, which hands a combat-hungry player real narrative agency over whether the night turns violent, without the referee needing to force a fight that doesn't fit the rest of the table.
+
+---
+
+## 3.10: SKILL SPOTLIGHT BY CHARACTER
+
+### Corvin Danh (Chapter 3, §3.2): Persuade, Deception, Streetwise, Religion, Melee
+
+- **Religion**: the cult-front cover is a legitimate lens for interpreting the Fence-Line Hum rumor (Chapter 2, §2.8) or explaining late-night "ritual" activity if anyone notices Corvin awake and moving at odd hours.
+- **Persuade/Deception**: talking down Deputy Marsh (Chapter 4, §4.5) without resorting to Tomas's fists, or holding up under Yeva's cold-reading if she debriefs Corvin without knowing who he is (Chapter 3, §3.4).
+- **Melee (unarmed)**: a real option if the restaurant's vanishing beat (Chapter 2, §2.16) turns into a physical confrontation with staff.
+
+### Dabney Kroll, "The Bulb Man" (Chapter 3, §3.3): Streetwise, Recon, Stealth, Electronics
+
+- **Recon**: the built-in payoff skill for the highway traffic table (Chapter 2, §2.7); he's the PC who should roll here most often.
+- **Electronics (comms)**: the natural skill to notice the Version: Imperium mole's TL12 gear (Chapter 5, §5.1) is off, or to investigate why a room check-in call (Chapter 1, §1.10) sounded strange.
+- **Stealth**: moving to check Room 4 or the restaurant without drawing attention, especially useful during the free-form Graveyard shift.
+
+### Yeva Kessler (Chapter 3, §3.4): Persuade, Deception, Investigate, Insight
+
+- **Insight**: reading the lobby's random events (Chapter 2, §2.13) for who's genuinely rattled versus performing calm; a strong fit for her established "debriefs people without them realizing" secret objective.
+- **Investigate**: piecing together what Corrin's data chip or Corvin's rendezvous protocol might mean from overheard fragments, without directly asking.
+- **Persuade/Deception**: extracting real information from Deputy Marsh or the motel owner (Chapter 4, §4.1) under a "reading" pretext.
+
+### Dex (Chapter 3, §3.5): Streetwise, Stealth, Athletics, Deception
+
+- **Stealth**: the PC best positioned to move between rooms and the lobby unnoticed, given the "least suspicious" framing already built into both versions.
+- **Athletics**: a real, earned use if the idling stranger (Chapter 4, §4.6) or the vanishing-beat search (Chapter 2, §2.16) turns into a chase or requires covering ground fast.
+- **Deception**: holding the runaway cover story under direct questioning from Marsh or a suspicious fellow guest.
+
+### Corrin Ashe (Chapter 3, §3.6): Streetwise, Investigate, Persuade, Deception, Carouse
+
+- **Investigate**: the PC mechanically built to connect her own data chip to Osei's compromised position (Chapter 4, §4.7) if she starts asking the right questions about why the handoff never happened.
+- **Carouse**: a legitimate way to get the Ashworths or the motel owner talking in the lobby (Chapter 4, §4.2) without it reading as an interrogation.
+- **Persuade/Deception**: reporter's-instinct needling that can pull real information out of Marsh or a fellow guest under a "just curious" cover.
+
+### Big Tomas Reyes (Chapter 3, §3.7): Melee, Gun Combat, Persuade, Streetwise
+
+- **Gun Combat/Melee**: the scenario's primary combat-capable skill set; see §3.9 above for where this can actually come into play.
+- **Persuade**: his "intersection of big money and low taste" cover supports an intimidation-flavored Persuade check that doesn't require drawing a weapon, useful for de-escalating without losing his edge.
+- **Streetwise**: reading Marsh, the idling stranger, or the restaurant's regular (Chapter 4, §4.3) through a criminal-world lens the other five PCs don't share.
+
+---
+
+## 3.11: REFEREE USE
+
+None of the above needs to be scripted or forced; it's a checklist for noticing, mid-session, when a PC hasn't had a moment to use their sheet, and a quick answer for "what could I actually do here" if a player asks. If a table leans hard into one thread (say, everyone chasing the mole-hunt) and a PC like Tomas or Dabney is going unused, these are the fastest bridges back into the scene for them specifically.

@@ -8,63 +8,39 @@
   "docs": [
     {
       "file": "Chapter1_Introduction.md",
-      "label": "Ch 1: Introduction & Situation"
+      "label": "Ch 1: Introduction"
     },
     {
-      "file": "Chapter2_How_The_Twist_Works.md",
-      "label": "Ch 2: How The Twist Works"
+      "file": "Chapter2_Setting.md",
+      "label": "Ch 2: Setting"
     },
     {
-      "file": "Chapter3_Shift_Structure.md",
-      "label": "Ch 3: The Three Acts (Night/Graveyard/Morning)"
+      "file": "Chapter3_Characters.md",
+      "label": "Ch 3: Characters"
     },
     {
-      "file": "Chapter4_Maps_Visual_Reference.md",
-      "label": "Ch 4: Room Relationships & Table Reference"
+      "file": "Chapter4_NPCs.md",
+      "label": "Ch 4: NPCs"
     },
     {
-      "file": "Chapter5_The_Setting.md",
-      "label": "Ch 5: The Setting (Route 66 Analog)"
+      "file": "Chapter5_Vehicles_and_Equipment.md",
+      "label": "Ch 5: Vehicles & Equipment"
     },
     {
-      "file": "Chapter6_Player_Characters.md",
-      "label": "Ch 6: Player Characters"
+      "file": "Chapter6_Act_I.md",
+      "label": "Ch 6: Act I, Night (Roll Call)"
     },
     {
-      "file": "Chapter7_The_Pit_History.md",
-      "label": "Ch 7: The Pit: History, Tonnage & Timeline"
+      "file": "Chapter7_Act_II.md",
+      "label": "Ch 7: Act II, Graveyard (The Big Rig)"
     },
     {
-      "file": "Chapter8_The_Reserve_In_Play.md",
-      "label": "Ch 8: The Reserve in Play"
+      "file": "Chapter8_Act_III.md",
+      "label": "Ch 8: Act III, Morning (Dig Them Out)"
     },
     {
-      "file": "AppendixA_Motel_Owner_NPC.md",
-      "label": "App A: NPC: The Motel Owner"
-    },
-    {
-      "file": "AppendixB_Night_Atmosphere_Random_Tables.md",
-      "label": "App B: Night Atmosphere, Detection Risk & Random Tables"
-    },
-    {
-      "file": "AppendixC_Lobby_and_NPC_Guests.md",
-      "label": "App C: The Lobby & Civilian Guests (Room 4)"
-    },
-    {
-      "file": "AppendixD_Restaurant.md",
-      "label": "App D: The Restaurant (Semi-Closed)"
-    },
-    {
-      "file": "AppendixE_Graveyard_Complications.md",
-      "label": "App E: Graveyard Shift Complications: NPCs"
-    },
-    {
-      "file": "AppendixF_Skill_Spotlight.md",
-      "label": "App F: Skill Spotlight & Combat Hooks"
-    },
-    {
-      "file": "AppendixG_The_Pickup.md",
-      "label": "App G: The Pickup (SolSec Team Soft Landing)"
+      "file": "Chapter9_Conclusion_and_Rewards.md",
+      "label": "Ch 9: Conclusion & Rewards"
     }
   ]
 }
