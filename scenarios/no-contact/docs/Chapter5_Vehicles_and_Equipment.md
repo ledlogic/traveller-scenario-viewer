@@ -37,6 +37,8 @@ See §5.3 for full detail on what's parked outside tonight and what's repairable
 
 ### Del's rig: *the Gravy Train*
 
+![The Gravy Train](img/gravy-train.webp)
+
 Yes, there is a big rig, and it is the table's best way to the Reserve (Chapter 7, §7.3, Route A). Del calls it **the Gravy Train**, the name hand-lettered in flaking cream paint on both doors, under a chrome bull and a row of amber roof lamps. It is a TL7 diesel-analog 6x4 tractor pulling a 30-tonne stainless **feed tanker**, loaded tonight with 28 tonnes of slaughterhouse offal on a stamped manifest (Consignment 9-4471).
 
 | | |
@@ -62,6 +64,12 @@ Yes, there is a big rig, and it is the table's best way to the Reserve (Chapter 
 | ~90km | Processing facility (site of the labor-stoppage rumor, §2.9) | Industrial vehicle pool, technically not public, heavier equipment | Higher: trespassing on an active labor dispute site, plus equipment here skews toward heavy/industrial rather than road-legal passenger vehicles |
 
 **Referee framing:** nothing within 100km is a clean, risk-free way out. Every option either takes real in-fiction time (repair, travel on foot or by hitching), involves a legal risk under Jorjor's High Law regime, or both, which keeps the "trapped" feeling from Chapter 6, §6.1 intact even once players start looking for a way around it, rather than solving the whole premise with a lucky Mechanic roll.
+
+### Reference picture: the tracked survey truck
+
+![A yellow survey pickup converted to run on four rubber-padded tracks, with plow blades, a roll cage and a dual-wheeled rear axle](img/tracked-survey-truck.webp)
+
+Visual reference for the heavy, home-modified work vehicles that old Concession 9 survey crews and the Reserve's Maintenance Yard would have built (the door lettering reads "Jackson Surveying"). Four tracks, plow blades, a roll cage and a dual rear axle make it a good picture for any rattletrap that can cross the flats, the Sink's soft ground or a dust-storm wash when a wheeled truck cannot. Show it to the table when Gus Teller or Captain Pell mentions "the old track truck," or use it as a miniature stand-in for an extra ride if the table loses Del's rig.
 
 ---
 

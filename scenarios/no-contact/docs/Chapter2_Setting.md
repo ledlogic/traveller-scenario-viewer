@@ -9,6 +9,10 @@
 
 **Jorjor** *(pronounced "hor-HOR", J as a breathy Spanish H, equal stress on both syllables; yes, it's definitely a hor-hor adventure)*, Arcturus Subsector, Solomani Rim Sector, hex 3225. UWP **B641888-7**.
 
+The scenario takes place on **day 245 of Y1116** (Imperial date 245-1116). The world and regional history timeline is in §2.21.
+
+[Subsector map: Jorjor (hex 3225) and its neighbours](img/jorjor-subsector-map.webp)
+
 | UWP element | Value | Meaning |
 |---|---|---|
 | Starport | B | Good quality: refined fuel, shipyard, both highport and downport. Real, unremarkable ship traffic. |
@@ -276,24 +280,37 @@ That is the entire policy: **"Concession 9."** Everything since is accretion. Fo
 
 ---
 
-## 2.21: LONG-TERM TIMELINE
+## 2.21: TIMELINE: JORJOR AND THE RIM
 
-| Year (Imperial) | Event |
-|---|---|
-| **Y31** | **Thale Charter.** Sir Edric Thale takes Jorjor. **Concession 9** (organic waste receipt for a fee) is written into the fee schedule. |
-| **Y31–Y212** | First dumping: local farms, a few outlying worlds. Waste is spread on the flats and left to the sun; the basin dries it, smells for a day, and stays quiet. |
-| **Y212** | **First corporate biolab contract.** A biotech combine signs for disposal of culled cell lines and failed engineered stock, because the fee is cheaper than incineration. Others follow. |
-| **Y300** | Ag-world consortia join. Volume begins to rise sharply. First recorded "warm patch" in the basin, recorded as a drainage issue. |
-| **Y410** | **Civil Service Bureaucracy replaces the Knight-Administrators.** Concession 9 is carried forward as Schedule Item 9. No one reviews it again. |
-| **Y500s** | Dumping moves from the flats into the basin's sink. The first fenced "no-grazing" order; nobody can say why. |
-| **Y800** | **The Feed Line.** A slurry pipeline and rail spur from the downport open; volume jumps tenfold. The basin begins to run warm year-round. |
-| **~Y900** | "Subsidence" notices, ground temperature anomalies, and a sinkhole that is back-filled and renamed a drainage feature. First **Form 11-C (Subsidence, Minor)** filed. Filing continues for two centuries. |
-| **~Y1097** | **Rancher-prospector Ansel Halvorsen** walks into the basin looking for a lost herd and finds the surface *alive*; a warm, breathing mat of tissue, fungal and animal and vegetable, covering the sink. |
-| **Y1101** | The government, rather than deny it, **creates the Halvorsen Basin Biological Reserve**: fences, a visitor centre, and the first guided tours. The pit is now a "wonder." |
-| **Y1105–Y1112** | Reserve becomes a small regional draw. Campgrounds open in the backcountry (Areas 10–14). Visitor numbers peak near 4,000 a year. A pattern of "departures without notice" begins. |
-| **Y1113** | **The Terrace collapses** in Areas 12–14, killing or "losing" a tour group of twenty-three. Public access is **closed**. The Reserve is officially "under review." |
-| **Y1114** | Relicensed. Escorted tours return; camping resumes with a ranger-approved permit. Areas 12–14 are reopened as backcountry camping; the closure is still on the books but unenforced, since the paperwork says "reviewed." |
-| **Y1116** | **Now.** Day 245. |
+One timeline for the table, from the founding of the Imperium to tonight. Jorjor entries are the world's own history, including how the pit became the Gut. Rim entries are the Solomani Rim backdrop (Solomani Rim Sector, Arcturus Subsector, hex 3225) and explain why SolSec and the Imperial Security Service both care about a quiet TL7 world. Years are Imperial (Y), and tonight is **day 245 of Y1116** (Imperial date 245-1116). The last two weeks are broken out day by day in §2.23.
+
+| Year | Where | Event |
+|---|---|---|
+| **Y1** | Imperium | Third Imperium year count begins. Jorjor is a frontier backwater, settled but unremarkable. |
+| **Y31** | Jorjor | **Thale Charter.** Sir Edric Thale takes Jorjor and its Knight-Administrators begin ruling by charter. **Concession 9** (organic waste receipt for a fee) is written into the fee schedule (§2.19). |
+| **Y31–Y212** | Jorjor | First dumping: local farms, a few outlying worlds. Waste is spread on the flats and left to the sun; the basin dries it, smells for a day, and stays quiet. |
+| **Y212** | Jorjor | **First corporate biolab contract.** A biotech combine signs for disposal of culled cell lines and failed engineered stock, because the fee is cheaper than incineration. Others follow. |
+| **Y300** | Jorjor | Ag-world consortia join. Volume begins to rise sharply. First recorded "warm patch" in the basin, recorded as a drainage issue. |
+| **Y410** | Jorjor | **Civil Service Bureaucracy replaces the Knight-Administrators.** Concession 9 is carried forward as Schedule Item 9. No one reviews it again, and Jorjor settles into its High Law, forms-first culture. |
+| **Y500s** | Jorjor | Dumping moves from the flats into the basin's sink. The first fenced "no-grazing" order; nobody can say why. |
+| **Y800** | Jorjor | **The Feed Line.** A slurry pipeline and rail spur from the downport open (§2.20); volume jumps tenfold. The basin begins to run warm year-round. |
+| **~Y900** | Jorjor | "Subsidence" notices, ground temperature anomalies, and a sinkhole that is back-filled and renamed a drainage feature. First **Form 11-C (Subsidence, Minor)** filed. Filing continues for two centuries. |
+| **Y990** | Rim | **Solomani Rim War begins.** Jorjor sits close enough to the front that its starport sees naval traffic and rumor. |
+| **Y1002** | Rim | Solomani Grand Fleet scattered; massive invasion of Terra. The Rim is Imperial-occupied territory in all but name, and old Solomani loyalties go underground. |
+| **Y1052** | Rim | Détente between the Solomani and Imperial navies. Open war ends, the watching does not. |
+| **Y1065** | Rim | Easing of military rule on Terra. Local Imperial garrisons thin out across the Rim, which is why a TL7 world like Jorjor now runs on its own bureaucracy. |
+| **Y1095** | Rim | Solomani Party legalized on Terra. Confederation-minded cells begin to organize in the open, and SolSec recruiting picks up. |
+| **~Y1097** | Jorjor | **Rancher-prospector Ansel Halvorsen** walks into the basin looking for a lost herd and finds the surface *alive*; a warm, breathing mat of tissue, fungal and animal and vegetable, covering the sink (§2.17). |
+| **Y1098** | Rim | Unity uprising on Scaramouche crushed by Imperial Forces. Imperial Intelligence tightens its watch on every Solomani asset in the sector. |
+| **Y1101** | Jorjor | The government, rather than deny it, **creates the Halvorsen Basin Biological Reserve**: fences, a visitor centre, and the first guided tours. The pit is now a "wonder." |
+| **Y1105–Y1112** | Jorjor | Reserve becomes a small regional draw. Hollis Quill joins the staff (§4.11). Campgrounds open in the backcountry (Areas 10–14). Visitor numbers peak near 4,000 a year. A pattern of "departures without notice" begins. |
+| **Y1113** | Jorjor | **The Terrace collapses** in Areas 12–14, killing or "losing" a tour group of twenty-three. Public access is **closed**. The Reserve is officially "under review." |
+| **Y1114** | Jorjor | Relicensed. Escorted tours return; camping resumes with a ranger-approved permit. Areas 12–14 are reopened as backcountry camping; the closure is still on the books but unenforced, since the paperwork says "reviewed." |
+| **Y1116, day 231 (T-14)** | Jorjor | Feed Line pressure spike. The Mass warms by 3 °C in the Terrace (§2.23). |
+| **Y1116, day 239 (T-6)** | Rim | **Baldwin Wei issues the extraction order** and dispatches the *Soft Landing* (§1.9, §4.8). |
+| **Y1116, day 245** | Jorjor | **Tonight.** Motel Yermo, the dust storm, and the pickup that never came. |
+
+**Referee note:** the Rim War, Terra and Scaramouche entries are background for the table, not plot. They explain why a Solomani agent and an Imperial mole can plausibly share a TL7 motel on a quiet world, and they are safe to trim if the table does not care about the wider sector.
 
 ---
 
@@ -470,11 +487,15 @@ Everything alive on the surface is, one way or another, **a part of the Mass**. 
 | 13 | **Pollinating**: moving bloom to bloom | **Carrying**: ferrying wrapped bundles toward the blooms | **The Orchard**: 30+ at full size |
 | 14 | Clustered thick; "sleeping" low on the mat | Few; stand in the mat like reeds | A handful at the edge |
 
+![A Drifter](img/drifter.webp)
+
 **Drifters (floating blobs).** Translucent, gas-filled bags 1–3 metres across, with trailing stinging filaments. They float on the basin's warm thermals and the evening wind and drift upwind in the day to seed spores. They are the Mass's **eyes**: a cluster of Drifters converging on a spot is the Reserve's alarm. They descend and cling to Waders and Egg-blooms in strong wind.
 
 - **Hits 12 · Speed 3 m (drifts with the wind) · Armour 0**
 - **Sting (filaments):** 1D damage; END 8+ or lose 1D DEX for 1D minutes (paralytic). Weapons that burst the bag release a **spore cloud** (1D rounds of reduced visibility; breathing without a filter means END check or hallucinations).
 - **Behaviour:** ignore anyone coated in feed slurry (§7.3). Converge on gunfire, explosives, TL10+ emissions, or psionics.
+
+![A Wader](img/wader.webp)
 
 **Waders (long-legged blobs).** Stilt-legged blobs 3–5 metres tall, with a soft, bag-like body slung between four long legs and a cluster of grasping tendrils below. They graze slurry at the lagoon and **carry** things, wrapped bundles, including live people, to the Orchard. The Mass's hands.
 
@@ -482,6 +503,8 @@ Everything alive on the surface is, one way or another, **a part of the Mass**. 
 - **Tendrils (grapple):** Melee 2, STR 12. A grappled victim is wrapped (STR check to break) and carried 6 m a round.
 - **Stab (leg):** 3D damage, only against anything that has hurt them.
 - **Behaviour:** slow and clumsy on boardwalk and uneven ground, **fast and sure across mud**. Do **not** attack anything smelling of feed slurry; they treat it as "part of the Mass." They are blind in a dust storm and hunt by smell and ground vibration (mole drilling attracts them).
+
+![An Egg-bloom](img/egg-bloom.webp)
 
 **Egg-blooms (egg-shaped flower plants, 6–10 m).** Tall, egg-shaped buds of overlapping petals on a thick, wet stalk. At midday they stay **closed**; at dusk the petals unfurl slowly like a flower opening in reverse, revealing a **cradle**; a deep, warm, nectar-filled pit lined with soft filaments. They are the Mass's **stomach and nursery**: they hold captured creatures in a sedated, upright sleep and sample them for days. Prey is not dissolved quickly; it is *kept*.
 

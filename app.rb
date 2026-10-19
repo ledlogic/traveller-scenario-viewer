@@ -146,6 +146,7 @@ class UploadWatcher
 
         sync_docs(src_docs, dest_docs, slug)
         prune_unlisted_docs(dest_docs, dest_meta, slug)
+        sync_img(File.join(src_root, 'img'), File.join(dest_root, 'img'), slug)
       end
 
       archive_or_delete(zip_path)
@@ -164,6 +165,34 @@ class UploadWatcher
     else
       system('unzip', '-oq', zip_path, '-d', dest_dir, exception: true)
     end
+  end
+
+  # Copy new or changed files from the zip's scenario img/ folder. Never deletes
+  # existing images (they are often large and added by hand).
+  def sync_img(src_img, dest_img, slug)
+    return unless Dir.exist?(src_img)
+
+    FileUtils.mkdir_p(dest_img) unless dry_run
+    added, updated, unchanged = [], [], []
+
+    Dir.glob(File.join(src_img, '*')).each do |src_file|
+      next unless File.file?(src_file)
+      name      = File.basename(src_file)
+      dest_file = File.join(dest_img, name)
+
+      if !File.exist?(dest_file)
+        added << name
+        FileUtils.cp(src_file, dest_file) unless dry_run
+      elsif !FileUtils.identical?(src_file, dest_file)
+        updated << name
+        FileUtils.cp(src_file, dest_file) unless dry_run
+      else
+        unchanged << name
+      end
+    end
+
+    say "  [#{slug}] img: #{added.size} added, #{updated.size} updated, #{unchanged.size} unchanged"
+    (added + updated).each { |name| say "    - img/#{name}" }
   end
 
   def sync_docs(src_docs, dest_docs, slug)
@@ -405,14 +434,12 @@ get '/' do
     href  = first ? "/s/#{s['slug']}/#{first['file']}" : "/s/#{s['slug']}"
     acc   = s['color'] || '#c8a96e'
     date  = s['inception_date']
-    gdate = s['game_date']
     <<~CARD
       <a class="scenario-card" href="#{href}" style="--card-accent:#{acc}">
         <div class="card-system">#{s['system'] || 'RPG Scenario'}</div>
         <div class="card-title">#{s['title']}</div>
         #{s['subtitle'] ? "<div class=\"card-sub\">#{s['subtitle']}</div>" : ''}
         #{s['setting']  ? "<div class=\"card-setting\">#{s['setting']}</div>"  : ''}
-        #{gdate ? "<div class=\"card-gamedate\">#{gdate}</div>" : ''}
         #{date ? "<div class=\"card-date\">Started #{date}</div>" : ''}
         <div class="card-count">#{(s['docs'] || []).size} documents</div>
       </a>

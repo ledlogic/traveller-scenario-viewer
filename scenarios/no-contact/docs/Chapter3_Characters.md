@@ -21,6 +21,8 @@ A player's Page 1 is identical in shape (though not in content) whether they're 
 
 ### "Corvin Danh", Version: Confederation
 
+![Corvin Danh, Version: Confederation](img/corvin-danh.webp)
+
 SolSec sleeper, three years deep-cover running a fringe religious front as an intelligence-gathering and money-laundering operation.
 
 **Age:** 38
@@ -46,6 +48,8 @@ SolSec sleeper, three years deep-cover running a fringe religious front as an in
 ---
 
 ### "Corvin Danh", Version: Imperium
+
+![Corvin Danh, Version: Imperium](img/corvin-danh.webp)
 
 Same name, same cult-front cover, but the front was actually stood up by Imperial Intelligence eighteen months ago as bait, and Corvin was slotted in to run it.
 
@@ -86,6 +90,8 @@ Known only to this player until revealed at the table; this is the content of th
 
 ### "Dabney Kroll", Version: Confederation
 
+![Dabney Kroll, Version: Confederation](img/dabney-kroll.webp)
+
 Low-level courier and lookout, useful specifically because he's dismissed as harmless local color. Has run message drops through this motel for over a year.
 
 **Age:** 56
@@ -111,6 +117,8 @@ Low-level courier and lookout, useful specifically because he's dismissed as har
 ---
 
 ### "Dabney Kroll", Version: Imperium
+
+![Dabney Kroll, Version: Imperium](img/dabney-kroll.webp)
 
 Same harmless-local cover, but he was placed here first, over a year ago, specifically to become "furniture" before any SolSec operation used this motel.
 
@@ -151,6 +159,8 @@ Known only to this player until revealed at the table; this is the content of th
 
 ### "Yeva Kessler", Version: Confederation
 
+![Yeva Kessler, Version: Confederation](img/yeva-kessler.webp)
+
 Runs a genuine cold-reading operation as cover for debriefing nervous assets, people talk to psychics. Skilled interrogator disguised as a mystic.
 
 **Age:** 44
@@ -176,6 +186,8 @@ Runs a genuine cold-reading operation as cover for debriefing nervous assets, pe
 ---
 
 ### "Yeva Kessler", Version: Imperium
+
+![Yeva Kessler, Version: Imperium](img/yeva-kessler.webp)
 
 Same act, but her "gift" is genuinely just excellent Imperial interrogation training; she was inserted specifically because a psychic-cover agent is a perfect debriefing trap for exactly this kind of network.
 
@@ -216,6 +228,8 @@ Known only to this player until revealed at the table; this is the content of th
 
 ### "Dex", Version: Confederation
 
+![Dex, Version: Confederation](img/dex.webp)
+
 Youngest asset in the cell, a genuine defector-in-training being smuggled out, not a hardened agent, an asset in the truest sense: someone SolSec is retrieving.
 
 **Age:** 19
@@ -241,6 +255,8 @@ Youngest asset in the cell, a genuine defector-in-training being smuggled out, n
 ---
 
 ### "Dex", Version: Imperium
+
+![Dex, Version: Imperium](img/dex.webp)
 
 The "defector" story is a construct, actually a trained juvenile-presenting Imperial operative, chosen precisely because "scared kid" disarms suspicion fastest.
 
@@ -281,6 +297,8 @@ Known only to this player until revealed at the table; this is the content of th
 
 ### "Corrin Ashe", Version: Confederation
 
+![Corrin Ashe, Version: Confederation](img/corrin-ashe.webp)
+
 SolSec courier, six years running low-level intel out of Imperial space under press credentials.
 
 **Age:** 33
@@ -306,6 +324,8 @@ SolSec courier, six years running low-level intel out of Imperial space under pr
 ---
 
 ### "Corrin Ashe", Version: Imperium
+
+![Corrin Ashe, Version: Imperium](img/corrin-ashe.webp)
 
 Imperial Intelligence plant inserted into SolSec's courier network eight months ago.
 
@@ -346,6 +366,8 @@ Known only to this player until revealed at the table; this is the content of th
 
 ### "Big Tomas Reyes", Version: Confederation
 
+![Big Tomas Reyes, Version: Confederation](img/tomas-reyes.webp)
+
 Muscle and enforcement for the cell, genuinely capable of violence, kept in reserve unless the extraction goes wrong on the ground.
 
 **Age:** 45
@@ -371,6 +393,8 @@ Muscle and enforcement for the cell, genuinely capable of violence, kept in rese
 ---
 
 ### "Big Tomas Reyes", Version: Imperium
+
+![Big Tomas Reyes, Version: Imperium](img/tomas-reyes.webp)
 
 Imperial field operative playing muscle specifically to be the one "allowed" to use force without suspicion when the moment comes.
 

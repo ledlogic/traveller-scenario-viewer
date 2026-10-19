@@ -7,6 +7,8 @@
 
 ## 4.1: THE MOTEL OWNER
 
+![Earlene Vance, motel owner](img/motel-owner.webp)
+
 A civilian anchor NPC; a non-player exposition and stakes source who is utterly unaware any of tonight's events are happening. Useful as:
 
 - A "why should we care if this goes wrong" civilian who could get hurt.
@@ -33,6 +35,10 @@ A civilian anchor NPC; a non-player exposition and stakes source who is utterly 
 
 ## 4.2: ROOM 4, CIVILIAN GUESTS
 
+![Del Ashworth](img/del-ashworth.webp)
+
+![Priya Ashworth](img/priya-ashworth.webp)
+
 Two ordinary travelers, entirely unconnected to SolSec, Imperial Intelligence, or Baldwin Wei's network. They exist to be real; a grounding presence the PCs can misread, investigate, or simply overhear, and a reminder that not everyone at the motel tonight is a spy.
 
 **Suggested pair:** a long-haul freight driver and a spouse or road-partner riding along, stranded by the same storm blocking regional traffic (Chapter 2, §2.5) as everyone else.
@@ -54,27 +60,75 @@ Two ordinary travelers, entirely unconnected to SolSec, Imperial Intelligence, o
 
 Three fixtures, always present when the place is "open," never seen arriving or leaving. **No waitress and no cashier**; there's no one taking orders at the table or working a register; the cook handles the counter and the till himself, and the arrangement (order at the counter, pay at the counter, seat yourself) is part of what makes the place feel understaffed and slightly off.
 
-- **The cook**: also the manager, for whatever that's worth in a place this small; runs the counter, the kitchen, and the till himself. Age 57. UPP: 786655 *(STR 7 (0), DEX 8 (0), END 6 (0), INT 6 (0), EDU 5 (-1), SOC 5 (-1))*. No career terms of note, worked kitchens and short-order lines since he was young, on Jorjor and off it, before landing here longer than he probably meant to stay. Quiet, economical with words, answers questions with fewer words than the question contained. Never rude exactly, never actually helpful either. Skills: Steward 1, Mechanic 0, Mechanic (repair) 1, Streetwise 0.
-- **The regular**: Age 49. UPP: 998443 *(STR 9 (+1), DEX 9 (+1), END 8 (0), INT 4 (-1), EDU 4 (-1), SOC 3 (-1))*. No career terms: background labor skills only, the kind a big, quiet local picks up doing whatever work is around. A heavyset, permanently- seated customer at the counter who never appears to order, eat, or pay, and who seems to know exactly when to insert himself into a conversation to make it less productive. Skills: Melee 0, Melee (unarmed) 1, Athletics 0, Athletics (strength) 1.
-- **The washboy**: a teenage boy, kept mostly out of sight in the back washing dishes, barely spoken to and barely speaking. Age 15. UPP: 655544 *(STR 6 (0), DEX 5 (-1), END 5 (-1), INT 5 (-1), EDU 4 (-1), SOC 4 (-1))*. No career terms: local kid, first job. No notable skills beyond Mechanic 0 *(dishwashing/kitchen upkeep, nothing above 0)*. Present but essentially voiceless at the table; a pair of eyes in the back room more than a character, useful if a referee wants a witness who saw something but can barely be gotten to say what.
+### The Cook
+
+![The cook](img/restaurant-cook.webp)
+
+**Restaurant manager and cook.** Age 57. UPP: 786655 *(STR 7 (0), DEX 8 (0), END 6 (0), INT 6 (0), EDU 5 (-1), SOC 5 (-1))*.
+
+**Career:** No career terms of note. He has worked kitchens and short-order lines since he was young, on Jorjor and off it, before landing here longer than he probably meant to stay.
+
+**Role:** Also the manager, for whatever that's worth in a place this small; he runs the counter, the kitchen, and the till himself.
+
+**Personality:** Quiet, economical with words, answers questions with fewer words than the question contained. Never rude exactly, never actually helpful either.
+
+**Skills:**
+
+- Mechanic 0
+- Mechanic (repair) 1
+- Steward 1
+- Streetwise 0
+
+**Neural.AI image prompt:** A lean, weathered man in a stained apron standing at a pass-through kitchen window, spatula in hand, regarding the viewer with a flat, unreadable expression, not hostile, not friendly, just unreadable. Dim fluorescent kitchen light behind him. Photorealistic, science fiction character portrait, no text, no logos.
+
+### The Regular
+
+![The regular](img/restaurant-regular.webp)
+
+**Restaurant regular.** Age 49. UPP: 998443 *(STR 9 (+1), DEX 9 (+1), END 8 (0), INT 4 (-1), EDU 4 (-1), SOC 3 (-1))*.
+
+**Career:** No career terms: background labor skills only, the kind a big, quiet local picks up doing whatever work is around.
+
+**Role:** A heavyset, permanently seated customer at the counter who never appears to order, eat, or pay, and who seems to know exactly when to insert himself into a conversation to make it less productive.
+
+**Skills:**
+
+- Athletics 0
+- Athletics (strength) 1
+- Melee 0
+- Melee (unarmed) 1
+
+**Neural.AI image prompt:** A heavyset man in worn overalls seated at a diner counter, posture too still and too permanent, an untouched cup of coffee in front of him, watching the entrance without quite looking at it. Warm, grimy diner lighting. Photorealistic, science fiction character portrait, no text, no logos.
+
+### The Washboy
+
+![The washboy](img/restaurant-washboy.webp)
+
+**Restaurant dishwasher.** Age 15. UPP: 655544 *(STR 6 (0), DEX 5 (-1), END 5 (-1), INT 5 (-1), EDU 4 (-1), SOC 4 (-1))*.
+
+**Career:** No career terms: local kid, first job.
+
+**Role:** A teenage boy kept mostly out of sight in the back washing dishes, barely spoken to and barely speaking. Present but essentially voiceless at the table; a pair of eyes in the back room more than a character, useful if a referee wants a witness who saw something but can barely be gotten to say what.
+
+**Skills:**
+
+- Mechanic 0 *(dishwashing and kitchen upkeep, nothing above 0)*
+
+**Neural.AI image prompt:** A thin teenage boy in a stained apron, sleeves rolled up, elbow-deep in a sink of dishwater in a cramped back kitchen, glancing toward the dining room through a half-open doorway rather than looking at the viewer directly. Dim, greasy fluorescent light. Photorealistic, science fiction character portrait, no text, no logos.
 
 None of the three needs more than this to run at the table; their entire function is atmospheric friction, and the stats above exist for the rare moment a check is actually called for, not to seed a backstory. **Referee note:** resist the temptation to make them secretly SolSec, Imperial, or anything else tied to the main plot. Their unsettling quality works specifically *because* it never resolves into something explicable, same as the source material's own refusal to give its diner staff supernatural or even fully coherent motives.
 
 ---
 
-## 4.4: RESTAURANT STAFF: NEURAL.AI IMAGE PROMPTS
+## 4.4: RESTAURANT: ESTABLISHING SHOT PROMPT
 
 **Exterior/interior establishing shot:** A run-down 1970s roadside diner attached to a motel by a covered walkway, worn neon "OPEN" sign with several letters dark, seen at dusk across a gravel lot. Warm interior light spilling from dust-streaked windows, otherwise the desert around it fading into darkness. Photorealistic, science fiction/Americana crossover scene, no text, no logos.
-
-**The cook:** A lean, weathered man in a stained apron standing at a pass-through kitchen window, spatula in hand, regarding the viewer with a flat, unreadable expression, not hostile, not friendly, just unreadable. Dim fluorescent kitchen light behind him. Photorealistic, science fiction character portrait, no text, no logos.
-
-**The regular:** A heavyset man in worn overalls seated at a diner counter, posture too still and too permanent, an untouched cup of coffee in front of him, watching the entrance without quite looking at it. Warm, grimy diner lighting. Photorealistic, science fiction character portrait, no text, no logos.
-
-**The washboy:** A thin teenage boy in a stained apron, sleeves rolled up, elbow-deep in a sink of dishwater in a cramped back kitchen, glancing toward the dining room through a half-open doorway rather than looking at the viewer directly. Dim, greasy fluorescent light. Photorealistic, science fiction character portrait, no text, no logos.
 
 ---
 
 ## 4.5: LOCAL POLICE, DEPUTY CALLUM MARSH
+
+![Deputy Callum Marsh](img/deputy-marsh.webp)
 
 Drawn by noise, a nosy neighbor's call, or simple routine patrol. Not hunting SolSec or Imperial activity specifically, has no idea any of tonight's guests are anything other than ordinary travelers, and should be played that way unless a PC gives him genuine cause to think otherwise.
 
@@ -135,6 +189,8 @@ Not Imperial at all; genuine surveillance, but local, and tied to the Strange Pa
 ---
 
 ## 4.7: DEPUTY COMPTROLLER YANNICK OSEI (THE PRIZE)
+
+![Deputy Comptroller Yannick Osei](img/yannick-osei.webp)
 
 The answer isn't a thing. It's a stamp.
 
@@ -221,6 +277,8 @@ Skills are listed alphabetically, with sub-skills (specialities) immediately aft
 
 ### Captain Ines Okafor-Brandt: Team Leader / Pilot
 
+![Captain Ines Okafor-Brandt](img/okafor-brandt.webp)
+
 Seventeen years in Solomani Security. Methodical, unshowy, trusted by Wei, and quietly furious that the one thing she was told ("check") has turned out to be a reason to.
 
 **Age:** 46
@@ -247,6 +305,8 @@ Seventeen years in Solomani Security. Methodical, unshowy, trusted by Wei, and q
 
 ### Tavish "Tav" Mbeki: Breacher / Engineer
 
+![Tavish "Tav" Mbeki](img/tav-mbeki.webp)
+
 An easy talker with a fondness for shaped charges and a habit of saying "it'll be fine."
 
 **Age:** 39
@@ -271,6 +331,8 @@ An easy talker with a fondness for shaped charges and a habit of saying "it'll b
 
 ### Dr. Sunniva Hale: Medic / Telepath
 
+![Dr. Sunniva Hale](img/sunniva-hale.webp)
+
 A field physician and a trained psion who has spent her career being careful. Today she was not careful.
 
 **Age:** 52
@@ -294,6 +356,8 @@ A field physician and a trained psion who has spent her career being careful. To
 **Neural.AI image prompt:** A slim woman in her early fifties in a pale field jacket, grey-streaked hair tied back, steady scientist's eyes wide with fear and restraint, one hand pressed to her temple, a steaming desert basin blurred behind her. Photorealistic, science fiction character portrait, no text, no logos.
 
 ### Rook Delacroix: Gunner / Muscle
+
+![Rook Delacroix](img/rook-delacroix.webp)
 
 The youngest of the team and the one who shoots first, mostly because somebody has to.
 
@@ -326,6 +390,8 @@ Full stat blocks, because the table will talk to every one of them.
 
 ### Ranger-Supervisor Hollis Quill
 
+![Ranger-Supervisor Hollis Quill](img/hollis-quill.webp)
+
 Runs the Reserve. A competent, tired, decent-seeming man who has kept the numbers quiet for eleven years and believes it is for the best.
 
 **Age:** 48
@@ -355,6 +421,8 @@ Runs the Reserve. A competent, tired, decent-seeming man who has kept the number
 
 ### Compliance Officer Dara Pruitt
 
+![Compliance Officer Dara Pruitt](img/dara-pruitt.webp)
+
 A Bureau inspector sent to audit the Reserve's incident forms. Methodical, dry, and has just realised the numbers do not add up.
 
 **Age:** 41
@@ -379,6 +447,8 @@ A Bureau inspector sent to audit the Reserve's incident forms. Methodical, dry, 
 
 ### Visitor Services Officer Marcy Tolliver *(archetype: the smiling gate)*
 
+![Visitor Services Officer Marcy Tolliver](img/marcy-tolliver.webp)
+
 The face of the Reserve. Friendly, well-trained at saying nothing.
 
 **Age:** 29
@@ -398,6 +468,8 @@ The face of the Reserve. Friendly, well-trained at saying nothing.
 **Neural.AI image prompt:** A cheerful, polished young woman in a khaki visitor-services uniform at a counter, name badge, bright practiced smile that does not reach her eyes, a rack of colourful brochures behind her. Photorealistic, science fiction/Americana crossover, no text, no logos.
 
 ### Mole Driver Gus Teller
+
+![Mole Driver Gus Teller](img/gus-teller.webp)
 
 Runs the Maintenance Yard. A gruff, practical man who has been driving moles through the basin for thirty years and has opinions about the Mass.
 
@@ -429,6 +501,8 @@ Like any big water park, the Reserve keeps trained rescuers on call, because vis
 **Why they have not rescued the pickup.** At 16:34 the RRS dispatcher logged a call from the Terrace (shots, a bang, a collapse, four visitors). The response team was rolling when Quill raised the alert to Red at 17:10. **Policy RS-9** says that when the Reserve is at Red, *no recovery in a closed area proceeds without the Supervisor's written authorisation.* Quill has not signed one. The team stood down at 17:12 and has been sitting on its hands ever since.
 
 ### Captain Jonah Pell, Rescue Service
+
+![Captain Jonah Pell, Rescue Service](img/jonah-pell.webp)
 
 Sincere, overworked, tired of forms. Keeps his own whiteboard of every case, because he does not trust the paper. His board is the most accurate record in the Reserve.
 

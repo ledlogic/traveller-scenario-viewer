@@ -15,6 +15,8 @@ Six strangers. One roadside motel on the edge of a dying desert world. Each of y
 
 ## 1.1: PREMISE
 
+**When:** day 245 of Y1116 (Imperial date 245-1116), a single night. The history behind Jorjor and the Rim is in Chapter 2, §2.21.
+
 All six player characters are **Solomani Security (SolSec) assets** who have each been told, separately and through their own handler, to go to ground at a specific three-room motel, **Motel Yermo** *(Spanish, "wasteland/barren place"; matches the hellworld texture of Jorjor itself)*, and wait for extraction back across the border to Confederation space. **Each was also told they'd be paired with a partner for this job (sharing a room, a cover story, and the wait for extraction) but each received that instruction independently, and most pairs have never actually met their partner in person before tonight.** Verifying that the person who shows up matching your partner's description really is who they say they are is part of the job, not a given. No pair was told anything about the other two rooms; as far as any given pair knows, they may be the only SolSec presence at the motel tonight. Each pair has a cover identity, a matched pair of motel-guest personas, they believe is unique to them.
 
 **The extraction never comes.**
