@@ -13,6 +13,7 @@ one image per guest and rely on the written tells instead.
 - corrin-ashe.webp     (Room 3, Guest 1, Tabloid Reporter, Chapter 3, §3.6)
 - tomas-reyes.webp     (Room 3, Guest 2, Mob Enforcer, Chapter 3, §3.7)
 - motel-owner.webp     (NPC, Chapter 4, §4.1)
+- motel-area-map.webp  (Aerial map of the motel's surroundings, Chapter 2, §2.11)
 - jorjor-subsector-map.webp (Subsector map, Chapter 2, §2.1)
 - tracked-survey-truck.webp (Reference picture, Chapter 5, §5.3)
 - gravy-train.webp     (Del's feed tanker rig, Chapter 5, §5.3)
@@ -33,8 +34,8 @@ one image per guest and rely on the written tells instead.
 - marcy-tolliver.webp  (Reserve, Visitor Services, Chapter 4, §4.11)
 - gus-teller.webp      (Reserve, Mole Driver, Chapter 4, §4.11)
 - jonah-pell.webp      (Reserve, Rescue Captain, Chapter 4, §4.12)
-- drifter.webp         (Creature, Chapter 2, §2.31)
-- wader.webp           (Creature, Chapter 2, §2.31)
-- egg-bloom.webp       (Creature, Chapter 2, §2.31)
+- drifter.webp         (Creature, Chapter 2, §2.30)
+- wader.webp           (Creature, Chapter 2, §2.30)
+- egg-bloom.webp       (Creature, Chapter 2, §2.30)
 
 Drop matching .webp files in this folder. Each name above is already referenced in the docs as `img/<name>.webp`, so a picture appears as soon as the file exists. Served at /s/no-contact/img/<filename>.

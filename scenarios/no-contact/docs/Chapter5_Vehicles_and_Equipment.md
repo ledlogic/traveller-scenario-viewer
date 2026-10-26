@@ -10,10 +10,13 @@
 | Layer | TL | Notes |
 |---|---|---|
 | **Jorjor (surface world)** | **TL7** | Everything visible reads as period-plausible: cars, phones, cameras, firearms (legal, unremarkable), analog/early-digital electronics, no obvious spacer tech. |
-| **True SolSec gear (Version "A")** | **TL10–11** | Concealed inside period objects. A real edge, but survives casual inspection. |
-| **Imperial mole gear (Version "B")** | **TL12** | One tier better than SolSec issue. This is the fair, discoverable tell; a device that does something SolSec kit shouldn't be able to do, a wound that heals a little too fast, a lock picked a little too cleanly. |
+| **SolSec gear (the PCs)** | **TL10–11** | Concealed inside period objects. A real edge, but survives casual inspection. |
+| **Imperial spy kit (Ansel Voss, Chapter 4, §4.6)** | **TL10–12** | One tier better than SolSec issue, and not hidden. The receiver in his car is a TL12 emitter, and the trunk holds military weapons and armour. The Mass notices TL10+ emissions (Chapter 2, §2.30), so the receiver is what draws the gutwings. |
+| **Reserve armoury (Chapter 2, §2.29, Area 7)** | **TL10–12** | Imperial-issue containment stock, never opened since Y1113. |
 
 **Referee tip:** Never let the TL gap be the *only* tell. Pair every mechanical tell with a behavioral one so sharp roleplay is rewarded as much as sharp system mastery.
+
+**Weapons and armour on site tonight.** The PCs arrive with almost no weapons, because Law 8 bans them (Chapter 2, §2.32). The balance of the first fight (Chapter 6, §6.4) rests on three tiers of gear: improvised tools and the vehicles below; the contraband sidearms or knives a PC may have smuggled in; and the spy's trunk kit (Chapter 4, §4.6). The Reserve armoury (Chapter 2, §2.29, Area 7) is a later, larger tier.
 
 ---
 
@@ -31,9 +34,9 @@ See §5.3 for full detail on what's parked outside tonight and what's repairable
 
 | Vehicle | Owner | Condition | Notes |
 |---|---|---|---|
-| Battered pickup truck | Motel owner (Chapter 4, §4.1) | Running, TL7, half a tank | The owner's own errand vehicle. Borrowing it without asking is theft under Jorjor's High Law 8; a real legal risk, not just a social one. |
+| Battered pickup truck | Motel owner (Chapter 4, §4.1) | Running, TL7, half a tank. Hull 12, Armour 1 | The owner's own errand vehicle. Borrowing it without asking is theft under Jorjor's High Law 8; a real legal risk, not just a social one. |
 | Long-haul feed tanker, *the Gravy Train* | Del Ashworth (Chapter 4, §4.2) | **Not currently running**: see below | A contract Feed Line hauler carrying 28 tonnes of offal on a stamped manifest (Chapter 7, §7.3, Route A). Parked at the edge of the lot, engine cover up. Del's been "fixing" it since he arrived, which is also his cover for being out in the lot at odd hours if a referee wants a red-herring beat. |
-| Motel's own courtesy van | Motel (shared) | Running, but visibly marked with the motel's name/logo | Useless for a quiet getaway, recognizable on sight to anyone in the area. |
+| Motel's own courtesy van | Motel (shared) | Hull 14, Armour 1. Running, but visibly marked with the motel's name/logo | Useless for a quiet getaway, recognizable on sight to anyone in the area. |
 
 ### Del's rig: *the Gravy Train*
 
@@ -44,7 +47,7 @@ Yes, there is a big rig, and it is the table's best way to the Reserve (Chapter 
 | | |
 |---|---|
 | **Seats** | Cab bench seats three (driver plus two). A curtained sleeper berth fits two more. Up to five inside, comfortably. |
-| **Riding outside** | Catwalk and tank-top hatch fit three or four more, holding on, in grit and wind. Anyone up there is **coated in feed** by the end of the trip (Chapter 2, §2.31). |
+| **Riding outside** | Catwalk and tank-top hatch fit three or four more, holding on, in grit and wind. Anyone up there is **coated in feed** by the end of the trip (Chapter 2, §2.30). |
 | **Speed** | 90 km/h on the highway; 40 km/h on the Reserve's service track; 15 km/h in a dust storm. |
 | **Hull / Armour** | Hull 40, Structure 40, Armour 4 (a heavy steel bumper and a lot of tank). Tires are the weak point. |
 | **Range** | About 800 km on a full tank; fuel is not the problem tonight. |
@@ -104,6 +107,21 @@ A **TL11 SolSec courier-sloop**, 100 dTon, Jump-1, with a cargo hold with four c
 - **Lock:** TL11 biometric-and-key. **Any two of the four key fobs** (§5.6) open the hatch and wake the flight computer. A fob alone gets the door open and nothing else.
 - **Backup:** Okafor-Brandt's spoken codeword *("Bluebird, no reply")* overrides the lock from inside the hatch comm panel. Anyone who hears it can use it.
 - **Flight computer:** will lift on autopilot for a PC at the controls. Skilled pilot not required; Pilot (spacecraft) 1+ is easier.
+
+### What the ship tells them
+
+Anyone who gets into the cockpit (two fobs, or the codeword) finds two things.
+
+**The log.** The flight computer's last entry is timed at 12:40, in Okafor-Brandt's flat voice: *"Crew ashore, four. Tour of the Halvorsen Reserve, day permit, walk-in permit for Area 13, number 0614. Return by 18:00. Holding for crew."* Below it is a string of unanswered check-in pings from 18:00 onward. This tells the table where the team went and that they never came back.
+
+**The fob link.** The four fobs (§5.6) ping the ship's receiver, so the console shows each fob's status. The dust storm and the Mass make the link weak: the readings are faint, intermittent and have no voice. Read it out from the team's fate (Chapter 7, §7.6):
+- **Captured (C):** *"Fob 1: alive, bearing 190, 11 km, very faint."* The pulse is slow, as if sedated. Area 13.
+- **Trapped (T):** the same, but the signal drops in and out, and **if the wearer is conscious, a few words get through**: a broken voice, *"...Terrace... Area 12... can't climb... send..."* Delacroix, Mbeki or Hale will try, whichever is trapped and awake.
+- **Lost (L):** the signal moves, wandering between Areas 11 and 14.
+- **Held (H):** the signal is steady and strong, from the Tower (Area 7).
+- **Dead (X):** no pulse. The fob still pings, but it shows "wearer inactive".
+
+The ship can **answer** a fob but not call across the basin: the Mass makes it unreliable. The console cannot say who is who, only fob numbers, and a table that has not met the team will not know whose fob is whose until someone is freed.
 
 ---
 
