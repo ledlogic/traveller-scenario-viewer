@@ -87,6 +87,8 @@ Roll **1D6 every 30 minutes underground** (or choose):
 - **Stabilising Delacroix.** Medic (Average, 8+), 1D minutes. Success stops the damage; a failure costs another 1D damage and a second try. Yeva is the table's trained medic.
 - **The tell.** The survivors have not been alone. Something has been **tapping on the rock** for hours, in time with their pulses.
 
+> *If Mbeki is here (Trapped):* the tapping the party hears is not the Mass. It is a code, three long and two short, repeated, the signal he used to send Corrin at the end of every shift. Corrin recognises it at once. She has DM+1 on the Recon or Investigate roll to find the voice, and he will not stop tapping until she answers. Read aloud: *"Three long. Two short. Three long. Two short. Somebody down there thinks it is going to be fine."*
+
 ---
 
 ## 8.7: SET PIECE: THE ORCHARD
@@ -98,6 +100,8 @@ Roll **1D6 every 30 minutes underground** (or choose):
 - The blooms with living occupants are **warmer and brighter** than the empty ones. Electronics (sensors) or any thermal viewer halves the search time; otherwise it is a Recon or Investigate check (Average, 8+) per row.
 - **Sedated sleepers murmur** fragments of their last conversations, in their own voices. If Okafor-Brandt is in one, she says "no loose threads" in her own voice, the order Wei sent.
 - A **Wader** is in the grove, motionless, blind in the storm. It hunts by smell and vibration (Chapter 2, §2.30). It does not like the mole, and it does not like gunfire.
+
+> *If Mbeki is here (Captured):* his bloom is the warmest in the row. When the lamp is held close he murmurs, in his own voice, "it'll be fine," and then her name. Corrin has DM+1 to find the right bloom, and the decision to cut the calyx or blast it is hers to make aloud. If Mbeki is Lost, he is walking toward the wash saying her name. If he is dead, his fob and a folded note written at 15:45 are on the body, and the note is for Corrin.
 
 **Who else is in there.** The pickup are not the only ones. One bloom holds a member of the tour group lost **12 days ago** (§2.22), thin and warm. Another holds a ranger Quill "relocated" last winter. Every bloom that is cut or lamped open raises the question of whether the table can carry them out. Leave nobody behind, or choose, and live with it.
 
@@ -136,21 +140,21 @@ Act III is where the practical skills pay off. Difficulties use the Core Ruleboo
 
 | Moment | Check | Difficulty | Built for it | Result |
 |---|---|---|---|---|
-| Convincing Gus Teller (§8.4) | Persuade | Average (8+); DM +2 with Pell's whiteboard | Corrin, Corvin, Tomas | He drives, or hands over the keys. |
+| Convincing Gus Teller (§8.4) | Persuade | Average (8+); DM +2 with Pell's whiteboard | Corvin, Yeva, Tomas | He drives, or hands over the keys. |
 | Starting and running a mole | Drive (mole) | Average (8+); Drive 0 at DM -2 | Dex | The dig begins. Failure stalls it 1D minutes. |
 | Replacing Lazarus's fan belt | Mechanic | Average (8+), 30 minutes | Dabney, Dex | A second mole. |
 | Spotting a void or old tunnel while digging (§8.5) | Recon or Drive (mole) | Average (8+) | Dex, Dabney | Avoids 2D damage to the mole. |
-| Surviving the warm pocket or gas seep (§8.5) | END or Survival | Average (8+) / Routine (6+) | Corvin | No damage, filters last. |
-| Finding the trapped crew (§8.6) | Recon or Investigate | Average (8+) | Dabney, Corrin | The tapping, the voice. |
+| Surviving the warm pocket or gas seep (§8.5) | END or Survival | Average (8+) / Routine (6+) | Corvin, Tomas | No damage, filters last. |
+| Finding the trapped crew (§8.6) | Recon or Investigate | Average (8+) | Yeva, Dabney, Tomas | The tapping, the voice. |
 | Stabilising Delacroix (§8.6) | Medic | Average (8+) | Yeva | No further damage. |
 | Breaching a void (§8.6) | Mechanic or Explosives | Difficult (10+) | Tomas | A way in, with a risk. Explosives is +2 AP. |
-| Finding the right bloom (§8.7) | Recon, Investigate or Electronics (sensors) | Average (8+) per row | Dabney, Corrin | The bloom with a living occupant. |
+| Finding the right bloom (§8.7) | Recon, Investigate or Electronics (sensors) | Average (8+) per row | Dabney, Yeva | The bloom with a living occupant. |
 | Opening a bloom quietly (§8.7) | Warm lamp | Difficult (10+) | any | Freed in 1D minutes, no AP. |
 | Bringing someone round (§8.7) | Medic | Average (8+) | Yeva | Awake in 1D rounds. |
 | Breaking a Wader's grapple (§8.7) | STR check | Average (8+) | Tomas | Free, or carried 6 m. |
-| Fighting off the grove | Gun Combat or Melee | Average (8+) | Tomas, Corvin, Dex | A Wader driven off, or the party carried out. |
-| Driving to the wash (§8.8) | Drive (wheel) | Average (8+) | Dex, Del | The ship before dawn. |
-| Talking down Voss (§8.8) | Persuade | Difficult (10+) | Corvin, Corrin | A stand-down. |
+| Fighting off the grove | Gun Combat or Melee | Average (8+) | Tomas, Corvin | A Wader driven off, or the party carried out. |
+| Driving to the wash (§8.8) | Drive (wheel) | Average (8+) | Dabney, Del | The ship before dawn. |
+| Talking down Voss (§8.8) | Persuade | Difficult (10+) | Corvin, Yeva | A stand-down. |
 | Lifting off (§8.8) | Pilot (spacecraft) | Routine (6+) / Average (8+) | Corrin | Airborne before 05:45. |
 
 **Rule of thumb:** in this act, every PC should have at least one turn in the Yard, the Dig, the Orchard or the Hatch where their sheet is the reason the scene works.

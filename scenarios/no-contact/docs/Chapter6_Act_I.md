@@ -62,7 +62,7 @@ The idling stranger is **Ansel Voss**, an Imperial Security Service operative un
 
 **What the PCs can do.**
 - **Watch him.** Recon (Average 8+) from a room or the lot. He is photographing the doors with a long lens. That is enough to know he is not lost.
-- **Approach unseen.** Stealth (Average 8+), Dex or Dabney. They reach the car and see the dash receiver's green glow and the long-lens camera on the seat. A fail means he sees them, says nothing, and drives to the far edge of the lot.
+- **Approach unseen.** Stealth (Average 8+), Dex. They reach the car and see the dash receiver's green glow and the long-lens camera on the seat. A fail means he sees them, says nothing, and drives to the far edge of the lot.
 - **Talk to him.** He plays "Hollis Brandt, equipment assessor" and bluffs. Investigate against his Deception 2, opposed, reveals the cover is thin. He does not know their faces but knows the cover names; a PC who uses theirs gets an amused nod.
 - **Take his kit.** The trunk case (Chapter 4, §4.6, Mechanic or Electronics Average 8+) holds weapons and armour for four. A discovered theft means he draws his pistol, drives off, and the gutwings (§6.4) catch him on the road. The kit stays in the wreck and is recoverable.
 - **Trade.** He wants the pickup's location and a promise to be left alone. Persuade or Deception (Difficult 10+) buys the kit before the attack, or trades it after the attack for his life.
@@ -124,21 +124,21 @@ Act I is where the PC sheets shine. Use this table to make sure every player get
 | Moment | Check | Difficulty | Built for it | Result |
 |---|---|---|---|---|
 | Traffic that does not stop (Chapter 2, §2.7) | Recon | Average (8+) | Dabney | Notices the pattern is wrong: right cars, wrong hours. |
-| Talking Cabo Marsh away (Chapter 4, §4.5) | Persuade or Deception | Average (8+); Difficult (10+) if he has already seen a TL10+ item | Corvin, Corrin, Tomas | He leaves, or he stays and asks to see a room. |
+| Talking Cabo Marsh away (Chapter 4, §4.5) | Persuade or Deception | Average (8+); Difficult (10+) if he has already seen a TL10+ item | Corvin, Dex, Tomas | He leaves, or he stays and asks to see a room. |
 | Intimidating without drawing | Persuade (Tomas's cover) | Average (8+) | Tomas | Marsh or the stranger backs off but remembers the face. |
-| Reading who is genuinely rattled in the lobby (Chapter 2, §2.12) | Insight | Average (8+) | Yeva | Names the one person who is performing calm. |
-| Getting the Ashworths or the owner talking | Carouse | Routine (6+) | Corrin | Del's CB gossip about shots and a bang, unprompted. |
+| Reading who is genuinely rattled in the lobby (Chapter 2, §2.12) | Science (psychology), Investigate or Deception | Average (8+) | Yeva | Names the one person who is performing calm. |
+| Getting the Ashworths or the owner talking | Carouse | Routine (6+) | Corrin, Dabney | Del's CB gossip about shots and a bang, unprompted. |
 | Noticing the dash receiver's TL12 glow in the sedan (Chapter 5, §5.1) | Electronics (comms) or Recon | Average (8+) | Dabney, Corrin | The car is not what it claims to be. |
-| The washboy's silver Terran coin (Chapter 4, §4.3) | Streetwise, Electronics or Science | Routine (6+) | Dabney, Dex | It is Solomani, TL10-minted, and not Jorjor money. |
-| Reaching the idling stranger's car unseen (§6.3) | Stealth | Average (8+) | Dex, Dabney | Reads the plate and the receiver without being seen. |
+| The washboy's silver Terran coin (Chapter 4, §4.3) | Streetwise, Electronics or Science | Routine (6+) | Dabney, Tomas | It is Solomani, TL10-minted, and not Jorjor money. |
+| Reaching the idling stranger's car unseen (§6.3) | Stealth | Average (8+) | Tomas, Dex | Reads the plate and the receiver without being seen. |
 | Opening the spy's trunk case (§6.3) | Mechanic or Electronics | Average (8+) | Dabney | The kit. |
 | Selling Voss on a trade (§6.3) | Persuade or Deception | Difficult (10+) | Corvin, Yeva | He trades the kit for the pickup's location. |
-| Seeing the shape against the sky (§6.4) | Recon | Average (8+) | Dabney, Dex | No surprise on the first dive. |
+| Seeing the shape against the sky (§6.4) | Recon | Average (8+) | Dabney, Tomas | No surprise on the first dive. |
 | Firing into the flight (§6.4) | Gun Combat | Average (8+) | Tomas, anyone with a rifle | A gutwing drops in a burst or two. |
 | Stabilising Voss after the dive (§6.4) | Medic | Average (8+) | Yeva | He lives and bargains. |
-| Reading the dead gutwing for the jacket scrap (§6.4) | Investigate or Medic | Average (8+) | Yeva, Corrin | Proof the pickup hit the Mass. |
+| Reading the dead gutwing for the jacket scrap (§6.4) | Investigate or Medic | Average (8+) | Yeva, Tomas | Proof the pickup hit the Mass. |
 | The stranger bolts, or the restaurant search turns into a chase (Chapter 2, §2.15) | Athletics (dexterity) | Average (8+) | Dex | Keeps up, or loses him in the dark. |
 | Pulling the cook's story out of him (Chapter 4, §4.3) | Persuade or Streetwise | Average (8+) | Corvin, Tomas | Four hikers, the road to "the Gut," a big tip. |
-| Holding a cover under pressure | Deception, opposed by the questioner's Investigate | Opposed | Dex, Corrin | Cover holds, or a fellow guest now doubts it. |
+| Holding a cover under pressure | Deception, opposed by the questioner's Investigate | Opposed | Dex, Corvin | Cover holds, or a fellow guest now doubts it. |
 
 **Rule of thumb:** every PC should make at least two meaningful rolls in Act I, and at least one of them should come from a skill that is not Persuade or Deception.

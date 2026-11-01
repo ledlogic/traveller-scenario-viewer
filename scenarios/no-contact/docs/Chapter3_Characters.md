@@ -11,9 +11,68 @@ All six guests, three room pairs, are here in one place. Every guest is a genuin
 
 Each player gets Page 1 (the surface bio and cover) and Page 2 (the secret objective, the item they carry and the tell). Two guests, Dabney and Tomas, also know something about the Reserve's armoury (Chapter 2, §2.29, Area 7) that the others do not.
 
-**Career timelines:** each guest has a career timeline built from the Core Rulebook (2022 update) career tables: Agent, Army, Citizen, Drifter, Entertainer, Rogue and Scout. Skills trace to a table roll, a rank bonus or basic training; benefits follow the mustering-out rules (one roll per term plus rank rolls, three Cash rolls at most). Dice outcomes were chosen to fit each pregen, not rolled. Insight and Religion are house skills, not on the Core tables.
+**Career timelines:** each guest has a career timeline, "life to date", built from the Core Rulebook (2022 update) career tables and the Solomani rules in Aliens of Charted Space Vol. 2 (chapter 11): Agent, Army, Citizen, Drifter, Entertainer, Marine and SolSec. All six were rolled with real dice, not chosen; the referee only picked assignments and skill tables. Every mishap ended its term with no skill roll and no Benefit roll, so some guests are thinner than their covers suggest. Skills trace to a table roll, a rank bonus, basic training, the group Skills Package or a Connection; benefits follow the mustering-out rules (one roll per term plus rank rolls, three Cash rolls at most). Insight is not a Core skill and no longer appears on any sheet. The combined timeline below shows all six lives side by side.
+
+**Short table:** at five or six players, play everyone. At four, drop Dex and Corrin; the core four are Corvin, Dabney, Yeva and Tomas. At three, also drop Tomas and play Corvin, Dabney and Yeva. Each sheet carries a **Table size** line with (3-4), (4) or (5-6). The dropped guests' roles are covered in play: the party must Persuade Gus Teller to run the mole (Chapter 8, §8.4), and Okafor-Brandt, if rescued, or Yeva's Pilot 0 on the autopilot lifts the ship (Chapter 8, §8.8). Tomas's kill-order objective and the Reserve armoury knowledge fall to Dabney, who already shares it.
 
 **Characteristics:** each guest has a full UPP (STR/DEX/END/INT/EDU/SOC) with standard MGT2e DMs shown inline. Standard DM table: 2 or less −2, 3–5 −1, 6–8 +0, 9–11 +1, 12–14 +2, 15 +3.
+
+
+### Group Skills Package: Investigator
+
+The group chose the **Investigator Skills Package** from the Core Rulebook (p. 50): Admin 1, Advocate 1, Deception 1, Electronics 1, Gun Combat 1, Investigate 1, Persuade 1, Stealth 1, Streetwise 1. The scenario is a night of investigation under pressure, so these skills are the ones the table will use. Each guest takes turns picking one item until all nine are taken, so three guests take a second skill. A skill a guest already has at level 1 is not raised; a skill they hold only at 0 becomes 1.
+
+| Round | Order | Pick | Taken by |
+|---|---|---|---|
+| 1 | 1 | Stealth 1 | Dex |
+| 1 | 2 | Gun Combat 1 | Tomas |
+| 1 | 3 | Investigate 1 | Corrin |
+| 1 | 4 | Persuade 1 | Yeva |
+| 1 | 5 | Streetwise 1 | Corvin |
+| 1 | 6 | Admin 1 | Dabney |
+| 2 | 7 | Deception 1 | Dex |
+| 2 | 8 | Electronics 1 | Tomas |
+| 2 | 9 | Advocate 1 | Corrin |
+
+### Connections ledger
+
+The Connections Rule: when two Travellers link an event in their histories, both gain one free skill of their choice at level 1. Each Traveller may take at most **two** free skills this way, and each connection must be with a **different** Traveller. A free skill cannot be Jack-of-all-Trades and cannot go above level 1. All six guests use both of their connections, in a ring, so each has two free skills and nobody has a third.
+
+| # | Pair | Their linked events | Free skills |
+|---|---|---|---|
+| 1 | Corvin and Yeva | Corvin's term 4 (Y1108-12): he befriends a corporate superior, gaining an Ally. Yeva's term 5 (Y1106-10): she covers for an acquaintance who could have been arrested. The acquaintance is that superior | Corvin Persuade 1; Yeva Science (psychology) 1 |
+| 2 | Yeva and Corrin | Yeva's term 4 (Y1102-06): a desk job organising monitor files. Corrin's term 2 (Y1104-08): SolSec recruits her as a monitor. Yeva's files are how she was found | Yeva Streetwise 1; Corrin Electronics (comms) 1 |
+| 3 | Corrin and Dex | Corrin's term 4 (Y1112-16): a Life Event, a relationship ends badly. Dex's term 2 (Y1112-16): severely injured on a survey crew's mole. She helped smuggle him out, and they have not spoken since | Corrin Pilot (spacecraft) 1; Dex Drive (mole) 1 |
+| 4 | Dex and Dabney | Dex's term 1 (Y1108-12): a friend betrays him. Dabney's term 9 (Y1110-14): a new Contact from the road. Dabney stood by him after the betrayal | Dex Mechanic 1; Dabney Stealth 1 |
+| 5 | Dabney and Tomas | Dabney's term 7 (Y1102-06): a gang harasses him. Tomas's term 4 (Y1101-05): a dangerous investigation. It was Tomas's investigation | Dabney Recon 1; Tomas Explosives 1 |
+| 6 | Tomas and Corvin | Tomas's term 5 (Y1105-09): above and beyond the call of duty. Corvin's term 3 (Y1104-08): the Party approves of him. Tomas's case pleased a Party official, who became Corvin's Contact | Tomas Admin 1; Corvin Gun Combat 1 |
+
+**Tally:** Corvin 2 (Yeva, Tomas), Yeva 2 (Corvin, Corrin), Corrin 2 (Yeva, Dex), Dex 2 (Corrin, Dabney), Dabney 2 (Dex, Tomas), Tomas 2 (Dabney, Corvin). Everyone has used both free skills, each with a different Traveller.
+
+### Combined timeline: all six lives to date
+
+| Year | Who | Event |
+|---|---|---|
+| Y1060 | Dabney | Born on Luzon |
+| Y1071 | Tomas | Born on Kraken |
+| Y1072 | Yeva | Born on Erech |
+| Y1078 | Corvin, Dabney | Corvin born on Turin. Dabney, 18, qualifies for Citizen (Worker) |
+| Y1082 | Corrin | Born on Pilgham |
+| Y1089 | Tomas | Fails Army, drafted into the Marines. Quarrels with an officer and is out by Y1093 |
+| Y1090 | Yeva, Dex, Dabney | Yeva, 18, joins SolSec as an Administrator. Dex born on Gramercy. Dabney leaves Citizen for Drifter (Wanderer) |
+| Y1093 | Tomas | Drafted as an Agent (law enforcement) |
+| Y1096 | Corvin | Joins SolSec as a Secret Agent. His cover is blown in Y1100 |
+| Y1098 | Dabney | A Drifter mishap ends that career. Returns to Citizen (Worker) |
+| Y1100 | Corrin, Corvin | Corrin, 18, becomes a journalist. Corvin works as a SolSec Field Agent |
+| Y1104 | Corrin, Corvin | Corrin is ruined by a scandal, drafted into the Army and recruited as a SolSec monitor. Corvin leaves SolSec for Citizen (Corporate) and gains a Party official as a Contact in Y1106 |
+| Y1108 | Dex | Leaves home at 18 and becomes a Drifter. A friend betrays him in Y1111 |
+| Y1110 | Yeva, Dabney | Yeva's last SolSec term (Y1110-14). Dabney's last Worker term (Y1110-14) |
+| Y1112 | Corrin, Dex, Corvin | Corrin's last Army term. Dex is severely injured on a mole crew. Corvin runs a front company that the authorities investigate |
+| Y1113 | Tomas, Corvin | Tomas leaves the force and is hired by SolSec as muscle. Corvin begins deep-cover work for SolSec |
+| Y1114 | Dabney, Yeva | Dabney settles at the motel and becomes "the bulb man". Yeva leaves SolSec's career and begins her readings |
+| Y1115 | Dabney, Dex | SolSec folds Dabney into its courier network. A SolSec handler sews a beacon into Dex's jacket |
+| Y1116, day 132 | all | Emperor Strephon is assassinated. The news has not reached Jorjor |
+| Y1116, day 242 to 245 | all | Corrin (242), Yeva (242), Corvin (243), Tomas (244) and Dex (245) arrive near Motel Yermo. Dabney is already there. Tonight is day 245 |
 
 ---
 
@@ -25,43 +84,53 @@ Each player gets Page 1 (the surface bio and cover) and Page 2 (the secret objec
 
 ![Corvin Danh](img/corvin-danh.webp)
 
+**Table size:** (3-4) core. Keep him at any table. He holds the rendezvous protocol and is the only Admin 1 for Form 14-R (Chapter 7, §7.7), and he has Gun Combat 1 and Persuade 1.
+
 SolSec sleeper, three years deep-cover running a fringe religious front as an intelligence-gathering and money-laundering operation.
 
 **Age:** 38
 
-**UPP:** 677899 *(STR 6 (0), DEX 7 (0), END 7 (0), INT 8 (0), EDU 9 (+1), SOC 9 (+1))*
+**UPP:** 899796 *(STR 8 (0), DEX 9 (+1), END 9 (+1), INT 7 (0), EDU 9 (+1), SOC 6 (0))*
+
+**Homeworld:** Turin (Denebola, Alpha Crucis), Racial Solomani.
 
 **Recent history, how they got here:** Arrived two days ago (day 243) via a hired local driver, paid in advance in cash and given no reason to return. The driver dropped Corvin at the highway turnoff and continued on toward the regional town without looking back.
 
 **Skills:**
 
 - Admin 1
+- Advocate 0
+- Art 0
+- Broker 1
 - Deception 1
-- Melee 0
-- Melee (unarmed) 1
-- Persuade 2
-- Religion 0
-- Religion (SolSec front) 2
+- Diplomat 1
+- Electronics 0
+- Electronics (computers) 1
+- Gun Combat 1
+- Leadership 0
+- Persuade 1
 - Streetwise 1
-- Survival 1
+- Survival 0
+- Vacc Suit 0
 
-**Practical skills:** Running the front's books taught him Admin, and the cult's desert retreats taught him Survival.
+**Practical skills:** Running the front's books taught him Admin and Broker, and a Turin childhood taught him the desert and the dome.
 
+**Contacts:** Ally (the superior who took him under their wing in the corporation, Y1111), Ally (mustering-out benefit), Contact (a mid-level Solomani Party official, Y1106), Enemy (the criminal gang that ruined his life, Y1098), Enemy (a SolSec agent who wants him dead, Y1103).
 
-**Career timeline (Agent (Intelligence) 2 terms, Citizen (Corporate) 2 terms, Drifter (Wanderer) 1 term, age 18 to 38):** *Level 0 skills from basic training that are not on the sheet (Drive, Investigate, Flyer, Recon, Gun Combat) are omitted. Religion is a house skill, granted by the referee. Rules from the Core Rulebook (2022 update): one skill roll per term, plus one extra roll and any rank bonus on each successful advancement; one benefit roll per term plus rank bonus rolls (rank 1-2 gives 1, rank 3-4 gives 2); at most three Cash rolls in total. Final UPP shown on the sheet is after personal development, benefits and aging.*
+**Career timeline (SolSec Secret Agent 1 term, SolSec Field Agent 1 term, Citizen (Corporate) 3 terms, age 18 to 38):** *Built with the Core Rulebook (2022 update) and the Solomani rules in Aliens of Charted Space Vol. 2 (chapter 11). All dice were rolled, not chosen. Background skills (3 + EDU DM = 4) are Admin, Art, Survival and Vacc Suit at 0. Basic training came in his first career, with Citizen (Corporate) as the cover career, and gave the six Corporate table skills at 0. A failed survival roll ends the term in a mishap with no skill roll and no Benefit roll. Ageing rolls start at the end of term 4 (2D minus total terms).*
 
 | Year | Age | Event | Skills |
 |---|---|---|---|
-| Y1078 | 0 | Born on a Rim world with a strong local religious tradition. Background skills (3 + EDU DM = 4) are not on the sheet | Background |
-| Y1096 | 18 | Qualifies for Agent (INT 6+, passed). Basic training at a Confederation security service | Streetwise 0, Drive 0, Investigate 0, Flyer 0, Recon 0, Gun Combat 0 |
-| Y1096-1100 | 18-22 | Term 1. Advancement succeeds, rank 1 | Persuade 1 (Intelligence table); rank 1 bonus Deception 1; extra roll Persuade 2 |
-| Y1100-04 | 22-26 | Term 2. Street-level informant work | Streetwise 1 (Service Skills) |
-| Y1104-08 | 26-30 | Term 3. Second career: Citizen (Corporate), qualification EDU 5+ with DM-1 passed. Basic training as a manager | Melee 0 (one service skill at level 0); Admin 1 (Corporate table) |
-| Y1108-12 | 30-34 | Term 4. Runs the books for a front company. First aging roll | Melee (unarmed) 1 (Service Skills) |
-| Y1112-16 | 34-38 | Term 5. Third career: Drifter (Wanderer), automatic entry. SolSec selects him as a deep-cover sleeper. One year of preparation, then three years running the fringe religious front (Y1113-16), including desert retreats. Memorizes the emergency rendezvous protocol | Survival 0 (basic training); Survival 1 (Wanderer table); Religion (SolSec front) 2 (house skill, from the front) |
+| Y1078 | 0 | Born on Turin, Racial Solomani (background roll 7). UPP 899796 | Admin 0, Art 0, Survival 0, Vacc Suit 0 |
+| Y1096 | 18 | Qualifies for SolSec (INT 6+, rolled 6). Assignment: Secret Agent, cover career Citizen (Corporate). Basic training | Advocate 0, Admin 0, Broker 0, Electronics (computers) 0, Diplomat 0, Leadership 0 |
+| Y1096-1100 | 18-22 | Term 1. Survival fails (rolled 6, DM-1 for cover, needs 6+). Mishap 2: a criminal gang ruins his life. Cover blown, so he must continue in SolSec | Enemy (gang) |
+| Y1100-04 | 22-26 | Term 2. SolSec Field Agent, automatic entry. Survival fails (rolled 3, needs 7+). Mishap 5: he learns something he should not know | Enemy (SolSec agent), Deception 1 |
+| Y1104-08 | 26-30 | Term 3. Citizen (Corporate), qualification EDU 5+ with DM-2 for two previous careers (rolled 6, total 5, passed). Survives. Life Event (Solomani Life Events table, 9): The Party Approves, and he takes a Contact who is a mid-level Party official | Electronics (computers) 1 (Corporate table) |
+| Y1108-12 | 30-34 | Term 4. Survives. Event: befriends a superior and gains an Ally. Advancement succeeds, rank 1. First ageing roll (6 + 2 = 8, minus 4 = 4): no effect | Diplomat 1 (event); Admin 1 (Corporate table); Broker 1 (extra roll for promotion) |
+| Y1112-16 | 34-38 | Term 5. Runs the books for a front company on the fringe. Survival fails (rolled 4, needs 6+). Mishap 4: the front is investigated by the planetary authorities. He refuses to cooperate and keeps an Ally. SolSec recruits him as a deep-cover sleeper (Y1113-16). Memorizes the emergency rendezvous protocol. Ageing roll (2 + 4 = 6, minus 5 = 1): no effect | None (mishap term) |
 | Y1116, day 243 | 38 | Arrives at Motel Yermo via a hired local driver, paid in cash |  |
 | Y1116, day 245 | 38 | Tonight. |  |
-| Mustering out | | 6 benefit rolls. Agent (2 terms + 1 for rank 1): Cash Cr10,000 and Cr7,500, Other SOC +1. Citizen (2 terms): Cash Cr10,000, Other Ally. Drifter (1 term): Other Contact. Cash total Cr27,500 (3 cash rolls) | |
+| Mustering out | | 3 benefit rolls (terms 3 and 4, plus 1 for rank 1). Cash Cr2,000 (roll 1), Other Ally (roll 2), Other Ship Share (roll 1). Cash total Cr2,000 | |
 
 **Gear:** TL10 short-range burst transmitter disguised as a prayer pendant; TL11 chemical truth-suppressant disguised as "sacrament" wine.
 
@@ -93,47 +162,65 @@ Known only to this player until revealed at the table; this is the content of th
 
 ![Dabney Kroll](img/dabney-kroll.webp)
 
+**Table size:** (3-4) core. Keep him at any table. He is the best technician (Electronics (comms) 4, Mechanic 2), fixes the *Gravy Train*, reads the highway traffic and knows the armoury.
+
 Low-level courier and lookout, useful specifically because he's dismissed as harmless local color. Has run message drops through this motel for over a year.
 
 **Age:** 56
 
-**UPP:** 878654 *(STR 8 (0), DEX 7 (0), END 8 (0), INT 6 (0), EDU 5 (-1), SOC 4 (-1))*
+**UPP:** 338B66 *(STR 3 (-1), DEX 3 (-1), END 8 (0), INT 11 (+2), EDU 6 (0), SOC 6 (0))*
+
+**Homeworld:** Luzon (0231, D420400-7, De Ni Po), a poor Solomani desert world. Racial Solomani.
 
 **Recent history, how they got here:** Not a one-way ride tonight, Dabney has lived motel-adjacent, doing local odd jobs, for over a year. He was folded into SolSec's courier network without ever having to travel anywhere new; tonight he's simply on shift, the same as any other night.
 
 **Skills:**
 
+- Admin 1
+- Animals 0
+- Carouse 0
+- Deception 1
+- Drive 1
 - Electronics 0
-- Electronics (comms) 1
+- Electronics (comms) 4
+- Electronics (computers) 3
+- Electronics (sensors) 2
 - Engineer 0
 - Engineer (power) 1
-- Mechanic 1
-- Recon 2
+- Mechanic 2
+- Profession 0
+- Profession (technician) 1
+- Recon 1
+- Science 0
+- Science (physics) 1
 - Stealth 1
 - Streetwise 2
 
-**Practical skills:** Thirty years of keeping failing radios and truck engines alive on the cheap gave him Mechanic and Engineer (power).
+**Practical skills:** Thirty-plus years of keeping failing radios, sensor rigs and truck engines alive on the cheap gave him Electronics, Mechanic and Engineer (power). The bulb man's best trick is that nobody ever thinks to ask what he can actually do.
 
+**Contacts:** Ally (the shift superior who vouched for him in the Worker years, Y1084), Ally (mustering-out benefit, Worker), Ally (mustering-out benefit, Drifter), Contact (a new face from the road, Y1112), Enemy (a gang or corrupt official from the Drifter years, Y1098), Enemy (a gang that harassed him, Y1102).
 
-**Career timeline (Citizen (Worker) 3 terms, Drifter (Wanderer) 5 terms, age 18 to 50, then odd jobs):** *Level 0 skills from basic training that are not on the sheet (Drive, Profession, Science, Deception, Survival) are omitted. Rules from the Core Rulebook (2022 update): one skill roll per term, plus one extra roll and any rank bonus on each successful advancement; one benefit roll per term plus rank bonus rolls (rank 1-2 gives 1, rank 3-4 gives 2); at most three Cash rolls in total. Final UPP shown on the sheet is after personal development, benefits and aging.*
+**Career timeline (Citizen (Worker) 7 terms, Drifter (Wanderer) 2 terms, age 18 to 54, then odd jobs):** *Built with the Core Rulebook (2022 update) and the Solomani rules in Aliens of Charted Space Vol. 2 (chapter 11). All dice were rolled, not chosen. Background skills (3 + EDU DM = 3) are Animals, Carouse and Streetwise at 0. Basic training (first career only) gave the six Worker table skills at 0. Skill levels cap at 4 in creation. A failed survival roll ends the term in a mishap with no skill roll and no Benefit roll. Ageing rolls start at the end of term 4 (2D minus total terms). He returned to Citizen (Worker) in term 6 with DM-2 on qualification for two previous careers and kept his rank.*
 
 | Year | Age | Event | Skills |
 |---|---|---|---|
-| Y1060 | 0 | Born on a Rim world, poor and noisy. Background skills (3 + EDU DM = 2) are not on the sheet | Background |
-| Y1078 | 18 | Qualifies for Citizen (EDU 5+ with the EDU DM, passed). Worker assignment. Basic training from the Worker table | Drive 0, Mechanic 0, Electronics 0, Engineer 0, Profession 0, Science 0 |
-| Y1078-82 | 18-22 | Term 1. Fixes failing radios for pay | Electronics (comms) 1 (Worker table) |
-| Y1082-86 | 22-26 | Term 2. Keeps portable generators and pumps alive | Engineer (power) 1 (Worker table) |
-| Y1086-90 | 26-30 | Term 3. Repair work on trucks and rail rigs | Mechanic 1 (Worker table) |
-| Y1090-94 | 30-34 | Term 4. Second career: Drifter (Wanderer), automatic entry. One service skill at level 0. First aging roll | Recon 0; Recon 1 (Wanderer table) |
-| Y1094-98 | 34-38 | Term 5. Learns to spot trouble on the road | Recon 2 (Wanderer table) |
-| Y1098-1102 | 38-42 | Term 6. Learns to stay out of sight | Stealth 1 (Wanderer table) |
-| Y1102-06 | 42-46 | Term 7. Knows every bar and back door on his circuit | Streetwise 1 (Wanderer table) |
-| Y1106-10 | 46-50 | Term 8. The man who is on everyone's porch | Streetwise 2 (Wanderer table) |
-| Y1110-14 | 50-54 | Odd jobs across the Rim, no career term | None |
+| Y1060 | 0 | Born on Luzon, a poor desert world, Racial Solomani (background roll 11). UPP 669B66 before ageing | Animals 0, Carouse 0, Streetwise 0 |
+| Y1078 | 18 | Qualifies for Citizen (EDU 5+, rolled 8). Worker assignment. Basic training | Drive 0, Mechanic 0, Electronics 0, Engineer 0, Profession 0, Science 0 |
+| Y1078-82 | 18-22 | Term 1. Survives, promoted to rank 1. Event: advanced training, EDU 10+ check fails | Science (physics) 1, Engineer (power) 1 |
+| Y1082-86 | 22-26 | Term 2. Survives. Event: befriends a superior, gains an Ally and takes DM+4 on advancement. Promoted to rank 2 Technician | Profession (technician) 1 (rank bonus and table); Electronics (comms) 1 |
+| Y1086-90 | 26-30 | Term 3. Survives. Event: political upheaval, chooses Streetwise and passes. DM+2 on advancement, promoted to rank 3 | Streetwise 1; Electronics (comms) 3 |
+| Y1090-94 | 30-34 | Term 4. Second career: Drifter (Wanderer), automatic entry. Survives. Event: life on the edge. First ageing roll (3 minus 4 = -1): STR and DEX each lose 1. Promoted to rank 1 | Recon 0 (one service skill); Electronics (comms) 4 (event); Streetwise 1 (rank bonus, already held); Deception 1, Drive 1 |
+| Y1094-98 | 34-38 | Term 5. Survival fails. Mishap: runs afoul of a gang or corrupt official, gains an Enemy. Ageing roll (7 minus 5 = 2): no effect | None (mishap term) |
+| Y1098-1102 | 38-42 | Term 6. Back to Citizen (Worker), qualification passes. Survives, no promotion. Event: computer-operator work. Ageing roll (8 minus 6 = 2): no effect | Electronics (computers) 1 (event, in place of Engineer); Mechanic 1 |
+| Y1102-06 | 42-46 | Term 7. Survives. Event: disaster, rolls the Mishap table without being ejected, a gang harasses him and he gains an Enemy. Promoted to rank 4 Craftsman. Ageing roll (9 minus 7 = 2): no effect | Mechanic 2 (Mechanic 1 rank bonus already held); Electronics (computers) 2 |
+| Y1106-10 | 46-50 | Term 8. Survives. Event: learns a corporate secret and profits from it, DM+1 on one Worker Benefit roll, Streetwise +1. Promoted to rank 5. Ageing roll (6 minus 8 = -2): STR, DEX and END each lose 1 | Streetwise 2; Electronics (computers) 3, Electronics (sensors) 1 |
+| Y1110-14 | 50-54 | Term 9. Survives. Event: Life Event, new Contact. No promotion. Ageing roll (8 minus 9 = -1): STR and DEX each lose 1 | Electronics (sensors) 2 |
 | Y1114 | 54 | Settles near Motel Yermo and becomes "the bulb man" |  |
 | Y1115 | 55 | SolSec folds him into its courier network without his leaving the motel. Has run drops for over a year |  |
 | Y1116, day 245 | 56 | Tonight. |  |
-| Mustering out | | 8 benefit rolls, no ranks. Citizen (3 terms): Cash Cr5,000 and Cr10,000, Other Ally. Drifter (5 terms): Cash Cr3,000, Other Contact, Ally, EDU +1, Ship Share. Cash total Cr18,000 (3 cash rolls) | |
+| Mustering out | | 12 benefit rolls (Worker: 7 terms + 3 for rank 5, DM+1 on every Worker roll; Drifter: 1 full term + 1 for rank 1). Cash (3 rolls, all Worker): Cr10,000, Cr5,000, Cr10,000 = Cr25,000. Other, Worker: Gun, Ally, Two Ship Shares, Terran Adventurers' Society membership, Two Ship Shares, a second TAS result that gives Two Ship Shares instead, Two Ship Shares. Other, Drifter: Weapon, Ally. Ship Shares total 8. Pension: 7 Worker terms, Cr14,000 a year, halved to Cr7,000 under the Solomani rules (collectable at Class A or B starports in the Confederation) | |
+
+**Benefits in play:** Gun and Weapon as his gear. Eight Ship Shares (not enough to buy a ship alone, so they pay Cr1,000 each in annual dividends, Cr8,000 a year). Terran Adventurers' Society membership (Racial Solomani) with the Rising Phoenix News Service subscription.
 
 **Gear:** TL10 audio bug kit disguised as spare radio tubes; knows every physical hiding spot in and around the motel grounds.
 
@@ -167,41 +254,61 @@ Known only to this player until revealed at the table; this is the content of th
 
 ![Yeva Kessler](img/yeva-kessler.webp)
 
+**Table size:** (3-4) core. Keep her at any table. She is the only guest with Medic 1, and has Investigate 3 and Pilot (small craft) 3.
+
 Runs a genuine cold-reading operation as cover for debriefing nervous assets, people talk to psychics. Skilled interrogator disguised as a mystic.
 
 **Age:** 44
 
-**UPP:** 566899 *(STR 5 (-1), DEX 6 (0), END 6 (0), INT 8 (0), EDU 9 (+1), SOC 9 (+1))*
+**UPP:** 34588A *(STR 3 (-1), DEX 4 (-1), END 5 (-1), INT 8 (0), EDU 8 (0), SOC 10 (+1))*
+
+**Homeworld:** Erech (0138, C844577-9, Ag Ga Ni), an agricultural garden world. Racial Solomani.
 
 **Recent history, how they got here:** Arrived three nights ago by regional bus, ticket paid one-way in cash, claiming to be "between engagements" as a traveling performer, true enough as a cover story to hold up to casual questioning.
 
 **Skills:**
 
-- Deception 2
-- Insight 2
-- Investigate 1
+- Admin 1
+- Advocate 1
+- Deception 1
+- Diplomat 1
+- Drive 0
+- Electronics 0
+- Electronics (comms) 1
+- Electronics (computers) 2
+- Flyer 0
+- Gun Combat 0
+- Investigate 3
+- Leadership 1
 - Medic 1
-- Persuade 2
+- Persuade 1
+- Pilot 0
+- Pilot (small craft) 3
+- Profession 0
+- Science 0
+- Science (psychology) 1
+- Streetwise 1
 
-**Practical skills:** Years of "readings" for the sick and the grieving left her with real first-aid training (Medic).
+**Practical skills:** Years of SolSec desk work taught her to read files and people, and her two years of "readings" for the sick and the grieving left her with real first-aid training (Medic).
 
+**Contacts:** Ally (a monitor she once recruited, Y1096), Ally (an acquaintance she covered for, Y1092), Ally (an acquaintance she covered for, Y1107), Contact (a police officer from a joint operation, Y1100).
 
-**Career timeline (Agent (Intelligence), 6 terms, age 18 to 42, then 2 years as the medium):** *Level 0 skills from basic training that are not on the sheet (Streetwise, Drive, Flyer, Recon, Gun Combat) are omitted. Insight is a house skill, not on the Core tables, granted by the referee. Rules from the Core Rulebook (2022 update): one skill roll per term, plus one extra roll and any rank bonus on each successful advancement; one benefit roll per term plus rank bonus rolls (rank 1-2 gives 1, rank 3-4 gives 2); at most three Cash rolls in total. Final UPP shown on the sheet is after personal development, benefits and aging.*
+**Career timeline (SolSec Administrator 6 terms, age 18 to 42, then 2 years as the medium):** *Built with the Core Rulebook (2022 update) and the Solomani rules in Aliens of Charted Space Vol. 2 (chapter 11). All dice were rolled, not chosen; the referee only picked assignments and skill tables. A failed survival roll ends the term in a mishap with no skill roll and no Benefit roll. Skill levels cap at 4 in creation. Ageing rolls start at the end of term 4 (2D minus total terms). The Skills Package and Connections skills in §3.1 are added on top of the skills shown in the table.*
 
 | Year | Age | Event | Skills |
 |---|---|---|---|
-| Y1072 | 0 | Born on a Rim world. Background skills (3 + EDU DM = 4) are not on the sheet | Background |
-| Y1090 | 18 | Qualifies for Agent (INT 6+, passed). Basic training at a Confederation security service. Intelligence assignment | Streetwise 0, Drive 0, Investigate 0, Flyer 0, Recon 0, Gun Combat 0 |
-| Y1090-94 | 18-22 | Term 1. Advancement (INT 5+) succeeds, rank 1 | Persuade 1 (Intelligence table); rank 1 bonus Deception 1; extra roll Persuade 2 |
-| Y1094-98 | 22-26 | Term 2. Advancement succeeds, rank 2 (Field Agent). Field medic duty (EDU 8+ Advanced Education) | Medic 1; rank 2 bonus Investigate 1; extra roll Deception 2 |
-| Y1098-1102 | 26-30 | Term 3. Personal development roll. No advancement attempted | DEX +1 |
-| Y1102-06 | 30-34 | Term 4. Personal development roll. First aging roll | INT +1 |
-| Y1106-10 | 34-38 | Term 5. Personal development roll | END +1 |
-| Y1110-14 | 38-42 | Term 6. Runs informants under theatrical cover. Personal development roll. Mustered out at rank 2 | END +1 |
-| Y1114-16 | 42-44 | SolSec contract work. Two years of real readings for the sick and grieving. Insight 2 (house skill) comes from these years | Insight 2 (house skill) |
+| Y1072 | 0 | Born on Erech, Racial Solomani (background roll 10). Background skills (3 + EDU DM = 3) | Medic 0, Science 0, Profession 0 |
+| Y1090 | 18 | Qualifies for SolSec (INT 6+, rolled 12). Administration assignment, a desk officer and analyst. Basic training | Electronics (comms) 0, Drive 0, Flyer 0, Gun Combat 0, Investigate 0, Electronics (computers) 0 |
+| Y1090-94 | 18-22 | Term 1. Survives. Event: an acquaintance says something that could get them arrested, and she covers for them, gaining an Ally. Advancement fails (5 against INT 7+) | Investigate 1 (Administration table) |
+| Y1094-98 | 22-26 | Term 2. Survives. Event: emotionally involved with a monitor she recruited, gains an Ally, DM-1 to her next advancement. Advancement fails (5 - 1 = 4) | Pilot (small craft) 1 (Advanced Education table) |
+| Y1098-1102 | 26-30 | Term 3. Survives. Event: joint operation with local police, gains a police Contact, EDU 8+ passed (rolled 10). Advancement succeeds (10). Rank 1 Lieutenant | Investigate 2 (event); Electronics (computers) 1 (rank bonus); Diplomat 1 and Admin 1 (Administration table, two rolls) |
+| Y1102-06 | 30-34 | Term 4. Survives. Event: desk job organising monitor files, check Investigate 8+ fails (6). Advancement succeeds (10). Rank 2 Captain. First aging roll (4 minus 4 = 0): DEX down by 1 | Leadership 1 (rank bonus); Medic 1; Electronics (comms) 1 (Advanced Education table, two rolls) |
+| Y1106-10 | 34-38 | Term 5. Survives. Event: an acquaintance says something that could get them arrested, and she covers for them again (Ally). Advancement succeeds (7). Rank 3 Major. Aging roll (10 minus 5 = 5): no effect | Deception 1 (rank bonus); Investigate 3; Electronics (computers) 2 (Administration table, two rolls) |
+| Y1110-14 | 38-42 | Term 6. Survives. Event: risky paramilitary operation, INT 7+ passed (rolled 7), Pilot (small craft) +1. Advancement succeeds (10). Rank 4 Lieutenant Colonel (SOC 6 rises to 9). Aging roll (7 minus 6 = 1): no effect | Pilot (small craft) 2 (event) and 3 (table); Advocate 1 |
+| Y1114-16 | 42-44 | SolSec contract work: two years of real readings for the sick and grieving, a cover that doubles as debriefing. No career term |  |
 | Y1116, day 242 | 44 | Arrives at Motel Yermo by regional bus, one-way cash ticket |  |
 | Y1116, day 245 | 44 | Tonight. |  |
-| Mustering out | | 7 benefit rolls (6 terms + 1 for rank 2). Cash (3 rolls): Cr25,000, Cr10,000, Cr5,000 = Cr40,000. Other: INT +1, SOC +1, Scientific Equipment (the scrying-pendant micro-recorder), Ship Share | |
+| Mustering out | | 8 benefit rolls (6 terms + 2 for rank 4). Cash (3 rolls, SolSec table): Cr2,000, Cr25,000, Cr1,000 = Cr28,000. Other: SOC +1 (SOC 9 to 10), Weapon x3, Scientific Equipment (the scrying-pendant micro-recorder). Pension: 6 terms, Cr12,000 a year at the full SolSec rate | |
 
 **Gear:** TL10 micro-recorder in a "scrying" pendant; genuinely excellent at reading people, which she attributes to "the gift" as cover for tradecraft.
 
@@ -233,36 +340,45 @@ Known only to this player until revealed at the table; this is the content of th
 
 ![Dex](img/dex.webp)
 
+**Table size:** (5-6) only. Drop him at four or fewer. the party must Persuade Gus Teller to drive the mole (Chapter 8, §8.4), and the asset thread goes to Voss.
+
 Youngest asset in the cell, a genuine defector-in-training being smuggled out, not a hardened agent, an asset in the truest sense: someone SolSec is retrieving.
 
 **Age:** 26
 
-**UPP:** 697654 *(STR 6 (0), DEX 9 (+1), END 7 (0), INT 6 (0), EDU 5 (-1), SOC 4 (-1))*
+**UPP:** 3A8865 *(STR 3 (-1), DEX 10 (+1), END 8 (0), INT 8 (0), EDU 6 (0), SOC 5 (-1))*
+
+**Homeworld:** Gramercy (0405, B430525-8, De Ni Po), an Imperial desert world. Imperial human, so none of the Solomani rules apply to him.
 
 **Recent history, how they got here:** Hitched the last fifty kilometers in the back of a produce truck, dropped off at the highway turnoff with nothing but a jacket and a rehearsed story about running from a bad home; a story that happens to be mostly true.
 
 **Skills:**
 
 - Athletics 0
+- Deception 1
 - Drive 0
 - Drive (mole) 1
-- Mechanic 0
+- Mechanic 1
+- Recon 0
+- Seafarer 0
 - Stealth 1
 - Streetwise 0
+- Survival 0
 
-**Practical skills:** A season on a survey crew's mole before he ran gave him Drive (mole) and a little Mechanic.
+**Practical skills:** A season on a survey crew's mole before the crew was ambushed gave him Drive (mole), and a drifter he met on the road taught him to keep an engine alive.
 
+**Contacts:** Enemy (a friend who betrayed him in Y1111, he never saw it coming).
 
-**Career timeline (Drifter (Wanderer), 2 terms, age 18 to 26):** *Level 0 skills from basic training that are not on the sheet (Deception, Recon, Survival) are omitted. Rules from the Core Rulebook (2022 update): one skill roll per term, plus one extra roll and any rank bonus on each successful advancement; one benefit roll per term plus rank bonus rolls (rank 1-2 gives 1, rank 3-4 gives 2); at most three Cash rolls in total. Final UPP shown on the sheet is after personal development, benefits and aging.*
+**Career timeline (Drifter (Wanderer), 2 terms, age 18 to 26):** *Built with the Core Rulebook (2022 update) and the Solomani rules in Aliens of Charted Space Vol. 2 (chapter 11). All dice were rolled, not chosen; the referee only picked assignments and skill tables. A failed survival roll ends the term in a mishap with no skill roll and no Benefit roll. Skill levels cap at 4 in creation. Ageing rolls start at the end of term 4 (2D minus total terms). The Skills Package and Connections skills in §3.1 are added on top of the skills shown in the table.*
 
 | Year | Age | Event | Skills |
 |---|---|---|---|
-| Y1090 | 0 | Born on a Rim world in a bad home. Background skills (3 + EDU DM = 2) | Athletics 0, Mechanic 0 |
+| Y1090 | 0 | Born on Gramercy in a bad home, poor. UPP 8A8865 before the injury. Background skills (3 + EDU DM = 3) | Athletics 0, Mechanic 0, Seafarer 0 |
 | Y1108 | 18 | Leaves the bad home and drifts into the Drifter career (automatic entry). Wanderer assignment. Basic training from the Wanderer table | Drive 0, Deception 0, Recon 0, Stealth 0, Streetwise 0, Survival 0 |
-| Y1108-12 | 18-22 | Term 1. A season on a survey crew's mole, among other casual jobs | Drive (mole) 1 (Wanderer table) |
-| Y1112-16 | 22-26 | Term 2. Lives unseen on the move and hides from people looking for him. In Y1115 a SolSec handler gives him a sewn-in beacon, with no explanation | Stealth 1 (Wanderer table) |
+| Y1108-12 | 18-22 | Term 1. Survival fails (rolled 4, needs END 7+). Mishap 5: a friend betrays him. With no Contacts or Allies, he is betrayed by someone he never saw coming and gains an Enemy. The Prisoner roll (4) is not a 2 | None (mishap term) |
+| Y1112-16 | 22-26 | Term 2. Back to Drifter. Survival fails again (rolled 4). Mishap 1: severely injured on a survey crew's mole, STR down by 5. In Y1115 a SolSec handler gives him a sewn-in beacon, with no explanation | None (mishap term) |
 | Y1116, day 245 | 26 | Hitches the last fifty kilometres in a produce truck and is dropped at the highway turnoff. Tonight. |  |
-| Mustering out | | 2 benefit rolls, no ranks. Cash Cr1,000, Other Contact | |
+| Mustering out | | No benefit rolls: both terms ended in mishaps | |
 
 **Gear:** TL10 concealed distress beacon sewn into a jacket lining, meant to be triggered only in genuine extremis.
 
@@ -294,44 +410,64 @@ Known only to this player until revealed at the table; this is the content of th
 
 ![Corrin Ashe](img/corrin-ashe.webp)
 
+**Table size:** (5-6) only. Drop her at four or fewer. Okafor-Brandt lifts the *Soft Landing* if rescued, otherwise Yeva or anyone with Pilot 0 makes the autopilot hop at Average (8+) (Chapter 8, §8.8), and her data chip and the Osei thread (Chapter 4, §4.7) are cut or handed to Yeva.
+
 SolSec courier, six years running low-level intel out of Imperial space under press credentials.
 
 **Age:** 34
 
-**UPP:** 676887 *(STR 6 (0), DEX 7 (0), END 6 (0), INT 8 (0), EDU 8 (0), SOC 7 (0))*
+**UPP:** 366887 *(STR 3 (-1), DEX 6 (0), END 6 (0), INT 8 (0), EDU 8 (0), SOC 7 (0))*
+
+**Homeworld:** Pilgham (0332, B54296A-B, Hi In Po), a crowded industrial world. Racial Solomani.
 
 **Recent history, how they got here:** Drove herself in a rented sedan from the regional town three days ago, on a plausible "chasing a story" pretext, then quietly arranged for a local contact to return the rental, leaving her without a vehicle from that point on.
 
 **Skills:**
 
+- Advocate 1
+- Art 0
 - Carouse 0
-- Deception 2
+- Deception 0
+- Drive 0
 - Electronics 0
 - Electronics (comms) 1
+- Explosives 2
+- Flyer 2
 - Investigate 1
-- Persuade 2
+- Language 0
+- Leadership 1
+- Mechanic 1
+- Persuade 0
 - Pilot 0
 - Pilot (spacecraft) 1
-- Streetwise 2
+- Profession 0
+- Profession (signals) 2
+- Recon 1
+- Steward 0
 
-**Practical skills:** Chasing stories by chartered courier hops taught her to fly one (Pilot (spacecraft)).
+**Practical skills:** Army signals work taught her Profession (signals), Flyer and a little Explosives, and her press credentials, left over from a short career in journalism, still open doors. Years of courier hops taught her to fly a ship.
 
+**Contacts:** Rival (Tav Mbeki, a former lover she ended things with at the dock in Y1114), SolSec handler (monitor programme).
 
-**Career timeline (Entertainer (Journalist) 3 terms, Scout (Courier) 1 term, age 18 to 34):** *Level 0 skills from basic training that are not on the sheet (Art, Drive, Steward, Vacc Suit) are omitted. Rules from the Core Rulebook (2022 update): one skill roll per term, plus one extra roll and any rank bonus on each successful advancement; one benefit roll per term plus rank bonus rolls (rank 1-2 gives 1, rank 3-4 gives 2); at most three Cash rolls in total. Final UPP shown on the sheet is after personal development, benefits and aging.*
+**SolSec monitor:** a covert monitor from Y1104, monitor rank 3. SolSec's quiet influence gave DM+1 on all her Army advancement rolls (her term 2 promotion needed it).
+
+**Career timeline (Entertainer (Journalist) 1 term, Army (Support) 3 terms, age 18 to 34):** *Built with the Core Rulebook (2022 update) and the Solomani rules in Aliens of Charted Space Vol. 2 (chapter 11). All dice were rolled, not chosen; the referee only picked assignments and skill tables. A failed survival roll ends the term in a mishap with no skill roll and no Benefit roll. Skill levels cap at 4 in creation. Ageing rolls start at the end of term 4 (2D minus total terms). The Skills Package and Connections skills in §3.1 are added on top of the skills shown in the table.*
 
 | Year | Age | Event | Skills |
 |---|---|---|---|
-| Y1082 | 0 | Born on a Rim world. Background skills (3 + EDU DM = 3): Carouse 0 and others not on the sheet | Background |
-| Y1100 | 18 | Qualifies for Entertainer (DEX or INT 5+, passed). Journalist assignment. Basic training from the Service Skills table | Art 0, Carouse 0, Deception 0, Drive 0, Persuade 0, Steward 0 |
-| Y1100-04 | 18-22 | Term 1. Advancement (INT 5+) succeeds, rank 1 (Freelancer) | Persuade 1 (Service Skills); rank 1 bonus Electronics (comms) 1; extra roll Deception 1 |
-| Y1104-08 | 22-26 | Term 2. Advancement succeeds, rank 2 (Staff Writer) | Persuade 2 (Service Skills); rank 2 bonus Investigate 1; extra roll Deception 2 |
-| Y1108-12 | 26-30 | Term 3. Advancement succeeds, rank 3. From Y1110 she runs low-level intel out of Imperial space under press credentials for SolSec | Streetwise 1 (Journalist table); extra roll Streetwise 2 |
-| Y1112-16 | 30-34 | Term 4. Second career: Scout (Courier), qualification INT 5+ with DM-1 passed. Shuttles messages and packages on chartered hops and learns to fly one herself | Pilot 0 (one service skill at level 0); Pilot (spacecraft) 1 (Courier table) |
+| Y1082 | 0 | Born on Pilgham, Racial Solomani (background roll 10). UPP 566887 before the injury. Background skills (3 + EDU DM = 3) | Electronics 0, Flyer 0, Language 0 |
+| Y1100 | 18 | Qualifies for Entertainer (INT 5+, rolled 8). Journalist assignment. Basic training | Art 0, Carouse 0, Deception 0, Drive 0, Persuade 0, Steward 0 |
+| Y1100-04 | 18-22 | Term 1. Survival fails (rolled 3, needs EDU 7+). Mishap 2: she is caught up in a scandal and her press career ends | None (mishap term) |
+| Y1104 | 22 | Tries for SolSec (INT 6+, rolled 4, DM-1 for a previous career, total 3) and fails. Submits to the Solomani Draft (1D = 2, Army). Chooses Support. One service skill at level 0 | Recon 0 |
+| Y1104-08 | 22-26 | Term 2. SolSec recruits her as a monitor at the start of the term. Survives. Event: thrown into a brutal ground war, fails the EDU 8+ check (rolled 6) and is injured: a missing limb, STR down by 2 | Flyer 1 (Support table) |
+| | | Advancement succeeds (6 + 1 monitor = 7 against EDU 7+). Rank 1 Lance Corporal, monitor rank 1 | Profession (signals) 1 (extra roll); Recon 1 (rank bonus) |
+| Y1108-12 | 26-30 | Term 3. Survives. Event: advanced training, EDU 8+ passed (rolled 9). Advancement succeeds (7 + 1 = 8). Rank 2 Corporal, monitor rank 2 | Flyer 2 (event); Explosives 1; Profession (signals) 2 (extra roll) |
+| Y1112-16 | 30-34 | Term 4. Survives. Event: Life Event (Solomani table 4), a Disastrous Relationship with Tav Mbeki, who becomes a Rival. Advancement succeeds (11 + 1 = 12). Rank 3 Lance Sergeant, monitor rank 3. First aging roll (8 minus 4 = 4): no effect | Mechanic 1; Explosives 2 (extra roll); Leadership 1 (rank bonus) |
 | Y1116, day 242 | 34 | Drives herself in a rented sedan from the regional town, "chasing a story". A local contact returns the rental |  |
 | Y1116, day 245 | 34 | Tonight. |  |
-| Mustering out | | 7 benefit rolls. Journalist (3 terms + 2 for rank 3): Cash Cr10,000, Cr10,000 and Cr40,000, Other Contact and SOC +1. Scout (1 term): Other INT +1. Cash total Cr60,000 (3 cash rolls) | |
+| Mustering out | | 6 benefit rolls (Army: 3 terms + 2 for rank 3, and 1 extra for monitor rank 3). Cash (3 rolls, Army table): Cr10,000, Cr20,000, Cr10,000 = Cr40,000. Other: Cybernetic Implant x2 (Army), Combat Implant (SolSec table). No pension (3 terms) | |
 
-**Gear:** TL10 data chip reader disguised as a light meter.
+**Gear:** TL10 data chip reader disguised as a light meter; three implants from mustering out (a TL10 prosthetic left arm, a TL10 enhanced eye and SolSec subdermal plates), none of which show at a glance.
 
 **Neural.AI image prompt:** A sharp-eyed woman in her 30s wearing a rumpled trench coat over a loud print blouse, a battered 1970s-style press camera slung around her neck, a notepad tucked in one hand. Leaning in a motel doorway with a knowing half-smile, sizing up the viewer. Warm, low motel signage light. Photorealistic, science fiction character portrait, no text, no logos.
 
@@ -351,6 +487,8 @@ Known only to this player until revealed at the table; this is the content of th
 
 **Carries:** The real data chip; the original leverage material on Osei.
 
+**Past, Tav Mbeki (Y1114):** Two years ago she ended a relationship with a man called Tav Mbeki, a SolSec breacher and engineer, and took the courier posting to get off the planet and away from him. He said "it'll be fine." She has not heard from him since. She does not yet know that he is on the pickup team. When his name turns up (the Gate ledger, the permit, a fob), she has DM+1 on any roll to find or reach him, and the choice about what to say to him is hers.
+
 ---
 
 ## 3.7: ROOM 3, GUEST 2, "MOB ENFORCER"
@@ -361,45 +499,62 @@ Known only to this player until revealed at the table; this is the content of th
 
 ![Big Tomas Reyes](img/tomas-reyes.webp)
 
+**Table size:** (4) at a four-player table. Keep him at four, drop him at three. His Gun Combat, Stealth 3 and Explosives 1 cover the Act I attack and the Act III breach, but Corvin has Gun Combat 1 and the armoury is also known to Dabney.
+
 Muscle and enforcement for the cell, genuinely capable of violence, kept in reserve unless the extraction goes wrong on the ground.
 
 **Age:** 45
 
-**UPP:** A79655 *(STR 10 (+1), DEX 7 (0), END 9 (+1), INT 6 (0), EDU 5 (-1), SOC 5 (-1))*
+**UPP:** B69732 *(STR 11 (+1), DEX 6 (0), END 9 (+1), INT 7 (0), EDU 3 (-1), SOC 2 (-2))*
+
+**Homeworld:** Kraken (0432, C57A587-B, Ni Wa), a water world with a rough waterfront. Racial Solomani (background roll 7, with SOC DM-2, total 5).
 
 **Recent history, how they got here:** Rode in as hired "muscle" on a legitimate- looking cargo delivery, the truck continuing on toward the starport after dropping Tomas at the motel with a single duffel bag, paperwork and all, a completely ordinary freight run to anyone who checked it.
 
 **Skills:**
 
+- Admin 1
+- Advocate 1
+- Athletics 0
+- Electronics 1
 - Explosives 1
-- Gun Combat 0
+- Gun Combat 1
 - Gun Combat (slug pistol) 1
+- Heavy Weapons 0
+- Investigate 1
 - Melee 0
-- Melee (unarmed) 2
-- Persuade 2
+- Melee (unarmed) 1
+- Persuade 1
+- Recon 1
+- Seafarer 0
+- Stealth 3
 - Streetwise 1
+- Tactics 0
+- Vacc Suit 0
 
-**Practical skills:** Years of hard collection work taught him Explosives, the loud way.
+**Practical skills:** Star marine boarding drills taught him to fight in close quarters, and years as a Confederation police detective taught him to move quietly for a big man, and to lean on people.
 
+**Contacts:** Rival (a Marine officer from his first term, Y1092), Contact (a street informant, Y1099).
 
-**Career timeline (Army (Support) 1 term, Rogue (Enforcer) 5 terms, age 18 to 42, then 3 years with SolSec):** *Level 0 skills from basic training that are not on the sheet (Drive or Vacc Suit, Athletics, Recon, Heavy Weapons) are omitted. Rules from the Core Rulebook (2022 update): one skill roll per term, plus one extra roll and any rank bonus on each successful advancement; one benefit roll per term plus rank bonus rolls (rank 1-2 gives 1, rank 3-4 gives 2); at most three Cash rolls in total. Final UPP shown on the sheet is after personal development, benefits and aging.*
+**Career timeline (Marine (Star Marine) 1 term, Agent (Law Enforcement) 5 terms, age 18 to 42, then 3 years with SolSec):** *Built with the Core Rulebook (2022 update) and the Solomani rules in Aliens of Charted Space Vol. 2 (chapter 11). All dice were rolled, not chosen; the referee only picked assignments and skill tables. A failed survival roll ends the term in a mishap with no skill roll and no Benefit roll. Skill levels cap at 4 in creation. Ageing rolls start at the end of term 4 (2D minus total terms). The Skills Package and Connections skills in §3.1 are added on top of the skills shown in the table.*
 
 | Year | Age | Event | Skills |
 |---|---|---|---|
-| Y1071 | 0 | Born on a Rim world with a rough waterfront. Background skills (3 + EDU DM = 2) are not on the sheet | Background |
-| Y1089 | 18 | Qualifies for Army (END 5+, passed). Support assignment. Basic training with a planetary army | Drive or Vacc Suit 0, Athletics 0, Gun Combat 0, Recon 0, Melee 0, Heavy Weapons 0 |
-| Y1089-93 | 18-22 | Term 1. Combat engineer and demolitions work | Explosives 1 (Support table) |
-| Y1093-97 | 22-26 | Term 2. Second career: Rogue (Enforcer), qualification DEX 6+ with DM-1 passed. Brawling work for a dockside crew. Advancement (STR 6+) succeeds, rank 1 | Streetwise 0 (one service skill at level 0); Melee (unarmed) 1 (Enforcer table); rank 1 bonus Persuade 1; extra roll Persuade 2 |
-| Y1097-1101 | 26-30 | Term 3. Collects debts for the boss | Melee (unarmed) 2 (Enforcer table) |
-| Y1101-05 | 30-34 | Term 4. Learns to carry a pistol. First aging roll | Gun Combat (slug pistol) 1 (Enforcer table) |
-| Y1105-09 | 34-38 | Term 5. Hard collection work | Streetwise 1 (Enforcer table) |
-| Y1109-13 | 38-42 | Term 6. Personal development roll | STR +1 |
-| Y1113-16 | 42-45 | Leaves the crew, hired by SolSec as muscle for the cell. Receives the forged Guarda Civil weapons permit |  |
+| Y1071 | 0 | Born on Kraken, Racial Solomani. UPP B79632 before aging. Background skills (3 + EDU DM = 2) | Athletics 0, Seafarer 0 |
+| Y1089 | 18 | Tries for Army (END 5+, +1 END DM, -2 SOC DM, rolled 3, total 2) and fails. Submits to the Draft (1D = 3, Marines, star marines only in the Confederation). Basic training, then the rank 0 bonus | Athletics 0, Vacc Suit 0, Tactics 0, Heavy Weapons 0, Gun Combat 0, Stealth 0; Gun Combat (slug pistol) 1 |
+| Y1089-93 | 18-22 | Term 1. Survival fails (rolled 4, +1 = 5, needs END 6+). Mishap 5: he quarrels with an officer and is driven out, gaining a Rival | None (mishap term) |
+| Y1093 | 22 | Tries for Rogue (DEX 6+, DM-1 for a previous career, rolled 5, total 4) and fails. Draft again (1D = 6, Agent (law enforcement)). One service skill at level 0 | Streetwise 0 |
+| Y1093-97 | 22-26 | Term 2. Survives. Event: above and beyond the call of duty, DM+2 to advancement. Advancement succeeds. Rank 1 Corporal | Recon 1 and Stealth 1 (Law Enforcement table, two rolls); Streetwise 1 (rank bonus) |
+| Y1097-1101 | 26-30 | Term 3. Survives. Event: a network of contacts, gains 1 Contact (D3). Advancement fails (3 against INT 6+) | Stealth 2 |
+| Y1101-05 | 30-34 | Term 4. Survives. Event: an investigation takes a dangerous turn, Streetwise 8+ passed (rolled 10), Persuade gained. Advancement succeeds (8). Rank 2 Sergeant. First aging roll (4 minus 4 = 0): DEX down by 1 | Persuade 1 (event); Investigate 1 and Melee (unarmed) 1 (Law Enforcement table, two rolls) |
+| Y1105-09 | 34-38 | Term 5. Survives. Event: above and beyond the call of duty, DM+2. Advancement succeeds. Rank 3 Detective. Aging roll (7 minus 5 = 2): no effect | Stealth 3 and Advocate 1 (two rolls) |
+| Y1109-13 | 38-42 | Term 6. Survival fails (rolled 2, +1 = 3, needs END 6+). Mishap 3: an investigation goes critically wrong. Advocate 8+ passed (rolled 10, +1 for Advocate 1), so he keeps the Benefit roll. Aging roll (9 minus 6 = 3): no effect | None (mishap term) |
+| Y1113-16 | 42-45 | Leaves the force, hired by SolSec as muscle for the cell. Receives the forged Guarda Civil weapons permit |  |
 | Y1116, day 244 | 45 | Rides in as hired "muscle" on a cargo delivery that drops him at the motel with a single duffel |  |
 | Y1116, day 245 | 45 | Tonight. |  |
-| Mustering out | | 7 benefit rolls. Army (1 term): Other Cybernetic Implant (the TL10 forearm reinforcement). Rogue (5 terms + 1 for rank 1): Cash Cr10,000, Cr10,000 and Cr50,000, Other Weapon (the revolver), Armour (the concealed lining), Ship Share. Cash total Cr70,000 (3 cash rolls) | |
+| Mustering out | | 7 benefit rolls (5 Agent terms + 2 for rank 3). Cash (3 rolls, Agent table): Cr2,000, Cr10,000, Cr25,000 = Cr37,000. Other: INT +1 (INT 6 to 7), Weapon (the revolver), Scientific Equipment (a case of lockpicks and tools), Cybernetic Implant (the TL10 forearm reinforcement, taken instead of SOC +1). Pension: 5 Agent terms, Cr10,000 halved under the Solomani rules to Cr5,000 a year (he was not SolSec) | |
 
-**Gear:** TL10 subdermal reinforcement in the forearms (unarmed strikes hit harder than they should); a TL10 concealed armor lining sewn into the suit itself, enough to matter in a real fight, invisible unless someone's actually searching the seams; the revolver is a genuine TL7 period piece, carried under a **forged Guarda Civil weapons permit** arranged by SolSec. The permit passes a routine Check at face value. If Cabo Marsh or anyone else runs it against the register (an Investigation), it fails unless a PC makes a Difficult (10+) Admin or Streetwise check to pre-empt it; without the permit, the revolver is contraband (concealable pistol, Sentencing DM +3, Chapter 2, §2.32).
+**Gear:** TL10 subdermal reinforcement in the forearms (unarmed strikes hit harder than they should); a case of lockpicks and tools (Scientific Equipment); the revolver is a genuine TL7 period piece, carried under a **forged Guarda Civil weapons permit** arranged by SolSec. The permit passes a routine Check at face value. If Cabo Marsh or anyone else runs it against the register (an Investigation), it fails unless a PC makes a Difficult (10+) Admin or Streetwise check to pre-empt it; without the permit, the revolver is contraband (concealable pistol, Sentencing DM +3, Chapter 2, §2.32).
 
 **Neural.AI image prompt:** A hulking man in his 40s squeezed into an ill-fitting, loud pinstripe suit, thick bruised knuckles resting on a motel dresser, gold rings on several fingers. Standing with deliberate stillness rather than menace, a faint, almost tired watchfulness in his expression. Dim motel room, cheap lamp light. Photorealistic, science fiction character portrait, no text, no logos.
 
@@ -441,44 +596,44 @@ A cross-reference guide, not new mechanics: for each of the six PCs, at least th
 
 ## 3.10: SKILL SPOTLIGHT BY CHARACTER
 
-### Corvin Danh (Chapter 3, §3.2): Persuade, Deception, Streetwise, Religion, Melee
+### Corvin Danh (Chapter 3, §3.2): Admin, Broker, Deception, Diplomat, Electronics (computers)
 
-- **Religion**: the cult-front cover is a legitimate lens for interpreting the Fence-Line Hum rumor (Chapter 2, §2.8) or explaining late-night "ritual" activity if anyone notices Corvin awake and moving at odd hours.
-- **Persuade/Deception**: talking down Cabo Marsh (Chapter 4, §4.5) without resorting to Tomas's fists, or holding up under Yeva's cold-reading if she debriefs Corvin without knowing who he is (Chapter 3, §3.4).
-- **Melee (unarmed)**: a real option if the restaurant's vanishing beat (Chapter 2, §2.15) turns into a physical confrontation with staff.
-- **Admin and Survival** (Acts II and III): Admin (records) is the table's best tool for the paper trail and Form 14-R (Chapter 7, §7.7), and Survival stretches the dust-storm filters (Chapter 2, §2.31) when the party is on foot.
+- **Diplomat/Deception**: talking down Cabo Marsh (Chapter 4, §4.5) without resorting to Tomas's fists, or holding up under Yeva's cold-reading if she debriefs Corvin without knowing who he is (Chapter 3, §3.4).
+- **Admin and Broker**: Admin (records) is the table's best tool for the paper trail and Form 14-R (Chapter 7, §7.7), and Broker reads the Concession's money trail, which is what a front company's books look like.
+- **Electronics (computers)**: reading the Feed Line telemetry and the vending machines' logs when Dabney is not at the keyboard.
+- **Survival 0 and Vacc Suit 0** (Acts II and III): the desert upbringing on Turin stretches the dust-storm filters (Chapter 2, §2.31) when the party is on foot.
 
-### Dabney Kroll, "The Bulb Man" (Chapter 3, §3.3): Streetwise, Recon, Stealth, Electronics
+### Dabney Kroll, "The Bulb Man" (Chapter 3, §3.3): Electronics, Mechanic, Streetwise
 
-- **Recon**: the built-in payoff skill for the highway traffic table (Chapter 2, §2.7); he's the PC who should roll here most often.
-- **Electronics (comms)**: the natural skill to notice the Imperial spy's TL12 receiver (Chapter 5, §5.1) in his truck.
-- **Stealth**: moving to check Room 4 or the restaurant without drawing attention, especially useful during the free-form Graveyard shift.
-- **Mechanic and Engineer (power)** (Acts II and III): the fuel line on the *Gravy Train* (Chapter 7, §7.8) and Mole-2's fan belt (Chapter 5, §5.4) both want his hands.
+- **Electronics (comms 4, computers 3, sensors 2)**: the table's best technician. He is the natural one to notice the Imperial spy's TL12 receiver (Chapter 5, §5.1) in his truck, to read the Feed Line telemetry (Chapter 7, §7.2) and to find the right bloom with a sensor sweep (Chapter 8, §8.7).
+- **Recon 0, Streetwise 2**: he still knows the highway traffic table (Chapter 2, §2.7) from a year of watching it, but he rolls it at skill 0, with Streetwise 2 for the local read on who belongs. His strength is the knowledge, not the roll.
+- **Mechanic 2 and Engineer (power) 1** (Acts II and III): the fuel line on the *Gravy Train* (Chapter 7, §7.8) and Mole-2's fan belt (Chapter 5, §5.4) both want his hands.
 
-### Yeva Kessler (Chapter 3, §3.4): Persuade, Deception, Investigate, Insight
+### Yeva Kessler (Chapter 3, §3.4): Investigate, Electronics, Pilot, Medic
 
-- **Insight**: reading the lobby's random events (Chapter 2, §2.12) for who's genuinely rattled versus performing calm; a strong fit for her established "debriefs people without them realizing" secret objective.
-- **Investigate**: piecing together what Corrin's data chip or Corvin's rendezvous protocol might mean from overheard fragments, without directly asking.
-- **Persuade/Deception**: extracting real information from Cabo Marsh or the motel owner (Chapter 4, §4.1) under a "reading" pretext.
+- **Investigate 3**: the best investigator at the table. Piecing together what Corrin's data chip or Corvin's rendezvous protocol might mean from overheard fragments, without directly asking, and reading the dead gutwing for the jacket scrap (Chapter 6, §6.4).
+- **Science (psychology) 1, Persuade 1, Deception 1, Diplomat 1**: reading the lobby's random events (Chapter 2, §2.12) for who is genuinely rattled versus performing calm, and extracting real information from Cabo Marsh or the motel owner (Chapter 4, §4.1) under a "reading" pretext. These are modest skills, so a plain roll with Investigate behind it is her real edge.
+- **Pilot (small craft) 3**: the best pilot at the table in a small craft. It does not cover the *Soft Landing*, which needs Pilot (spacecraft), but a mole, a grav vehicle or a shuttle is hers to fly.
 - **Medic** (Act III): keeping Delacroix's leg wound from killing her in a Terrace void, and bringing a sedated crew member round after an Egg-bloom (Chapter 8, §8.1).
 
 ### Dex (Chapter 3, §3.5): Stealth, Deception, Drive (mole)
 
-- **Stealth**: the PC best positioned to move between rooms and the lobby unnoticed, given the "least suspicious" framing built into his cover.
-- **Athletics 0**: a plain Dexterity-based roll with no skill DM, if the idling stranger (Chapter 4, §4.6) or the vanishing-beat search (Chapter 2, §2.15) turns into a chase or requires covering ground fast.
-- **Deception** (level 0, so a plain roll): holding the runaway cover story under direct questioning from Marsh or a suspicious fellow guest.
-- **Drive (mole) and Mechanic** (Act III): the only PC who can run a mole without Gus Teller (Chapter 5, §5.4), and the person who can help patch it when the belt goes.
+- **Stealth 1**: the PC best positioned to move between rooms and the lobby unnoticed, given the "least suspicious" framing built into his cover.
+- **Athletics 0**: a plain Dexterity-based roll (DEX 10, DM +1), if the idling stranger (Chapter 4, §4.6) or the vanishing-beat search (Chapter 2, §2.15) turns into a chase or requires covering ground fast. His STR 3 means he cannot carry or lift much.
+- **Deception 1**: holding the runaway cover story under direct questioning from Marsh or a suspicious fellow guest.
+- **Drive (mole) 1 and Mechanic 1** (Act III): the only PC who can run a mole without Gus Teller (Chapter 5, §5.4), and the person who can help patch it when the belt goes.
 
-### Corrin Ashe (Chapter 3, §3.6): Streetwise, Investigate, Persuade, Deception, Carouse
+### Corrin Ashe (Chapter 3, §3.6): Investigate, Flyer, Profession (signals), Pilot
 
-- **Investigate**: the PC mechanically built to connect her own data chip to Osei's compromised position (Chapter 4, §4.7) if she starts asking the right questions about why the handoff never happened.
-- **Carouse**: a legitimate way to get the Ashworths or the motel owner talking in the lobby (Chapter 4, §4.2) without it reading as an interrogation.
-- **Persuade/Deception**: reporter's-instinct needling that can pull real information out of Marsh or a fellow guest under a "just curious" cover.
-- **Pilot (spacecraft)** (Act III): if Okafor-Brandt is not at the controls, Corrin is the one who lifts the *Soft Landing* (Chapter 5, §5.5).
+- **Investigate 1 and Advocate 1**: the PC mechanically built to connect her own data chip to Osei's compromised position (Chapter 4, §4.7) if she starts asking the right questions about why the handoff never happened.
+- **Carouse 0**: a legitimate way to get the Ashworths or the motel owner talking in the lobby (Chapter 4, §4.2) without it reading as an interrogation.
+- **Profession (signals) 2, Electronics (comms) 1**: reading what the motel's tapped phone line and the Feed Line telemetry are doing (Chapter 7, §7.2), and working a radio when the storm takes the others down.
+- **Pilot (spacecraft) 1, Flyer 2** (Act III): if Okafor-Brandt is not at the controls, Corrin is the one who lifts the *Soft Landing* (Chapter 5, §5.5), and she can fly any grav vehicle.
+- **Explosives 2** (Acts II and III): the loud answer to a sealed Egg-bloom, shared with Tomas.
 
-### Big Tomas Reyes (Chapter 3, §3.7): Melee, Gun Combat, Persuade, Streetwise
+### Big Tomas Reyes (Chapter 3, §3.7): Stealth, Gun Combat, Melee, Investigate
 
-- **Gun Combat/Melee**: the scenario's primary combat-capable skill set; see §3.9 above for where this can actually come into play.
-- **Persuade**: his "intersection of big money and low taste" cover supports an intimidation-flavored Persuade check that doesn't require drawing a weapon, useful for de-escalating without losing his edge.
-- **Streetwise**: reading Marsh, the idling stranger, or the restaurant's regular (Chapter 4, §4.3) through a criminal-world lens the other five PCs don't share.
-- **Explosives** (Acts II and III): the loud answer to a sealed Egg-bloom or a collapsed tunnel, and every use costs +2 AP (Chapter 2, §2.28). Decide whether it is worth it.
+- **Gun Combat 1 and Melee (unarmed) 1**: the scenario's primary combat-capable skill set, with STR 11 and END 9 behind it; see §3.9 above for where this can actually come into play.
+- **Stealth 3**: surprisingly quiet for a big man. He is the party's best at following the idling stranger or reaching the car unseen (Chapter 6, §6.3).
+- **Investigate 1, Streetwise 1, Persuade 1**: a detective's instincts. He reads Marsh, the idling stranger, or the restaurant's regular (Chapter 4, §4.3) through a policeman's lens, and can lean on a witness without drawing a weapon.
+- **Explosives 1** (Acts II and III): the loud answer to a sealed Egg-bloom or a collapsed tunnel, and every use costs +2 AP (Chapter 2, §2.28). Decide whether it is worth it.

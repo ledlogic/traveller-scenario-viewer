@@ -27,6 +27,8 @@ A civilian anchor NPC; a non-player exposition and stakes source who is utterly 
 
 **Gear:** None of consequence, cash box, a TL7 shotgun kept under the front desk, legal under a county permit framed behind the desk (otherwise banned at Law 7, Chapter 2, §2.32), a rotary phone.
 
+**Cash:** Cr1,800 in the till and cash box (the week's takings), Cr350 in her cardigan pocket. Takes only cash, no cards, no receipts.
+
 **Role at the table:** Cash-only, asks-no-questions. Genuinely doesn't know what any of tonight's guests are. Should never be given secret SolSec/Imperial information by the referee; the whole point is that they're the one truly innocent presence in the building.
 
 **Neural.AI image prompt:** A weathered, heavyset woman in her early 60s wearing a stained cardigan, standing behind a cluttered front desk lit by a flickering neon "VACANCY" sign visible through the window behind them. Bored, incurious expression, thumbing through a ledger. 1970s roadside Americana, warm and grimy lighting. Photorealistic, science fiction character portrait, no text, no logos.
@@ -49,6 +51,8 @@ Two ordinary travelers, entirely unconnected to SolSec, Imperial Intelligence, o
 **Del's load (Chapter 7):** Del is a **contract Feed Line hauler**. His tanker holds **28 tonnes of slaughterhouse offal** on a **stamped manifest (Consignment 9-4471)** bound for the Reserve's Feed Line Terminal (Chapter 2, §2.29, Area 8), stranded by the dust storm and a fouled fuel line (Chapter 5, §5.3). That is why his rig is the one vehicle that can pass a Red-alert gate. He knows the Reserve's drivers and hears its news on the CB: this afternoon it "closed up tight at five"; there were **shots, then a bang** around 4:20; and **areas 12 through 14 are shut** to camping. He mentions it unprompted if asked about the Reserve, and as idle gossip otherwise. He knows nothing about the pickup.
 
 **Referee use:** The Ashworths should never turn out to be secretly anything. Their value is entirely in being ordinary; a red herring PCs can investigate and rule out, a source of harmless CB-radio traffic gossip, and a pair of genuine bystanders whose safety quietly raises the stakes if the night turns violent. If a PC does something overtly strange near them (uses visibly anomalous tech, raises their voice about extraction), the Ashworths are a good, low-cost way to make a tech-discipline failure (Chapter 2, §2.6) feel immediately consequential without escalating to Imperial Security Service involvement.
+
+**Gear and cash:** Del carries the tanker's keys, the stamped manifest (Consignment 9-4471), a CB radio handset, a tire iron under the seat and a tool roll; Cr320 in his wallet and a Feed Line fuel card (worth Cr1,500 of credit, only good at the Reserve terminal). Priya carries a paperback, a thermos, a handheld radio and her own purse with Cr140; the couple's rainy-day cash in the cab is Cr800.
 
 **Neural.AI image prompt (Del):** A heavyset, weathered man in his 50s wearing a faded trucker cap and a flannel shirt, sitting on the edge of a motel bed working loose the knot in his boot laces, a CB radio handset resting nearby. Tired, irritable-but-harmless expression. Cheap motel room, warm lamp light. Photorealistic, science fiction character portrait, no text, no logos.
 
@@ -79,6 +83,8 @@ Three fixtures, always present when the place is "open," never seen arriving or 
 - Steward 1
 - Streetwise 0
 
+**Gear and cash:** A heavy kitchen knife (Melee, Damage 1D+1 as a dagger), a spatula, the key to the till and the walk-in cooler; Cr240 in the till and Cr60 of his own.
+
 **Neural.AI image prompt:** A lean, weathered man in a stained apron standing at a pass-through kitchen window, spatula in hand, regarding the viewer with a flat, unreadable expression, not hostile, not friendly, just unreadable. Dim fluorescent kitchen light behind him. Photorealistic, science fiction character portrait, no text, no logos.
 
 ### The Regular
@@ -98,6 +104,8 @@ Three fixtures, always present when the place is "open," never seen arriving or 
 - Melee 0
 - Melee (unarmed) 1
 
+**Gear and cash:** A heavy work coat and a folding knife he never takes out; Cr15 and a punched meal chit he never uses.
+
 **Neural.AI image prompt:** A heavyset man in worn overalls seated at a diner counter, posture too still and too permanent, an untouched cup of coffee in front of him, watching the entrance without quite looking at it. Warm, grimy diner lighting. Photorealistic, science fiction character portrait, no text, no logos.
 
 ### The Washboy
@@ -113,6 +121,8 @@ Three fixtures, always present when the place is "open," never seen arriving or 
 **Skills:**
 
 - Mechanic 0 *(dishwashing and kitchen upkeep, nothing above 0)*
+
+**Gear and cash:** A rubber apron, a kitchen towel and a battered portable radio; Cr6 and a week's wages in an envelope he will not leave behind (Cr40).
 
 **Neural.AI image prompt:** A thin teenage boy in a stained apron, sleeves rolled up, elbow-deep in a sink of dishwater in a cramped back kitchen, glancing toward the dining room through a half-open doorway rather than looking at the viewer directly. Dim, greasy fluorescent light. Photorealistic, science fiction character portrait, no text, no logos.
 
@@ -141,6 +151,8 @@ None of the three needs more than this to run at the table; their entire functio
 **Skills:** Gun Combat 0, Gun Combat (slug pistol) 1, Recon 1, Drive (wheeled) 1, Streetwise 1, Persuade 0
 
 **Gear:** TL7 service revolver, patrol car (running, marked, easily recognized, useless for any PC to "borrow" quietly), a portable radio on the Guarda's own channel. **Referee's call** whether the department's radio net is knocked out by the same storm silencing civilian comms (Chapter 2, §2.5), either answer works: if it's down too, Marsh is as isolated as everyone else and more nervous about it than he lets on; if it's up, he's a rare, real link to the outside world PCs might try to use or avoid.
+
+**Cash:** Cr220 in a billfold, a ticket book, and a Guarda Civil expense chit worth Cr100 for fuel. Not corrupt, but a Cr50 "fine" paid on the spot makes the paperwork shorter.
 
 **Role at the table:** Wants a calm, boring end to his shift. Responds well to plausible, unremarkable explanations and poorly to anything that reads as evasive or rehearsed; a PC using genuine Persuade/Deception skill has an easier time with him than one relying on tech or intimidation. Should never escalate to gunplay unless a PC forces the issue; his default is to write up a noise complaint and leave, not to search rooms or run identities.
 
@@ -180,6 +192,8 @@ He is first sighted at about **10:35 PM** (Chapter 1, §1.6). The gutwings arriv
   - Tactics (military) 1
 
 **Gear (on him):** TL10 cloth armour under a rumpled suit jacket (Armour 8), a concealed TL7 slug pistol for his cover, a long-lens camera, and a TL12 passive receiver in the car's dash that is quietly listening to the motel's old radio chatter.
+
+**Cash:** Cr3,000 in mixed small notes (Jorjor scrip and Imperial credits, rolled in a sock), plus a forged Jorjor visitor's permit. Enough to bribe a clerk, not a judge.
 
 **The kit in the trunk (his "extra tactical gear"):** a locked, steel-lined case behind the spare wheel, bolted to the frame (Mechanic or Electronics, Average 8+, to open; or the keys on his belt). Everything below is enough to take on the first wave of gutwings (Chapter 2, §2.30) and no more:
 - Advanced combat rifle, TL10 (3D, Auto 3, Scope), two of them, with 8 spare 40-round magazines between them
@@ -260,6 +274,10 @@ Osei is not a pushover or a fool, and playing him as one undersells the characte
 
 **Referee use:** a good beat if Osei ever appears directly (he doesn't need to, see below) is to let him ask one sharp, correct, procedurally-minded question that has nothing to do with technology and everything to do with paperwork, and let it briefly, genuinely rattle whichever PC is dealing with him, before he moves on and signs off anyway.
 
+### Osei's gear and cash
+
+**Gear and cash:** A Bureau briefcase, the stamp and ink pad, a signed quota memo, a ring of office keys and a personal comm with a cracked screen (TL8). Cr900 and a Civil Service pass worth a free tram ticket. The stamp is the most valuable thing he owns.
+
 ### Neural.AI image prompt
 
 A soft, unremarkable man in his mid-50s in a rumpled civil-service uniform, seated at a cluttered desk stacked with paper forms rather than any visible technology, wire-rimmed glasses pushed up on his forehead, an absent, slightly-too-focused expression as if concentrating hard on something simple. Fluorescent government-office lighting, beige walls, a small pill bottle half-hidden under a stack of forms. Photorealistic, science fiction character portrait, no text, no logos.
@@ -325,6 +343,8 @@ Seventeen years in Solomani Security. Methodical, unshowy, trusted by Wei, and q
 
 **Gear:** TL11 slug pistol (contraband on Jorjor, Sentencing DM +3, Chapter 2, §2.32), TL11 fob (Chapter 5, §5.6), TL10 comm unit disguised as a camera.
 
+**Cash:** Cr1,500 in mixed Jorjor scrip and Imperial credits, a cover-story budget she kept back from the team.
+
 **Role at the table:** Controlled and logical. Once freed she takes charge in the way a captain does: short sentences, clear orders. She does not trust the Imperial agent in the lot, whatever he tells the party.
 
 **Neural.AI image prompt:** A composed woman in her mid-40s in a worn khaki field jacket and hiking boots, short greying hair, a sharp intelligent gaze, standing at the edge of a steaming desert basin at dusk, a black disc on a chain at her collar. Photorealistic, science fiction character portrait, no text, no logos.
@@ -351,7 +371,13 @@ An easy talker with a fondness for shaped charges and a habit of saying "it'll b
 
 **Gear:** TL10 demolition kit (two shaped charges left; explosives are contraband on Jorjor, Sentencing DM +7, Chapter 2, §2.32), TL11 fob, a geologist's hammer.
 
+**Cash:** Cr600 in a zipped pocket.
+
 **Role at the table:** Rueful, funny, the first to admit it was his charge. If freed he knows the Terrace tunnels from the survey he made at 15:45.
+
+**Past, Corrin Ashe (Y1114):** Mbeki is the man Corrin Ashe tried to leave. They were together for two years. When the courier posting came up in Y1114 she ended it at the dock, said she was leaving the planet and did not want to be followed, and he said "it'll be fine." When SolSec posted the pickup team to Jorjor he asked for the job, because he knew from the roster where she would be. He has not told Okafor-Brandt, and he has not told Corrin. He is not stalking her; he is a decent man who could not let it end with a lie.
+
+> *Referee note, Mbeki and Corrin:* he is the first to admit it was his charge (16:28), and the reason is the guilty one: he was distracted, rehearsing what he would say to her. Whatever state the dice put him in (§7.6), he reacts to Corrin before anyone else. **Trapped (T):** he taps her old signal on the rock (three long, two short), which only she knows. **Captured (C):** in the bloom he murmurs "it'll be fine" in his own voice, and her name. **Lost (L):** he is walking toward the wash, saying her name to Waders that do not answer. **Dead (X):** his fob and a folded note, written at 15:45 and never delivered, are on the body. Corrin has DM+1 on any roll to find, reach or stabilise him (§8.6, §8.7), and she has no DM on a roll to forgive him.
 
 **Neural.AI image prompt:** A broad-shouldered, cheerful man in his late thirties in a dusty geologist's vest, rolled sleeves, a hammer on his belt, smudged grin, standing in a cracked desert shelf with a thin curl of steam rising behind him. Photorealistic, science fiction character portrait, no text, no logos.
 
@@ -376,6 +402,8 @@ A field physician and a trained psion who has spent her career being careful. To
 - Telepathy 2 *(talent: Life Detection)*
 
 **Gear:** TL11 medikit, TL11 fob, a lightweight field recorder.
+
+**Cash:** Cr400 in her field wallet.
 
 **Role at the table:** Precise, shaken, honest. She is the only one who understands what the Mass *is*: she felt it respond when her talent fired on its own at 16:20, and she carries the guilt of it. She did not mean to wake it. If freed, she is the table's best source for why the Reserve has gone to Red.
 
@@ -403,6 +431,8 @@ The youngest of the team and the one who shoots first, mostly because somebody h
 - Survival 0
 
 **Gear:** TL10 slug rifle (disassembled in a daypack; contraband, Sentencing DM +2, Chapter 2, §2.32), TL11 fob, concealed TL10 jack armour (Armour 5; legal only while hidden).
+
+**Cash:** Cr800, mostly in one-credit notes he won at cards from the others.
 
 **Role at the table:** Loud, loyal, and badly shaken. He shot something today and watched it not die.
 
@@ -441,6 +471,8 @@ Runs the Reserve. A competent, tired, decent-seeming man who has kept the number
 
 **Gear:** TL7 slug pistol (exempt as Reserve law enforcement, Chapter 2, §2.32), a ranger radio on the Reserve's own band, the keys to the Incident Room.
 
+**Cash:** Cr350 and the Reserve's petty-cash tin (Cr2,000, signed for in triplicate) in the Incident Room desk.
+
 **Role at the table:** Calm, polite, evasive. He will give the table what is on paper and nothing else. Responds to evidence he can't wave away (photographs, bodies, Pruitt's forms) by turning slowly from helpful to firm. At Black he gives the order to "contain" and stops pretending.
 
 **Neural.AI image prompt:** Head-and-shoulders portrait of a kind, tired-looking man in his late forties in a khaki ranger uniform and a wide-brimmed hat, seated at a wooden desk in a small office with a large map of a desert valley on the wall behind him, warm lamp light. Photorealistic, no text, no logos.
@@ -467,6 +499,8 @@ A Bureau inspector sent to audit the Reserve's incident forms. Methodical, dry, 
 
 **Gear:** a briefcase of forms, a notebook with 40 filed Form 11-Cs and a list of missing names, the Bureau's stamp.
 
+**Cash:** Cr180 and a per-diem envelope with Cr400 in it. She itemises every credit.
+
 **Role at the table:** The best potential ally. If a PC shows her proof, she will file a form, which stalls the Reserve. She does not believe in monsters. She believes in arithmetic.
 
 **Neural.AI image prompt:** Head-and-shoulders portrait of a composed woman in her early forties wearing a grey business suit and glasses, standing at a visitor-centre counter with neat stacks of paperwork in front of her, holding a rubber stamp, bright window light behind her. Photorealistic, no text, no logos.
@@ -488,6 +522,8 @@ The face of the Reserve. Friendly, well-trained at saying nothing.
 - Steward 1
 
 **Gear:** a radio and a clipboard.
+
+**Cash:** Cr90 and the gift-shop float, Cr300, which she is not allowed to lend.
 
 **Role at the table:** The staff member who says "I'm sorry, that area is closed for your safety." Uses a script. Has seen the Incident Room once and does not talk about it.
 
@@ -513,6 +549,8 @@ Runs the Maintenance Yard. A gruff, practical man who has been driving moles thr
 - Survival 1
 
 **Gear:** coveralls, a tool roll, the keys to both moles.
+
+**Cash:** Cr120 and a winning ticket from last week's hauler's lottery (Cr60).
 
 **Role at the table:** Suspicious of outsiders, loyal to the Reserve's paycheque, but he lost a nephew in Y1113. Can be persuaded (Average Persuade, or a good reason) to drive. He knows the Terrace tunnels better than anyone alive.
 
@@ -548,6 +586,8 @@ Sincere, overworked, tired of forms. Keeps his own whiteboard of every case, bec
 
 **Gear:** orange vest, whistle, tracked rescue sled keys, first-aid kit, a radio on the RRS channel (not the rangers' band).
 
+**Cash:** Cr220 and a Rescue Service chit book for fuel and rations (Cr500 of chits, honoured only at the Reserve).
+
 **Role at the table:** The people's friend. He hates Policy RS-9 and will break it for someone with a good reason and a stamped form, or quietly if he trusts them. He knows more about where people end up than anyone: ask him where visitors usually "get lost" and he points at the Meadows, the Terrace tunnels and the Orchard. His crew of **Orange Vests** (use Quill's ranger stats, minus the pistol) will carry a stretcher and follow his lead.
 
 **Neural.AI image prompt:** Head-and-shoulders portrait of a friendly man in his late thirties wearing a bright orange safety vest over a khaki shirt, a whistle on a lanyard around his neck, standing outdoors at a small corrugated-metal station at golden hour, a large whiteboard covered in handwriting softly blurred behind him. Calm, tired smile. Photorealistic, natural light, no text, no logos.
@@ -581,6 +621,8 @@ SolSec's controller for the Rim network and the man who sent the six to Motel Ye
   - Tactics (military) 1
 
 **Gear:** Whatever he needs. A TL11 personal comm, a courier-grade cipher kit, and a submachine gun he has not used in years.
+
+**Cash:** Whatever the operation needs. An open discretionary SolSec account of up to Cr50,000 and cash drops on request, but none on his person since he is offscreen.
 
 **Background (canon, *Signal GK*, Y1110).** Wei learned that Dr. Rushorin was unhappy with his work on Aristotle, and that most of that work was being sponsored and swept up by Thinking Machines Incorporated. He wrote a memo for the Internal Directorate proposing that TMI and the Third Imperium could be using Dr. Rushorin as a pawn in future cybernetics research.
 

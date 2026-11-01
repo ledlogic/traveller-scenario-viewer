@@ -43,6 +43,8 @@ Read the one that fits, then add the Voss line that fits.
 
 **If Voss got away.** He is on the highway with photographs of every face and every cover name. The next scenario starts with that.
 
+**If Tav Mbeki is aboard.** He sits across from Corrin and does not say "it'll be fine." Whether she answers him is the last scene of the night. If she does, they are a pair again, and SolSec will notice. If she does not, he sits quietly until the planet is gone, and then gives her the note anyway. If he is not aboard, the note stays with her, and she will keep it.
+
 ## 9.3: IF THE TABLE FREES NO ONE
 
 The fobs alone get two PCs aboard. The ship lifts. The pickup stays in the Reserve, in the cradle or the dark, and the final image of the scenario is the *Soft Landing* rising out of a dust storm with fewer people than it should have. The Mass does not release its dead.

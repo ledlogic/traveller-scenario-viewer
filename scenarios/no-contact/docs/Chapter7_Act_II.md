@@ -88,7 +88,7 @@ Three things lined up at 16:20, and none of them was the pickup's plan.
 | 16:22 | Drifters converge on the Terrace. A Wader herd begins to hunt in Area 12. A Wader grabs Hale. | Wader herd *hunting* in Area 12. |
 | 16:23 | Delacroix fires on the Wader, **eight shots**. | Gunfire (+1 AP). |
 | 16:25 | The Egg-blooms in Area 13 **scream** (Pell's whiteboard records it). | |
-| 16:28 | Mbeki sets a shaped charge to cover the escape. The Terrace shelf **collapses into the tunnels**. | Explosives (+2 AP). New collapse in Area 12. |
+| 16:28 | Mbeki sets a shaped charge to cover the escape. The Terrace shelf **collapses into the tunnels**. He was distracted, rehearsing what he would say to Corrin Ashe, and the charge was too big. | Explosives (+2 AP). New collapse in Area 12. |
 | 16:34 | A call to the Rescue Service: shots, a bang, a collapse, four visitors. | Reserve goes to Red at 17:10. |
 
 **Referee dial.** If the table wants a different cause, swap Hale for another team member's concealed talent, or remove the shots and the charge for a quieter, more terrifying version where only the pulse happens. The rest of the chapter (§7.6 outcomes, Chapter 8) works with any of them.
@@ -140,6 +140,8 @@ Roll once for the team (or choose). **C** = Captured (inside an Egg-bloom, Area 
 | Incident Room | "Four visitors" (no names) |
 | Compliance | "Brand, I." and three more she has not matched |
 
+> *Referee note, the name on the ledger:* when a player reads "T. Mbeki" off the Gate ledger, look at Corrin's player. Corrin knows that name (Chapter 3, §3.6). Let her decide how much of the story the table hears. If she is not at the table, hand the note to Yeva, who recruited a monitor once and recognises the look. Mbeki asked for the Jorjor posting (Chapter 4, §4.10).
+
 A search by exact name in the wrong office returns nothing. **Admin (records) check, Average (8+)**, finds the right entry; DM +2 with the spelling variants above; DM -2 if the searcher has no name at all.
 
 ### The offices and what each one has
@@ -184,16 +186,16 @@ Act II leans on the practical skills the PCs picked up (Chapter 3, §3.10). Diff
 | Moment | Check | Difficulty | Built for it | Result |
 |---|---|---|---|---|
 | Fixing the *Gravy Train*'s fouled fuel line (Chapter 5, §5.3) | Mechanic or Engineer (power) | Average (8+) | Dabney, Dex, Del | Base repair is 2D hours; each point of Effect cuts it by 30 minutes (minimum 30 minutes). Failure costs another hour. |
-| Persuading Del to take the rig out | Persuade | Average (8+); DM +1 for a fair price, +2 for the true story, -2 if asked to abandon the rig | Corvin, Corrin, Tomas | Del drives, or he hands over the keys with a long speech. |
-| Matching the four names across offices (§7.7) | Admin (records) | Average (8+); DM +2 with the spelling variants, -2 with no name | Corvin | One record found per success. |
+| Persuading Del to take the rig out | Persuade | Average (8+); DM +1 for a fair price, +2 for the true story, -2 if asked to abandon the rig | Corvin, Yeva, Tomas | Del drives, or he hands over the keys with a long speech. |
+| Matching the four names across offices (§7.7) | Admin (records) | Average (8+); DM +2 with the spelling variants, -2 with no name | Corvin, Yeva | One record found per success. |
 | Knowing which paper wins (§7.7) | Admin or Bureaucracy | Difficult (10+) | Corvin | Learns to trust Pell's whiteboard over Quill's file. |
-| The human memory behind the paper (Pell, Teller, the clinic volunteer) | Persuade or Streetwise | Average (8+) | Corrin, Corvin, Tomas | The shouting at 17:40, the scream at 16:25, the mole slip. |
+| The human memory behind the paper (Pell, Teller, the clinic volunteer) | Persuade or Streetwise | Average (8+) | Corvin, Yeva, Tomas | The shouting at 17:40, the scream at 16:25, the mole slip. |
 | Filing Form 14-R at the Gate (§7.3, Route B) | Admin | Average (8+); DM +2 with permit #0614 or a Civil Service seal | Corvin | Ranger escort to Area 7 and -1 AP. Failure is +1 AP. |
-| Bluffing the Gate with the manifest | Deception | Average (8+); Difficult (10+) if anyone is visibly coated in feed on the catwalk | Corrin, Dex | A stamped manifest goes through. |
-| Treating the Gate as a social scene (Tolliver, Pruitt) | Persuade, Streetwise | Average (8+) | Corrin, Yeva | An ally, or a suspicious Pruitt. |
-| Driving the storm (Stage 2, 50 m visibility) | Drive (wheel), or Drive 0 | Average (8+); Difficult (10+) at Stage 3 | Dex, Del | Reaches the Terminal, or stalls and loses 30 minutes. |
-| Spotting the first Drifters before they close in | Recon | Average (8+) | Dabney, Dex | One round of warning. |
-| Stretching the dust filters on foot (Chapter 2, §2.31) | Survival | Routine (6+) | Corvin | Filters last the full four hours and then some. |
+| Bluffing the Gate with the manifest | Deception | Average (8+); Difficult (10+) if anyone is visibly coated in feed on the catwalk | Corvin, Dex | A stamped manifest goes through. |
+| Treating the Gate as a social scene (Tolliver, Pruitt) | Persuade, Streetwise | Average (8+) | Corvin, Yeva | An ally, or a suspicious Pruitt. |
+| Driving the storm (Stage 2, 50 m visibility) | Drive (wheel), or Drive 0 | Average (8+); Difficult (10+) at Stage 3 | Dabney, Del | Reaches the Terminal, or stalls and loses 30 minutes. |
+| Spotting the first Drifters before they close in | Recon | Average (8+) | Dabney, Tomas | One round of warning. |
+| Stretching the dust filters on foot (Chapter 2, §2.31) | Survival | Routine (6+) | Corvin, Dex | Filters last the full four hours and then some. |
 | A PC is stung or wrapped | Medic | Average (8+) | Yeva | Treated, back on their feet in 1D minutes. |
 
 **Rule of thumb:** in this act, Mechanic or Engineer, Admin, Drive and Persuade all matter. Make sure each of those four players gets a scene.
