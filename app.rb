@@ -39,7 +39,8 @@ end
 
 
 set :public_folder, File.join(__dir__, 'public')
-set :port, 8090
+set :port, ENV.fetch('PORT', 8090).to_i   # Heroku supplies PORT
+set :bind, ENV.fetch('BIND', ENV['PORT'] ? '0.0.0.0' : 'localhost')
 
 # ── Upload watcher ──────────────────────────────────────────────
 # Drop a "traveller-viewer (N).zip" export into ./uploads and this
@@ -316,6 +317,7 @@ def render_shell(opts = {})
           #{opts[:scenario_subtitle] ? "<span class=\"topbar-sub\">#{opts[:scenario_subtitle]}</span>" : ''}
         </div>
         <div class="topbar-right">
+          #{opts[:reader_href] ? "<a class=\"topbar-refs\" href=\"#{opts[:reader_href]}\" title=\"Plain reading mode, no sidebar\">Reader</a>" : ''}
           <a class="topbar-refs" href="/references" title="Rulebook PDF reference library">References</a>
           <button id="print-btn">⎙ Print</button>
           <button id="theme-toggle">☾</button>
@@ -622,7 +624,79 @@ get '/s/:slug/:filename' do
     prev_href:         prev_href,
     next_href:         next_href,
     print_title:       label,
+    reader_href:       "/s/#{s['slug']}/#{filename}/reader",
   )
+end
+
+# ── Reader mode: one clean article, no sidebar, top bar or inner scroll box ──
+get '/s/:slug/:filename/reader' do
+  scenarios = load_scenarios
+  s = scenarios[params[:slug]]
+  halt 404, 'Scenario not found' unless s
+
+  filename = params[:filename]
+  halt 400, 'Not a markdown file' unless filename.end_with?('.md')
+
+  filepath = File.join(s['docs_dir'], filename)
+  halt 404, 'Document not found' unless File.exist?(filepath)
+
+  raw  = File.read(filepath, encoding: 'utf-8')
+  html = Kramdown::Document.new(raw, input: 'GFM').to_html
+
+  docs = s['docs'] || []
+  idx  = docs.index { |d| d['file'] == filename }
+  prev_doc = idx && idx > 0             ? docs[idx - 1] : nil
+  next_doc = idx && idx < docs.size - 1 ? docs[idx + 1] : nil
+  label = idx ? docs[idx]['label'] : filename.sub('.md', '').gsub('_', ' ')
+  esc = ->(t) { Rack::Utils.escape_html(t.to_s) }
+  base = "/s/#{s['slug']}/"
+
+  prev_link = prev_doc ? "<a href=\"#{base}#{prev_doc['file']}/reader\">&larr; #{esc.(prev_doc['label'])}</a>" : '<span></span>'
+  next_link = next_doc ? "<a href=\"#{base}#{next_doc['file']}/reader\">#{esc.(next_doc['label'])} &rarr;</a>" : '<span></span>'
+
+  content_type 'text/html'
+  <<~HTML
+    <!DOCTYPE html>
+    <html lang="en">
+    <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>#{esc.(label)} (reader) - #{esc.(s['title'])}</title>
+    <base href="#{base}">
+    <style>
+      :root { color-scheme: light dark; }
+      body { margin: 0; background: #fbfaf7; color: #1d1d1b; font: 18px/1.65 'Optima', "Times New Roman", serif; }
+      main { max-width: 42rem; margin: 0 auto; padding: 1.5rem 1.25rem 4rem; }
+      nav.reader-links { display: flex; justify-content: space-between; gap: 1rem; font: 15px/1.4 'Optima', system-ui, sans-serif; margin: 1rem 0; }
+      nav.reader-links a { color: #7a5a1e; text-decoration: none; }
+      nav.reader-links a:hover { text-decoration: underline; }
+      h1, h2, h3, h4 { font-family: 'Optima', system-ui, sans-serif; line-height: 1.25; margin-top: 2rem; }
+      img { max-width: 100%; height: auto; }
+      table { border-collapse: collapse; width: 100%; font: 15px/1.45 'Optima', system-ui, sans-serif; display: block; overflow-x: auto; }
+      th, td { border: 1px solid #c9c4b8; padding: .35rem .6rem; text-align: left; vertical-align: top; }
+      blockquote { margin: 1rem 0; padding: .6rem 1rem; border-left: 4px solid #c8a96e; background: #f1ede2; }
+      code { font-size: .9em; }
+      hr { border: 0; border-top: 1px solid #d8d3c6; margin: 2rem 0; }
+      @media (prefers-color-scheme: dark) {
+        body { background: #16171a; color: #e4e2dc; }
+        nav.reader-links a { color: #d9b86a; }
+        th, td { border-color: #3a3c42; }
+        blockquote { background: #1f2024; }
+        hr { border-top-color: #34363c; }
+      }
+    </style>
+    </head>
+    <body>
+    <main>
+      <nav class="reader-links"><a href="#{base}#{filename}">&larr; Back to viewer</a><a href="/s/#{s['slug']}">All chapters</a></nav>
+      <article>
+        #{html}
+      </article>
+      <nav class="reader-links">#{prev_link}#{next_link}</nav>
+    </main>
+    </body>
+    </html>
+  HTML
 end
 
 # Injected: prune_unlisted_docs — remove .md files in dest_docs not listed in meta.json
