@@ -1,8 +1,6 @@
 # TRAVELLER: NO CONTACT
 ## Chapter 5: Vehicles & Equipment
 
-*Referee Reference Document*
-
 ---
 
 ## 5.1: TECH LEVEL REFERENCE
@@ -13,6 +11,8 @@
 | **SolSec gear (the PCs)** | **TL10–11** | Concealed inside period objects. A real edge, but survives casual inspection. |
 | **Imperial spy kit (Ansel Voss, Chapter 4, §4.6)** | **TL10–12** | One tier better than SolSec issue, and not hidden. The receiver in his car is a TL12 emitter, and the trunk holds military weapons and armour. The Mass notices TL10+ emissions (Chapter 2, §2.30), so the receiver is what draws the gutwings. |
 | **Reserve armoury (Chapter 2, §2.29, Area 7)** | **TL10–12** | Imperial-issue containment stock, never opened since Y1113. |
+
+**Maps.** The only local map in the party is **Dabney's set of TL7 topographic survey sheets** of the Halvorsen flats and the Reserve (Chapter 3, §3.3), DM +2 on Navigation and Recon checks across open ground. He is also the only PC with the Navigation skill (1), and nobody else has a map, and the motel's own road atlas stops at the highway.
 
 **Referee tip:** Never let the TL gap be the *only* tell. Pair every mechanical tell with a behavioral one so sharp roleplay is rewarded as much as sharp system mastery.
 
@@ -30,7 +30,7 @@ See §5.3 for full detail on what's parked outside tonight and what's repairable
 
 ### What's parked outside tonight
 
-**No PC arrived with their own vehicle**, per §2.5, every agent took a one-way ride to get here, on the assumption extraction would be the ride out. Whatever's in the gravel lot belongs to someone else:
+**No PC arrived with their own vehicle**, per §2.6, every agent took a one-way ride to get here, on the assumption extraction would be the ride out. Whatever's in the gravel lot belongs to someone else:
 
 | Vehicle | Owner | Condition | Notes |
 |---|---|---|---|
@@ -62,9 +62,9 @@ Yes, there is a big rig, and it is the table's best way to the Reserve (Chapter 
 
 | Distance | Location | What's there | Risk |
 |---|---|---|---|
-| ~15km | Roadside filling station/garage | Small, one mechanic on call, closed overnight, reachable but nobody's answering the phone (comms are down anyway, per §2.5) | Low, but getting there on foot or by hitching in a storm is its own ordeal |
+| ~15km | Roadside filling station/garage | Small, one mechanic on call, closed overnight, reachable but nobody's answering the phone (comms are down anyway, per §2.6) | Low, but getting there on foot or by hitching in a storm is its own ordeal |
 | ~60km | Regional town with a proper garage | Real parts inventory, staffed during the day, closes at night | Moderate: a "hot" or stolen vehicle showing up here draws normal small-town attention, not Imperial-level scrutiny, but High Law 8 means local police involvement is a real possibility |
-| ~90km | Processing facility (site of the labor-stoppage rumor, §2.9) | Industrial vehicle pool, technically not public, heavier equipment | Higher: trespassing on an active labor dispute site, plus equipment here skews toward heavy/industrial rather than road-legal passenger vehicles |
+| ~90km | Processing facility (site of the labor-stoppage rumor, Chapter 2, §2.3) | Industrial vehicle pool, technically not public, heavier equipment | Higher: trespassing on an active labor dispute site, plus equipment here skews toward heavy/industrial rather than road-legal passenger vehicles |
 
 **Referee framing:** nothing within 100km is a clean, risk-free way out. Every option either takes real in-fiction time (repair, travel on foot or by hitching), involves a legal risk under Jorjor's High Law regime, or both, which keeps the "trapped" feeling from Chapter 6, §6.1 intact even once players start looking for a way around it, rather than solving the whole premise with a lucky Mechanic roll.
 
@@ -113,6 +113,8 @@ A **TL11 SolSec courier-sloop**, 100 dTon, Jump-1, with a cargo hold with four c
 Anyone who gets into the cockpit (two fobs, or the codeword) finds two things.
 
 **The log.** The flight computer's last entry is timed at 12:40, in Okafor-Brandt's flat voice: *"Crew ashore, four. Tour of the Halvorsen Reserve, day permit, walk-in permit for Area 13, number 0614. Return by 18:00. Holding for crew."* Below it is a string of unanswered check-in pings from 18:00 onward. This tells the table where the team went and that they never came back.
+
+**The locker.** A locked equipment locker in the hold has two cradles, one for a **field biological sampling kit** and one for a **portable psionic resonance test set**, both empty and with the shapes of the missing gear worn into the foam. A manifest tab lists both as "Reserve survey, authorised by controller," and a half-finished note in Hale's hand reads *"Probe baseline at the shelf first. If it answers, do not amplify."* The team went in to study the Reserve, not to sightsee, and the test set is the likeliest reason the Mass noticed them. Whether Wei sent them to test it is left unresolved.
 
 **The fob link.** The four fobs (§5.6) ping the ship's receiver, so the console shows each fob's status. The dust storm and the Mass make the link weak: the readings are faint, intermittent and have no voice. Read it out from the team's fate (Chapter 7, §7.6):
 - **Captured (C):** *"Fob 1: alive, bearing 190, 11 km, very faint."* The pulse is slow, as if sedated. Area 13.

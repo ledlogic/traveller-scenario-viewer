@@ -1,8 +1,6 @@
 # TRAVELLER: NO CONTACT
 ## Chapter 4: NPCs
 
-*Referee Reference Document*
-
 ---
 
 ## 4.1: THE MOTEL OWNER
@@ -43,14 +41,14 @@ A civilian anchor NPC; a non-player exposition and stakes source who is utterly 
 
 Two ordinary travelers, entirely unconnected to SolSec, Imperial Intelligence, or Baldwin Wei's network. They exist to be real; a grounding presence the PCs can misread, investigate, or simply overhear, and a reminder that not everyone at the motel tonight is a spy.
 
-**Suggested pair:** a long-haul freight driver and a spouse or road-partner riding along, stranded by the same storm blocking regional traffic (Chapter 2, §2.5) as everyone else.
+**Suggested pair:** a long-haul freight driver and a spouse or road-partner riding along, stranded by the same storm blocking regional traffic (Chapter 2, §2.6) as everyone else.
 
-- **Del Ashworth**: Age 54. UPP: 897765 *(STR 8 (0), DEX 9 (+1), END 7 (0), INT 7 (0), EDU 6 (0), SOC 5 (-1))*. Career: two terms **Merchant** (tramp-freighter crew) in his 20s before he aged out of ship-work and bought his own rig, then twenty-plus years running independent regional freight ever since; the same route, more or less, for most of that time. Irritable about the delay, mostly wants to sleep and get back on the road. Skills: Drive (wheeled) 1, Mechanic 0, Mechanic (repair) 1, Electronics 0, Electronics (comms) 1, Streetwise 0. No gear of consequence beyond CB radio chatter about the storm and highway conditions; a legitimate, mundane source of the traffic information referenced in Chapter 2, §2.7.
+- **Del Ashworth**: Age 54. UPP: 897765 *(STR 8 (0), DEX 9 (+1), END 7 (0), INT 7 (0), EDU 6 (0), SOC 5 (-1))*. Career: two terms **Merchant** (tramp-freighter crew) in his 20s before he aged out of ship-work and bought his own rig, then twenty-plus years running independent regional freight ever since; the same route, more or less, for most of that time. Irritable about the delay, mostly wants to sleep and get back on the road. Skills: Drive (wheeled) 1, Mechanic 0, Mechanic (repair) 1, Electronics 0, Electronics (comms) 1, Streetwise 0. No gear of consequence beyond CB radio chatter about the storm and highway conditions; a legitimate, mundane source of the traffic information referenced in Chapter 2, §2.8.
 - **Priya Ashworth**: Age 47. UPP: 665787 *(STR 6 (0), DEX 6 (0), END 5 (-1), INT 7 (0), EDU 8 (0), SOC 7 (0))*. No formal career terms, homeworld background skills only, from years of small-town admin and community work before she started riding along with Del rather than staying home alone. Restless and a little bored, the more likely of the two to strike up conversation in the lobby or notice something odd next door. Skills: Persuade 1, Streetwise 1, Admin 0, Admin (records) 1.
 
 **Del's load (Chapter 7):** Del is a **contract Feed Line hauler**. His tanker holds **28 tonnes of slaughterhouse offal** on a **stamped manifest (Consignment 9-4471)** bound for the Reserve's Feed Line Terminal (Chapter 2, §2.29, Area 8), stranded by the dust storm and a fouled fuel line (Chapter 5, §5.3). That is why his rig is the one vehicle that can pass a Red-alert gate. He knows the Reserve's drivers and hears its news on the CB: this afternoon it "closed up tight at five"; there were **shots, then a bang** around 4:20; and **areas 12 through 14 are shut** to camping. He mentions it unprompted if asked about the Reserve, and as idle gossip otherwise. He knows nothing about the pickup.
 
-**Referee use:** The Ashworths should never turn out to be secretly anything. Their value is entirely in being ordinary; a red herring PCs can investigate and rule out, a source of harmless CB-radio traffic gossip, and a pair of genuine bystanders whose safety quietly raises the stakes if the night turns violent. If a PC does something overtly strange near them (uses visibly anomalous tech, raises their voice about extraction), the Ashworths are a good, low-cost way to make a tech-discipline failure (Chapter 2, §2.6) feel immediately consequential without escalating to Imperial Security Service involvement.
+**Referee use:** The Ashworths should never turn out to be secretly anything. Their value is entirely in being ordinary; a red herring PCs can investigate and rule out, a source of harmless CB-radio traffic gossip, and a pair of genuine bystanders whose safety quietly raises the stakes if the night turns violent. If a PC does something overtly strange near them (uses visibly anomalous tech, raises their voice about extraction), the Ashworths are a good, low-cost way to make a tech-discipline failure (Chapter 2, §2.7) feel immediately consequential without escalating to Imperial Security Service involvement.
 
 **Gear and cash:** Del carries the tanker's keys, the stamped manifest (Consignment 9-4471), a CB radio handset, a tire iron under the seat and a tool roll; Cr320 in his wallet and a Feed Line fuel card (worth Cr1,500 of credit, only good at the Reserve terminal). Priya carries a paperback, a thermos, a handheld radio and her own purse with Cr140; the couple's rainy-day cash in the cab is Cr800.
 
@@ -140,23 +138,23 @@ None of the three needs more than this to run at the table; their entire functio
 
 ![Cabo Callum Marsh](img/deputy-marsh.webp)
 
-**Rank:** *Cabo* (corporal) of the Guarda Civil, whose ranks run Guarda, Cabo, Sargento, Subchefe, Chefe. Offworlders tend to call him "officer" and he does not correct them. Drawn by noise, a nosy neighbor's call, or simple routine patrol. Not hunting SolSec or Imperial activity specifically, has no idea any of tonight's guests are anything other than ordinary travelers, and should be played that way unless a PC gives him genuine cause to think otherwise.
+**Rank:** *Cabo* (corporal) of the Guardia Civil, whose ranks run Guardia, Cabo, Sargento, Subteniente, Teniente. Offworlders tend to call him "officer" and he does not correct them. Drawn by noise, a nosy neighbor's call, or simple routine patrol. Not hunting SolSec or Imperial activity specifically, has no idea any of tonight's guests are anything other than ordinary travelers, and should be played that way unless a PC gives him genuine cause to think otherwise.
 
 **Age:** 36
 
 **UPP:** 776654 *(STR 7 (0), DEX 7 (0), END 6 (0), INT 6 (0), EDU 5 (-1), SOC 4 (-1))*
 
-**Career history:** One term **Army** out of school, then four terms with the **Guarda Civil**, Jorjor's civil-service police (locals just say "the Guarda"; the name is a Concession-era leftover), long enough to be competent and unhurried, not long enough to have seen much worth being cynical about. Small stretch of highway, mostly traffic stops and drunk-and-disorderly calls; tonight is more interesting than his usual shift, which is itself worth noting if he seems to be lingering.
+**Career history:** One term **Army** out of school, then four terms with the **Guardia Civil**, Jorjor's civil-service police (locals just say "the Guardia"; the name is a Concession-era leftover), long enough to be competent and unhurried, not long enough to have seen much worth being cynical about. Small stretch of highway, mostly traffic stops and drunk-and-disorderly calls; tonight is more interesting than his usual shift, which is itself worth noting if he seems to be lingering.
 
 **Skills:** Gun Combat 0, Gun Combat (slug pistol) 1, Recon 1, Drive (wheeled) 1, Streetwise 1, Persuade 0
 
-**Gear:** TL7 service revolver, patrol car (running, marked, easily recognized, useless for any PC to "borrow" quietly), a portable radio on the Guarda's own channel. **Referee's call** whether the department's radio net is knocked out by the same storm silencing civilian comms (Chapter 2, §2.5), either answer works: if it's down too, Marsh is as isolated as everyone else and more nervous about it than he lets on; if it's up, he's a rare, real link to the outside world PCs might try to use or avoid.
+**Gear:** TL7 service revolver, patrol car (running, marked, easily recognized, useless for any PC to "borrow" quietly), a portable radio on the Guardia's own channel. **Referee's call** whether the department's radio net is knocked out by the same storm silencing civilian comms (Chapter 2, §2.6), either answer works: if it's down too, Marsh is as isolated as everyone else and more nervous about it than he lets on; if it's up, he's a rare, real link to the outside world PCs might try to use or avoid.
 
-**Cash:** Cr220 in a billfold, a ticket book, and a Guarda Civil expense chit worth Cr100 for fuel. Not corrupt, but a Cr50 "fine" paid on the spot makes the paperwork shorter.
+**Cash:** Cr220 in a billfold, a ticket book, and a Guardia Civil expense chit worth Cr100 for fuel. Not corrupt, but a Cr50 "fine" paid on the spot makes the paperwork shorter.
 
 **Role at the table:** Wants a calm, boring end to his shift. Responds well to plausible, unremarkable explanations and poorly to anything that reads as evasive or rehearsed; a PC using genuine Persuade/Deception skill has an easier time with him than one relying on tech or intimidation. Should never escalate to gunplay unless a PC forces the issue; his default is to write up a noise complaint and leave, not to search rooms or run identities.
 
-**Neural.AI image prompt:** A lean, unhurried Guarda Civil cabo (corporal) in his mid-30s, tan uniform, wide-brimmed hat, standing beside a marked patrol car with one hand resting on his belt near a holstered revolver, flashlight beam cutting across a dark gravel motel lot. Calm, faintly bored expression rather than alert suspicion. Photorealistic, science fiction/Americana crossover, no text, no logos.
+**Neural.AI image prompt:** A lean, unhurried Guardia Civil cabo (corporal) in his mid-30s, tan uniform, wide-brimmed hat, standing beside a marked patrol car with one hand resting on his belt near a holstered revolver, flashlight beam cutting across a dark gravel motel lot. Calm, faintly bored expression rather than alert suspicion. Photorealistic, science fiction/Americana crossover, no text, no logos.
 
 ---
 
@@ -164,7 +162,7 @@ None of the three needs more than this to run at the table; their entire functio
 
 A car parked across the highway or at the lot's edge, engine running, headlights off. This is **Ansel Voss**, a field operative of the Imperial Security Service (ISS), working under the cover name **Hollis Brandt**, "agricultural equipment assessor." He is an NPC, never a player role. He has been shadowing the SolSec network that uses Motel Yermo for months, and he arrived early tonight to watch who checks in. He is not here for the Reserve, but he followed the extraction team's ship to the downport yesterday and watched the four walk into the Reserve at about 11:30 this morning. He saw the gate close at five, and he has no idea what happened inside. That makes him the only other person on Jorjor who knows the pickup went into the Reserve and did not come out.
 
-He is first sighted at about **10:35 PM** (Chapter 1, §1.6). The gutwings arrive about five minutes later and go for him first (Chapter 6, §6.4), because his TL12 gear is the loudest thing on the highway (Chapter 2, §2.30). How the party meets him decides how they get his kit (Chapter 6, §6.3).
+He is first sighted at about **10:35 PM** (Chapter 1, §1.3). The gutwings arrive about five minutes later and go for him first (Chapter 6, §6.4), because his TL12 gear is the loudest thing on the highway (Chapter 2, §2.30). How the party meets him decides how they get his kit (Chapter 6, §6.3).
 
 ![Ansel Voss](img/ansel-voss.webp)
 
@@ -213,7 +211,7 @@ Every item is contraband at Law 8 (Chapter 2, §2.32). A party seen carrying the
 1. SolSec has used this motel for years. He knows the cover names, though not the faces.
 2. Four off-worlders walked into the Reserve at 11:30 this morning and have not come out. He photographed them from the highway.
 3. The gate closed at five, and he saw a ranger truck leave the Tower (Area 7) at dusk with a covered stretcher.
-4. The Tower basement is a Reserve armoury. He watched the rangers carry in sealed cases last week. (This confirms what Dabney and Tomas already half-know; Chapter 3, §3.3 and §3.7.)
+4. The Tower basement is a Reserve armoury. He watched the rangers carry in sealed cases last week. (This confirms what Dabney already knows; Chapter 3, §3.3.)
 
 **Role at the table:** a professional enemy who is also, tonight, the only source of heavy weapons. He will not hand over his kit to people he knows are SolSec. A party that approaches him unseen (Stealth, Average 8+) sees the car and the receiver before he sees them. A party that speaks to him gets a flat, polite "Brandt, equipment assessor" cover. Unless the table pushes, he bluffs it out and drives off.
 
@@ -292,13 +290,23 @@ Bureaucracies built on Jorjor's exacting, procedure-worshipping model are also *
 
 ### Referee use
 
-Osei never needs to appear in person for this to work; his absence, like Wei's, is load-bearing. If a PC (in either version) tries to independently reach the manifest office tonight, that's a legitimate way to surface Graveyard-shift information (Chapter 7, §7.1): a busy signal, a night-shift clerk who's never heard of any "administrative exception," or, worse, someone on the other end who asks a few too many careful questions before hanging up.
+Osei never needs to appear in person for this to work; his absence, like Wei's, is load-bearing. If a PC (in either version) tries to independently reach the manifest office tonight, that's a legitimate way to surface Act II information (Chapter 7, §7.1): a busy signal, a night-shift clerk who's never heard of any "administrative exception," or, worse, someone on the other end who asks a few too many careful questions before hanging up.
 
 ---
 
 ## 4.8: THE PICKUP: OVERVIEW
 
-The extraction the six guests are waiting for is real. A four-person SolSec team came for them. They landed **a day early**, in a dry wash (an arroyo, a dry riverbed that floods only in rare, rapid rains) just outside the Reserve fence, because their controller (Baldwin Wei) told them only to "check that nothing has gone bad," and being good at their jobs they went to look. They used the spare day to walk into the park on a day tour, as any tourist would. They were intrigued by the one thing within an hour's drive of the motel that appears on no chart of normal worlds: the Halvorsen Basin Biological Reserve (Chapter 2, §2.16; Chapter 7). They took a tour. There was an accident.
+The extraction the six guests are waiting for is real. A four-person SolSec team came for them, and it carried a second, quieter mission that the six were never told about. They landed **a day early**, in a dry wash (an arroyo, a dry riverbed that floods only in rare, rapid rains) just outside the Reserve fence. The visible order was to "check that nothing has gone bad" before the pickup. They had the same order as the six (Chapter 1, §1.1): no loose threads, so no hired vehicle, no police charge and no name on any ledger but a cover name, and they crossed the flats from the ship on foot.
+
+### The subversive mission
+
+Whatever intelligence the six bring out, someone in SolSec had already decided to act on what was available, and to begin **Solomani experiments on the pit beast** (the Mass, Chapter 2, §2.16 to §2.21). The team was not sent to collect the six's findings first. It was sent to get a baseline, in the one place on Jorjor where the Mass can be reached, before anyone could tell them not to. Who signed off inside SolSec is never stated at the table.
+
+The team went in on a day tour as cover (Chapter 7, §7.4), carrying a field biological sampling kit and a portable psionic resonance test set that they had declared to no one. The gear probably helped agitate the Mass. The players find this out late, from the ship's locker (Chapter 5, §5.5) and from Hale's pack.
+
+The six hold what the team lacked. If the intelligence had reached the team first, they would have known the history (the Y1113 Terrace collapse that closed Areas 12 to 14, the Feed Line pressure spike on day 231, the Amber alert on day 242), the places to be and not to be, and exactly how bad an idea it was to run an experiment from inside the Reserve. They ran it from the Terrace shelf, the most unstable ground in the basin, on the afternoon a haboob was pressing in. That gap between what the six know and what the team did is the engine of Act II.
+
+The one thing within an hour's drive of the motel that appears on no chart of normal worlds is the Halvorsen Basin Biological Reserve (Chapter 2, §2.16; Chapter 7). There was an accident.
 
 This section gives you the team, their ship, the key fobs that unlock it, what set the Mass off, and what happened to them.
 
@@ -401,7 +409,7 @@ A field physician and a trained psion who has spent her career being careful. To
   - Science (biology) 2
 - Telepathy 2 *(talent: Life Detection)*
 
-**Gear:** TL11 medikit, TL11 fob, a lightweight field recorder.
+**Gear:** TL11 medikit, TL11 fob, a lightweight field recorder, the team's field biological sampling kit (sample probes, vials, a handheld spectrometer) and the portable psionic resonance test set (a TL11 amplifier-and-meter that reads and boosts psionic activity, in a pack she carried on the Terrace).
 
 **Cash:** Cr400 in her field wallet.
 

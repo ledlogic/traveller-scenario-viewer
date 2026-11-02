@@ -1,8 +1,6 @@
 # TRAVELLER: NO CONTACT
 ## Chapter 2: Setting
 
-*Referee Reference Document*
-
 ---
 
 ## 2.1: THE WORLD, JORJOR
@@ -16,9 +14,9 @@ The scenario takes place on **day 245 of Y1116** (Imperial date 245-1116). The w
 | UWP element | Value | Meaning |
 |---|---|---|
 | Starport | B | Good quality: refined fuel, shipyard, both highport and downport. Real, unremarkable ship traffic. |
-| Size | 6 | Medium, 9,600 km diameter |
+| Size | 6 | Medium, 9,227 km diameter, 0.439 Earth masses, 0.78 g surface gravity |
 | Atmosphere | 4 | Thin, tainted |
-| Hydrographics | 1 | Dry world, 10% surface water |
+| Hydrographics | 1 | Dry world, 8% surface water |
 | Population | 8 | Moderate, ~100 million |
 | Government | 8 | Civil Service Bureaucracy |
 | Law | 8 | High Law: all blades, stunners and visible armour banned, and every lower-level ban also applies (firearms, shotguns, concealable weapons, military and energy weapons, explosives, poisons). Police, rangers and permit holders are exempt (§2.32) |
@@ -28,121 +26,69 @@ Jorjor is a **hellworld**, poor for its size, never became the industrial power 
 
 Jorjor sits in the same subsector (Arcturus) that *Signal GK* uses for Baldwin Wei's home turf, keeping this scenario in continuity with existing SolSec/Wei material.
 
----
+### Jorjor Time
 
-## 2.2: THE TOWN AND ITS SURROUNDINGS
+Jorjor turns once every **6.2 standard hours** (6h 12m), so the sun rises about every six hours. The year is just over two standard years (2 years, 0 days, 8h 45m), roughly **2,827 Jorjor days** per orbit. These figures come from the Traveller Worlds system sheet.
 
-The motel sits in a near-ghost settlement on the old alignment of the highway across Jorjor's flats, roughly halfway between two larger places that no longer need it. It is isolated, sun-blasted and once busier than it is now, kept alive almost entirely by one roadside business.
-
-Key details of the town layout:
-
-- **One business carries the whole town.** Motel Yermo is not *a* business in town, it is functionally the reason the settlement exists: gas, food and lodging under one near-24-hour operation, with a tall neon sign visible for miles across flat desert. At its peak, in the years when the highway mattered, it employed a meaningful fraction of the town's own population.
-- **A bypass gutted it.** The town thrived on through-traffic until a newer highway alignment opened on a route that did not connect to this stretch of road at all, and business went to almost zero overnight. This fits Jorjor's "hellworld, never became the industrial power it hoped to be" characterization (Chapter 2, §2.1): a regional bypass (a newer highway alignment, a rerouted rail spur, a shifted starport shuttle corridor) quietly stranded this stretch of road years ago, which explains why it is this quiet and this easy to disappear into. **Resolved:** the bypass runs the opposite direction from the Strange Park (§2.16); the old road, the one the motel sits on, is the one that leads toward the Reserve; the new route leads away from it entirely. Officially the realignment was pure economics, a shorter or more efficient route for regional traffic. Unofficially, it also happened to route most through-traffic away from the one stretch of road where bad interactions with the Reserve or its truck route were most likely; a convenient side effect the bureaucracy never needed to name or justify, since the paperwork only had to say "efficiency" to be procedurally complete. Whether anyone actually engineered it that way on purpose, or it was simply a fortunate accident the Civil Service Bureaucracy quietly noticed and never corrected, is left to the referee, either answer fits the government type's established texture (Chapter 4, §4.7) equally well.
-- **A population that shrank to almost nothing.** The settlement ran from several hundred people at its peak down to single digits, and the motel is kept alive as much by stubbornness as by real commerce. It should read as a real place with real history, not a purpose-built stage set, sustained by just enough passing traffic to stay open.
-- **Distances to services.** The nearest services are far away: a **15 km** filling station, a **60 km** town garage and a **90 km** industrial site, the same figures used in the vehicle-repair table in Chapter 5, §5.3. "Just drive to the next town" is a real ordeal, not an inconvenience.
-- **A fenced site just outside town.** A few kilometres out, a stretch of scrub is fenced off as a "geological survey" site. This is the seed for the **Fence-Line Hum** (Chapter 2, §2.8), and it gives the table a concrete visual anchor for that rumor rather than leaving it purely verbal.
-
----
-
-## 2.3: BUILDING THE REGION
-
-For a referee building out the region around the motel (place names, a hex map, surrounding settlements), the following structure keeps continuity with everything already established in Chapters 1 to 6:
-
-| Element | In the game | Already established where |
-|---|---|---|
-| The highway | The two-lane highway outside the motel | Chapter 2, §2.11; Chapter 2, §2.5 |
-| The settlement | The motel's home settlement; Motel Yermo is named (Chapter 1, §1.1), and the surrounding town remains open to naming | Chapter 1, §1.1; Chapter 2, §2.1 |
-| The roadside anchor | Motel Yermo, its office, and lobby (vending, jukebox, sometimes food) | Chapter 2, §2.11 to 2.12 |
-| The bypass | A regional highway, rail or shuttle realignment that stranded this stretch | §2.2, resolved above |
-| The nearest services | The 15 km filling station, 60 km town garage and 90 km industrial site | Chapter 5, §5.3 |
-| The fenced survey site | The Fence-Line Hum site | Chapter 2, §2.8 |
-| The motel's retro design | The motel's own dated mid-century signage and design; a visual choice for Neural.AI prompts and any custom art | Chapter 3; Chapter 4, §4.1 and §4.3 |
-
-**Naming:** the referee is free to invent local place names entirely. The table above exists to keep the underlying distances and relationships consistent with what is already written elsewhere in this document set.
-
----
-
-## 2.4: WHY THIS MATTERS AT THE TABLE
-
-A faded roadside town carries a specific emotional register (faded rather than sinister, populated by people who stayed out of stubbornness or had nowhere better to go) that suits this scenario's tone better than a generic "spooky desert motel" would. Leaning on that texture (one business holding a whole town together, a highway that used to matter more than it does now, distances that make "just drive to the next town" a real ordeal) gives every other chapter's atmospheric and logistical details a grounded reason to be true, rather than existing only because the plot needs them to.
-
----
-
-## 2.5: WHY THEY FEEL TRAPPED
-
-All six agents took **one-way rides** to reach this motel (a courier drop-off, a hired local driver, a hitched ride that continued on without them) on the assumption that extraction would be their ride *out*. None of them arranged their own return transport, because none of them expected to need it. That's the trap: it's not a locked door, it's the quiet, sinking realization over the course of the night that nobody has a car, nobody knows a reliable local contact, and the nearest town is a long walk down a two-lane highway in the dark.
-
-Layer in two concrete, external complications:
-
-- **A dust storm (a haboob, a wall of dust about a kilometre high, pushed ahead of a storm front) is blocking regional traffic** on the highway approach (see Chapter 2, §2.31 for its clock). It is real and checkable (a radio weather bulletin, a trucker who mentions it, downed branches visible from the parking lot), not a mystical omen. It's the reason a normal ride out isn't simple even before anyone suspects anything's wrong.
-
-  *Read-aloud:* "A wall of dust a kilometre high, walking toward you across the flats. You can hear it before you can see it, a rising hiss like a hundred hands rubbing sandpaper."
-- **Local commercial comms are out**, knocked down by the same storm, payphones dead, the motel office's own line down. This is what makes the missed extraction ambiguous rather than immediately alarming: is there no contact because the extraction failed, or just because the storm took the lines down? Neither the players nor their characters can tell early on, and that ambiguity should be played straight, not tipped either way by the referee's tone.
-
----
-
-## 2.6: TECH LEVEL DISCIPLINE, WHAT GETS NOTICED
-
-Yes, **using gear above the local TL7 baseline risks detection**, and this should be a standing pressure the whole session, not a one-time rule. Jorjor's starport and regional infrastructure include TL7-appropriate detection: passive radio-spectrum monitoring (routine, automated, watching for exactly the kind of anomalous signal a TL10+ transmitter or scanner throws off), and, because Jorjor sits in Imperial space, any signal that *is* flagged gets escalated to the **Imperial Security Service**, not just local police. A flagged signal doesn't mean immediate arrest; it means someone starts asking the local bureaucracy pointed questions, which is its own slow-building threat given Chapter 4, §4.7.
-
-**House rule for the table:** any use of TL10+ gear for anything beyond brief, low-power, one-off activity (a quick burst transmission, a single scan) should call for a **Electronics (comms) or Stealth check** against a DM set by how sustained or high-power the use is. A failed check doesn't mean instant Imperial agents at the door; it means a detection event has occurred, banked quietly by the referee, that surfaces later (a "routine" knock from a bureaucratic inspector, a stranger's car that starts idling outside, per Chapter 7, §7.1's complication options) rather than immediately.
-
-**The practical implication for players:** anyone using their real tradecraft gear has to weigh capability against exposure, and the TL12 gear carried by the Imperial spy in the lot (Chapter 4, §4.6) is the loudest thing on the highway tonight. The Mass notices TL10+ emissions (§2.30), and the spy's receiver is what draws the gutwings to the motel first (Chapter 6, §6.4). That gives sharp players something concrete to watch for without the referee needing to hand-wave a "vibes-based" tell.
-
----
-
-## 2.7: RANDOM TABLE, TRAFFIC THAT DOESN'T STOP
-
-Roll or pick 1D8 once per hour of in-fiction night, or whenever a PC is watching the highway (Room 1 Guest 2 does this by default, Chapter 3, §3.3):
-
-| 1D8 | Event |
+| Imperial (standard) | Jorjor |
 |---|---|
-| 1 | A single set of headlights approaches, slows almost to a stop directly opposite the motel, then continues on. No horn, no signal. |
-| 2 | A convoy of two or three vehicles passes at speed, moving away from the storm-blocked region, locals evacuating, not extraction traffic. |
-| 3 | Nothing for a long stretch; the silence itself becomes the tell; comment on how long it's been since *anything* passed. |
-| 4 | A vehicle's lights flick on and off twice, far down the highway, then go dark entirely. Could be signal, could be a stall, could be nothing. |
-| 5 | Local law enforcement patrol car passes at normal speed, doesn't slow, spotlight briefly sweeps the motel lot out of routine, not suspicion. |
-| 6 | A vehicle actually turns into the lot: a genuine new arrival (civilian, lost, or something else, referee's call in the moment). This is the one result that should always demand a scene, not just a description. |
-| 7 | **The sealed load.** A feed tanker or flatbed passes slowly, low on its springs, with a sealed load: welded hatches, no placard, a chained tarp over something that is not livestock feed. It is one of the last vehicles through before the storm closes the road (treat as 3 after Stage 3 begins). The driver does not wave. Recon or Streetwise 8+ notices there is no manifest placard on the cab. Ordinary Reserve traffic that happens to look wrong, and the first quiet hint that the Feed Line is being run harder than the schedule says. |
-| 8 | **Night sounds.** A rail-spur horn, two long and one short, carried from the Terminal side, or a low slurry-pump throb felt through the floor and in a glass of water. Neither should be running at this hour. Atmosphere unless a PC with Engineer or Mechanic asks why (Average, Education: the Reserve is moving more than the schedule says, and someone is covering the night shift). |
+| 1 standard hour | 3.87 Jorjor hours (3h 52m), if the Jorjor day is split into 24 local hours |
+| 1 Jorjor hour | 15.5 standard minutes |
+| 1 Jorjor minute | 15.5 standard seconds |
+| 6.2 standard hours | 1 Jorjor day (24 Jorjor hours) |
+| 8-hour shift | 1.29 Jorjor days (1 day, 6h 58m) |
+| 24 standard hours | 3.87 Jorjor days (3 days, 20h 54m) |
+
+**Which clock people keep.** Human body clocks run at about 24 hours and cannot follow a 6-hour sun, the way submarine crews on an 18-hour watch cycle never adapted and ISS crews ignore their sixteen sunrises a day. Jorjorans keep **one sleep block per standard 24 hours** on the Imperial clock, with shifts, meals, curfews and the starport schedule all set by that clock. The sun is a light signal, not a calendar: shutters, blackout curtains and artificial lighting do the work, and the sunrise is a cue for a short rest, a cup of caf, or a change of watch. Shift workers and the poor nap in short blocks around work, and pay for it in fatigue.
+
+**At the table.** In this scenario, times such as 21:40 are on the **standard 24-hour clock**, which the starport, the Reserve, SolSec and every watch use. Expect about four sunrises in that span, so a dawn can arrive in the middle of a shift, and darkness lasts only about three hours before the next one. Offworlders arrive jet-lagged, bedside clocks in the motel show two times (standard and sun), and "before dawn" in the acts means before the next sunrise, not the end of the night.
+
+### Jorjor Calendar
+
+The Bureaucracy dates its forms by **Charter Year (CY)**, counted from the Thale Charter (Y31, Imperial date 001-31, which is CY 1, day 1). A Jorjor year is one orbit, **730.4 standard days**, which is about **2,827 Jorjor days** (§Jorjor Time above). Forms give the Charter Year and the Jorjor day of the year, for example *CY 543, day 1,592*, with the Imperial date in brackets for offworld shippers. The Bureaucracy rounds the year to 2,827 days and adds a **Correction Day** every fifth year by schedule, which is wrong, and stamped.
+
+**Tonight is CY 543, day 1,592 of 2,827** (Imperial 245-1116), about 56% of the way through the Jorjor year. Set the season to taste: the dust storm and a base temperature of 46 °C fit late summer.
+
+| Imperial date | Charter Year | Event |
+|---|---|---|
+| 001-31 | CY 1 | The Thale Charter, Concession 9 |
+| Y212 | CY 91 | First corporate biolab contract |
+| Y300 | CY 135 | Ag-world consortia join, the first "warm patch" |
+| Y410 | CY 190 | The Civil Service Bureaucracy replaces the Knight-Administrators |
+| Y800 | CY 385 | The Feed Line opens |
+| ~Y900 | CY 435 | The first "subsidence" notices, Form 11-C |
+| ~Y1097 | CY 533 | Halvorsen finds the Pit alive |
+| Y1101 | CY 535 | The Reserve is created |
+| Y1113 | CY 541 | The Terrace collapses |
+| 132-1116 | CY 543, day 1,154 | Emperor Strephon is assassinated |
+| 231-1116 | CY 543, day 1,537 | The Feed Line pressure spike (T-14) |
+| 245-1116 | CY 543, day 1,592 | **Tonight** |
+
+**Quick conversions.** One Imperial day is 3.87 Jorjor days, so each Imperial date moves the Jorjor day count on by about 3.87 (245-1116 is day 1,592, 246-1116 is day 1,596). One Jorjor year is just over two Imperial years, so a Charter Year runs from about one Imperial year to the next but one. The conversions are approximate, and any one date may be off by a Charter Year.
+
+### Jorjor Sky, Air and Smell
+
+**The sky.** By day the sky is a washed-out ochre-pink, paler than a Terran blue because the air is thin (0.5 bar) and carries a brown haze of dust and organic taint, deepening to slate-violet straight overhead. The K6 sun is a hard copper-orange disc and rises about every six hours, so a dawn or dusk is never far off. Dusks run bruise-yellow and rust along the horizon. Under the dust storm the sky goes orange, then brown, and the sun is a dull coin (§2.31). The dark lasts only about three standard hours, black and full of stars, and lit from below by the ring.
+
+**The ring.** From the flats the ring is a broad arch across the southern or northern sky, seen by day as a pale band and by night as the brightest thing overhead. It is bone-white and grey, with bronze and copper where the sun catches its dusty lanes and a few narrow dark gaps, and it throws moving bands of shadow across the ground. It is visible from latitudes up to about 66°.
+
+**The air.** Atmosphere 4: thin, tainted and breathable only with a filter mask (Chapter 2, §2.1 table). Outdoors it smells faintly sweet over a metallic tang, like old pennies in a damp cellar, with something organic underneath that you cannot place.
+
+**The town.** El Huerto del Brocal smells like **the cold back room of a butcher shop**, not a slaughterhouse: iron and cold fat, sawdust, bleach and old blood, thin and clean and wrong. Locals stopped noticing years ago. Visitors do, and wonder why the diner's pie smells of copper. It is the Pit, a slow, buried compost, reaching town as a cooled, diluted trace.
+
+**Referee dial.** When the wind swings from the Basin, when the Mass warms, or when the storm's falling pressure draws it up (Acts II and III), the smell turns to **slaughterhouse**: hot, sour and ammoniac, with rendered fat and wet hair. It should arrive without comment, as a change in the air.
+
+### Jorjor Setting Dressing
+
+The surface culture around the motel reads close to Earth, circa **1970s**, tuned to Jorjor's actual **TL7**: sedans, wired phones, film cameras, revolvers and shotguns (banned for civilians at Law 8 and carried only under permit or as contraband, Chapter 2, §2.32), grimy analog electronics rather than clean consumer tech, no visible grav vehicles or fusion tech in daily life. Think dust, heat-shimmer, and a gas station sign missing half its neon, not a leafy highway diner.
+
+Everything for sale runs on gears, coins and springs: **mechanical vending machines** in the lobby and along the covered walkway, selling soda, cigarettes, stale snacks and a hand-cranked pack of road maps, each a heavy steel cabinet that clunks, whirs and sometimes eats the coins (Chapter 2, §2.12). No card readers, no screens, no smart tech to fail dramatically. They are part of the dressing, not a plot device, and they make a good place for two strangers to stand next to each other and not talk.
 
 ---
 
-## 2.8: LOCAL FLORA & FAUNA
+## 2.2: JORJOR GOVERNMENT
 
-Jorjor's thin, tainted atmosphere and dry (10% water) surface support sparse, tough native life; nothing native is aggressive toward humans by default, but the environment itself is what makes going outside at night unpleasant rather than dangerous:
-
-- **Scrub-thorn**: low, wiry desert brush that catches clothing and makes quiet movement across open ground genuinely difficult (DM−2 to Stealth checks moving through it off the beaten path).
-- **Wind-chitters**: small, nocturnal, insect-analog swarms that produce a constant dry clicking/rattling sound across the open desert at night, unsettling ambient noise, harmless, but excellent cover for masking (or mistaking) the sound of an actual approach.
-- **Dust-runners**: fist-sized ground-burrowing scavengers, skittish, harmless, but their sudden scrabbling movement in peripheral vision is a reliable source of false alarms and jump-scares for anyone stepping outside.
-- **The Fence-Line Hum** (optional): roughly 4km out, a stretch of scrub-desert fenced off decades ago by the Civil Service Bureaucracy (Chapter 4, §4.7) as an unexplained hazard site, officially logged as "geological survey, access restricted." Locals who'll talk about it at all describe a low, directionless hum audible only at night, wind-chitters going dead silent within the fence line, and a standing rule never to bring metal tools past the posted markers. Nobody's filed a real incident report in years; the fence, like everything else in Jorjor's bureaucracy, mostly persists because nobody's filed the correct form to take it down. Play this strictly as unresolved texture: a rumor a PC might hear in the lobby (§2.9, or §2.12) or from the motel owner, never a site the scenario actually visits. It exists to make Jorjor feel like a world with older, stranger history than tonight's plot touches, not a plot hook to chase.
-
-Nothing on Jorjor should physically threaten the PCs outdoors; the fear is psychological and logistical (visibility, footing, disorientation in unfamiliar scrub-desert dark), not predation.
-
----
-
-## 2.9: RUMORS OF UNREST OR BANDITS
-
-Optional flavor, seed through the motel owner (Chapter 4, §4.1) or passing traffic (§2.7, result 2 or 5) as background texture, not necessarily plot-relevant:
-
-- Talk of a **wildcat labor stoppage** at a regional processing facility, unrelated to tonight's events but explaining unusual road traffic patterns and a heavier local law-enforcement presence than normal.
-- Rumors of **highway bandits** working the storm-affected stretch of road, preying on stranded travelers, plausible, mostly exaggerated, but a good reason for a PC to hesitate before trying to walk out alone.
-- A vague, half-believed story about a **civil service inspector who vanished** on an audit trip out this way last season, deniable, mostly campfire-story material, but a referee who wants to lean harder into Chapter 4, §4.7's audit-discovery scenario can plant this as a quiet foreshadowing beat.
-
----
-
-## 2.10: DAILY LIFE & INSTITUTIONS
-
-Texture for how all of the above actually feels to live inside, day to day:
-
-- **School**: reading only; no testing. Literacy is maintained as a bare procedural formality. Testing would generate records, records would generate audits, and audits are the one thing this town's whole quiet arrangement can't survive.
-- **Medicine**: weak salves, creams, and home therapy. No real clinic or pharmacy investment; anything serious means a long trip elsewhere, which circles back to Chapter 5, §5.3's vehicle-repair problem being a genuine ordeal, not an inconvenience.
-- **Law**: frontier justice by bureaucratic whim: standard practice for a dispute is to detain *both* parties until the relevant paperwork is fully settled, which, given the Big Queue below, can take weeks. Nobody wants the law involved for anything short of true necessity, which is exactly the outcome the arrangement quietly depends on.
-- **Entertainment**: radio dramas, drawn out even further than old real-world serials like *Dark Shadows*; the pacing itself feels like another symptom of everything else here running at half-speed.
-- **The Big Queue ("the BQ")**: the single ordering system for essentially every civil action: vehicle repairs, road and bridge fixes, permit approvals, anything requiring the bureaucracy to actually do something. An infamous, sprawling, strictly first-come queue that never seems to move; a running local joke and a running local despair in equal measure, and a reliable, low-cost detail to drop into any NPC's small talk (the motel owner grumbling about a repair still stuck in the BQ, a restaurant regular complaining about a permit filed months ago) without it needing to connect to anything else in this document set.
-
-
-### The Civil Service Bureaucracy on Jorjor
+Jorjor is **Government 8, Civil Service Bureaucracy**. The world runs on forms, departments and stamps rather than elected leaders, and that shapes everything from road repair to how the Reserve was allowed to exist.
 
 *Source: the Civil Service Bureaucracy government type in 101 Governments, adapted for this scenario. Jorjor mixes three of its flavours.*
 
@@ -167,11 +113,156 @@ Texture for how all of the above actually feels to live inside, day to day:
 
 ---
 
+## 2.3: THE TOWN AND ITS SURROUNDINGS
+
+The motel sits in **El Huerto del Brocal** *(Spanish, "the garden at the well rim"; a farming settlement named for the orchards and kitchen gardens that once ringed the Pit)*, a near-ghost settlement on the old alignment of the highway across Jorjor's flats, roughly halfway between two larger places that no longer need it. It is isolated, sun-blasted and once busier than it is now, kept alive almost entirely by one roadside business.
+
+Key details of the town layout:
+
+- **One business carries the whole town.** Motel Yermo is not *a* business in town, it is functionally the reason the settlement exists: gas, food and lodging under one near-24-hour operation, with a tall neon sign visible for miles across flat desert. At its peak, in the years when the highway mattered, it employed a meaningful fraction of the town's own population. Behind the main building stand a handful of **residential cabins**, once housing for staff and long-stay guests, now mostly shuttered.
+- **A bypass gutted it.** The town thrived on through-traffic until a newer highway alignment opened on a route that did not connect to this stretch of road at all, and business went to almost zero overnight. This fits Jorjor's "hellworld, never became the industrial power it hoped to be" characterization (Chapter 2, §2.1): a regional bypass (a newer highway alignment, a rerouted rail spur, a shifted starport shuttle corridor) quietly stranded this stretch of road years ago, which explains why it is this quiet and this easy to disappear into. **Resolved:** the bypass runs the opposite direction from the Strange Park (§2.16); the old road, the one the motel sits on, is the one that leads toward the Reserve; the new route leads away from it entirely. Officially the realignment was pure economics, a shorter or more efficient route for regional traffic. Unofficially, it also happened to route most through-traffic away from the one stretch of road where bad interactions with the Reserve or its truck route were most likely; a convenient side effect the bureaucracy never needed to name or justify, since the paperwork only had to say "efficiency" to be procedurally complete. Whether anyone actually engineered it that way on purpose, or it was simply a fortunate accident the Civil Service Bureaucracy quietly noticed and never corrected, is left to the referee, either answer fits the government type's established texture (Chapter 4, §4.7) equally well.
+- **A population that shrank to almost nothing.** The settlement ran from several hundred people at its peak down to single digits, and the motel is kept alive as much by stubbornness as by real commerce. It should read as a real place with real history, not a purpose-built stage set, sustained by just enough passing traffic to stay open.
+- **Distances to services.** The nearest services are far away: a **15 km** filling station, a **60 km** town garage and a **90 km** industrial site, the same figures used in the vehicle-repair table in Chapter 5, §5.3. "Just drive to the next town" is a real ordeal, not an inconvenience.
+- **A fenced site just outside town.** A few kilometres out, a stretch of scrub is fenced off as a "geological survey" site. This is the seed for the **Fence-Line Hum** (Chapter 2, §2.9), and it gives the table a concrete visual anchor for that rumor rather than leaving it purely verbal.
+
+### Regional Commerce and History
+
+The flats around the motel were never rich, but they fed themselves. From the first settlement (Y31) the economy was dry-country farming and ranching on well water, serving the highway and the downport markets: hardy beef cattle and goats on scrub-thorn range, ostrich-type birds and poultry in sheds, and under irrigation, sorghum, alfalfa, date orchards, cotton and the odd industrial crop such as guayule. Farms hauled their culls and spoilage to the Halvorsen flats, which is how the dumping began (§2.19), and the same farms bought back cheap feed and fertiliser from the trucks coming the other way. The highway tied it together, with feed stores, a cotton gin, a packing shed and a livestock auction yard strung along the road, and Motel Yermo sat in the middle of it.
+
+The decline was slow, then sudden. The basin began to run warm (Y300), the first no-grazing order appeared (Y500s), the Feed Line opened (Y800), and "subsidence" notices started in Y900 (§2.20). Through all of it the paperwork said drainage and the farmers said bad luck. Herds were lost and the stock tanks silted. Wells ran dry or came up foul, equipment went missing from yards and sheds overnight, and tremors cracked roofs, stone pens and fence lines. Rustlers and bandits took the blame (see Rumors of Unrest or Bandits, below). In Y1097 a rancher named Halvorsen walked into the basin looking for a lost herd, and the town finally had a reason that no one could say aloud. The government made a Reserve of it (Y1101), the tourists came, the farms did not come back, and the bypass finished what the Pit had started.
+
+What is left is what a place keeps when its people go: **empty barns, coops and hutches, shearing sheds with old fleece on the floor, windpump towers with no blades, dry stock tanks, branded fence posts, rusted centre-pivot arms and dead circles in the dust, stumped orchards and a packing shed with its crates still stacked.** Nobody sold the stock or took the machinery, and the hoofprints and tyre tracks end at a fence or a fresh depression. In reality all of it was the Pit: it took the herds, swallowed the equipment, cracked the aquifer and shook the buildings.
+
+#### Rumors of Unrest or Bandits
+
+Optional flavor, seed through the motel owner (Chapter 4, §4.1) or passing traffic (§2.8, result 2 or 5) as background texture, not necessarily plot-relevant:
+
+- Talk of a **wildcat labor stoppage** at a regional processing facility, unrelated to tonight's events but explaining unusual road traffic patterns and a heavier local law-enforcement presence than normal.
+- Rumors of **highway bandits** working the storm-affected stretch of road, preying on stranded travelers, plausible, mostly exaggerated, but a good reason for a PC to hesitate before trying to walk out alone.
+- A vague, half-believed story about a **civil service inspector who vanished** on an audit trip out this way last season, deniable, mostly campfire-story material, but a referee who wants to lean harder into Chapter 4, §4.7's audit-discovery scenario can plant this as a quiet foreshadowing beat.
+
+**At the table.** Use these as scenery in Act I, as the thing the players notice on the drive or the walk that does not add up. A farmstead with an intact house and forty empty coops is more unsettling than any monster.
+
+---
+
+## 2.4: BUILDING THE REGION
+
+For a referee building out the region around the motel (place names, a hex map, surrounding settlements), the following structure keeps continuity with everything already established in Chapters 1 to 6:
+
+| Element | In the game | Already established where |
+|---|---|---|
+| The highway | The two-lane highway outside the motel | Chapter 2, §2.11; Chapter 2, §2.6 |
+| The settlement | The motel's home settlement; Motel Yermo is named (Chapter 1, §1.1) and the town is **El Huerto del Brocal** (§2.3) | Chapter 1, §1.1; Chapter 2, §2.1 |
+| The roadside anchor | Motel Yermo, its office, and lobby (vending, jukebox, sometimes food), plus a few residential cabins behind the main building, once staff and long-stay housing and now mostly empty | Chapter 2, §2.11 to 2.12 |
+| The bypass | A regional highway, rail or shuttle realignment that stranded this stretch | §2.3, resolved above |
+| The nearest services | The 15 km filling station, 60 km town garage and 90 km industrial site | Chapter 5, §5.3 |
+| The fenced survey site | The Fence-Line Hum site | Chapter 2, §2.9 |
+| The motel's retro design | The motel's own dated mid-century signage and design; a visual choice for Neural.AI prompts and any custom art | Chapter 3; Chapter 4, §4.1 and §4.3 |
+
+**Naming:** the referee is free to invent local place names entirely. The table above exists to keep the underlying distances and relationships consistent with what is already written elsewhere in this document set.
+
+---
+
+## 2.5: WHAT IT FEELS LIKE HERE
+
+This is a faded place, not a sinister one. The people who stayed are here out of stubbornness or because they had nowhere better to go, and they will tell you so if you ask. Nobody is trying to frighten you. Everything just feels a little left behind.
+
+You will notice:
+
+- **One lit sign for miles.** The motel's tall neon, half its tubes dead, is the only thing glowing on the flats, and the whole town hangs from it.
+- **A highway that used to matter.** The road is empty, the shoulders are cracked, and the buildings along it were built for traffic that stopped coming.
+- **Distance.** The nearest help is 15 km away, the nearest garage 60 km and the nearest industry 90 km. Driving to the next town is a real ordeal, not an errand.
+- **Things that were here and are not.** Empty barns and coops, windpumps with no blades, dry stock tanks, fences that lean. Ask a local what happened and you will get a shrug and a story about bandits.
+
+Play it quiet. The details are there to make the place feel real, so look at them, ask about them and use them. They are not all clues, and you will not know which ones are until later.
+
+---
+
+## 2.6: COMMUNICATIONS
+
+Nobody is going to call anybody tonight, and that is by design. This section covers how the six were told to come, what still works on Jorjor, and why the missed extraction cannot be explained by the phones alone.
+
+### How SolSec talks
+
+SolSec has kept comms with this network **deliberately minimal**, in case Imperial Security is listening. On this side of the Imperial border, old physical channels, telegrams relayed through intermediaries and coded HAM radio carrying encoded messages leave far less exposure than any modern link. Every PC was told to come by a relayed message signed *WeiVern*, a name all six know to be Baldwin Wei (Chapter 1, §1.1), and told to expect the extraction to arrive without a further word. Silence is the normal state of the net, which is why the missing extraction is ambiguous rather than alarming.
+
+### What works on Jorjor (TL7)
+
+- **Wired phones and payphones.** The motel office has a rotary line and there is a payphone in the lobby (§2.12). Both are on the same exchange, and the exchange is down tonight (see below).
+- **CB and portable radios.** Del Ashworth's tanker has a CB (Chapter 4, §4.2), the Guardia carries a radio on its own channel, and the Reserve staff use their own bands (§4.11, §4.12). Nobody speaks on the open channel about anything that matters.
+- **AM radio.** Weather bulletins and radio dramas (§2.10), full of static as the storm closes in.
+- **SolSec's own gear.** The PCs may carry TL10+ comms, but any real use of it risks detection (§2.7), and the spy in the lot (Chapter 4, §4.6) is listening.
+
+### Why the lines are down
+
+- **A dust storm (a haboob, a wall of dust about a kilometre high, pushed ahead of a storm front) is blocking regional traffic** on the highway approach (see Chapter 2, §2.31 for its clock). It is real and checkable (a radio weather bulletin, a trucker who mentions it, downed branches visible from the parking lot), not a mystical omen. It's the reason a normal ride out isn't simple even before anyone suspects anything's wrong.
+
+  *Read-aloud:* "A wall of dust a kilometre high, walking toward you across the flats. You can hear it before you can see it, a rising hiss like a hundred hands rubbing sandpaper."
+- **Local commercial comms are out**, knocked down by the same storm, payphones dead, the motel office's own line down. This is what makes the missed extraction ambiguous rather than immediately alarming: is there no contact because the extraction failed, or just because the storm took the lines down? Neither the players nor their characters can tell early on, and that ambiguity should be played straight, not tipped either way by the referee's tone.
+
+### Stranded
+
+All six agents took **one-way rides** to reach this motel (a courier drop-off, a hired local driver, a hitched ride that continued on without them) on the assumption that extraction would be their ride *out*. None of them arranged their own return transport, because none of them expected to need it. That's the trap: it's not a locked door, it's the quiet, sinking realization over the course of the night that nobody has a car, nobody knows a reliable local contact, and the nearest town is a long walk down a two-lane highway in the dark.
+
+---
+
+## 2.7: JORJOR TECHNICAL LEVEL 7
+
+**Tech discipline matters from the first scene.** Jorjor runs passive detection at its own TL7 baseline, escalating to the Imperial Security Service if something anomalous is flagged. **Using gear above the local TL7 baseline risks detection**, and this should be a standing pressure the whole session, not a one-time rule. Jorjor's starport and regional infrastructure include TL7-appropriate detection: passive radio-spectrum monitoring (routine, automated, watching for exactly the kind of anomalous signal a TL10+ transmitter or scanner throws off), and, because Jorjor sits in Imperial space, any signal that *is* flagged gets escalated to the **Imperial Security Service**, not just local police. A flagged signal doesn't mean immediate arrest; it means someone starts asking the local bureaucracy pointed questions, which is its own slow-building threat given Chapter 4, §4.7.
+
+**House rule for the table:** any use of TL10+ gear for anything beyond brief, low-power, one-off activity (a quick burst transmission, a single scan) should call for a **Electronics (comms) or Stealth check** against a DM set by how sustained or high-power the use is. A failed check doesn't mean instant Imperial agents at the door; it means a detection event has occurred, banked quietly by the referee, that surfaces later (a "routine" knock from a bureaucratic inspector, a stranger's car that starts idling outside, per Chapter 7, §7.1's complication options) rather than immediately.
+
+**The practical implication for players:** anyone using their real tradecraft gear has to weigh capability against exposure, and the TL12 gear carried by the Imperial spy in the lot (Chapter 4, §4.6) is the loudest thing on the highway tonight. The Mass notices TL10+ emissions (§2.30), and the spy's receiver is what draws the gutwings to the motel first (Chapter 6, §6.4). That gives sharp players something concrete to watch for without the referee needing to hand-wave a "vibes-based" tell.
+
+---
+
+## 2.8: RANDOM TABLE, TRAFFIC THAT DOESN'T STOP
+
+Roll or pick 1D8 once per hour of in-fiction night, or whenever a PC is watching the highway (Room 1 Guest 2 does this by default, Chapter 3, §3.3):
+
+| 1D8 | Event |
+|---|---|
+| 1 | A single set of headlights approaches, slows almost to a stop directly opposite the motel, then continues on. No horn, no signal. |
+| 2 | A convoy of two or three vehicles passes at speed, moving away from the storm-blocked region, locals evacuating, not extraction traffic. |
+| 3 | Nothing for a long stretch; the silence itself becomes the tell; comment on how long it's been since *anything* passed. |
+| 4 | A vehicle's lights flick on and off twice, far down the highway, then go dark entirely. Could be signal, could be a stall, could be nothing. |
+| 5 | Local law enforcement patrol car passes at normal speed, doesn't slow, spotlight briefly sweeps the motel lot out of routine, not suspicion. |
+| 6 | A vehicle actually turns into the lot: a genuine new arrival (civilian, lost, or something else, referee's call in the moment). This is the one result that should always demand a scene, not just a description. |
+| 7 | **The sealed load.** A feed tanker or flatbed passes slowly, low on its springs, with a sealed load: welded hatches, no placard, a chained tarp over something that is not livestock feed. It is one of the last vehicles through before the storm closes the road (treat as 3 after Stage 3 begins). The driver does not wave. Recon or Streetwise 8+ notices there is no manifest placard on the cab. Ordinary Reserve traffic that happens to look wrong, and the first quiet hint that the Feed Line is being run harder than the schedule says. |
+| 8 | **Night sounds.** A rail-spur horn, two long and one short, carried from the Terminal side, or a low slurry-pump throb felt through the floor and in a glass of water. Neither should be running at this hour. Atmosphere unless a PC with Engineer or Mechanic asks why (Average, Education: the Reserve is moving more than the schedule says, and someone is covering the night shift). |
+
+---
+
+## 2.9: REGIONAL FLORA & FAUNA
+
+Jorjor's thin, tainted atmosphere and dry (8% water) surface support sparse, tough native life; nothing native is aggressive toward humans by default, but the environment itself is what makes going outside at night unpleasant rather than dangerous:
+
+- **Scrub-thorn**: low, wiry desert brush that catches clothing and makes quiet movement across open ground genuinely difficult (DM−2 to Stealth checks moving through it off the beaten path).
+- **Wind-chitters**: small, nocturnal, insect-analog swarms that produce a constant dry clicking/rattling sound across the open desert at night, unsettling ambient noise, harmless, but excellent cover for masking (or mistaking) the sound of an actual approach.
+- **Dust-runners**: fist-sized ground-burrowing scavengers, skittish, harmless, but their sudden scrabbling movement in peripheral vision is a reliable source of false alarms and jump-scares for anyone stepping outside.
+- **The Fence-Line Hum** (optional): roughly 4km out, a stretch of scrub-desert fenced off decades ago by the Civil Service Bureaucracy (Chapter 4, §4.7) as an unexplained hazard site, officially logged as "geological survey, access restricted." Locals who'll talk about it at all describe a low, directionless hum audible only at night, wind-chitters going dead silent within the fence line, and a standing rule never to bring metal tools past the posted markers. Nobody's filed a real incident report in years; the fence, like everything else in Jorjor's bureaucracy, mostly persists because nobody's filed the correct form to take it down. Play this strictly as unresolved texture: a rumor a PC might hear in the lobby (§2.10, or §2.12) or from the motel owner, never a site the scenario actually visits. It exists to make Jorjor feel like a world with older, stranger history than tonight's plot touches, not a plot hook to chase.
+
+Nothing on Jorjor should physically threaten the PCs outdoors; the fear is psychological and logistical (visibility, footing, disorientation in unfamiliar scrub-desert dark), not predation.
+
+---
+
+## 2.10: DAILY LIFE & INSTITUTIONS
+
+Texture for how all of the above actually feels to live inside, day to day:
+
+- **School**: reading only; no testing. Literacy is maintained as a bare procedural formality. Testing would generate records, records would generate audits, and audits are the one thing this town's whole quiet arrangement can't survive.
+- **Medicine**: weak salves, creams, and home therapy. No real clinic or pharmacy investment; anything serious means a long trip elsewhere, which circles back to Chapter 5, §5.3's vehicle-repair problem being a genuine ordeal, not an inconvenience.
+- **Law**: frontier justice by bureaucratic whim: standard practice for a dispute is to detain *both* parties until the relevant paperwork is fully settled, which, given the Big Queue below, can take weeks. Nobody wants the law involved for anything short of true necessity, which is exactly the outcome the arrangement quietly depends on.
+- **Entertainment**: radio dramas, drawn out even further than old real-world serials like *Dark Shadows*; the pacing itself feels like another symptom of everything else here running at half-speed.
+- **The Big Queue ("the BQ")**: the single ordering system for essentially every civil action: vehicle repairs, road and bridge fixes, permit approvals, anything requiring the bureaucracy to actually do something. An infamous, sprawling, strictly first-come queue that never seems to move; a running local joke and a running local despair in equal measure, and a reliable, low-cost detail to drop into any NPC's small talk (the motel owner grumbling about a repair still stuck in the BQ, a restaurant regular complaining about a permit filed months ago) without it needing to connect to anything else in this document set.
+
+---
+
 ## 2.11: THE MOTEL: LAYOUT & ADJACENCY
 
 ![Satellite map of the area around the motel, the town and its surroundings, recolored to a desert palette, showing the highway, side roads, open flats and scrub ridges](img/motel-area-map.webp)
 
-Aerial map of the area around the motel (the town, its main road, side roads and clearings). Use it as the table's terrain reference for what lies beyond the lot: the one highway, the side roads and the scattered clearings, and how far apart everything is.
+Aerial map of the area around the motel and El Huerto del Brocal (the town, its main road, side roads and clearings). Use it as the table's terrain reference for what lies beyond the lot: the one highway, the side roads and the scattered clearings, and how far apart everything is.
 
 Six spaces, single-story, roadside: **Office**, **Lobby**, **Room 1**, **Room 2**, **Room 3**, **Room 4**, arranged in that order along the building's face, with a gravel parking lot in front and the highway beyond it.
 
@@ -195,7 +286,7 @@ The **restaurant** is a separate structure across the gravel lot, connected by a
 
 ## 2.12: THE LOBBY
 
-Small, worn, and functional: a few vinyl-cushioned chairs, a coin-op **vending machine** (soda, cigarettes, stale snacks, TL7, coin-operated, no smart tech to malfunction dramatically), a **jukebox or radio** playing low static-tinged music most of the night, and (inconsistently, depending on the owner's mood) a pot of coffee or a plate of something at the front desk.
+Small, worn, and functional: a few vinyl-cushioned chairs, a coin-op **vending machine** (soda, cigarettes, stale snacks, TL7, coin-operated, no smart tech to malfunction dramatically), a **radio** playing low static-tinged music most of the night, a **jukebox** that no longer works (see below), and (inconsistently, depending on the owner's mood) a pot of coffee or a plate of something at the front desk.
 
 It is the **only route** from any guest room to the parking lot and highway (Chapter 2, §2.11), which makes it the natural place for any two guests, PC or civilian, to cross paths without it being suspicious. Use it as a pressure valve: a scene that's gotten too intense in one room can spill into the lobby and suddenly involve someone who has no idea what's actually going on.
 
@@ -203,12 +294,26 @@ It is the **only route** from any guest room to the parking lot and highway (Cha
 
 | 1D6 | Event |
 |---|---|
-| 1 | The jukebox skips on the same few bars of a song for an uncomfortably long stretch before someone fixes it. |
+| 1 | Someone feeds the jukebox a coin. It clunks, buzzes and gives the coin back, jammed as it has been for weeks, and the radio fills the silence with static. |
 | 2 | The vending machine eats someone's coins. A small, human, deflating moment of frustration, good icebreaker material between strangers. |
 | 3 | The motel owner (Chapter 4, §4.1) is at the desk, in a talkative mood, with an opinion about the weather, the storm, or "the usual crowd" this stretch of highway gets. |
 | 4 | One of the Room 4 civilian guests (§4.2) is already here, doing something mundane, reading a paper, nursing a coffee, watching the door. |
 | 5 | The lobby is briefly, completely empty; an unsettling contrast if the last few scenes have been tense elsewhere. |
-| 6 | Someone new comes through the front door, not a guest checking in, just passing through to ask directions or use the payphone (which, per Chapter 2, §2.5, is dead due to the storm). |
+| 6 | Someone new comes through the front door, not a guest checking in, just passing through to ask directions or use the payphone (which, per Chapter 2, §2.6, is dead due to the storm). |
+
+### The jammed jukebox
+
+The lobby jukebox does not work. A coin goes in, the mechanism clunks and buzzes, and the coin drops back out. Earlene Vance (Chapter 4, §4.1) will tell anyone who asks that it has been stuck for weeks and that she has hit it, kicked it and sworn at it. It is part of the dressing, and no one in the building has opened it.
+
+**What is inside.** Opening the service panel takes a key from the owner's desk, a Mechanic or Electronics (Routine, 6+, one minute), or a screwdriver and a stubborn guest (Average, 8+, with noise). Inside, a **music cylinder** is jammed half-way out of the carousel. A cylinder of this kind has a paper label glued to its end with a song title. Under the title, in pencil and in a tidy surveyor's hand, someone has written a set of **coordinates**:
+
+> *Lat 14.62 N, Long 47.09 E*
+
+They are the **dry wash north of the Reserve where the *Soft Landing* sits** (Chapter 5, §5.5), 11 km from Area 13. Okafor-Brandt left them as a dead drop for the six on the morning she ate at the motel's restaurant and passed through the lobby, because her order was "no loose threads" and a pencil mark on a jammed jukebox leaves no record (Chapter 1, §1.1). She expected the six to arrive after the pickup, find the coordinates and walk out to the ship.
+
+**Reading them.** The numbers mean nothing without a map. A PC with a local topographic map (Dabney carries one, Chapter 3, §3.3) plots them in a few minutes, **Recon (Average, 8+)**. Without one, Navigation or Recon is **Difficult (10+)**, and anyone who guesses wrong walks the dry wash in the dust front.
+
+**When to use it.** Plant it in Act I (Chapter 6, §6.1, the clue table) as one more clue that the pickup was real and is somewhere out toward the Reserve. A table that finds the coordinates early can head for the ship by Route C (Chapter 7, §7.3) without ever going through the Gate, which makes it a real alternative to Acts II and III, and the referee should let it, since the ship stays shut without two fobs or the spoken codeword (Chapter 5, §5.5).
 
 ---
 
@@ -222,13 +327,13 @@ This space is built to evoke the atmosphere of *Dying Room Only* (1973); a Richa
 
 Attached to the motel but not the same building as the lobby (Chapter 2, §2.11); a separate, low structure a short walk across the gravel lot, connected by a covered walkway. **Officially semi-closed:** posted hours say lunch and early dinner only, but the lights are sometimes on late, and whether it's "open" on any given night depends entirely on whether the staff feel like it.
 
-Worn vinyl booths, a long counter, a pass-through kitchen window, a jukebox older and less functional than the one in the lobby (Chapter 2, §2.12), and, the one detail worth making concrete for the table, a **single, small restroom hallway** at the back with one entrance and no other way out, just large enough for one person to be out of sight of the dining room for a stretch of time without it being unusual.
+Worn vinyl booths, a long counter, a pass-through kitchen window, a jukebox older than the one in the lobby (Chapter 2, §2.12), which still plays, badly, and, the one detail worth making concrete for the table, a **single, small restroom hallway** at the back with one entrance and no other way out, just large enough for one person to be out of sight of the dining room for a stretch of time without it being unusual.
 
 ---
 
 ## 2.15: OPTIONAL USE, THE VANISHING BEAT
 
-If a referee wants a hard, memorable Graveyard-shift complication (Chapter 7, §7.1) beyond what's already in §2.7–2.9, this space supports one directly: **someone goes to the restroom and doesn't come back.**
+If a referee wants a hard, memorable Act II complication (Chapter 7, §7.1) beyond what's already in §2.8–2.10, this space supports one directly: **someone goes to the restroom and doesn't come back.**
 
 - Best used on a low-stakes NPC rather than a PC, **Del or Priya Ashworth** (Chapter 4, §4.2) is the natural choice, since their disappearance genuinely worries the table without derailing anyone's own character arc.
 - Play the staff exactly as unhelpful as the tone reference: not obstructive enough to look like a smoking gun, just unhelpful enough that a search feels harder than it should. "Ain't seen anyone come through here tonight" delivered flatly, even if it isn't quite true.
@@ -239,17 +344,17 @@ If a referee wants a hard, memorable Graveyard-shift complication (Chapter 7, §
 
 ## 2.16: THE STRANGE PARK (THE GUT)
 
-Roughly an hour's drive from the motel, off a spur road most maps don't bother labeling, and in the opposite direction from the regional bypass (§2.2) that stranded this stretch of road, sits a fenced, half-abandoned tourist site the locals just call **the Gut**, officially the **Halvorsen Basin Biological Reserve**, discovered by a rancher-turned-prospector (Ansel Halvorsen, **~Y1097**) about two decades before tonight, made a government Reserve in **Y1101**, and struck by a disaster in **Y1113** (the Terrace collapse in Areas 12–14) that closed it to the public until it was **relicensed in Y1114** for escorted tours and camping. What's down there (a colossal, still-living subsurface ecosystem, a thousand years in the making) is entirely original to this document set, not drawn from any existing published setting. **It is no longer background.** §2.17 to §2.26 explain where it came from, §2.27 onward is the Reserve in play, and Chapter 4, §4.8 is the SolSec pickup team that vanished into it: it is the reason the extraction never came.
+Roughly an hour's drive from the motel, off a spur road most maps don't bother labeling, and in the opposite direction from the regional bypass (§2.3) that stranded this stretch of road, sits a fenced, half-abandoned tourist site the locals just call **the Gut**, officially the **Halvorsen Basin Biological Reserve (HBBR)**, discovered by a rancher-turned-prospector (Ansel Halvorsen, **~Y1097**) about two decades before tonight, made a government Reserve in **Y1101**, and struck by a disaster in **Y1113** (the Terrace collapse in Areas 12–14) that closed it to the public until it was **relicensed in Y1114** for escorted tours and camping. What's down there (a colossal, still-living subsurface ecosystem, a thousand years in the making) is entirely original to this document set, not drawn from any existing published setting. **It is no longer background.** §2.17 to §2.26 explain where it came from, §2.27 onward is the Reserve in play, and Chapter 4, §4.8 is the SolSec pickup team that vanished into it: it is the reason the extraction never came.
 
 ### Why the biowaste trucks
 
 The Reserve's continued (unpublicized) survival depends on a standing contract, administered, inevitably, through Jorjor's Civil Service Bureaucracy (Chapter 4, §4.7): regional slaughterhouses and agricultural operations, plus sector-based systems (other worlds across the Rim sending their own biological waste), pay a modest fee to have their organic waste hauled to the edge of the flats and dumped, under a permit whose paperwork describes it as routine "organic waste processing." In practice, it's feed; a thousand-year-old, half- forgotten arrangement (**Concession 9**, Chapter 2, §2.18) that keeps the organism sedated and quiet rather than hungry and active. Almost nobody administering the contract today knows *why* it exists; it survives the same way Osei's compromised clearances do (Chapter 4, §4.7); because a bureaucracy this committed to procedure treats a correctly-filed permit as self-justifying, and questioning a thousand-year-old arrangement is itself the irregular act.
 
-**Referee use:** the truck route to the flats is a good source of incidental color for the highway traffic table (Chapter 2, §2.7); a heavy, slow-moving truck at an odd hour, smelling faintly wrong, that nobody local thinks twice about. Played straight, it's just one more piece of the region's mundane, slightly-off texture; a referee running a longer Jorjor campaign can dig much further into it whenever they're ready.
+**Referee use:** the truck route to the flats is a good source of incidental color for the highway traffic table (Chapter 2, §2.8); a heavy, slow-moving truck at an odd hour, smelling faintly wrong, that nobody local thinks twice about. Played straight, it's just one more piece of the region's mundane, slightly-off texture; a referee running a longer Jorjor campaign can dig much further into it whenever they're ready.
 
 ### The ancient satellite and the shutter
 
-High overhead, in a stable orbit nobody local claims to have put it there, sits an **Ancients-era orbital platform**, precursor technology, vastly older than current Imperial or Solomani spaceflight, generally assumed derelict. Local legend (mostly dismissed as superstition, the same register as the Fence-Line Hum, Chapter 2, §2.8) holds that the platform contains a massive optical system, effectively a solar concentrator, behind a **controllable aperture, "the shutter."** In its current, presumably-jammed-open-or-closed state it does nothing. But if someone understood how to command it, opening the shutter at the right orbital alignment could focus enough sunlight onto a target region to produce a genuine, sustained heatwave, not a laser, not a single blast, but enough concentrated solar energy over a wide area to scorch, dry out, or ignite whatever's underneath.
+High overhead, in a stable orbit nobody local claims to have put it there, sits an **Ancients-era orbital platform**, precursor technology, vastly older than current Imperial or Solomani spaceflight, generally assumed derelict. Local legend (mostly dismissed as superstition, the same register as the Fence-Line Hum, Chapter 2, §2.9) holds that the platform contains a massive optical system, effectively a solar concentrator, behind a **controllable aperture, "the shutter."** In its current, presumably-jammed-open-or-closed state it does nothing. But if someone understood how to command it, opening the shutter at the right orbital alignment could focus enough sunlight onto a target region to produce a genuine, sustained heatwave, not a laser, not a single blast, but enough concentrated solar energy over a wide area to scorch, dry out, or ignite whatever's underneath.
 
 **This is optional deep lore, not a plot device already wired into No Contact.** It's included here as a seed for a referee who wants a bigger, slower-burning campaign thread across multiple sessions: Who built it? Does anyone currently living know how to control it? Could Osei's bureaucracy, the Ancients themselves, SolSec, or the Imperium already be quietly aware of it? None of those questions need answers for tonight's motel scenario to work; they're here so the referee has somewhere to go next.
 
@@ -257,7 +362,7 @@ High overhead, in a stable orbit nobody local claims to have put it there, sits 
 
 ## 2.17: THE PIT: OVERVIEW
 
-The Strange Park (Chapter 2, §2.16) used to be background lore. Tonight it is the reason the extraction never came: the SolSec pickup team landed early, toured the Reserve, and got into trouble (Chapter 4, §4.8). This section takes the mystery out of the *origin* of the Gut; it is not Ancient, it is not a weapon, it is not a one-of-a-kind miracle. It is **the Imperium's compost heap**, and it was never meant to be anything else, and answers the question the players will ask ("how did this happen?") in a form you can read aloud.
+The Strange Park (Chapter 2, §2.16) used to be background lore. Tonight it is the reason the extraction never came: the SolSec pickup team landed early, went into the Reserve under tour cover with test equipment that likely stirred the Mass, and got into trouble (Chapter 4, §4.8; Chapter 7, §7.5). This section takes the mystery out of the *origin* of the Gut; it is not Ancient, it is not a weapon, it is not a one-of-a-kind miracle. It is **the Imperium's compost heap**, and it was never meant to be anything else, and answers the question the players will ask ("how did this happen?") in a form you can read aloud.
 
 What stays mysterious is what the heap **became**: §2.27 onward and Chapter 4, §4.8 cover that.
 
@@ -277,6 +382,17 @@ That is the entire policy: **"Concession 9."** Everything since is accretion. Fo
 - **The shippers are respectable.** Agricultural worlds with a harvest glut, slaughterhouse and cannery combines, food-synthesis plants, and (from **Y212**) corporate biolabs disposing of cell lines, culls and failed engineered stock. Every one has a clean manifest. None of them is doing anything illegal.
 - **The administrators were knights, not villains.** Thale's heirs and the Knight-Administrators who followed (Y31–Y410) were honest, bored gentry. Every one of them signed off on "just one more contract." None of them could have foreseen what a thousand years of mixed biomass, engineered microbes, and cultured tissue would do when left to stew in a warm basin under an unusually sunny sky.
 - **The Bureaucracy kept it going by never questioning it.** After **Y410** the Civil Service Bureaucracy took over Jorjor's administration (Chapter 4, §4.7). It inherited Concession 9 as an item on a schedule, and, true to type, never questioned a properly-stamped form.
+
+### The HRRMRRFRRMRR
+
+Over a thousand years, Concession 9 grew a stack of legal instruments that made every shipment of meat, offal and biowaste to Jorjor lawful, and that the Bureaucracy files under one code, **HRR-MRR-FRR-MRR** (the clerks say it as a mumble, *"hrrmrrfrrmrr"*, and locals just call it "the Hrm"). Its four parts are:
+
+- **HRR, Halvorsen Receiving Rights** (Y31): Concession 9 itself, the Administrator's right to receive wastes upon the Halvorsen flats.
+- **MRR, Material Receipt Rules** (Y212 onward): the manifest standard. A shipment with a clean, stamped manifest must be received, and the shipper is not asked what is in it.
+- **FRR, Fee Remittance Rules**: the fee schedule, Cr10 per dTon, unchanged for a millennium because changing it needs a form nobody may file.
+- **MRR, Maintenance and Retention Rules** (Y1101): the Reserve charter, which obliges the Concession to keep the basin as a "biological reserve" and, in a clause nobody reads, to retain and not disturb what is received.
+
+Together they say the dumping was **lawful at every step**, which is why no one was ever charged, and why shutting the Reserve down would take a form that does not exist. The HRRMRRFRRMRR is the paperwork under the Pit, and a character who has read it (Corvin, Chapter 3, §3.2) understands how the Pit came to be.
 
 ---
 
@@ -300,7 +416,7 @@ That is the entire policy: **"Concession 9."** Everything since is accretion. Fo
 - At the peak rate, **46,000 tonnes arrive every day**; a little under **two tonnes every minute, forever**.
 - Credits earned at Cr10/dTon: roughly Cr0.1 million a year in the Trickle, Cr1.8M in the Contract Era, and Cr12M at peak. Over all 1,085 years: **about Cr4.7 billion**: the price of a few warships, spread over a millennium.
 
-**Why the motel only sees a trickle of trucks.** Almost none of this comes by road. After **Y800** it comes through a **slurry pipeline** fed from the orbital downport rail spur, ending at the Feed Line Terminal (§2.29, Area 8). Trucks carry only about **1%**, roughly 15 truck-trips a day at 30 tonnes each, mostly for small contractors, local farms, and specialty loads that need hand-handling. A heavy truck at an odd hour is therefore *normal*, not sinister (Chapter 2, §2.7).
+**Why the motel only sees a trickle of trucks.** Almost none of this comes by road. After **Y800** it comes through a **slurry pipeline** fed from the orbital downport rail spur, ending at the Feed Line Terminal (§2.29, Area 8). Trucks carry only about **1%**, roughly 15 truck-trips a day at 30 tonnes each, mostly for small contractors, local farms, and specialty loads that need hand-handling. A heavy truck at an odd hour is therefore *normal*, not sinister (Chapter 2, §2.8).
 
 **Decomposition does most of the work.** The Mass (§2.21) has been digesting this waste for centuries; the pile is not 6.6 billion tonnes of standing waste. It is, instead, a *standing biomass* that is still growing, still being fed, and, at this point, no longer entirely depending on the feed.
 
@@ -366,7 +482,7 @@ Tonight is **day 245 of Y1116**. "T-" times are days before. Referee-facing and 
 | **T-12** | A Reserve tour group is lost in Area 11. Staff close the file as "withdrawn from reservation." Four of the six accounts continue to draw UBI (Chapter 2, §2.24). |
 | **T-10** | **Compliance Officer Dara Pruitt** arrives from the regional Bureau to review the Reserve's incident forms. She is not warned that the numbers are bad. |
 | **T-9** | Pruitt files **Form 11-C (Subsidence, Minor)**; her 40th. She begins to suspect the Reserve is hiding its numbers. |
-| **T-6** | **Baldwin Wei issues the extraction order** to the six guests. Separately, he dispatches the pickup; the *Soft Landing* (Chapter 4, §4.8). |
+| **T-6** | **Baldwin Wei issues the extraction order** to the six guests. Separately, he dispatches the pickup; the *Soft Landing* (the ship, Chapter 5, §5.5; the team, Chapter 4, §4.8). |
 | **T-5** | PCs begin their journeys to Motel Yermo (Chapter 3). |
 | **T-3** | Dust-front forecasts issued for the basin; the Reserve moves to **Alert: Amber** on a rumour of "ground sounds" in the Terrace. |
 | **T-1** (day 244) | **The Soft Landing arrives early**, 02:00, landing in a dry wash (an arroyo: a dry riverbed or drainage channel that stays dry most of the year and floods rapidly when it rains) just outside the Reserve fence, 11 km north of Area 13, under sensor-shadow. The crew sleeps, then plans an advance look at the Gut: Wei's one note to them was "check that nothing has gone bad." |
@@ -415,7 +531,7 @@ The local financial institution holding these accounts, call it something like t
 
 **Yes, this is exactly where a meaningful share of that float goes.** It is a small, informal, decades-old effort. Locals who know about it at all just call it **the Shutter Project**, and it is quietly funded through the body-bank float, attempting to study, reverse-engineer, or establish some working control over the ancient orbital platform's shutter mechanism (§2.16). No official budget line exists for it and never will; a project like this would never survive contact with a real Imperium funding review, which is exactly why it has to live inside a hidden channel instead of an approved one.
 
-Consistent with Jorjor's TL7 baseline (Chapter 1, §1.4–5.1) even for its most ambitious secret project, picture the aesthetic as genuinely **analog, vacuum-tube-era radio and optical instrumentation** (home-built antenna arrays, hand-plotted orbital tracking, racks of dials rather than displays) scrappy 1950s-style electromagnetics research rather than anything that would read as anomalously advanced if stumbled upon. The people running it aren't a unified conspiracy with one motive: some genuinely believe they're protecting the world by quietly monitoring and probing it themselves rather than reporting it and risking Imperium seizure or exploitation; some see it as a path to real local power the Civil Service Bureaucracy would otherwise never grant them; a few are just true believers, drawn in by half-understood Ancients reverence more than by any practical plan.
+Consistent with Jorjor's TL7 baseline (Chapter 2, §2.1, Jorjor Setting Dressing, through Chapter 5, §5.1) even for its most ambitious secret project, picture the aesthetic as genuinely **analog, vacuum-tube-era radio and optical instrumentation** (home-built antenna arrays, hand-plotted orbital tracking, racks of dials rather than displays) scrappy 1950s-style electromagnetics research rather than anything that would read as anomalously advanced if stumbled upon. The people running it aren't a unified conspiracy with one motive: some genuinely believe they're protecting the world by quietly monitoring and probing it themselves rather than reporting it and risking Imperium seizure or exploitation; some see it as a path to real local power the Civil Service Bureaucracy would otherwise never grant them; a few are just true believers, drawn in by half-understood Ancients reverence more than by any practical plan.
 
 ---
 
@@ -431,7 +547,7 @@ This fits Traveller's own setting texture well: psionics are officially suppress
 
 §2.17 to §2.26 say how the Gut came to be. This section says what it is like to walk into it tonight: the fourteen numbered areas of the Halvorsen Basin Biological Reserve, the alert track that reacts to what the players do, the creatures and plants that live there, the staff who are covering it up, and the three ways in. Act II and Act III of the scenario (Chapters 7–8) are played here.
 
-**The park is not optional.** The *Soft Landing* sits in a dry wash (an arroyo) just outside the Halvorsen Basin Biological Reserve, and the pickup crew used their spare day to tour it. Whatever else the table decides, the only way off Jorjor runs through the Reserve.
+The *Soft Landing* sits in a dry wash (an arroyo) just outside the Halvorsen Basin Biological Reserve, and the pickup crew used their spare day to go in, posing as tourists. Whatever else the table decides, the only way off Jorjor runs through the Reserve.
 
 **All area descriptions are original to this document set.** They are not taken from any published adventure, supplement, or map.
 
@@ -489,7 +605,7 @@ The AP is the table's *clock*. Reaching Black does not end the scenario; it make
 
 ### Ambiance: the sound of the Feed Line
 
-The slurry pipeline is buried and silent, but the machinery along it is not. Near the Terminal (Area 8) there is a constant low pump hum and a slow thump from the valves, felt through boots and truck frames more than heard, and it keeps going through the dust storm. At the motel it is only a faint throb in the floor or a glass of water on a quiet night (§2.7, result 8). Players will stop noticing it, which is the point: when the Feed Terminal stops pumping at Alert: Black (§2.28), the silence is a sound of its own. A PC who noticed the hum earlier gets that cue for free, and anyone else can catch it with an Average (8+) Recon check.
+The slurry pipeline is buried and silent, but the machinery along it is not. Near the Terminal (Area 8) there is a constant low pump hum and a slow thump from the valves, felt through boots and truck frames more than heard, and it keeps going through the dust storm. At the motel it is only a faint throb in the floor or a glass of water on a quiet night (§2.8, result 8). Players will stop noticing it, which is the point: when the Feed Terminal stops pumping at Alert: Black (§2.28), the silence is a sound of its own. A PC who noticed the hum earlier gets that cue for free, and anyone else can catch it with an Average (8+) Recon check.
 
 ### Area 7: the Ranger Armoury
 
@@ -588,7 +704,7 @@ A character using **Telepathy** near the basin (even Life Detection) finds the M
 
 ## 2.31: THE DUST STORM CLOCK
 
-The storm established in §2.5 is a **haboob**, a wall of dust about a kilometre high rolling in from the south-west. It reaches the Reserve in stages.
+The storm established in §2.6 is a **haboob**, a wall of dust about a kilometre high rolling in from the south-west. It reaches the Reserve in stages.
 
 *Read-aloud, when the table first sees it:* "You see it first as a bruise on the horizon, orange going to brown, a kilometre high. Then the light changes. The sky goes the colour of old rust, the shadows flatten, and the air goes still and heavy, like the world is holding its breath. The radio fills with static. Birds go quiet. Then the wall arrives. A low roar, and a hiss like a thousand hands rubbing sandpaper. Grit rattles the windows. The lights flicker. Everything tastes of copper and dust, and the world shrinks to the length of your arm."
 
@@ -612,7 +728,7 @@ The storm established in §2.5 is a **haboob**, a wall of dust about a kilometre
 
 ## 2.32: THE LAW & TRAVELLERS
 
-Jorjor is **Law Level 8**. Every ban at Law Level 8 and below applies to civilians and offworlders: all bladed weapons, stunners and visible armour (Law 8); shotguns (Law 7); all firearms (Law 6); personal concealable weapons (Law 5); light assault weapons and submachine guns (Law 4); military weapons (Law 3); portable energy and laser weapons (Law 2); explosives, poisons and undetectable weapons (Law 1). **Exempt:** the **Guarda Civil**, Jorjor's civil-service police (Cabo Marsh, Chapter 4, §4.5), Reserve rangers and Reserve security, and anyone holding a local permit. Two examples: the motel owner's farm shotgun (county permit framed behind the desk) and Tomas Reyes's pistol (a forged permit, Chapter 3, §3.7). Concealed armour is not banned until it is seen. Because the law is enforced through paper (§2.10), the usual consequence of a violation is a form, a fine, an impound or a hearing, not a gunfight.
+Jorjor is **Law Level 8**. Every ban at Law Level 8 and below applies to civilians and offworlders: all bladed weapons, stunners and visible armour (Law 8); shotguns (Law 7); all firearms (Law 6); personal concealable weapons (Law 5); light assault weapons and submachine guns (Law 4); military weapons (Law 3); portable energy and laser weapons (Law 2); explosives, poisons and undetectable weapons (Law 1). **Exempt:** the **Guardia Civil**, Jorjor's civil-service police (Cabo Marsh, Chapter 4, §4.5), Reserve rangers and Reserve security, and anyone holding a local permit. Two examples: the motel owner's farm shotgun (county permit framed behind the desk) and Tomas Reyes's pistol (a forged permit, Chapter 3, §3.7). Concealed armour is not banned until it is seen. Because the law is enforced through paper (§2.10), the usual consequence of a violation is a form, a fine, an impound or a hearing, not a gunfight.
 
 **The SolSec guests and the Imperial pickup team have smuggled in whatever they carry.** Every weapon, charge and rifle in the cast is contraband unless this chapter says otherwise. Hidden gear is safe unless searched, which is why a visit from Cabo Marsh or Pruitt matters.
 

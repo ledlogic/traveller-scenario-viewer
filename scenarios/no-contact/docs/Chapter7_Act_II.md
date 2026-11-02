@@ -1,15 +1,13 @@
 # TRAVELLER: NO CONTACT
-## Chapter 7: Act II: Graveyard, "The Big Rig"
-
-*Referee Reference Document*
+## Chapter 7: Act II: The Highway, "The Big Rig"
 
 ---
 
-## 7.1: ACT II: GRAVEYARD, "THE BIG RIG" (~90 MINUTES)
+## 7.1: ACT II: THE HIGHWAY, "THE BIG RIG" (~90 MINUTES)
 
 The extraction window comes and goes. Nothing. Panic and suspicion rise. The table now has a bearing: the pickup went into the Reserve. Act II is about **finding out what happened** and **getting there**.
 
-**Pacing is free-form, not a hard clock.** There is no countdown mechanic; the referee paces this act by feel, using the complications below and §1.7's notes.
+**Pacing is free-form, not a hard clock.** There is no countdown mechanic; the referee paces this act by feel, using the complications below and §1.4's notes.
 
 ### The scenes
 
@@ -55,7 +53,7 @@ The Reserve is 11 km from the motel by road, on a spur most maps leave off. At R
 
 **Route B: The Form.** **Form 14-R (Request to Retrieve Property from a Closed Area)** is the legitimate way to ask for a lost bag. A PC with **Admin or Bureaucracy** can file one at the Gate: Average (8+) check, DM +2 if they have the pickup's permit number (Area 13 walk-in #0614) or a Jorjor Civil Service seal. Success: a ranger escort to Area 7, with a reduction of AP by 1. Failure: +1 AP and a suspicious Compliance Officer Pruitt. Pruitt can be an ally (§4.11).
 
-**Route C: On Foot.** Over the fence-line, across the dry wash, and into the closed Areas from the north (the same line the pickup's ship sits behind). Eleven kilometres with the dust front arriving. Effects: no Gate-check, but Drifters and Waders, rangers on patrol, and the weather. The ship lies along this route (Chapter 5, §5.5).
+**Route C: On Foot.** Over the fence-line, across the dry wash, and into the closed Areas from the north (the same line the pickup's ship sits behind). Eleven kilometres with the dust front arriving. Effects: no Gate-check, but Drifters and Waders, rangers on patrol, and the weather. The ship lies along this route (Chapter 5, §5.5). A PC with the jukebox coordinates (Chapter 2, §2.12) and a local topographic map (Dabney's, Chapter 3, §3.3) has **DM +2** to find it and avoid the sinkholes.
 
 ---
 
@@ -65,7 +63,7 @@ The Reserve is 11 km from the motel by road, on a spur most maps leave off. At R
 |---|---|
 | 02:00 | *Soft Landing* lands in the wash; crew sleeps. |
 | Morning | Eat at Motel Yermo's restaurant (Chapter 2, §2.14); ask the way to the Gut. |
-| 13:00 | Sign in at the Gate (Area 1) under cover names. Book a day tour and a walk-in overnight **permit for Area 13 (#0614)**. |
+| 13:00 | Sign in at the Gate (Area 1) under cover names. Book a day tour and a walk-in overnight **permit for Area 13 (#0614)**. They arrive on foot from the ship, so the Gate has no vehicle or plate on record. |
 | 14:00–15:30 | Tour the front areas (2–4, 7). Okafor-Brandt asks too many questions about feed volumes. |
 | 15:30 | Tour reaches the Terrace (Area 12). The team breaks from the group "for photos." |
 | 16:20 | **The incident**: Hale's accidental psionic pulse (§7.5). |
@@ -74,17 +72,19 @@ The Reserve is 11 km from the motel by road, on a spur most maps leave off. At R
 
 ## 7.5: WHAT SET IT OFF, THE INCIDENT
 
-Three things lined up at 16:20, and none of them was the pickup's plan.
+Four things lined up at 16:20. The pickup planned only the last one, and it is the one that made the other three matter.
 
 1. **The Mass was already stirred.** The Feed Line pressure spike on day 231 warmed the Terrace by 3 °C, "ground sounds" put the Reserve on Amber on day 242, and the Drifters had been low and tight over the sinkholes all week (Chapter 2, §2.22).
 2. **The haboob was coming.** The dust front was still hours away, but its falling pressure, dry static and charged air were already in the basin. The Mass was restless under it, and the static made every nerve and every instrument on the Terrace feel loud.
 3. **Dr. Sunniva Hale flared.** Hale is a trained psion who has spent thirty years suppressing her talent. On the Terrace, with the air charged and the ground ringing hollow underfoot, her control slipped and her Telepathy (Life Detection) **fired on its own** across the Sink. She did not choose it. She only knew it had happened when the Mass counted her back.
+4. **The test gear was running.** Hale had set the team's portable psionic resonance test set beside the sampling probe on the Terrace shelf to take a baseline (Chapter 5, §5.5). The set amplifies psionic activity, and the probe was feeding the Mass a sample of itself. Together they likely turned a slip into a shout. Treat it as probable and leave it unproven, since the table can never be sure.
 
 **The cascade.** Use these as a fixed sequence (they match the clues the table can find).
 
 | Time | What happened | Effect |
 |---|---|---|
-| 16:20 | Hale's involuntary pulse. The Mass **looks back**; the whole basin registers as one vast, slow mind. | Psionic use (+1 AP). Drifters turn to follow her. Hale is *noticed*. |
+| 16:15 | Hale switches on the psionic resonance test set and drops a sampling probe into the Terrace shelf, to take a baseline. | The Mass is *sampled*. No AP yet. |
+| 16:20 | Hale's involuntary pulse, boosted by the test set. The Mass **looks back**; the whole basin registers as one vast, slow mind. | Psionic use (+1 AP). Drifters turn to follow her. Hale is *noticed*. |
 | 16:22 | Drifters converge on the Terrace. A Wader herd begins to hunt in Area 12. A Wader grabs Hale. | Wader herd *hunting* in Area 12. |
 | 16:23 | Delacroix fires on the Wader, **eight shots**. | Gunfire (+1 AP). |
 | 16:25 | The Egg-blooms in Area 13 **scream** (Pell's whiteboard records it). | |
@@ -92,6 +92,8 @@ Three things lined up at 16:20, and none of them was the pickup's plan.
 | 16:34 | A call to the Rescue Service: shots, a bang, a collapse, four visitors. | Reserve goes to Red at 17:10. |
 
 **Referee dial.** If the table wants a different cause, swap Hale for another team member's concealed talent, or remove the shots and the charge for a quieter, more terrifying version where only the pulse happens. The rest of the chapter (§7.6 outcomes, Chapter 8) works with any of them.
+
+The gear is the part SolSec would rather no one found. If the table brings it up with Hale, she admits the team's brief was to test the Reserve, and says only that it was *"approved at the top."*
 
 **Total on the Alert track:** +4 AP before anyone has reached the Gate. **The Reserve goes to Red at 17:10, closes Areas 12–14 to camping at 18:00, and starts the cover-up.**
 
@@ -126,7 +128,7 @@ Roll once for the team (or choose). **C** = Captured (inside an Egg-bloom, Area 
 
 ## 7.7: THE PAPER TRAIL, WHERE IS THE PICKUP NOW?
 
-**The park is not optional.** The *Soft Landing* sits in a dry wash just outside the Reserve fence, and its crew used their spare day to walk into the park on a tour. The only way off Jorjor is through the closed areas.
+The *Soft Landing* sits in a dry wash just outside the Reserve fence, and its crew used their spare day to walk into the park on a tour. The only way off Jorjor is through the closed areas.
 
 **The problem is finding them.** The Reserve handles hundreds of cases a year, and each office keeps its own paper, in its own order, with its own idea of how to spell a name. Nobody has the whole picture. Four people in trouble have become five or six partial records that disagree with one another.
 

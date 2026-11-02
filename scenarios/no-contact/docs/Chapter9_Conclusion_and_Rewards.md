@@ -1,8 +1,6 @@
 # TRAVELLER: NO CONTACT
 ## Chapter 9: Conclusion & Rewards
 
-*Referee Reference Document*
-
 ---
 
 ## 9.1: HOW THE NIGHT ENDS
@@ -70,7 +68,7 @@ Convention play does not usually carry characters forward, but if the table want
 
 If the referee wants to carry the scenario forward:
 - **The Rebellion.** Strephon was assassinated on day 132 of Y1116, and word has not reached the Rim (Chapter 2, §2.20). The next scenario opens as the news arrives and the Solomani fleets move.
-- **Wei.** Whether he burned the cell, was compromised, or ran a test is never confirmed in the scenario (§1.10). A follow-up can answer it.
+- **Wei.** Whether he burned the cell, was compromised, or ran a test is never confirmed in the scenario. A follow-up can answer it.
 - **The Shutter Project and the satellite** (§2.25, §2.16). Who built the platform, and who now knows how to command it?
 - **The Mass** (§2.21, §2.30). Is it one mind, and what is it waiting for? The Imperium's thousand years of Concession 9 (§2.18) may not be over.
 - **Osei and the Bureaucracy** (§4.7). A compromised official with the keys to a smuggling corridor is a seed for a heist or a hunt.

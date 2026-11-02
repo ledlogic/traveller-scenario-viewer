@@ -1,19 +1,17 @@
 # TRAVELLER: NO CONTACT
-## Chapter 6: Act I: Night, "Roll Call"
-
-*Referee Reference Document*
+## Chapter 6: Act I: The Motel, "Roll Call"
 
 ---
 
-## 6.1: ACT I: NIGHT, "ROLL CALL" (~75 MINUTES)
+## 6.1: ACT I: THE MOTEL, "ROLL CALL" (~75 MINUTES)
 
 Guests arrive and settle in. Small talk, cover stories, first hints something is off; a car that doesn't stop at the motel sign, a payphone call that doesn't connect, a light that shouldn't be on in an empty room. Players start informally sounding each other out without revealing themselves.
 
-**Establish the trap early, quietly:** every PC took a one-way ride to get here, assuming extraction would be their ride out; nobody arranged their own return transport. Layer in two concrete complications rather than vague dread: a **dust storm front is blocking regional highway traffic** (Stage 1: an orange wall on the south-west horizon), and it has also knocked out **local commercial comms** (payphones, the motel's own line). Neither is supernatural or plot-generated; both are checkable, ordinary facts a PC can confirm. Three small beats seed the wrongness before anyone says it aloud: a **sealed-load tanker** that rolls slowly past before the road closes, **night sounds** (a rail horn or slurry-pump throb that should not be running), and the **late lighter** flying low toward the downport (Chapter 2, §2.7 results 7 and 8; §2.31). Use them as texture first and clues second. Full detail, including a random table for passing traffic that never stops, local flora/fauna texture, and optional unrest/bandit rumors, is in Chapter 2, §2.7–2.9.
+**Establish the trap early, quietly:** every PC took a one-way ride to get here, assuming extraction would be their ride out; nobody arranged their own return transport. Layer in two concrete complications rather than vague dread: a **dust storm front is blocking regional highway traffic** (Stage 1: an orange wall on the south-west horizon), and it has also knocked out **local commercial comms** (payphones, the motel's own line). Neither is supernatural or plot-generated; both are checkable, ordinary facts a PC can confirm. Three small beats seed the wrongness before anyone says it aloud: a **sealed-load tanker** that rolls slowly past before the road closes, **night sounds** (a rail horn or slurry-pump throb that should not be running), and the **late lighter** flying low toward the downport (Chapter 2, §2.8 results 7 and 8; §2.31). Use them as texture first and clues second. Full detail, including a random table for passing traffic that never stops, local flora/fauna texture, and optional unrest/bandit rumors, is in Chapter 2, §2.8–2.10.
 
-**Tech discipline matters from the first scene.** Jorjor runs passive detection at its own TL7 baseline, escalating to the Imperial Security Service if something anomalous is flagged, see Chapter 2, §2.6 for the house rule on checks required when a PC risks using above-TL7 gear.
+**Tech discipline matters from the first scene.** Jorjor runs passive detection at its own TL7 baseline, escalating to the Imperial Security Service if something anomalous is flagged, see Chapter 2, §2.7 for the house rule on checks required when a PC risks using above-TL7 gear.
 
-**The goal of Act I.** The table should notice that **something big happened at the Reserve** and decide to go and look. Nobody tells them. They work it out from what is wrong around them: the extraction that never came, the cook's four hikers and the washboy's coin, Del's CB talk of shots and a bang, and then, at the end of the act, something from the Reserve that comes to the motel. Two of the party, Dabney and Tomas, already know the Reserve keeps a weapons locker with military-grade hardware (Chapter 3, §3.3 and §3.7). A third piece of the puzzle, and a source of weapons tonight, is the idling stranger in the lot (Chapter 4, §4.6).
+**The goal of Act I.** The table should notice that **something big happened at the Reserve** and decide to go and look. Nobody tells them. They work it out from what is wrong around them: the extraction that never came, the cook's four hikers and the washboy's coin, Del's CB talk of shots and a bang, and then, at the end of the act, something from the Reserve that comes to the motel. One of the party, Dabney, already knows the Reserve keeps a weapons locker with military-grade hardware (Chapter 3, §3.3). A third piece of the puzzle, and a source of weapons tonight, is the idling stranger in the lot (Chapter 4, §4.6).
 
 ### The question: who's in the group, and who isn't?
 
@@ -41,6 +39,7 @@ Before the attack the table should be working toward **two of these three** piec
 |---|---|---|
 | The cook | Chapter 4, §4.3 | Four off-worlder-looking hikers ate breakfast at 10:30, asked the road to "the Gut," left a large tip. |
 | The washboy | Chapter 4, §4.3 | Saw the four walk the spur road toward the Reserve at 11:30. One woman gave him a coin: **a silver Solomani "Terran" coin** (TL tell). |
+| The jammed jukebox | Chapter 2, §2.12 | A service panel opens on a jammed music cylinder with **coordinates** pencilled under the label: the dry wash where the *Soft Landing* sits. Dabney's topographic maps plot them. |
 | Del's CB | Chapter 4, §4.2 | Heard on the CB: the Reserve "closed up tight" at five o'clock; **shots, then a bang** around four-twenty; areas 12 through 14 are shut. |
 
 If the table is slow, have Del or the cook volunteer it. If fast, add the Reserve's own signage on the highway. The gutwing attack is the catch-all: even a table that found none of these cannot miss it.
@@ -123,7 +122,7 @@ Act I is where the PC sheets shine. Use this table to make sure every player get
 
 | Moment | Check | Difficulty | Built for it | Result |
 |---|---|---|---|---|
-| Traffic that does not stop (Chapter 2, §2.7) | Recon | Average (8+) | Dabney | Notices the pattern is wrong: right cars, wrong hours. |
+| Traffic that does not stop (Chapter 2, §2.8) | Recon | Average (8+) | Dabney | Notices the pattern is wrong: right cars, wrong hours. |
 | Talking Cabo Marsh away (Chapter 4, §4.5) | Persuade or Deception | Average (8+); Difficult (10+) if he has already seen a TL10+ item | Corvin, Dex, Tomas | He leaves, or he stays and asks to see a room. |
 | Intimidating without drawing | Persuade (Tomas's cover) | Average (8+) | Tomas | Marsh or the stranger backs off but remembers the face. |
 | Reading who is genuinely rattled in the lobby (Chapter 2, §2.12) | Science (psychology), Investigate or Deception | Average (8+) | Yeva | Names the one person who is performing calm. |
