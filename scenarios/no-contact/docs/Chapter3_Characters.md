@@ -1,8 +1,6 @@
 # TRAVELLER: NO CONTACT
 ## Chapter 3: Characters
 
----
-
 ## 3.1: HOW TO USE THIS CHAPTER
 
 All six guests, three room pairs, are here in one place. Every guest is a genuine SolSec agent or asset; there is no traitor among them. The Imperial presence on the property is an NPC (Chapter 4, §4.6), not a player role.

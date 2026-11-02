@@ -1,8 +1,6 @@
 # TRAVELLER: NO CONTACT
 ## Chapter 5: Vehicles & Equipment
 
----
-
 ## 5.1: TECH LEVEL REFERENCE
 
 | Layer | TL | Notes |

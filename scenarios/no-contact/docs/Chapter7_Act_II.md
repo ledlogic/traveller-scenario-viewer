@@ -1,8 +1,6 @@
 # TRAVELLER: NO CONTACT
 ## Chapter 7: Act II: The Highway, "The Big Rig"
 
----
-
 ## 7.1: ACT II: THE HIGHWAY, "THE BIG RIG" (~90 MINUTES)
 
 The extraction window comes and goes. Nothing. Panic and suspicion rise. The table now has a bearing: the pickup went into the Reserve. Act II is about **finding out what happened** and **getting there**.

@@ -1,8 +1,6 @@
 # TRAVELLER: NO CONTACT
 ## Chapter 2: Setting
 
----
-
 ## 2.1: THE WORLD, JORJOR
 
 **Jorjor** *(pronounced "hor-HOR", J as a breathy Spanish H, equal stress on both syllables; yes, it's definitely a hor-hor adventure)*, Arcturus Subsector, Solomani Rim Sector, hex 3225. UWP **B641888-7**.
@@ -15,14 +13,15 @@ The scenario takes place on **day 245 of Y1116** (Imperial date 245-1116). The w
 |---|---|---|
 | Starport | B | Good quality: refined fuel, shipyard, both highport and downport. Real, unremarkable ship traffic. |
 | Size | 6 | Medium, 9,227 km diameter, 0.439 Earth masses, 0.78 g surface gravity |
-| Atmosphere | 4 | Thin, tainted |
+| Atmosphere | 4 | Thin, tainted, 0.43 to 0.7 atm. A tainted atmosphere contains an element harmful to humans, so a Traveller breathing it without a filter suffers damage every few minutes (or hours, depending on the level of taint). A filter mask is required outdoors (CRB p.250) |
 | Hydrographics | 1 | Dry world, 8% surface water |
 | Population | 8 | Moderate, ~100 million |
 | Government | 8 | Civil Service Bureaucracy |
 | Law | 8 | High Law: all blades, stunners and visible armour banned, and every lower-level ban also applies (firearms, shotguns, concealable weapons, military and energy weapons, explosives, poisons). Police, rangers and permit holders are exempt (§2.32) |
 | Tech Level | 7 | Pre-stellar electronics |
+| Trade Codes | Po (*Solomani Front*); He Po Ph Pi (Traveller Map) | The *Solomani Front* book lists only **Po**. Traveller Map lists all four: **He** Hellworld (thin, tainted air and a dry, hostile surface), **Po** Poor (thin atmosphere, little surface water), **Ph** Pre-High Population (about 100 million people), **Pi** Pre-Industrial (a large population on tainted air, still short of full industrial capacity) |
 
-Jorjor is a **hellworld**, poor for its size, never became the industrial power it hoped to be, and its people are described as grim realists who survive daily hardship. That's exactly why it's a good place to disappear. The Class B starport means real ship traffic in and out, so a late extraction reads as *late*, not *suspicious*, at first.
+Jorjor is a **hellworld** (**He**), **poor** (**Po**) for its size, never became the industrial power it hoped to be, and its people are described as grim realists who survive daily hardship. That's exactly why it's a good place to disappear. The Class B starport means real ship traffic in and out, so a late extraction reads as *late*, not *suspicious*, at first.
 
 Jorjor sits in the same subsector (Arcturus) that *Signal GK* uses for Baldwin Wei's home turf, keeping this scenario in continuity with existing SolSec/Wei material.
 
@@ -68,11 +67,11 @@ The Bureaucracy dates its forms by **Charter Year (CY)**, counted from the Thale
 
 ### Jorjor Sky, Air and Smell
 
-**The sky.** By day the sky is a washed-out ochre-pink, paler than a Terran blue because the air is thin (0.5 bar) and carries a brown haze of dust and organic taint, deepening to slate-violet straight overhead. The K6 sun is a hard copper-orange disc and rises about every six hours, so a dawn or dusk is never far off. Dusks run bruise-yellow and rust along the horizon. Under the dust storm the sky goes orange, then brown, and the sun is a dull coin (§2.31). The dark lasts only about three standard hours, black and full of stars, and lit from below by the ring.
+**The sky.** By day the sky is a washed-out ochre-pink, paler than a Terran blue because the air is thin (0.43 to 0.7 atm) and carries a brown haze of dust and organic taint, deepening to slate-violet straight overhead. The K6 sun is a hard copper-orange disc and rises about every six hours, so a dawn or dusk is never far off. Dusks run bruise-yellow and rust along the horizon. Under the dust storm the sky goes orange, then brown, and the sun is a dull coin (§2.31). The dark lasts only about three standard hours, black and full of stars, and lit from below by the ring.
 
 **The ring.** From the flats the ring is a broad arch across the southern or northern sky, seen by day as a pale band and by night as the brightest thing overhead. It is bone-white and grey, with bronze and copper where the sun catches its dusty lanes and a few narrow dark gaps, and it throws moving bands of shadow across the ground. It is visible from latitudes up to about 66°.
 
-**The air.** Atmosphere 4: thin, tainted and breathable only with a filter mask (Chapter 2, §2.1 table). Outdoors it smells faintly sweet over a metallic tang, like old pennies in a damp cellar, with something organic underneath that you cannot place.
+**The air.** Atmosphere 4: thin (0.43 to 0.7 atm), tainted and breathable only with a filter mask, as the Core Rulebook requires for this atmosphere (CRB p.250). Unfiltered, a Traveller takes damage every few minutes. Outdoors it smells faintly sweet over a metallic tang, like old pennies in a damp cellar, with something organic underneath that you cannot place.
 
 **The town.** El Huerto del Brocal smells like **the cold back room of a butcher shop**, not a slaughterhouse: iron and cold fat, sawdust, bleach and old blood, thin and clean and wrong. Locals stopped noticing years ago. Visitors do, and wonder why the diner's pie smells of copper. It is the Pit, a slow, buried compost, reaching town as a cooled, diluted trace.
 
@@ -720,7 +719,7 @@ The storm established in §2.6 is a **haboob**, a wall of dust about a kilometre
 **The storm helps and hurts.** It hides the players from rangers and hides the rig's headlights; it also grinds filters, blinds sensors, chokes engines, and is a hard cap on how long anyone can be outside.
 
 **Environmental hazards (Stage 3):**
-- Atmosphere 4 (thin, tainted) *plus dust*: a filter is mandatory, and wears out in 4 hours (**Survival** to stretch it).
+- Atmosphere 4 (thin, tainted) *plus dust*: a filter is mandatory (CRB p.250), and wears out in 4 hours (**Survival** to stretch it).
 - Wind: Athletics (strength) to cross open ground carrying a load.
 - Vehicles: Drive check each 30 minutes or stall.
 

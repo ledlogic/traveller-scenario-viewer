@@ -1,8 +1,6 @@
 # TRAVELLER: NO CONTACT
 ## Chapter 6: Act I: The Motel, "Roll Call"
 
----
-
 ## 6.1: ACT I: THE MOTEL, "ROLL CALL" (~75 MINUTES)
 
 Guests arrive and settle in. Small talk, cover stories, first hints something is off; a car that doesn't stop at the motel sign, a payphone call that doesn't connect, a light that shouldn't be on in an empty room. Players start informally sounding each other out without revealing themselves.

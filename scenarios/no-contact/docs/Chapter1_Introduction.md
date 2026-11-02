@@ -1,8 +1,6 @@
 # TRAVELLER: NO CONTACT
 ## Chapter 1: Introduction
 
----
-
 ## CONVENTION BLURB (Con of the North)
 
 Six strangers. One roadside motel on the edge of a dying desert world. Each of you is a Solomani Security agent told to lie low at Motel Yermo and wait for extraction back across the border. The ride never comes. The storm has cut the phones, the diner is far too quiet, and something out on the flats is being fed. Includes material integrated from Mystery Flesh Pit National Park. Mongoose Traveller 2e, pre-generated characters, new players welcome.

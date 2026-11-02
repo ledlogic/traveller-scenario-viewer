@@ -1,8 +1,6 @@
 # TRAVELLER: NO CONTACT
 ## Chapter 4: NPCs
 
----
-
 ## 4.1: THE MOTEL OWNER
 
 ![Earlene Vance, motel owner](img/motel-owner.webp)

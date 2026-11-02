@@ -1,8 +1,6 @@
 # TRAVELLER: NO CONTACT
 ## Chapter 8: Act III: The Reserve, "Dig Them Out"
 
----
-
 ## 8.1: ACT III: THE RESERVE, "DIG THEM OUT" (~75 MINUTES)
 
 Dust storm Stage 3. The surface patrols have been pulled in. The only quiet way to reach the closed Areas 12–14 is **under** the ground.

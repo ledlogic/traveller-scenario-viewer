@@ -1,8 +1,6 @@
 # TRAVELLER: NO CONTACT
 ## Chapter 9: Conclusion & Rewards
 
----
-
 ## 9.1: HOW THE NIGHT ENDS
 
 The session ends when the *Soft Landing* lifts, when dawn arrives with the ship still on the ground, or when the table decides it is done. Score the night on four tracks, then read the matching epilogue in §9.2.
