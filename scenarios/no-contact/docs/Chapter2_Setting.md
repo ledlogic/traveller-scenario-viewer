@@ -27,24 +27,26 @@ Jorjor sits in the same subsector (Arcturus) that *Signal GK* uses for Baldwin W
 
 ### Jorjor Time
 
-Jorjor turns once every **6.2 standard hours** (6h 12m), so the sun rises about every six hours. The year is just over two standard years (2 years, 0 days, 8h 45m), roughly **2,827 Jorjor days** per orbit. These figures come from the Traveller Worlds system sheet.
+Jorjor turns once every **6.2 Imperium hours** (6h 12m), so the sun rises about every six hours. The year is just over two Imperium years (2 years, 0 days, 8h 45m), roughly **2,827 Jorjor days** per orbit. These figures come from the Traveller Worlds system sheet.
 
-| Imperial (standard) | Jorjor |
+| Imperium time (IT) | Jorjor |
 |---|---|
-| 1 standard hour | 3.87 Jorjor hours (3h 52m), if the Jorjor day is split into 24 local hours |
-| 1 Jorjor hour | 15.5 standard minutes |
-| 1 Jorjor minute | 15.5 standard seconds |
-| 6.2 standard hours | 1 Jorjor day (24 Jorjor hours) |
-| 8-hour shift | 1.29 Jorjor days (1 day, 6h 58m) |
-| 24 standard hours | 3.87 Jorjor days (3 days, 20h 54m) |
+| 1 Imperium hour | 60 minutes, just under one Jorjor hour (JT, 62 minutes) |
+| 1 Jorjor hour (JT) | 62 Imperium minutes |
+| 1 Jorjor minute (JT) | 1 Imperium minute, the same length (JT minutes run 00 to 61) |
+| 6.2 Imperium hours | 1 Jorjor day (6 JT hours, sunrise to sunrise) |
+| 8-hour shift | 1.29 Jorjor days (1 day, 1h 46m JT) |
+| 24 Imperium hours | 3.87 Jorjor days (3 days, 5h 14m JT) |
 
-**Which clock people keep.** Human body clocks run at about 24 hours and cannot follow a 6-hour sun, the way submarine crews on an 18-hour watch cycle never adapted and ISS crews ignore their sixteen sunrises a day. Jorjorans keep **one sleep block per standard 24 hours** on the Imperial clock, with shifts, meals, curfews and the starport schedule all set by that clock. The sun is a light signal, not a calendar: shutters, blackout curtains and artificial lighting do the work, and the sunrise is a cue for a short rest, a cup of caf, or a change of watch. Shift workers and the poor nap in short blocks around work, and pay for it in fatigue.
+**Jorjor watches.** Offworld and Jorjoran timekeeping were reconciled long ago, when the local day-count was written into the Imperium's clock standards. The classic Jorjor watch dial shows **six hours, numbered 0 1 2 3 4 5**, because the programmers who helped draft the standard counted from zero, and the sixth hour ends at the next sunrise rather than at a 6. The minute track keeps the Imperium minute but runs **62 ticks to the hour**: sixty ordinary minute ticks, then **two extra ticks** at the end, just before the 0, so a JT hour is 62 IT minutes. Dual-dial watches (the 24-hour Imperium dial inside, the six-hour Jorjor dial outside) are the standard souvenir, and the way a local reads a motel clock at a glance. Offworlders always misread the last two ticks.
 
-**At the table.** In this scenario, times such as 21:40 are on the **standard 24-hour clock**, which the starport, the Reserve, SolSec and every watch use. Expect about four sunrises in that span, so a dawn can arrive in the middle of a shift, and darkness lasts only about three hours before the next one. Offworlders arrive jet-lagged, bedside clocks in the motel show two times (standard and sun), and "before dawn" in the acts means before the next sunrise, not the end of the night.
+**Which clock people keep.** Human body clocks run at about 24 hours and cannot follow a 6-hour sun, the way submarine crews on an 18-hour watch cycle never adapted and ISS crews ignore their sixteen sunrises a day. Jorjorans keep **one sleep block per Imperium 24 hours** on the Imperium clock, with shifts, meals, curfews and the starport schedule all set by that clock. The sun is a light signal, not a calendar: shutters, blackout curtains and artificial lighting do the work, and the sunrise is a cue for a short rest, a cup of caf, or a change of watch. Shift workers and the poor nap in short blocks around work, and pay for it in fatigue.
+
+**At the table.** In this scenario, times such as 21:40 are on the **Imperium 24-hour clock**, which the starport, the Reserve, SolSec and every watch use. Expect about four sunrises in that span, so a dawn can arrive in the middle of a shift, and darkness lasts only about three hours before the next one. Offworlders arrive jet-lagged, bedside clocks in the motel show two times (Imperium and sun), and "before dawn" in the acts means before the next sunrise, not the end of the night.
 
 ### Jorjor Calendar
 
-The Bureaucracy dates its forms by **Charter Year (CY)**, counted from the Thale Charter (Y31, Imperial date 001-31, which is CY 1, day 1). A Jorjor year is one orbit, **730.4 standard days**, which is about **2,827 Jorjor days** (§Jorjor Time above). Forms give the Charter Year and the Jorjor day of the year, for example *CY 543, day 1,592*, with the Imperial date in brackets for offworld shippers. The Bureaucracy rounds the year to 2,827 days and adds a **Correction Day** every fifth year by schedule, which is wrong, and stamped.
+The Bureaucracy dates its forms by **Charter Year (CY)**, counted from the Thale Charter (Y31, Imperial date 001-31, which is CY 1, day 1). A Jorjor year is one orbit, **730.4 Imperium days**, which is about **2,827 Jorjor days** (§Jorjor Time above). Forms give the Charter Year and the Jorjor day of the year, for example *CY 543, day 1,592*, with the Imperial date in brackets for offworld shippers. The Bureaucracy rounds the year to 2,827 days and adds a **Correction Day** every fifth year by schedule, which is wrong, and stamped.
 
 **Tonight is CY 543, day 1,592 of 2,827** (Imperial 245-1116), about 56% of the way through the Jorjor year. Set the season to taste: the dust storm and a base temperature of 46 °C fit late summer.
 
@@ -67,7 +69,7 @@ The Bureaucracy dates its forms by **Charter Year (CY)**, counted from the Thale
 
 ### Jorjor Sky, Air and Smell
 
-**The sky.** By day the sky is a washed-out ochre-pink, paler than a Terran blue because the air is thin (0.43 to 0.7 atm) and carries a brown haze of dust and organic taint, deepening to slate-violet straight overhead. The K6 sun is a hard copper-orange disc and rises about every six hours, so a dawn or dusk is never far off. Dusks run bruise-yellow and rust along the horizon. Under the dust storm the sky goes orange, then brown, and the sun is a dull coin (§2.31). The dark lasts only about three standard hours, black and full of stars, and lit from below by the ring.
+**The sky.** By day the sky is a washed-out ochre-pink, paler than a Terran blue because the air is thin (0.43 to 0.7 atm) and carries a brown haze of dust and organic taint, deepening to slate-violet straight overhead. The K6 sun is a hard copper-orange disc and rises about every six hours, so a dawn or dusk is never far off. Dusks run bruise-yellow and rust along the horizon. Under the dust storm the sky goes orange, then brown, and the sun is a dull coin (§2.31). The dark lasts only about three Imperium hours, black and full of stars, and lit from below by the ring.
 
 **The ring.** From the flats the ring is a broad arch across the southern or northern sky, seen by day as a pale band and by night as the brightest thing overhead. It is bone-white and grey, with bronze and copper where the sun catches its dusty lanes and a few narrow dark gaps, and it throws moving bands of shadow across the ground. It is visible from latitudes up to about 66°.
 
