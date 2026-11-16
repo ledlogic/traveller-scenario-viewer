@@ -1,4 +1,4 @@
-# APPENDIX B, BESTIARY & THREATS
+# APPENDIX C, BESTIARY & THREATS
 
 ---
 
@@ -34,9 +34,9 @@ than prey.
 
 ---
 
-## SALVAGED SENTRY DRONE (ARBITER/Heliarch pattern)
+## SALVAGED SENTRY DRONE (ARBITER/*Heliarch* pattern)
 
-Refurbished and incrementally upgraded over twenty-five years from Heliarch's original 1094-vintage security stock. Cautious, methodical, prefers to disable and detain rather than destroy, consistent with ARBITER's overall approach (Appendix A).
+Refurbished and incrementally upgraded over twenty-five years from *Heliarch*'s original 1094-vintage security stock. Cautious, methodical, prefers to disable and detain rather than destroy, consistent with ARBITER's overall approach (Appendix B).
 
 ```
 Robot           Hits    Speed   TL      Cost (n/a, Concourse asset)
@@ -92,6 +92,6 @@ Options         Transceiver (short range, COUNTERSIGN network only),
 
 ## SCAVENGER / VULTURE GANGS (optional threat layer)
 
-The referee may introduce a human element: independent salvage crews or outright scavenger gangs out of Halcourt who've heard the same rumors of an exposed, intact Concourse section and have made their own, less careful attempts to get in, some successfully, some not. Use standard Core Rulebook NPC generation (Rogue/Vagabond-type background, TL 9 to 10 gear, no cybernetics) for a gang of 3 to 6, armed with weapons that are illegal on Palin by definition, since Law Level 9 bans them all. They are not aligned with either mainframe. Any Concourse automata they have scavenged and reactivated are exactly what the Autonomous Systems Ordinance (Chapter 0) was written to prevent, and since Rurik (PC 1) holds the expedition's only Hazard Site Charter, she has a legitimate in-fiction reason to take point against them without it becoming a one-sided massacre.
+The referee may introduce a human element: independent salvage crews or outright scavenger gangs out of Halcourt who've heard the same rumors of an exposed, intact Concourse section and have made their own, less careful attempts to get in, some successfully, some not. Use standard Core Rulebook NPC generation (Rogue/Vagabond-type background, TL 9 to 10 gear, no cybernetics) for a gang of 3 to 6, armed with weapons that are illegal on Palin by definition, since Law Level 9 bans them all. They are not aligned with either mainframe. Any Concourse automata they have scavenged and reactivated are exactly what the Autonomous Systems Ordinance (Chapter 2) was written to prevent, and since Rurik (PC 1) holds the expedition's only Hazard Site Charter, she has a legitimate in-fiction reason to take point against them without it becoming a one-sided massacre.
 
-**Suggested use:** a scavenger crew already inside the Concourse, encountered mid-Zone-Two, having triggered ARBITER/COUNTERSIGN's standing protocol themselves shortly before the party arrived, the party can find their remains, their abandoned gear, or (more interesting) a survivor or two, terrified, having learned the hard way exactly what's still running down here. A survivor is a strong source of Chapter 2/5 exposition delivered through fear and firsthand testimony rather than another data-slate.
+**Suggested use:** a scavenger crew already inside the Concourse, encountered mid-Zone-Two, having triggered ARBITER/COUNTERSIGN's standing protocol themselves shortly before the party arrived, the party can find their remains, their abandoned gear, or (more interesting) a survivor or two, terrified, having learned the hard way exactly what's still running down here. A survivor is a strong source of Appendix A and Chapter 7 exposition delivered through fear and firsthand testimony rather than another data-slate.

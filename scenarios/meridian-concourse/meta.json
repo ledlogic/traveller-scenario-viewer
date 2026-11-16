@@ -7,48 +7,56 @@
   "inception_date": "2026-09-21",
   "docs": [
     {
-      "file": "Chapter0_The_Setting.md",
-      "label": "Ch 0: The Setting (Palin)"
+      "file": "Chapter1_Introduction.md",
+      "label": "Ch 1: Introduction"
     },
     {
-      "file": "Chapter1_Situation_and_Palin.md",
-      "label": "Ch 1: Situation & Palin"
-    },
-    {
-      "file": "Chapter2_The_Robot_War.md",
-      "label": "Ch 2: The Robot War (Referee Only)"
+      "file": "Chapter2_The_Setting.md",
+      "label": "Ch 2: The Setting (Palin)"
     },
     {
       "file": "Chapter3_Characters.md",
       "label": "Ch 3: Characters"
     },
     {
-      "file": "Chapter4_The_Ship_and_Incident.md",
-      "label": "Ch 4: The Ship & the Silence"
+      "file": "Chapter4_NPCs.md",
+      "label": "Ch 4: NPCs"
     },
     {
-      "file": "Chapter5_The_Concourse.md",
-      "label": "Ch 5: The Concourse"
+      "file": "Chapter5_Act_I_Arrival_and_the_Silence.md",
+      "label": "Ch 5: Act I, Arrival & the Silence"
     },
     {
-      "file": "AppendixA_The_Mainframes.md",
-      "label": "App A: ARBITER & COUNTERSIGN"
+      "file": "Chapter6_Act_II_The_Concourse_Approach.md",
+      "label": "Ch 6: Act II, The Concourse Approach"
     },
     {
-      "file": "AppendixB_Bestiary_and_Threats.md",
-      "label": "App B: Bestiary & Threats"
+      "file": "Chapter7_Act_III_The_Arbitration_Floor.md",
+      "label": "Ch 7: Act III, The Arbitration Floor"
     },
     {
-      "file": "AppendixC_Sources_and_Canon_Notes.md",
-      "label": "App C: Sources & Canon Notes"
+      "file": "AppendixA_The_Robot_War.md",
+      "label": "App A: The Robot War (Referee Only)"
     },
     {
-      "file": "AppendixD_So_Skire_World_List.md",
-      "label": "App D: So Skire World List & Palin Sheet"
+      "file": "AppendixB_The_Mainframes.md",
+      "label": "App B: ARBITER & COUNTERSIGN"
     },
     {
-      "file": "AppendixE_Character_Build_Log.md",
-      "label": "App E: Character Build Log"
+      "file": "AppendixC_Bestiary_and_Threats.md",
+      "label": "App C: Bestiary & Threats"
+    },
+    {
+      "file": "AppendixD_Sources_and_Canon_Notes.md",
+      "label": "App D: Sources & Canon Notes"
+    },
+    {
+      "file": "AppendixE_So_Skire_World_List.md",
+      "label": "App E: So Skire World List & Palin Sheet"
+    },
+    {
+      "file": "AppendixF_Character_Build_Log.md",
+      "label": "App F: Character Build Log"
     }
   ]
 }

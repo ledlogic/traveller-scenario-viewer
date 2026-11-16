@@ -1,4 +1,4 @@
-# APPENDIX E, CHARACTER BUILD LOG
+# APPENDIX F, CHARACTER BUILD LOG
 
 This appendix rebuilds each pregen the way a Mongoose Traveller 2e Traveller is actually generated, from background to current age, so every skill and characteristic on the Chapter 3 sheet can be traced to a term. Rurik (Character 1) is first. The others follow one at a time, using the same layout.
 

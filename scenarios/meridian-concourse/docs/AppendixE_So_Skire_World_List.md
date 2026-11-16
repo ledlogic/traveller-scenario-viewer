@@ -1,6 +1,6 @@
-# APPENDIX D, THE SO SKIRE WORLD LIST
+# APPENDIX E, THE SO SKIRE WORLD LIST
 
-This is the So Skire Subsector world list supplied for this project on 2026-11-11, reproduced in full so the setting data lives in the project files and not only in chat. It matches the wiki's description of So Skire as subsector O of the Old Expanses sector with 37 worlds. Chapter 0 draws every Palin and neighbour fact from this table.
+This is the So Skire Subsector world list supplied for this project on 2026-11-11, reproduced in full so the setting data lives in the project files and not only in chat. It matches the wiki's description of So Skire as subsector O of the Old Expanses sector with 37 worlds. Chapter 2 draws every Palin and neighbour fact from this table.
 
 **Column key.** Hex is the sector hex. UWP is the Universal World Profile. Ix, Ex and Cx are the Traveller5 importance, economic and cultural extensions. **N** is nobility (B Knight, c Baronet, C Baron, D Marquis, e Viscount, E Count, f Duke, F Archduke). **Bases** is N for naval base, S for scout base and W for scout way station. **Zone** is A for Amber and R for Red. PBG is the population multiplier, planetoid belts and gas giants. W is the number of worlds in the system. **Alleg** is the allegiance, ImDs for the Third Imperium's Domain of Sol and SoCf for the Solomani Confederation. These are Traveller5 Second Survey conventions, not Core Rulebook definitions. The N, Bases and Zone columns were separated by their tab positions in the supplied table, and Palin's single "B" falls in the nobility column, so Palin has a Knight and no bases.
 
