@@ -57,6 +57,75 @@
     });
   }
 
+  // ── Auto-refresh ──────────────────────────────────────────────
+  // Click the button to cycle Off, 15 sec, 1 min, 5 min. The choice is
+  // remembered, and the scroll memory above keeps your place on reload.
+  const refreshBtn = document.getElementById('refresh-btn');
+  if (refreshBtn) {
+    const modes = [
+      { label: 'Off',    ms: 0 },
+      { label: '15 sec', ms: 15000 },
+      { label: '1 min',  ms: 60000 },
+      { label: '5 min',  ms: 300000 }
+    ];
+    let idx = parseInt(localStorage.getItem('tv-refresh') || '0', 10);
+    if (!(idx >= 0 && idx < modes.length)) idx = 0;
+    let timer = null;
+    let fader = null;
+    let startedAt = 0;
+
+    // Fade the button from faint to bright as the refresh gets close.
+    function fade() {
+      const mode = modes[idx];
+      if (mode.ms === 0) return;
+      const progress = Math.min(1, (Date.now() - startedAt) / mode.ms);
+      refreshBtn.style.opacity = String(0.3 + 0.7 * progress);
+    }
+
+    function typing() {
+      const el = document.activeElement;
+      return el && (el.tagName === 'INPUT' || el.tagName === 'TEXTAREA');
+    }
+
+    function schedule() {
+      if (timer) clearTimeout(timer);
+      if (fader) clearInterval(fader);
+      timer = null;
+      fader = null;
+      const mode = modes[idx];
+      refreshBtn.textContent = '⟳ ' + mode.label;
+      refreshBtn.classList.toggle('active', mode.ms > 0);
+      if (mode.ms === 0) { refreshBtn.style.opacity = ''; return; }
+      startedAt = Date.now();
+      fade();
+      fader = setInterval(fade, 250);
+      timer = setTimeout(function tick() {
+        if (typing()) { timer = setTimeout(tick, 2000); return; }
+        // Flash white, remember it for the next load, then reload.
+        refreshBtn.classList.add('flash');
+        try { sessionStorage.setItem('tv-refresh-flash', '1'); } catch (e) {}
+        setTimeout(function () { location.reload(); }, 200);
+      }, mode.ms);
+    }
+
+    refreshBtn.addEventListener('click', function () {
+      idx = (idx + 1) % modes.length;
+      localStorage.setItem('tv-refresh', String(idx));
+      schedule();
+    });
+
+    // Just reloaded by the timer: play the white flash again so it is seen.
+    try {
+      if (sessionStorage.getItem('tv-refresh-flash')) {
+        sessionStorage.removeItem('tv-refresh-flash');
+        refreshBtn.classList.add('flash-after');
+        setTimeout(function () { refreshBtn.classList.remove('flash-after'); }, 900);
+      }
+    } catch (e) {}
+
+    schedule();
+  }
+
   // ── Print ─────────────────────────────────────────────────────
   if (printBtn) {
     printBtn.addEventListener('click', function () {
@@ -92,57 +161,7 @@
         if (e.ctrlKey || e.metaKey) break; // let browser handle Ctrl+P
         window.print();
         break;
-      case 'Escape':
-        closeLightbox();
-        break;
     }
   });
-
-  // ── Image Lightbox ────────────────────────────────────────────
-  let lightboxOverlay = null;
-  let lightboxImg     = null;
-
-  function buildLightbox() {
-    lightboxOverlay = document.createElement('div');
-    lightboxOverlay.className = 'lightbox-overlay';
-
-    const closeBtn = document.createElement('button');
-    closeBtn.className = 'lightbox-close';
-    closeBtn.setAttribute('aria-label', 'Close');
-    closeBtn.textContent = '\u00d7';
-    closeBtn.addEventListener('click', closeLightbox);
-
-    lightboxImg = document.createElement('img');
-
-    lightboxOverlay.appendChild(lightboxImg);
-    lightboxOverlay.appendChild(closeBtn);
-    document.body.appendChild(lightboxOverlay);
-
-    // Click anywhere on the overlay (including the image) closes it
-    lightboxOverlay.addEventListener('click', closeLightbox);
-  }
-
-  function openLightbox(src, alt) {
-    if (!lightboxOverlay) buildLightbox();
-    lightboxImg.src = src;
-    lightboxImg.alt = alt || '';
-    lightboxOverlay.classList.add('open');
-    document.body.style.overflow = 'hidden';
-  }
-
-  function closeLightbox() {
-    if (lightboxOverlay) {
-      lightboxOverlay.classList.remove('open');
-      document.body.style.overflow = '';
-    }
-  }
-
-  if (content) {
-    content.querySelectorAll('img').forEach(function (img) {
-      img.addEventListener('click', function () {
-        openLightbox(img.src, img.alt);
-      });
-    });
-  }
 
 })();

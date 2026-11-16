@@ -319,6 +319,7 @@ def render_shell(opts = {})
         <div class="topbar-right">
           #{opts[:reader_href] ? "<a class=\"topbar-refs\" href=\"#{opts[:reader_href]}\" title=\"Plain reading mode, no sidebar\">Reader</a>" : ''}
           <a class="topbar-refs" href="/references" title="Rulebook PDF reference library">References</a>
+          <button id="refresh-btn" title="Auto-refresh: click to cycle Off, 15 sec, 1 min, 5 min">⟳ Off</button>
           <button id="print-btn">⎙ Print</button>
           <button id="theme-toggle">☾</button>
         </div>
