@@ -120,12 +120,12 @@ The referee should let the players discover, over the course of the campaign, th
 
 ## 1.6: STRUCTURE
 
-This campaign is written for a full ten-character crew (**Chapter 3**) built around the twin conceits that (a) the party's own ship's professional crew is taken out of action almost immediately, for reasons tied directly to the site's central threat (**Chapter 5**), and (b) every player character has some baseline capacity to keep that ship running regardless. This means the Concourse delve and the ship itself both stay in play as connected problems throughout. A party that mismanages the ship is stuck on Palin with everyone else who has ever been stranded there.
+This campaign is written for a full ten-character crew (**Chapter 3**) built around the twin conceits that (a) the party's own ship's professional crew is taken out of action almost immediately, for reasons tied directly to the site's central threat (**Chapter 6**), and (b) every player character has some baseline capacity to keep that ship running regardless. This means the Concourse delve and the ship itself both stay in play as connected problems throughout. A party that mismanages the ship is stuck on Palin with everyone else who has ever been stranded there.
 
-The campaign runs in three acts, one chapter each:
+Chapter 5 collects the ship, the vehicles and the drones. The campaign itself runs in three acts, one chapter each:
 
-- **Act I, Arrival and the Silence (Chapter 5):** Transit to Palin, arrival at the Halcourt downport (where Law Level 9 and the Hazard Site Charter shape what the party can carry), hiring and prep, the flight out to the sinkhole, and the incident that disables the ship's professional crew.
-- **Act II, The Concourse Approach (Chapter 6):** Entry, the shell-squatter-infested flyer graveyard, first contact with automated Concourse systems, the air and the evidence of the bazaar level, and the Miner and Safety Officer earning their keep as two genuinely separate disciplines (Appendix C).
-- **Act III, The Arbitration Floor and Extraction (Chapter 7):** Reaching the two mainframes, learning the true history (Appendix A is the payoff), the players' choice about what to do with ARBITER and COUNTERSIGN (Appendix B), and then getting out, or deciding to stay and hold the site, which changes the campaign's shape entirely.
+- **Act I, Arrival and the Silence (Chapter 6):** Transit to Palin, arrival at the Halcourt downport (where Law Level 9 and the Hazard Site Charter shape what the party can carry), hiring and prep, the flight out to the sinkhole, and the incident that disables the ship's professional crew.
+- **Act II, The Concourse Approach (Chapter 7):** Entry, the shell-squatter-infested flyer graveyard, first contact with automated Concourse systems, the air and the evidence of the bazaar level, and the Miner and Safety Officer earning their keep as two genuinely separate disciplines (Appendix C).
+- **Act III, The Arbitration Floor and Extraction (Chapter 8):** Reaching the two mainframes, learning the true history (Appendix A is the payoff), the players' choice about what to do with ARBITER and COUNTERSIGN (Appendix B), and then getting out, or deciding to stay and hold the site, which changes the campaign's shape entirely.
 
 Referees should feel free to run this as a single long session (4 to 6 hours) hitting the beats of all three acts, or expand each act into its own session for a proper campaign.

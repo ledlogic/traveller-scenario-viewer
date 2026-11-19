@@ -1,7 +1,9 @@
-# CHAPTER 2, THE SETTING
+# CHAPTER 2, HALCOURT ON PALIN
 ### [Palin](https://wiki.travellerrpg.com/Palin_(world)?sector=Old%20Expanses&hex=2234) / [So Skire](https://wiki.travellerrpg.com/So_Skire_Subsector) [(Old Expanses](https://wiki.travellerrpg.com/Old_Expanses_Sector) 2234), Third Imperium
 
 ---
+
+![Palin from orbit](img/palin-orbit.webp)
 
 | Item | Value |
 |---|---|
@@ -25,7 +27,7 @@ The nobility, base and PBG columns are Traveller5 Second Survey notation, which 
 
 | Code | Meaning | What it means at the table |
 |---|---|---|
-| B | Starport B, Good [CR starport table] | Refined fuel and a spacecraft shipyard. Halcourt's downport can refuel and repair the *Sedimental Value*, which keeps the flight back to port in Chapter 5 realistic. |
+| B | Starport B, Good [CR starport table] | Refined fuel and a spacecraft shipyard. Halcourt's downport can refuel and repair the *Sedimental Value*, which keeps the flight back to port in Chapter 6 realistic. |
 | 4 | Size 4, 6,400 km, 0.50 g [SHEET, CR size table] | The Core Rulebook uses Mars as its own example for this size. Surface gravity is half a G, so characters feel light and heavy loads are easier to shift. |
 | 3 | Atmosphere 3, Very Thin [CR atmosphere table] | A respirator is the required gear. The same table lists Mars under Atmosphere 1 (Trace, vacc suit required), so Palin's air is one notch kinder than Mars on paper. See the plateau ruling below. |
 | 0 | Hydrographics 0, Desert | No standing surface water, which is where the De code comes from. Polar ice and deep aquifers are [HOMEBREW]. |
@@ -74,9 +76,13 @@ Palin itself is deep in Imperial space and unwatched in the way only a backwater
 
 ## 2.4: THE WORLD AS PLAYED [HOMEBREW]
 
+![Halcourt, the domed town on the plateau](img/halcourt.webp)
+
+![Meridian Field before the collapse](img/meridian-field.webp)
+
 **Surface.** Palin is a small, cold, dry world of red-brown regolith and iron-oxide dust under a thin sky lit by two red suns. Wind is the dominant hazard: dust storms can cut visibility to arm's length and static-charge exposed equipment badly enough to fry unshielded electronics. The equatorial plateau where Meridian Field stood is flat basalt, which made it an easy strip for winged atmospheric flyers. The fault that dropped the sinkhole is the Halcourt Rift.
 
-**Plateau ruling.** In the lowlands, treat the air as the Core Rulebook's Atmosphere 3 and require a respirator. On the plateau the air thins further, so treat it as Atmosphere 1 (Trace) and require a vacc suit. This is why earlier chapters assume vacc suits at the site. Inside the sealed sections of the Concourse the air is whatever Chapters 6 and 7 and Petra Ilkovic's readings say it is.
+**Plateau ruling.** In the lowlands, treat the air as the Core Rulebook's Atmosphere 3 and require a respirator. On the plateau the air thins further, so treat it as Atmosphere 1 (Trace) and require a vacc suit. This is why earlier chapters assume vacc suits at the site. Inside the sealed sections of the Concourse the air is whatever Chapters 7 and 8 and Petra Ilkovic's readings say it is.
 
 **Halcourt.** A domed town and downport holding most of Palin's roughly 20,000 people, 340 km from the sinkhole. It grew out of a depot dating to the Solomani Rim War and was never really replanned. Locals call it Purgatory, half as a joke. Water comes from polar ice and deep aquifers. It is the closest place to refuel, requisition gear and hire.
 

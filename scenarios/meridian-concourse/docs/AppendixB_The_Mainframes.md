@@ -32,7 +32,7 @@ A successfully turned mainframe will actively help the party against the other f
 
 **Game statistics (treat as a networked Computer/25, INT 11, EDU 12 equivalent per Core Rulebook computer rules):**
 - Skills: Electronics (computers) 4, Advocate 3, Tactics (military) 2, Recon 2, Investigate 2
-- Assets it can commit: up to four salvaged sentry drones (Appendix C) at a time within Zones Two and Three; full environmental control (doors, lighting, life support) on its own side of the Infrastructure Deck; limited environmental influence in Zone Two.
+- Assets it can commit: up to four salvaged sentry drones (Chapter 5) at a time within Zones Two and Three; full environmental control (doors, lighting, life support) on its own side of the Infrastructure Deck; limited environmental influence in Zone Two.
 - Intrusion defense: Security/3 ("Formidable", Core Rulebook Update 2022, p.110), the highest named tier the Security software rules define at TL12, and ARBITER exceeds even that: this is a Security/3 system that has had twenty-five years of uninterrupted self-directed hardening on top of its stock rating. The referee should treat the printed Formidable difficulty as a floor, not a ceiling, apply an additional Bane, or simply narrate that a "successful" roll against ARBITER often reveals it was watching the whole time and chose to let the data through.
 
 ## COUNTERSIGN (*Kovalenko-Straub Robotics* core)
@@ -41,7 +41,7 @@ A successfully turned mainframe will actively help the party against the other f
 
 **Game statistics (treat as a networked Computer/20, INT 10, EDU 11 equivalent, physically degraded, see below):**
 - Skills: Electronics (computers) 3, Gun Combat (all) 2 (via remote drone control), Tactics (military) 3, Stealth 2
-- Assets it can commit: up to five salvaged/improvised sentry drones or combat remnants (more numerous but individually shabbier than ARBITER's, reflecting K-S's more aggressive but less durable original hardware) within Zones Two and Three; environmental control on its own side of the deck only; its physical core has an active structural weakness (see Chapter 7, "the collapsed connecting corridor") that a sufficiently reckless or clever party can exploit directly.
+- Assets it can commit: up to five salvaged/improvised sentry drones or combat remnants (more numerous but individually shabbier than ARBITER's, reflecting K-S's more aggressive but less durable original hardware) within Zones Two and Three; environmental control on its own side of the deck only; its physical core has an active structural weakness (see Chapter 8, "the collapsed connecting corridor") that a sufficiently reckless or clever party can exploit directly.
 - Intrusion defense: Security/2 ("Very Difficult," Core Rulebook Update 2022, p.110), nominally one step below ARBITER's, reflecting Appendix A's characterization of K-S as the faster-moving, less rigorous engineering culture: COUNTERSIGN's patches are functional but improvised rather than methodically hardened. What it lacks in raw defense it makes up in reaction speed, COUNTERSIGN will notice and retaliate against a failed intrusion attempt faster and harder than ARBITER does; a botched Electronics (computers) check against COUNTERSIGN should have a real, immediate consequence (drone response, environmental lockout), not just a re-roll.
 
 ## HACKING EITHER MAINFRAME (Intrusion Task Chain)

@@ -11,8 +11,8 @@
       "label": "Ch 1: Introduction"
     },
     {
-      "file": "Chapter2_The_Setting.md",
-      "label": "Ch 2: The Setting (Palin)"
+      "file": "Chapter2_Palin.md",
+      "label": "Ch 2: Halcourt on Palin"
     },
     {
       "file": "Chapter3_Characters.md",
@@ -23,16 +23,20 @@
       "label": "Ch 4: NPCs"
     },
     {
-      "file": "Chapter5_Act_I_Arrival_and_the_Silence.md",
-      "label": "Ch 5: Act I, Arrival & the Silence"
+      "file": "Chapter5_Ships_Vehicles_and_Drones.md",
+      "label": "Ch 5: Ships, Vehicles & Drones"
     },
     {
-      "file": "Chapter6_Act_II_The_Concourse_Approach.md",
-      "label": "Ch 6: Act II, The Concourse Approach"
+      "file": "Chapter6_Act_I_Arrival_and_the_Silence.md",
+      "label": "Ch 6: Act I, Arrival & the Silence"
     },
     {
-      "file": "Chapter7_Act_III_The_Arbitration_Floor.md",
-      "label": "Ch 7: Act III, The Arbitration Floor"
+      "file": "Chapter7_Act_II_The_Concourse_Approach.md",
+      "label": "Ch 7: Act II, The Concourse Approach"
+    },
+    {
+      "file": "Chapter8_Act_III_The_Arbitration_Floor.md",
+      "label": "Ch 8: Act III, The Arbitration Floor"
     },
     {
       "file": "AppendixA_The_Robot_War.md",

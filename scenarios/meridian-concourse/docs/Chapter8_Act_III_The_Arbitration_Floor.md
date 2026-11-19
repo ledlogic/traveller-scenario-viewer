@@ -1,12 +1,12 @@
-# CHAPTER 7, ACT III: THE ARBITRATION FLOOR AND EXTRACTION
+# CHAPTER 8, ACT III: THE ARBITRATION FLOOR AND EXTRACTION
 
-## 7.1: THE ARBITRATION FLOOR
+## 8.1: THE ARBITRATION FLOOR
 
  the atrium at this zone's center is where the party will eventually need to go to reach either mainframe's physical access point (Zone Three has the hardware; the Floor has the last remaining *neutral* terminal both mainframes still recognize as legitimate, per their original charter, using it is the single safest way to communicate with either system without immediately being treated as a combat threat). A large, dust-shrouded holographic dispute-status board still flickers here, cycling meaninglessly through a century-old backlog of unresolved arbitration cases. Small, eerie, and worth describing in full.
 
 ---
 
-## 7.2: ZONE THREE, THE INFRASTRUCTURE DECK (Lower Level / Mainframes)
+## 8.2: ZONE THREE, THE INFRASTRUCTURE DECK (Lower Level / Mainframes)
 
 The lowest accessible level, and the only one still under active, deliberate environmental control by its two remaining occupants. This is where ARBITER and COUNTERSIGN physically reside (each in its own hardened server core, on opposite sides of the deck, separated by the blast-collapsed section that used to connect them directly, neither has had physical access to the other's core in twenty-five years, only network access, which is part of why the stalemate has held). Full stats, personality, and interaction rules for both are in **Appendix B**.
 
@@ -23,6 +23,6 @@ The lowest accessible level, and the only one still under active, deliberate env
 
 ---
 
-## 7.3: EXTRACTION OR OCCUPATION
+## 8.3: EXTRACTION OR OCCUPATION
 
 Getting out is its own problem. The standing protocol does not end when the party stops fighting, and neither mainframe has any reason to let a known intruder leave quietly. If the party has turned one against the other, or brokered a truce, the exit is a negotiated one. If not, the party fights its way up through the same zones it came down. The party can also decide to stay, hold the site, and call for help from Halcourt, which turns the campaign into an occupation: the patron, the Resident and the Registry all have an opinion about who now owns the Concourse.

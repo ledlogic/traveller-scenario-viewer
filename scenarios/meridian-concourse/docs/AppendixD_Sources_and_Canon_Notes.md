@@ -19,7 +19,7 @@ The writeup, hook, objectives and act structure are **[HOMEBREW]**. The UWP bloc
 
 ---
 
-## CHAPTER 2, THE SETTING
+## CHAPTER 2, HALCOURT ON PALIN
 
 - **Palin's UWP (B430489-A), trade codes, nobility, bases, extensions, PBG, number of worlds, stars, and every neighbour** [TABLE], all confirmed by the data sheet for Palin [SHEET], which also supplies the 0.50 g gravity, the Law Level 9 wording, and the plain-language readings of the Economic and Cultural extensions. The distances are my calculations from the hex coordinates, treating even-numbered columns as shifted half a hex down and sanity-checked against known adjacent pairs.
 - **So Skire is subsector O of the Old Expanses sector with 37 worlds, capital Peart, 33 Imperial and 4 Confederation worlds, defended by the 308th Fleet, in the Domain of Sol** [WIKI]. The wiki's background and history sections for the subsector are empty, and it gives Palin no description at all. The Hell page records an Imperial Landed Nobility member as the Imperial representative, which agrees with reading the nobility code B as a Knight.
