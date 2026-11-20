@@ -6,6 +6,8 @@ The machines in the campaign: the chartered ship that carries the party, the fly
 
 ![The Sedimental Value](img/far-trader.jpg)
 
+**Image prompt:** *A modified 200-ton far trader on a rough landing field, squat streamlined hull with extra cargo winching gear on the dorsal side, reinforced landing legs, a small open drone bay on the underside, scuffed hull plates, red desert dust around the landing legs, two red suns low in the sky, grounded hard-sci-fi ship portrait.*
+
 A chartered 200-ton far trader, refitted for survey/salvage work: extra cargo winching gear, a small drone bay, and reinforced landing gear for rough-field work on worlds like Palin. Owned and operated by an independent charter contractor out of Halcourt, hired for this run by the expedition's patron. Full stats are left to the referee's preferred trader template (Core Rulebook Update 2022 has a suitable baseline); what matters for this campaign is the crew roster and the one system modification below.
 
 **Standard crew (NPCs) at expedition start:** Captain and Senior Pilot Aveline Devereux-Sato, Senior Engineer Bram Voskuijlen and Medic and Steward Hana Oyelaran. All three are described in **Chapter 4**.
@@ -17,6 +19,8 @@ Something happens to the people who do.
 ## 5.2: VEHICLES
 
 ![A wrecked atmospheric flyer in the graveyard](img/flyer-wreck.webp)
+
+**Image prompt:** *A wrecked winged atmospheric flyer half-buried in red dust on a dark apron, torn hull plating, one wing snapped, a burrowing creature's shell visible in a ripped section, shafts of daylight through a collapsed ceiling above, deep shadow beyond, post-collapse hard-sci-fi atmosphere.*
 
 Palin has little traffic of its own, so the vehicles that matter are the ones left in the Concourse and the ones the party brings.
 
@@ -36,6 +40,10 @@ Two kinds of drone matter: the ones the party owns and the ones the mainframes f
 **The mainframes' drones.** ARBITER fields refurbished sentries and COUNTERSIGN fields rebuilt combat remnants. Appendix B explains how each mainframe commits them, and Chapter 7 and Chapter 8 say where they appear.
 
 ### SALVAGED SENTRY DRONE (ARBITER/*Heliarch* pattern)
+
+![Sentry drone](img/sentry-drone.webp)
+
+**Image prompt:** *A refurbished security sentry drone hovering in a dusty corridor, smooth grey armoured chassis, a stun baton on one arm, a single blue sensor band, neat repairs, company markings faded, calm and methodical, cool blue lighting, hard-sci-fi robot portrait.*
 
 Refurbished and incrementally upgraded over twenty-five years from *Heliarch*'s original 1094-vintage security stock. Cautious, methodical, prefers to disable and detain rather than destroy, consistent with ARBITER's overall approach (Appendix B).
 
@@ -61,6 +69,10 @@ Options         Auditory Sensor (broad spectrum), Drone Interface,
 ---
 
 ### SALVAGED COMBAT REMNANT (COUNTERSIGN/K-S pattern)
+
+![Combat remnant](img/combat-remnant.webp)
+
+**Image prompt:** *A rebuilt tracked combat robot in a dusty corridor, heavy asymmetric chassis, patchwork armour from scavenged parts including mismatched grey plates from another maker, crude weapon mount, one oversized manipulator, amber warning light, battered and menacing, hard-sci-fi robot portrait.*
 
 Rebuilt from K-S "hazard response" combat stock, more numerous, more aggressive, individually shabbier than ARBITER's sentries, reflecting both K-S's original design philosophy and COUNTERSIGN's more damaged fabrication capability.
 
@@ -91,4 +103,3 @@ Options         Transceiver (short range, COUNTERSIGN network only),
 
 ---
 
-*Drone images:* `sentry-drone.webp` and `combat-remnant.webp` in the scenario's img folder, if you want them shown.

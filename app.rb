@@ -288,6 +288,21 @@ def load_scenarios
 end
 
 # ── Render shell ────────────────────────────────────────────────
+# Colour the two rival companies and their mainframes: blue for Heliarch and
+# ARBITER, red for Kovalenko-Straub and COUNTERSIGN. Only text nodes are
+# touched, never tags, attributes or code blocks.
+NAME_COLOURS = [
+  [/\b(Heliarch Dynamics|Heliarch|ARBITER)\b/,                         'name-blue'],
+  [/\b(Kovalenko-Straub Robotics|Kovalenko-Straub|K-S|COUNTERSIGN)\b/, 'name-red'],
+].freeze
+
+def colorize_names(html)
+  html.split(%r{(<pre.*?</pre>|<code.*?</code>|<[^>]+>)}m).each_with_index.map do |part, i|
+    next part if i.odd?
+    NAME_COLOURS.reduce(part) { |s, (re, cls)| s.gsub(re) { "<span class=\"#{cls}\">#{$1}</span>" } }
+  end.join
+end
+
 def render_shell(opts = {})
   accent   = opts[:accent_color] || '#c8a96e'
   nav_html = opts[:nav_html] || ''
@@ -599,7 +614,7 @@ get '/s/:slug/:filename' do
   halt 404, 'Document not found' unless File.exist?(filepath)
 
   raw  = File.read(filepath, encoding: 'utf-8')
-  html = Kramdown::Document.new(raw, input: 'GFM').to_html
+  html = colorize_names(Kramdown::Document.new(raw, input: 'GFM').to_html)
 
   docs = s['docs'] || []
   nav_html = docs.map do |d|
@@ -642,7 +657,7 @@ get '/s/:slug/:filename/reader' do
   halt 404, 'Document not found' unless File.exist?(filepath)
 
   raw  = File.read(filepath, encoding: 'utf-8')
-  html = Kramdown::Document.new(raw, input: 'GFM').to_html
+  html = colorize_names(Kramdown::Document.new(raw, input: 'GFM').to_html)
 
   docs = s['docs'] || []
   idx  = docs.index { |d| d['file'] == filename }
@@ -677,6 +692,8 @@ get '/s/:slug/:filename/reader' do
       th, td { border: 1px solid #c9c4b8; padding: .35rem .6rem; text-align: left; vertical-align: top; }
       blockquote { margin: 1rem 0; padding: .6rem 1rem; border-left: 4px solid #c8a96e; background: #f1ede2; }
       code { font-size: .9em; }
+      .name-blue { color: #2f6fd6; }
+      .name-red  { color: #c0392b; }
       hr { border: 0; border-top: 1px solid #d8d3c6; margin: 2rem 0; }
       @media (prefers-color-scheme: dark) {
         body { background: #16171a; color: #e4e2dc; }
@@ -684,6 +701,8 @@ get '/s/:slug/:filename/reader' do
         th, td { border-color: #3a3c42; }
         blockquote { background: #1f2024; }
         hr { border-top-color: #34363c; }
+        .name-blue { color: #6fa3ff; }
+        .name-red  { color: #ff7b6b; }
       }
     </style>
     </head>

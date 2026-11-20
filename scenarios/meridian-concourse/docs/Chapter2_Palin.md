@@ -5,6 +5,8 @@
 
 ![Palin from orbit](img/palin-orbit.webp)
 
+**Image prompt:** *A small cold desert world seen from orbit, red-brown and iron-oxide regolith with pale polar caps, thin hazy atmosphere, two small red dwarf suns low in the black sky behind it, one slightly brighter than the other, a single tiny starport station in orbit, grounded hard-sci-fi space illustration, wide cinematic framing.*
+
 | Item | Value |
 |---|---|
 | World | Palin |
@@ -40,7 +42,7 @@ The nobility, base and PBG columns are Traveller5 Second Survey notation, which 
 
 ## 2.2: THE SYSTEM
 
-Palin's primary is a pair of M1 V red dwarfs [TABLE], called **Palin A** and **Palin B** here [HOMEBREW names]. Orbits are the referee's choice. A good default is that the mainworld circles Palin A closely while Palin B hangs in the sky as a smaller, dimmer second sun, so everything on the surface is lit in two shades of dull red.
+Palin's primary is a pair of M1 V red dwarfs [TABLE], called **Palin A** and **Palin B** here. Orbits are the referee's choice. A good default is that the mainworld circles Palin A closely while Palin B hangs in the sky as a smaller, dimmer second sun, so everything on the surface is lit in two shades of dull red.
 
 The table gives the system 8 worlds with a PBG of 214 [TABLE]. Beyond the mainworld that means one planetoid belt, four gas giants, and two further minor worlds that nothing describes. The four gas giants make unrefined fuel trivial to skim, and the belt, which locals call the Cinders [HOMEBREW], explains the Economic extension's Resources value of B, abundant [TABLE, SHEET]. Read together, the data describes a world rich in rock and short of people: Resources abundant, Labour in the thousands, Infrastructure very limited, Efficiency good [SHEET]. That is the economic reason Meridian Field mattered so much to Halcourt, and the reason Grit's profession is worth hiring.
 
@@ -74,11 +76,13 @@ Palin itself is deep in Imperial space and unwatched in the way only a backwater
 
 ---
 
-## 2.4: THE WORLD AS PLAYED [HOMEBREW]
-
 ![Halcourt, the domed town on the plateau](img/halcourt.webp)
 
+**Image prompt:** *A domed frontier town on a high red desert plateau, a cluster of low pressure domes and a utilitarian downport with a few landed traders, patchwork additions to a decades-old military depot, dust storm on the horizon, thin dark sky with two red suns, grounded hard-sci-fi establishing shot.*
+
 ![Meridian Field before the collapse](img/meridian-field.webp)
+
+**Image prompt:** *Cutaway view of a vast linear airport and bazaar built into a natural trench, shops and offices cantilevered off a hard rock cliff face, a long central corridor of gardens, biohabs and zoos running down the middle, winged atmospheric flyers parked on the surface apron above, warm lamplight below against red desert light above, bustling and prosperous, pre-collapse, detailed hard-sci-fi architectural illustration.*
 
 **Surface.** Palin is a small, cold, dry world of red-brown regolith and iron-oxide dust under a thin sky lit by two red suns. Wind is the dominant hazard: dust storms can cut visibility to arm's length and static-charge exposed equipment badly enough to fry unshielded electronics. The equatorial plateau where Meridian Field stood is flat basalt, which made it an easy strip for winged atmospheric flyers. The fault that dropped the sinkhole is the Halcourt Rift.
 
@@ -94,7 +98,7 @@ Palin itself is deep in Imperial space and unwatched in the way only a backwater
 
 ---
 
-## 2.5: LAW LEVEL 9, CHARTERS AND REGISTRATION
+## 2.4: LAW LEVEL 9, CHARTERS AND REGISTRATION
 
 Law Level 9 sits on the last row of the Core Rulebook's Law Level table, where all weapons and all armour are banned [CR]. The data sheet words the same level as possession of weapons outside the home being prohibited [SHEET], so the practical rule is that nothing is carried in public. Under the Law and Travellers procedure in the World Creation chapter, the authorities take an interest whenever a 2D roll comes in at or below the Law Level, so at Law 9 that is five rolls in six [CR, arithmetic]. The expedition cannot simply walk off the downport armed.
 
@@ -104,7 +108,7 @@ Law Level 9 sits on the last row of the Core Rulebook's Law Level table, where a
 
 ---
 
-## 2.6: THE PATRON, THE BORDER AND WHY NOW
+## 2.5: THE PATRON, THE BORDER AND WHY NOW
 
 Chapter 1 leaves the patron to the referee. With real neighbours available, four options fit the data:
 
