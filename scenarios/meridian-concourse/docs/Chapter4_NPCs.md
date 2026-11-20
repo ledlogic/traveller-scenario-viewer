@@ -11,7 +11,7 @@ The people the party meets, or is told about, on Palin. Everything in this chapt
 | Hana Oyelaran | Medic and steward | Acts I to III |
 | Sir Teodor Brandt | The Resident, Palin's Knight | Acts I and III |
 | The Registry clerk | Palin Civil Registry | Act I |
-| The patron's agent | Whoever is paying | Acts I to III |
+| The patron's agent | Whoever is paying, rolled on a table in 4.4 | Acts I to III |
 | ARBITER | *Heliarch*'s mainframe | Acts II and III |
 | COUNTERSIGN | *Kovalenko-Straub*'s mainframe | Acts II and III |
 | Scavenger crews | Halcourt independents | Act II |
@@ -45,11 +45,33 @@ After the incident all three officers are out of the campaign for good (Chapter 
 **Image prompt:** *Sir Teodor Brandt, the Resident, a careful Imperial functionary and Knight, human man in his fifties, neat grey hair, formal grey tunic with a small Imperial knightly order pin, a desk covered in forms behind him, tired and guarded, office lighting through a dome window, grounded hard-sci-fi portrait.*
 
 - **Sir Teodor Brandt, the Resident.** The Knight whose title the So Skire table records for Palin. A careful, unambitious Imperial functionary, the sort who survives postings like this one by never being the person who made a decision. He is cleaning up ahead of an audit from the naval staff at Di Meola (Chapter 2), which gives him a reason to let a private expedition go in first and a stronger reason to be unhappy if it finds anything embarrassing. Cooperative on the surface, evasive on anything about 1094.
-- **The Registry clerk.** The Palin Civil Registry's face to the party: courteous, thorough about forms, and entirely incurious about what is in them. Use the clerk to deliver the Hazard Site Charter and the Autonomous Systems Ordinance (Chapter 2), and to let a player discover that the 1094 filing was stamped "industrial accident" and archived unread.
+- **The Registry clerk.** The Palin Civil Registry's face to the party: courteous, thorough about forms, and entirely incurious about what is in them. Use the clerk to deliver the Hazard Site Charter and the Autonomous Systems Ordinance (Chapter 2), and to let a player discover that the 1094 filing was stamped, "industrial accident," and archived unread.
 
 ## 4.4: THE PATRON'S AGENT (Acts I to III)
 
 The party's contact with whoever is paying. Chapter 2 lists four patron options (a Tama syndicate, an Atkins combine, a Digriz company, the Resident's own office), and the agent changes with the choice. Whoever it is, the agent wants the mainframes captured intact, and is not fully honest with the crew about that (Chapter 1). Play the agent as pleasant, well briefed, and never quite answering the question the party actually asked.
+
+**Roll for the patron.** Roll 1D. A 1 to 4 sets the patron and the agent. A 5 or 6 is a complication: roll again for the patron and the agent, then apply the complication to that result. If the second roll is also a 5 or 6, apply both complications and roll again.
+
+| 1D | Patron | Agent | Company or office |
+|---|---|---|---|
+| 1 | A Tama syndicate | **Lucan Marchetti**, claims adjuster | Tama Mutual Salvage |
+| 2 | An Atkins combine | **Dr. Priya Venkataraman-Holt**, procurement director | Atkins Allied Systems |
+| 3 | A Digriz company | **Tomasz Wrede**, liaison | Digriz Heavy Systems |
+| 4 | The Resident's own office | **Halvard Idowu-Lindqvist**, private secretary | Sir Teodor Brandt's office |
+| 5 | Roll again | The patron could not come | Leave a message at a drop |
+| 6 | Roll again | The patron is dead | The agent is gone |
+
+- **Lucan Marchetti (Tama Mutual Salvage).** Rumpled, cheerful, always apologising for the paperwork. Presents the job as closing an old insurance claim nobody wanted to open. He lets slip that his firm has already paid out on 1094 once and would prefer to know what it paid for. He does not mention that his board wants the mainframes sold, not just recovered.
+- **Dr. Priya Venkataraman-Holt (Atkins Allied Systems).** Precise, polite and very well briefed, with a habit of answering a different question from the one asked. Calls the mainframes "assets" and the crew "contractors." She wants the arbitration cores undamaged and says so three times. She does not mention that Atkins has a competing bid on the Heliarch patents.
+- **Tomasz Wrede (Digriz Heavy Systems).** Soft-spoken and former Confederation military, reaches the crew through Draeger's old SolSec contacts. Talks about border security and smuggling and never about money. He needs the hardware kept out of Imperial hands and does not say that either.
+- **Halvard Idowu-Lindqvist (the Resident's office).** Tall, anxious and scrupulously helpful, with the Resident's seal on every form. Presents the job as, "a site survey for the Registry." Sir Teodor Brandt is cleaning up before the Di Meola audit and needs it done without a report that mentions him. Halvard knows this and is quietly frightened of it.
+
+**5, the patron could not come.** The rolled agent does not meet the crew. Instead the briefing is left at a **drop**: a sealed packet in a locker at the Halcourt downport, or a message waiting at the party's lodgings, with the sinkhole survey, the Hazard Site Charter forms and a short, careful note. The note gives the job and the pay and apologises for the absence with a reason that is plausible and not quite checkable ("held up at Di Meola," "called back to the board"). The party can reply only through the same drop. This suits a referee who wants the party to feel it is being used and to wonder why. The agent finally appears in person in Chapter 8, when the party needs someone to talk to about what to do with the mainframes.
+
+**6, the patron is dead.** The rolled agent was the one who hired the crew and is now dead, found in a Halcourt hotel a day before the party lands. The Registry has already stamped it, "natural causes," and filed it. The party arrives to a **deputy, a lawyer or a recorded message**, whichever the referee prefers, with the dead agent's instructions, the survey and the pay already in escrow. Nobody on Palin will say how the agent died, and the party has now been given a reason to wonder who else wants the mainframes. This is a hook, not a plot: the referee can answer it with ARBITER and COUNTERSIGN's old corporate backers, a rival bidder, or nothing at all.
+
+Whichever agent the roll gives, the agent briefs the crew in Chapter 6, hands over the sinkhole survey, and is the voice on the comm in Chapters 7 and 8 whenever the party asks who they are really working for.
 
 ## 4.5: THE OPPOSITION
 

@@ -44,7 +44,7 @@ A quake cracks open a buried airport and bazaar on Palin, sealed for decades sin
 | **1094, Days 1 to 7** | Open robotic warfare. A *Kovalenko-Straub* hazard-response unit seizes the arbitration terminal itself, *Heliarch* answers with armed automata, and the fighting spreads from the perimeter domes into the Concourse. Halcourt cuts all flyer routes to the plateau on day 4, too late for everyone still inside. [HOMEBREW] |
 | **1094, Days 8 to 11** | The Arbitration Floor. Both mainframes throw every automated asset into the Concourse. Both firms' off-world boards order a remote shutdown, and neither mainframe obeys. [HOMEBREW] |
 | **1094, Day 11** | The collapse. A cornered *Kovalenko-Straub* platform detonates a fusion-cell overload rather than be captured, and about 40 percent of the Concourse comes down in two minutes. [HOMEBREW] |
-| **1094 and after** | Both firms settle fast and quietly, jointly funding the sealing of the site. The collapse also cracked open buried isotope and reactor stock on the lowest level, which is why nobody digs back in. The Palin Civil Registry stamps the whole affair "industrial accident" and archives it unread, and the Resident, Sir Anselm Varga, signs without reading past the cover sheet. [HOMEBREW] |
+| **1094 and after** | Both firms settle fast and quietly, jointly funding the sealing of the site. The collapse also cracked open buried isotope and reactor stock on the lowest level, which is why nobody digs back in. The Palin Civil Registry stamps the whole affair, "industrial accident," and archives it unread, and the Resident, Sir Anselm Varga, signs without reading past the cover sheet. [HOMEBREW] |
 
 ### The Quiet Years
 
@@ -55,6 +55,11 @@ A quake cracks open a buried airport and bazaar on Palin, sealed for decades sin
 | **1094 to 1119** | Sealed in the dark, ARBITER and COUNTERSIGN keep defending their firms and treating each other as a standing threat. Each spends twenty-five years improving itself against an adversary of matched capability. [HOMEBREW] |
 | **1103** | Cloudia begins building high-performance merchant ships that some observers believe could be converted to warships, raising nerves along the border. [SF] |
 | **1109** | A salvage crew recovers the android Bracket from an equipment dome on Palin. [HOMEBREW] |
+| **1116** | Emperor Strephon is assassinated, and the Imperium's central authority begins to wobble. [GENERAL] |
+| **1116 to 1118** | Confederation traders, brokers and agents work the Dagir cluster and the border worlds with cheap credit, subsidised cargo and quiet offers. A few small incursions probe Imperial pickets and are never answered in force, and some worlds begin to lean toward Terra. [HOMEBREW] |
+| **1117** | The Palin Civil Registry starts accepting Confederation commercial filings next to Imperial ones and takes fees from both. Nobody in the Resident's office objects, because nobody reads them. [HOMEBREW] |
+| **1118** | Sir Teodor Brandt hears that the naval staff at Di Meola will audit the Resident's paperwork, and starts tidying. Palin stays Imperial on every map, but Halcourt's downport now quietly services Confederation-registered traders. [HOMEBREW] |
+| **1118 to 1119** | Confederation brokers start asking questions in Halcourt about *Heliarch Dynamics* and its dissolved Palin subsidiary. *Heliarch* was chartered on Terra, and its property, records and the machines it left on Palin are exactly what a Confederation buyer would want. [HOMEBREW] |
 
 ### The Year 1119, Why Now
 
@@ -72,6 +77,8 @@ A quake cracks open a buried airport and bazaar on Palin, sealed for decades sin
 Palin is Imperial territory, and has been since long before anyone currently living there was born. That is most of what recommends it.
 
 The world sits deep inside the Imperium's So Skire Subsector, six parsecs from the nearest Confederation world, nominally under full Third Imperium administration and in practice under almost none. Its one settlement, **Halcourt**, exists because the Imperium needed something on this stretch of space during the Solomani Rim War, a picket world and supply depot, and never quite got around to deciding what it should become afterward.
+
+Since the Emperor's assassination in 1116, Palin has been **contested**. It is still Imperial on every map and under the Resident's seal, but Confederation money, traders and agents have been working the world for three years, and the Registry takes fees from both sides. Nobody has declared anything, and nobody in the Resident's office is reading the filings closely enough to notice.
 
 For a stretch of thirty years, Palin's literal main corridor of economic activity was **Meridian Field**, a linear, sprawling joint civil and commercial airport-and-bazaar complex on the equatorial plateau, built to service atmospheric flyer traffic between Halcourt and the handful of mining claims scattered across the highlands. It was built into a natural trench, using the strong hardrock cliff face to cantilever its shops and businesses while a central corridor of gardens, biohabs and zoos ran down the middle: the ultimate full-lifecycle mall, for living, working, learning and playing. In its last years of operation, Meridian Field also did something the Palin Civil Registry never quite noticed happening under its nose: it hosted the arbitration courts, brokers and cargo bays through which two rival robotics conglomerates, one Solomani and one Imperial-backed, settled their manufacturing disputes. They did it specifically because neither trusted the other's home courts, and specifically because nobody on Palin was paying close enough attention to ask why a Solomani firm was running hardware trials on Imperial soil in the first place.
 
@@ -127,5 +134,3 @@ Chapter 5 collects the ship, the vehicles and the drones. The campaign itself ru
 - **Act I, Arrival and the Silence (Chapter 6):** Transit to Palin, arrival at the Halcourt downport (where Law Level 9 and the Hazard Site Charter shape what the party can carry), hiring and prep, the flight out to the sinkhole, and the incident that disables the ship's professional crew.
 - **Act II, The Concourse Approach (Chapter 7):** Entry, the shell-squatter-infested flyer graveyard, first contact with automated Concourse systems, the air and the evidence of the bazaar level, and the Miner and Safety Officer earning their keep as two genuinely separate disciplines (Appendix C).
 - **Act III, The Arbitration Floor and Extraction (Chapter 8):** Reaching the two mainframes, learning the true history (Appendix A is the payoff), the players' choice about what to do with ARBITER and COUNTERSIGN (Appendix B), and then getting out, or deciding to stay and hold the site, which changes the campaign's shape entirely.
-
-Referees should feel free to run this as a single long session (4 to 6 hours) hitting the beats of all three acts, or expand each act into its own session for a proper campaign.

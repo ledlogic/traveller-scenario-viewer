@@ -7,22 +7,6 @@
 
 **Image prompt:** *A small cold desert world seen from orbit, red-brown and iron-oxide regolith with pale polar caps, thin hazy atmosphere, two small red dwarf suns low in the black sky behind it, one slightly brighter than the other, a single tiny starport station in orbit, grounded hard-sci-fi space illustration, wide cinematic framing.*
 
-| Item | Value |
-|---|---|
-| World | Palin |
-| Hex | 2234 |
-| Sector and subsector | Old Expanses, So Skire (subsector O, 37 worlds, capital Peart) |
-| Allegiance | ImDs, the Third Imperium's Domain of Sol |
-| UWP | B430489-A |
-| Trade codes | De Ni Po (Desert, Non-industrial, Poor) |
-| Nobility | B, a Knight holds the Imperial interest |
-| Bases and zone | None, none. No naval base, scout base or way station, and no Amber or Red zone |
-| Extensions | Importance {1} (Ordinary), Economic (B34+2), Cultural [556B] |
-| PBG | 214, population multiplier 2, one planetoid belt, four gas giants |
-| System | 8 worlds, two M1 V red dwarf stars |
-
-The nobility, base and PBG columns are Traveller5 Second Survey notation, which the Core Rulebook does not define. The data sheet confirms the readings used here: the nobility code B is a Knight, there is no travel zone (Travellers' Aid Society rating Green), and the system holds four gas giants, one planetoid belt and two other worlds [SHEET].
-
 ---
 
 ## 2.1: THE UWP, DIGIT BY DIGIT
@@ -52,11 +36,9 @@ The table gives the system 8 worlds with a PBG of 214 [TABLE]. Beyond the mainwo
 
 So Skire is subsector O of the Old Expanses sector. It holds 37 worlds and its capital is Peart (1834, four parsecs from Palin). The Third Imperium controls 33 of the 37 worlds, the Solomani Confederation holds four, and the subsector's defending force is the 308th Fleet [WIKI]. The four Confederation worlds in the table are Patuxant (2240), Bordelon (2340), Khan (2439) and Digriz (2440) [TABLE], all strung along the southern edge. Those hexes sit six to seven parsecs from Palin and three to four from Hell [distances calculated from the hex coordinates].
 
-Palin itself is deep in Imperial space and unwatched in the way only a backwater can be. It has no naval base, scout base, way station or travel zone [TABLE]. The nearest naval bases are at Di Meola (2236, two parsecs) and Hjorts (2432, three), the nearest scout base is at Clarke (2333, two), with more at Hell (2237), Barlow (1934) and Dunbar (2036) at three, and the nearest class A starport is Tama (2134), one parsec away.
+Palin itself is deep in Imperial space and unwatched in the way only a backwater can be. It has no naval base, scout base, way station or travel zone [TABLE].
 
 **Digriz** (2440, B689414-A) is the nearest Confederation world to Palin's neighbourhood that the wiki describes: a corporate polity, a frontier world on the Imperial border, with a class B starport and shipyard. A company-run Confederation world seven parsecs away is a ready-made patron or rival for the expedition.
-
-### Worlds within three parsecs of Palin
 
 | Pc | World | Hex | UWP | Remarks | Base | Note |
 |---|---|---|---|---|---|---|
@@ -74,6 +56,10 @@ Palin itself is deep in Imperial space and unwatched in the way only a backwater
 | 3 | Hjorts | 2432 | A553224-9 | Lo Po | Naval | Second naval base within reach. |
 | 3 | Valdost | 2332 | C693510-6 | Ni | None | |
 
+**Surface.** Palin is a small, cold, dry world of red-brown regolith and iron-oxide dust under a thin sky lit by two red suns. Wind is the dominant hazard: dust storms can cut visibility to arm's length and static-charge exposed equipment badly enough to fry unshielded electronics. The equatorial plateau where Meridian Field stood is flat basalt, which made it an easy strip for winged atmospheric flyers. The fault that dropped the sinkhole is the Halcourt Rift.
+
+**Plateau ruling.** In the lowlands, treat the air as the Core Rulebook's Atmosphere 3 and require a respirator. On the plateau the air thins further, so treat it as Atmosphere 1 (Trace) and require a vacc suit. This is why earlier chapters assume vacc suits at the site. Inside the sealed sections of the Concourse the air is whatever Chapters 7 and 8 and Petra Ilkovic's readings say it is.
+
 ---
 
 ![Halcourt, the domed town on the plateau](img/halcourt.webp)
@@ -84,13 +70,9 @@ Palin itself is deep in Imperial space and unwatched in the way only a backwater
 
 **Image prompt:** *Cutaway view of a vast linear airport and bazaar built into a natural trench, shops and offices cantilevered off a hard rock cliff face, a long central corridor of gardens, biohabs and zoos running down the middle, winged atmospheric flyers parked on the surface apron above, warm lamplight below against red desert light above, bustling and prosperous, pre-collapse, detailed hard-sci-fi architectural illustration.*
 
-**Surface.** Palin is a small, cold, dry world of red-brown regolith and iron-oxide dust under a thin sky lit by two red suns. Wind is the dominant hazard: dust storms can cut visibility to arm's length and static-charge exposed equipment badly enough to fry unshielded electronics. The equatorial plateau where Meridian Field stood is flat basalt, which made it an easy strip for winged atmospheric flyers. The fault that dropped the sinkhole is the Halcourt Rift.
-
-**Plateau ruling.** In the lowlands, treat the air as the Core Rulebook's Atmosphere 3 and require a respirator. On the plateau the air thins further, so treat it as Atmosphere 1 (Trace) and require a vacc suit. This is why earlier chapters assume vacc suits at the site. Inside the sealed sections of the Concourse the air is whatever Chapters 7 and 8 and Petra Ilkovic's readings say it is.
-
 **Halcourt.** A domed town and downport holding most of Palin's roughly 20,000 people, 340 km from the sinkhole. It grew out of a depot dating to the Solomani Rim War and was never really replanned. Locals call it Purgatory, half as a joke. Water comes from polar ice and deep aquifers. It is the closest place to refuel, requisition gear and hire.
 
-**Government in action.** The Imperial interest on Palin is held by a Knight [TABLE], here **Sir Teodor Brandt, the Resident**. The actual administration is a Civil Service Bureaucracy (Government 8), here the **Palin Civil Registry**, whose main product is filed paperwork. When *Heliarch Dynamics* and *Kovalenko-Straub* settled in 1094, the Registry accepted their joint filing, stamped it "industrial accident," and archived it. Nobody senior read it, because nobody senior had reason to. That is the whole cover-up, and it is more plausible than a conspiracy.
+**Government in action.** The Imperial interest on Palin is held by a Knight [TABLE], here **Sir Teodor Brandt, the Resident**. The actual administration is a Civil Service Bureaucracy (Government 8), here the **Palin Civil Registry**, whose main product is filed paperwork. When *Heliarch Dynamics* and *Kovalenko-Straub* settled in 1094, the Registry accepted their joint filing, stamped it, "industrial accident," and archived it. Nobody senior read it, because nobody senior had reason to. That is the whole cover-up, and it is more plausible than a conspiracy. Since 1116 the Registry has also been taking commercial filings and fees from Confederation traders, so Palin is contested rather than cleanly Imperial: the same indifference that buried 1094 lets both sides do business and look the other way. [HOMEBREW]
 
 **Economy.** Mining the Cinders, skimming the gas giants, and importing almost everything else. Meridian Field was the transhipment point that made that work, which is why Halcourt never recovered when it went dark.
 

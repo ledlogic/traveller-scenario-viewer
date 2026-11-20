@@ -72,10 +72,72 @@ A term-by-term tracker uses these columns:
 
 ## CHARACTER BUILDS
 
-Each character's build log lives in **Chapter 3**, under that character's sheet, so the sheet and its history stay together. Rurik (Character 1) is started there. This appendix holds only the shared process, the Marine career tables and the tracker layout.
+Each character's Chapter 3 entry carries only a short career timeline. The full build log lives here, so the sheets stay clean. Rurik (Character 1) is started below.
+
+### RURIK, CHARACTER 1
+
+The process, tables and tracker columns are in **Appendix F**. This block rebuilds Rurik's sheet above term by term.
+
+#### Problem to settle first, years versus age
+
+Age 34 is exactly four terms of service, because 18 + 16 = 34 [CR p.9, p.18]. The sheet also says she has been a security contractor for three years since discharge. Both cannot be true. The options:
+
+| Option | Terms | Discharged | Years as contractor | Result |
+|---|---|---|---|---|
+| A | 4 terms, age 18 to 34 | 1119, age 34 | 0 (the contractor line is dropped, she signed on for this charter straight out) | One ageing roll at the end of term 4 (2D minus 4). Keeps the Corporal and the sheet's age. |
+| B **[PROPOSED]** | 3 terms, age 18 to 30 | 1115, age 30 | About 3 (one transition year, then 1116 to 1119 contracting) | Matches "three-year contractor" and "ex-Marine". Ageing begins only at term 4, so none is rolled. |
+| C | 4 terms, then drop "three-year contractor" and keep "contractor" loosely (moonlighting during service) | 1119 | Overlaps service | Keeps age 34 and four terms, but the contractor years overlap her service rather than follow it. |
+
+Option B is proposed because it keeps the sheet's text and avoids an ageing roll. It also means only three terms of skills to account for, which is tight but workable: three term rolls, one extra roll per promotion, and the rank bonus skills, plus three background skills.
+
+#### Birth and calendar, Option B [PROPOSED]
+
+Born 1085 (age 34 in 1119). Entered the Confederation Marine Corps in 1103 at age 18. Discharged in 1115 at age 30 after three terms. Contractor work from about 1116.
+
+#### Homeworld, Perstein (2009, Dagir Subsector)
+
+From the Dagir listing [SF] the entry reads: Perstein 2009 B559476-C, trade codes Ht Ni, Solomani, with a Green zone marker. The hex map text on that page is scrambled by the extraction, so the table line is the one to trust.
+
+Rurik grew up on Perstein, a small, high-tech water world with few people, and chose to leave it at eighteen for the Confederation Marines.
+
+#### Base characteristics [PROPOSED]
+
+The sheet's final UPP is 898675. Working backward through a Marine career, the likely base array before any term is:
+
+| Characteristic | Base | Final on sheet | Change to explain |
+|---|---|---|---|
+| STR | 8 | 8 | none |
+| DEX | 8 | 9 | +1 from Personal Development (roll of 2) |
+| END | 7 | 8 | +1 from Personal Development (roll of 3), or the Mustering benefit "Armour or END +1" |
+| INT | 6 | 6 | none |
+| EDU | 7 | 7 | none |
+| SOC | 5 | 5 | none, below the SOC 8+ needed for a commission |
+
+These are targets that make the existing sheet work, with END 7 (DM+0) qualifying for the Marines on any roll of 6 or better. They can be replaced by real dice. If you want to roll, say so and the log records the actual rolls instead.
+
+#### Background skills
+
+EDU 7 falls in the 6 to 8 band, which gives DM+0, so 3 + 0 = **3 background skills** at level 0 [CR p.9, p.10]. Chosen: **Carouse 0, Seafarer 0 and Vacc Suit 0**. Seafarer fits Perstein's water world (Hydrographics 9), and Vacc Suit fits its high tech level.
+
+#### Term tracker, Option B
+
+| Term | Years | Age start | Age end | Career and assignment | Rank | Qualification or survival | Skill roll or rolls | Event | Commission and advancement | Characteristic changes | Ageing roll | Notes |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| Pre | 1085 to 1103 | 0 | 18 | None | | | Background skills: Carouse 0, Seafarer 0, Vacc Suit 0 | | | | | Homeworld Perstein |
+| 1 | 1103 to 1107 | 18 | 22 | Marine, assignment to choose | 0 | Qual END 6+ | | | | | None | Basic training: all Service Skills at 0 |
+| 2 | 1107 to 1111 | 22 | 26 | Marine | | Survival | | | | | None | |
+| 3 | 1111 to 1115 | 26 | 30 | Marine | | Survival | | | | | None | Discharged 1115 |
+| Out | 1115 to 1119 | 30 | 34 | Contractor, off the career tables | | | | | | | None | Benefit rolls: one per term, plus the rank bonus, at most three on Cash |
+
+#### Open choices for Rurik
+
+1. Option A, B or C for the years and ages.
+2. Assignment: Ground Assault suits the sheet's Tactics (military) and Recon, Star Marine suits Vacc Suit and boarding work.
+3. Real dice, or fixed targets that land on the existing sheet.
+4. Background skills, settled: Carouse, Seafarer and Vacc Suit.
 
 ---
 
 ## CHARACTERS 2 TO 10
 
-Not yet built. Each will get, in Chapter 3 under their sheet, the same blocks: current sheet, years versus age check, homeworld, base characteristics, background skills, and a term tracker. Android characters (5 and 6) are built from the robot option rules in *Aliens of Charted Space Vol. 3* and will need a different tracker, and the Vargr (2) uses the Vargr modifiers in *Aliens of Charted Space Vol. 1*.
+Not yet built. Each will get, in this appendix, the same blocks (and a career timeline in Chapter 3): current sheet, years versus age check, homeworld, base characteristics, background skills, and a term tracker. Android characters (5 and 6) are built from the robot option rules in *Aliens of Charted Space Vol. 3* and will need a different tracker, and the Vargr (2) uses the Vargr modifiers in *Aliens of Charted Space Vol. 1*.
