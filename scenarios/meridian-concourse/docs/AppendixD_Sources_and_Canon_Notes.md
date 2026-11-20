@@ -77,12 +77,6 @@ All data is **[TABLE]**. The N, Bases and Zone columns were separated by tab pos
 
 ---
 
-## APPENDIX F, CHARACTER BUILD LOG
-
-**Process and Marine career tables** are **[CR, pp.9 to 19, 32 to 33, 46 to 49]**. The calendar convention, the term tracker layout and every build decision (marked **[PROPOSED]** until approved) are **[HOMEBREW]**. Rurik's build log is in this appendix, and Chapter 3 carries only her career timeline.
-
----
-
 ## THE SHORT VERSION
 
 Palin's UWP, stars, nobility, bases, neighbours and the four Confederation worlds on the border are real data from your So Skire list. The Dagir cluster background is real Solomani Front text. The rules tables used in Chapter 2 are real Core Rulebook text, with a few numerals to double-check against the printed book. Everything with a proper noun you do not recognise is mine: Halcourt, Sir Teodor Brandt, the Palin Civil Registry, *Heliarch*, *Kovalenko-Straub*, ARBITER, COUNTERSIGN, Meridian Field and the shell-squatters.

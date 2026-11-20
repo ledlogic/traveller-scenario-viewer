@@ -1,8 +1,8 @@
 # CHAPTER 3, CHARACTERS
 
-Ten pregenerated characters, built for a full-table run of *The Meridian Concourse*. The group took the **Mercenary skills package** (section 3.1), and eight of the ten characters draw one of its skills. Characters 8–10 (Engineer, Pilot, Astrogator) are the expedition's junior/backup ship specialists, brought along specifically as redundancy for the senior professional crew described in **Chapter 4**. When that senior crew goes down, they are the ones expected to step up, but anyone at the table can, in a pinch.
+Ten pregenerated characters, built for a full-table run of *The Meridian Concourse*. The group took the **Mercenary skills package** (section 3.1), and eight of the ten characters draw one of its skills. Characters 8–10 (Engineer, Pilot, Astrogator) are the expedition's junior/backup ship specialists, brought along as redundancy for the senior professional crew.
 
-The **Miner** (#2) and **Safety Officer** (#3) are deliberately split into two roles rather than one, because underground they have two different jobs. Meridian Field's mid and lower levels were built as a properly sealed, pressurized complex, this was never an open-to-vacuum ruin. What nobody knows going in is *how well any of that still works*. The Miner's job is the structure: is the rock and the built environment around you going to hold. The Safety Officer's job is the air and everything in it: is what you're breathing actually safe, and is it going to stay that way. Twenty-five years of unmonitored, only-partially-maintained life support is its own slow-building hazard, separate from and just as dangerous as a structural collapse, see **Chapters 7 and 8** for how the referee should use both.
+The **Miner** (#2) and **Safety Officer** (#3) are deliberately split into two roles rather than one, because underground they have two different jobs. The Miner's job is the structure: is the rock and the built environment around you going to hold. The Safety Officer's job is the air and everything in it: is what you're breathing actually safe, and is it going to stay that way.
 
 ---
 
@@ -44,13 +44,11 @@ Age 34 | Homeworld: Perstein B559476-C (Dagir Subsector) | Ex-Solomani Confedera
 | Score | 8 | 9 | 8 | 6 | 7 | 5 |
 | DM | +0 | +1 | +0 | +0 | +0 | -1 |
 
-
 **Skills:**
 
 - Electronics 0
 - Gun Combat 0
-- Gun Combat (slug pistol) 1
-- Gun Combat (slug rifle) 2
+- Gun Combat (slug) 2
 - Heavy Weapons 0
 - Heavy Weapons (portable) 1
 - Leadership 0
@@ -63,7 +61,7 @@ Age 34 | Homeworld: Perstein B559476-C (Dagir Subsector) | Ex-Solomani Confedera
 
 **Gear:** Combat armour (worn, TL7), advanced combat rifle w/ 3 spare magazines, snub pistol (concealed, gauss-safe rounds, won't puncture a hull), 2 frag grenades, comm headset w/ encrypted channel, breach kit (basic). On Palin, where Law Level 9 bans all weapons and armour, Rurik is the one person named on the expedition's Hazard Site Charter, and only inside the exclusion zone (Chapter 2).
 
-**Weapons:** Core Rulebook, Slug Throwers p.126 and Grenade Weapons p.131.
+**Weapons:** Advanced combat rifle, snub pistol, CR22:126, and Grenade Weapons CR22:131.
 
 | Weapon | TL | Range | Damage | Ammo | Special |
 |---|---|---|---|---|---|
@@ -73,7 +71,7 @@ Age 34 | Homeworld: Perstein B559476-C (Dagir Subsector) | Ex-Solomani Confedera
 
 **Background:** Rurik did two tours pacifying asteroid-belt smuggling operations for the Confederation Marines before her unit was reassigned somewhere she'd rather not discuss. She takes charter security work because it pays and nobody asks about her discharge paperwork.
 
-**Hook:** Rurik has run hazard-zone security twice before. Both times, something in the ruins turned out to be watching the team before the team knew it. She trusts her instincts about being observed more than she trusts sensor readouts, and on the Concourse, she'll be right.
+**Hook:** Rurik has run hazard-zone security twice before. Both times, something in the ruins turned out to be watching the team before the team knew it. She trusts her instincts about being observed more than she trusts sensor readouts.
 
 **Portrait prompt:** *Weathered human woman in her mid-30s, close-cropped dark hair, matte-grey combat armour with Confederation unit patches worn nearly illegible, standing alert in a dust-scoured airlock, red Martian-toned light, gritty realistic sci-fi military portrait.*
 
@@ -86,7 +84,7 @@ Age 34 | Homeworld: Perstein B559476-C (Dagir Subsector) | Ex-Solomani Confedera
 | 1107 to 1111 | 22 to 26 | Marine, term 2 | |
 | 1111 to 1115 | 26 to 30 | Marine, term 3 | Discharged 1115 as a Corporal |
 | 1115 to 1116 | 30 to 31 | Between jobs | |
-| 1116 to 1119 | 31 to 34 | Security contractor | Three years, the sheet's "three-year contractor" |
+| 1116 to 1119 | 31 to 34 | Security contractor | Three years of charter security work |
 
 ---
 
@@ -105,7 +103,6 @@ Age 32 | Homeworld: Yellowknife B775887-A (Dagir Subsector) | Independent geo-su
 | Score | 8 | 9 | 8 | 8 | 10 | 4 |
 | DM | +0 | +1 | +0 | +0 | +1 | -1 |
 
-
 **Traits:** Bite, Heightened Senses (Vargr traits, CR22:54)
 
 **Skills:**
@@ -116,7 +113,7 @@ Age 32 | Homeworld: Yellowknife B775887-A (Dagir Subsector) | Independent geo-su
 - Engineer 0
 - Engineer (life support) 1
 - Mechanic 1
-- Melee (natural) 0 (the bite)
+- Melee 0
 - Recon 1
 - Science 0
 - Science (geology) 2
@@ -124,22 +121,20 @@ Age 32 | Homeworld: Yellowknife B775887-A (Dagir Subsector) | Independent geo-su
 - Survival 1
 - Vacc Suit 1
 
-**Gear:** Heavy-duty vacc suit rated for structural dust environments, portable seismic/stress sensor array, demolitions-safe pry bar and cutting torch, breathing filter (backup to vacc suit), rope and anchor kit, small pack of structural marker flares.
+**Gear:** Heavy-duty vacc suit rated for structural dust environments, portable seismic/stress sensor array, demolitions-safe pry bar and cutting torch, rock hammer, breathing filter (backup to vacc suit), rope and anchor kit, small pack of structural marker flares.
 
-**Weapons:** The Vargr bite, CR22:54. The pry bar and cutting torch are tools, not statted weapons.
+**Weapons:** The Vargr bite, CR22:54, and a rock hammer statted as a Club, CR22:124. The pry bar and cutting torch are tools, not statted weapons.
 
 | Weapon | TL | Range | Damage | Ammo | Special |
 |---|---|---|---|---|---|
 | Bite (natural) | n/a | Melee | 1D+1 | None | Vargr trait, uses the Melee (natural) skill |
+| Rock hammer (Club) | 1 | Melee | 2D | None | 2 kg, uses Melee (bludgeon) |
 
 **Background:** Grit spent years reading stress fractures in half-collapsed mining domes across the Dagir cluster. Grit was hired specifically because, "recently exposed, structurally unknown, under an old corporate ruin," is exactly the job description Grit has built a reputation on.
 
-**Role, precisely:** Grit reads *rock and structure*, whether a wall, a ceiling, a ramp, or the collapsed corridor in Chapter 8 will hold weight, vibration, or heat without coming down. Grit does not read air quality and will say so if a player tries to lean on Grit for that instead of the Safety Officer; it's a different discipline and Grit has strong opinions about people who confuse the two.
-
-**Hook:** Grit's read on the Concourse's structural integrity will be the single most load-bearing (pun intended) call of Act Two, and Grit knows the quake exposure is *not* what's actually going to kill this crew. Something underneath is still drawing power, and power draws heat, and heat in a century-old structure means stress nobody's instruments were built to measure.
+**Role, precisely:** Grit reads *rock and structure*, whether a wall, a ceiling or a ramp will hold weight, vibration or heat without coming down. Grit does not read air quality and will say so if a player tries to lean on Grit for that instead of the Safety Officer; it's a different discipline and Grit has strong opinions about people who confuse the two.
 
 **Portrait prompt:** *Vargr geologist in weathered field vacc suit with helmet clipped to belt, canine-lupine features, grey-brown fur, holding a handheld seismic sensor against a cracked red-rock outcrop, dust storm on the horizon, practical hard-sci-fi character portrait.*
-
 
 #### CAREER TIMELINE
 
@@ -168,37 +163,33 @@ Age 39 | Homeworld: Halcourt, Palin B430489-A | Industrial hygienist and life-su
 | Score | 6 | 7 | 5 | 8 | 7 | 4 |
 | DM | +0 | +0 | -1 | +0 | +0 | -1 |
 
-
 **Skills:**
 
 - Admin 0
 - Electronics 0
-- Electronics (engineering) 1
+- Electronics (sensors) 1
 - Engineer 0
 - Engineer (life support) 2
 - Leadership 1
 - Medic 1
+- Melee 0
 - Recon 1
 - Vacc Suit 2
 
 **Gear:** Multi-gas atmospheric analyzer (O2/CO2/particulate/trace-toxin sniffer, continuous readout), rad meter, portable pressure-differential gauge, decon kit, spare filtration cartridges (x6), a full-seal environmental hazard suit distinct from a standard vacc suit, heavier, rated for chemical and biological contaminants rather than just vacuum, and a stack of numbered warning placards she insists on posting at every sealed door the party opens, whether anyone else thinks it's necessary or not.
 
-**Weapons:** None carried.
+**Weapons:** A piston fist and a staff, the staff at CR22:124. Neither is covered by the Hazard Site Charter (Chapter 2), so both stay bonded at the downport.
 
-**Background:** Ilkovic spent a decade certifying air quality in Halcourt's domed habitats and mining installations before the patron's recruiter found her, this is exactly the kind of job the domes were built to prevent, run somewhere the domes were never built at all. She took the charter because hazard-response pay on Palin is otherwise thin, and because she genuinely believes a room can be made safe if you're careful and honest about what's actually in the air, a belief the Concourse is going to test.
+| Weapon | TL | Range | Damage | Ammo | Special |
+|---|---|---|---|---|---|
+| Piston fist | 9 | Melee | 3D+2 | None | 0.5 kg, Cr150 |
+| Staff | 1 | Melee | 2D | None | 2 kg, Cr5 |
 
-**Role, precisely:** The Concourse's mid-level atmosphere is the campaign's slow-burn hazard, distinct from anything Grit handles. Meridian Field's life support was never shut down properly, it was buried mid-operation and has spent twenty-five years running on inherited geothermal power with no maintenance crew, no filter changes, and no oversight. That doesn't mean it's failed. It means nobody knows which parts of it have quietly drifted out of tolerance, and finding out the hard way (a CO2 pocket in a sealed room, a filtration bank that's been recirculating the same stale air for a decade, arc-damaged wiring venting ozone, or worse) is exactly the kind of thing that kills a team that got complacent because the last three rooms were fine. Ilkovic's readings should be a running, escalating drip of unease through Chapters 7 and 8, see referee note below.
+**Background:** Ilkovic spent a decade certifying air quality in Halcourt's domed habitats and mining installations before the patron's recruiter found her, this is exactly the kind of job the domes were built to prevent, run somewhere the domes were never built at all. She took the charter because hazard-response pay on Palin is otherwise thin, and because she genuinely believes a room can be made safe if you're careful and honest about what's actually in the air.
 
-**Hook:** Ilkovic will, correctly, be the first to notice that Zone Two's breathable air (Chapter 7) is *not* a stroke of good luck, it's being actively, deliberately maintained, at a level of precision no purely automated legacy system should still be capable of after this long unattended. She'll know that before she knows why, and the "why" (ARBITER and COUNTERSIGN keeping their own environment livable, and quietly extending that courtesy to a party they haven't decided whether to trust) is one of the campaign's better slow reveals if the referee lets her be the one to notice it first.
-
-**Referee note, running the atmosphere as a hazard, not a fact:** don't tell the players flatly whether a given sealed section is safe. Have Ilkovic take a reading (Engineer (life support), target number set by the referee per room, typically 8+, harder in rooms nearer active corporate fighting damage or Zone Three's power infrastructure) and describe what she finds in specific, sensory terms, a faint sweetish taint, a persistent low hum from a scrubber running rough, condensation patterns that suggest a slow leak elsewhere in the system. A failed check shouldn't necessarily mean the air was bad; it can just as easily mean she can't yet tell, which is its own kind of tension.
-
-**Valley fever:** Zone One's dust carries fungal spores that cause valley fever (Chapter 7, section 7.4). Ilkovic's analyzer and decon kit are the party's defence: she spots unusual particulate and decontaminates suits and gear before they come aboard [HOMEBREW].
-
-**Radiation:** Zone Three has local radiation hot spots from isotope and fission stock cracked open by the day 11 collapse (see Chapter 8). Ilkovic carries the rad meter and is the party's early warning: her readings climb as the group nears a hot spot, so she can call a halt before anyone takes a dose [HOMEBREW].
+**Role, precisely:** Ilkovic reads the air. She takes readings of what is actually in the atmosphere (Engineer (life support)) and reports them honestly, including when she cannot yet tell.
 
 **Portrait prompt:** *Practical, focused human woman in her late 30s, heavy environmental hazard suit with helmet off and clipped to her hip, holding a handheld atmospheric analyzer up to a dust-hazed vent, warning placard tucked under one arm, cool clinical lighting against a dark corridor, grounded hard-sci-fi safety-inspector portrait.*
-
 
 #### CAREER TIMELINE
 
@@ -226,7 +217,6 @@ Age 41 | Homeworld: Terra A867A69-F (Solomani Confederation core) | Advocate and
 | Score | 6 | 4 | 5 | 10 | 9 | 7 |
 | DM | +0 | -1 | -1 | +1 | +1 | +0 |
 
-
 **Skills:**
 
 - Admin 1
@@ -240,20 +230,19 @@ Age 41 | Homeworld: Terra A867A69-F (Solomani Confederation core) | Advocate and
 - Streetwise 1
 - Vacc Suit 0
 
-**Gear:** Datapad loaded with pre-collapse Meridian Field arbitration filings (heavily redacted, see referee note below), legal-grade recording rig, business-formal void-rated coveralls, small holdout pistol, corporate credentials that open more doors on Palin than they should. Her holdout pistol is not covered by the Hazard Site Charter (Chapter 2), so it stays bonded at the downport unless she is willing to risk arrest.
+**Gear:** Datapad loaded with pre-collapse Meridian Field arbitration filings (heavily redacted), legal-grade recording rig, business-formal void-rated coveralls, small holdout pistol, corporate credentials that open more doors on Palin than they should. Her holdout pistol is not covered by the Hazard Site Charter (Chapter 2), so it stays bonded at the downport unless she is willing to risk arrest.
 
-**Weapons:** CR22:126 and p.127. The sheet says only, "small holdout pistol," so the body pistol is the Core Rulebook's closest match.
+**Weapons:** CR22:126 and p.127.
 
 | Weapon | TL | Range | Damage | Ammo | Special |
 |---|---|---|---|---|---|
 | Body pistol (holdout) | 8 | 5m | 2D | 6 | DM-4 to Electronics (sensors) checks to detect it; not covered by the Hazard Site Charter |
 
-**Background:** Draeger spent six years in SolSec's economic liaison office before leaving, officially for "private sector opportunity," which is true as far as it goes. She has been engaged by the expedition's patron specifically for her appraisal and advocacy expertise, and specifically *not* told everything the patron actually wants from this run.
+**Background:** Draeger spent six years in SolSec's economic liaison office before leaving, officially for "private sector opportunity," which is true as far as it goes. She has been engaged by the expedition's patron specifically for her appraisal and advocacy expertise.
 
-**Hook:** Draeger's old SolSec contacts can be used, once, to pull strings or call in a favor at a critical moment, the referee should let the player cash this in during a genuine crisis, and let it cost Draeger something (a debt, an exposure, a compromised loyalty) when she does. She is also the only PC who will recognize ARBITER's and COUNTERSIGN's legal-arbitration language for what it is, which matters more than combat skill once the party reaches Chapter 8's Arbitration Floor.
+**Hook:** Draeger's old SolSec contacts can be called on once, at a critical moment, to pull strings or call in a favor, and doing so will cost her something.
 
 **Portrait prompt:** *Sharp-dressed human woman, early 40s, dark hair in a severe professional style, void-rated business coveralls, standing in a dust-blown ruin with a legal datapad in hand, cool composed expression against chaotic wreckage, corporate-noir sci-fi portrait.*
-
 
 #### CAREER TIMELINE
 
@@ -261,7 +250,7 @@ Age 41 | Homeworld: Terra A867A69-F (Solomani Confederation core) | Advocate and
 |---|---|---|---|
 | 1078 to 1096 | 0 to 18 | Terra | Born in the Confederation core |
 | 1096 to 1106 | 18 to 28 | Advocate and appraiser | Law and appraisal practice on Terra |
-| 1106 to 1112 | 28 to 34 | SolSec economic liaison office | Six years as a liaison analyst, as the sheet says |
+| 1106 to 1112 | 28 to 34 | SolSec economic liaison office | Six years as a liaison analyst |
 | 1112 to 1119 | 34 to 41 | Private-sector advocate and appraiser | Left SolSec for a private sector opportunity, then engaged by the patron |
 
 ---
@@ -272,7 +261,7 @@ Age 41 | Homeworld: Terra A867A69-F (Solomani Confederation core) | Advocate and
 
 ![Remi-9](img/remi.webp)
 
-Manufactured 1114, Heliarch-derivative chassis, built to the "Android (enhanced)" robot option (per your *Aliens of Charted Space Vol. 3* upload's robot-design rules, full sapient-grade sensor and cognition package) | Independent media personality, "Frontier Risk" documentary series
+Manufactured 1114, Heliarch-derivative chassis, built to the "Android (enhanced)" robot option | Independent media personality, "Frontier Risk" documentary series
 
 **Characteristics** (UPP 6899B7)
 
@@ -281,12 +270,12 @@ Manufactured 1114, Heliarch-derivative chassis, built to the "Android (enhanced)
 | Score | 6 | 8 | 9 | 9 | 11 | 7 |
 | DM | +0 | +0 | +1 | +1 | +1 | +0 |
 
-
 **Skills:**
 
+- Art 0
+- Art (visual media) 1
 - Athletics 0
 - Athletics (dexterity) 1
-- Broadcast/Streetwise (persuade audience) 1
 - Deception 1
 - Electronics 0
 - Electronics (computers) 1
@@ -299,10 +288,7 @@ Manufactured 1114, Heliarch-derivative chassis, built to the "Android (enhanced)
 
 **Background:** Remi is a commercially manufactured "Persona" unit, a synthetic personality built specifically for immersive documentary broadcast, contracted to follow exactly this kind of expedition and sell the footage. Remi is fully self-aware, legally a person under Confederation android-personhood statute (narrowly, and recently), and extremely good at the job.
 
-**Hook:** Remi's chassis shares baseline architecture with the salvaged labor-android hardware ARBITER and COUNTERSIGN have spent twenty-five years cannibalizing (see Appendix B). The mainframes will not initially be able to tell whether Remi is a threat, an asset, or a returning piece of *their own inventory*, and Remi does not know the answer either. This should be played for genuine unease, not comic relief: Remi is a person, and the Concourse's systems may not agree.
-
 **Portrait prompt:** *Sleek humanoid android with a warm, expressive synthetic face designed for on-camera charisma, subtle seams at the jaw and temple the only sign of its nature, recording rig built into one eye, standing in a dust-lit ruined concourse holding a compact camera drone, documentary-adventurer aesthetic.*
-
 
 #### CAREER TIMELINE
 
@@ -316,7 +302,7 @@ Manufactured 1114, Heliarch-derivative chassis, built to the "Android (enhanced)
 
 ---
 
-## 6. RIGGER, Bracket, designation WK-114
+## 6. RIGGER, Bracket
 
 **Species:** Android, Labor-class, refurbished
 
@@ -331,14 +317,13 @@ Manufactured 1093 (K-S facility, Palin, pre-collapse) to the "Android (improved)
 | Score | 10 | 7 | 5 | 6 | 4 | 3 |
 | DM | +1 | +0 | -1 | +0 | -1 | -1 |
 
-
 **Skills:**
 
 - Athletics 0
 - Athletics (strength) 2
 - Drive 0
-- Drive (tracked) 2
-- Drive (wheeled) 1
+- Drive (track) 2
+- Drive (wheel) 1
 - Electronics 1
 - Mechanic 2
 - Vacc Suit 1
@@ -349,10 +334,9 @@ Manufactured 1093 (K-S facility, Palin, pre-collapse) to the "Android (improved)
 
 **Background:** Bracket was built on Palin, at a K-S fabrication line, eleven months before the collapse, original manifest and duty assignment long lost. A salvage crew dug Bracket out of an unrelated equipment dome in 1109, badly damaged and non-responsive; refurbishment restored function but not full memory. Bracket has worked heavy-equipment rigging jobs across the So Skire and Dagir border worlds since, competent and well-liked, and has never told an employer the truth: Bracket has always known, on some level, that it came from Palin, and has always avoided taking work here.
 
-**Hook:** This is that job. Bracket's diagnostic interface can talk to Concourse-native legacy systems (including, potentially, COUNTERSIGN itself) in ways no other PC's gear can, and Bracket's recovered fragments of pre-collapse memory, surfacing gradually through the campaign, are a direct line into Appendix A's true history. The referee should feed the player small, unsettling flashes of memory at dramatically useful moments.
+**Hook:** Bracket's diagnostic interface can talk to legacy industrial systems in ways no other PC's gear can.
 
 **Portrait prompt:** *Heavy-duty labor android, boxy utilitarian chassis with visible wear, weld-patch repairs, and mismatched replacement parts, standing beside massive hydraulic rigging equipment in a rust-red equipment yard, industrial sci-fi character design, functional rather than humanoid face.*
-
 
 #### CAREER TIMELINE
 
@@ -382,14 +366,11 @@ Age 52 | Homeworld: Halcourt, Palin B430489-A | Independent systems archaeologis
 | Score | 5 | 6 | 6 | 10 | 9 | 8 |
 | DM | -1 | +0 | +0 | +1 | +1 | +0 |
 
-
 **Skills:**
 
 - Admin 1
 - Electronics 0
 - Electronics (computers) 3
-- Hacking 0
-- Hacking (Intrusion) 2
 - Investigate 1
 - Science 0
 - Science (robotics) 1
@@ -401,10 +382,7 @@ Age 52 | Homeworld: Halcourt, Palin B430489-A | Independent systems archaeologis
 
 **Background:** Solt taught robotics and systems theory at Palin's one technical college until the college quietly closed for lack of students, Palin's economy never recovered from losing the Concourse, and nobody wanted to study robotics on a world where robotics had, locally, gone catastrophically wrong. He has spent every year since trying to get someone, anyone, to fund a proper expedition back to the site. This is that expedition, and he talked his way onto it as the only person alive who's read every surviving arbitration filing.
 
-**Hook:** Solt already half-knows Appendix A's history, not the full truth, but enough fragments that he'll recognize real evidence for what it is faster than the party expects, and enough personal investment that he will make bad decisions to preserve ARBITER or COUNTERSIGN rather than destroy them, believing (not wrongly) that they're the last surviving witnesses to what actually happened.
-
 **Portrait prompt:** *Academic-looking older man, grey beard, worn field jacket over a technical vest full of tools, intense focused expression lit by a handheld terminal's glow, standing in a dark server-lined corridor full of dust and old cabling, moody hard-sci-fi portrait.*
-
 
 #### CAREER TIMELINE
 
@@ -432,11 +410,10 @@ Age 29 | Homeworld: Halcourt, Palin B430489-A | Junior engineer, backup to senio
 | Score | 7 | 8 | 5 | 7 | 9 | 6 |
 | DM | +0 | +0 | -1 | +0 | +1 | +0 |
 
-
 **Skills:**
 
 - Electronics 0
-- Electronics (engineering) 1
+- Electronics (computers) 1
 - Engineer 0
 - Engineer (J-drive) 1
 - Engineer (M-drive) 2
@@ -451,10 +428,7 @@ Age 29 | Homeworld: Halcourt, Palin B430489-A | Junior engineer, backup to senio
 
 **Background:** Kwan is a Palin native, one of the very few crew on this expedition actually born on the world in question, and took the junior engineer's berth specifically to see the Concourse for himself. His grandmother worked ground crew at Meridian Field before the collapse and never talked about it; Kwan has spent his life wanting to know why.
 
-**Hook:** When senior engineer Voskuijlen goes down (Chapter 6), Kwan is thrown into full responsibility for the ship earlier than he expected, under worse conditions than any training scenario. He is capable, the writing plays this straight, not as an incompetence gag, but the pressure and the personal stakes (his grandmother's silence, his own presence on the world she never returned to) are real dramatic material for the referee to use.
-
 **Portrait prompt:** *Young human man in engineer's coveralls stained with lubricant, tool harness across his chest, standing in a cramped ship engineering bay lit by amber warning lights, focused and slightly anxious expression, grounded hard-sci-fi portrait.*
-
 
 #### CAREER TIMELINE
 
@@ -482,7 +456,6 @@ Age 37 | Homeworld: Harland A599427-E (Dagir Subsector) | Backup pilot to senior
 | Score | 9 | 6 | 8 | 7 | 8 | 5 |
 | DM | +1 | +0 | +0 | +0 | +0 | -1 |
 
-
 **Skills:**
 
 - Electronics 0
@@ -498,9 +471,9 @@ Age 37 | Homeworld: Harland A599427-E (Dagir Subsector) | Backup pilot to senior
 - Pilot (spacecraft) 2
 - Vacc Suit 1
 
-**Gear:** Personal flight suit (doubles as emergency vacc suit), sidearm (not covered by the Hazard Site Charter, see Chapter 2), personal data slate with charted approach routes to the sinkhole, a lucky item of the referee's choosing.
+**Gear:** Personal flight suit (doubles as emergency vacc suit), sidearm (not covered by the Hazard Site Charter, see Chapter 2), personal data slate with charted approach routes to the sinkhole, a lucky item of the player's choosing.
 
-**Weapons:** CR22:126. The sheet says only, "sidearm," so the autopistol is a proposed choice.
+**Weapons:** CR22:126.
 
 | Weapon | TL | Range | Damage | Ammo | Special |
 |---|---|---|---|---|---|
@@ -508,10 +481,9 @@ Age 37 | Homeworld: Harland A599427-E (Dagir Subsector) | Backup pilot to senior
 
 **Background:** Alcala flew atmospheric cargo runs across half the Dagir cluster before taking this charter, competent, unglamorous, reliable work that has never once involved anything like a buried corporate war zone, which is exactly why she took the berth: it sounded interesting.
 
-**Hook:** Alcala's Flyer (wing) skill is a deliberate echo of Meridian Field's own original purpose as a winged-flyer airport, she is, functionally, the only PC trained to fly the kind of aircraft the Concourse was actually built for, which may matter if the party finds a working flyer in the wreckage (Chapter 7).
+**Hook:** Alcala is the only PC trained to fly winged atmospheric aircraft, the kind of flyer Meridian Field was built to serve.
 
 **Portrait prompt:** *Confident human woman in a form-fitting flight suit, short practical haircut, aviator-style visor pushed up on her forehead, leaning against the open hatch of a small atmospheric flyer on a dusty red landing strip, adventurous sci-fi pilot portrait.*
-
 
 #### CAREER TIMELINE
 
@@ -539,7 +511,6 @@ Age 45 | Homeworld: Ke-Ady C555632-8 (Dagir Subsector) | Backup astrogator to se
 | Score | 5 | 8 | 7 | 10 | 6 | 6 |
 | DM | -1 | +0 | +0 | +1 | +0 | +0 |
 
-
 **Skills:**
 
 - Admin 1
@@ -556,9 +527,9 @@ Age 45 | Homeworld: Ke-Ady C555632-8 (Dagir Subsector) | Backup astrogator to se
 
 **Weapons:** None carried.
 
-**Background:** Vidkun is older than the rest of the junior specialists and has flown with Devereux-Sato before; she took this berth as a favor and because the pay was good, not out of any particular interest in Palin. She is calm under pressure in a way the younger crew members aren't yet, and the referee can use her as the voice of professional steadiness during Chapter 6's crisis.
+**Background:** Vidkun is older than the rest of the junior specialists and has flown with Devereux-Sato before; she took this berth as a favor and because the pay was good, not out of any particular interest in Palin. She is calm under pressure in a way the younger crew members aren't yet.
 
-**Hook:** Vidkun's independence from the ship's main computer, she plots by habit on her own isolated slate, means she is the one PC guaranteed to have clean navigation data even if the ship's systems are compromised by whatever disables the senior crew. She doesn't yet know how important that habit is about to become.
+**Hook:** Vidkun plots by habit on her own isolated slate, independent of the ship's main computer.
 
 **Portrait prompt:** *Composed middle-aged human woman with grey-streaked hair pulled back, reading glasses, bent over a handheld astrogation slate covered in star charts, warm interior ship lighting contrasting with a viewport full of red planet below, calm professional sci-fi portrait.*
 
