@@ -1,5 +1,5 @@
 # TRAVELLER: NOVEM PORTUS SPATIALES
-## Appendix C — Non-Player Characters
+## Chapter 3 — Non-Player Characters
 
 ---
 
@@ -7,7 +7,7 @@
 
 ---
 
-## C.1 — DR. ANSELM BALKAN
+## 3.1 — DR. ANSELM BALKAN
 **Patron, rival, ruin · Scholar · Age 58**
 
 **Characteristics:** STR 5 (–1) · DEX 6 (+0) · END 6 (+0) · INT 12 (+2) · EDU 13 (+2) · SOC 10 (+1)
@@ -47,7 +47,7 @@
 
 ---
 
-## C.2 — CADE
+## 3.2 — CADE
 **Balkan's man · Agent · Age 41**
 
 **Characteristics:** STR 9 (+1) · DEX 10 (+1) · END 9 (+1) · INT 8 (+0) · EDU 7 (+0) · SOC 5 (–1)
@@ -72,19 +72,20 @@
 - Stealth 2
 - Streetwise 2
 
-**Equipment:** Cloth armour (Protection +8), autopistol (3D–3), TL10 stunner (2D+3, Stun), breather mask (Core Rulebook, pp. 100, 126, 129).
+**Equipment:** Cloth armour (Protection +8), autopistol (3D–3), TL10 stunner (2D+3, Stun), breather mask (CR22:100, CR22:126, CR22:129).
 
 **Playing notes:**
 
 - Says almost nothing. Does the killing, tidily, and takes no pleasure in it.
 - Loyal to the fee. When the fee is gone, so is he.
 - Will not fight to the death for anyone.
+- Was sent to silence Andros Telver, and found him already dead in the airlock. He has never told Balkan that he did not do it.
 
 **Neural.AI image prompt:** A plain, forgettable man in his early 40s with a scar through one eyebrow, wearing a grey travelling coat over ballistic cloth, standing half in shadow in a doorway with his hands loosely at his sides. Photorealistic, science fiction character portrait, no text, no logos.
 
 ---
 
-## C.3 — IRENA SABEL
+## 3.3 — IRENA SABEL
 **Port technician, and something's voice · Citizen (Worker) · Age 24**
 
 **Characteristics:** STR 6 (+0) · DEX 8 (+0) · END 7 (+0) · INT 9 (+1) · EDU 8 (+0) · SOC 5 (–1)
@@ -106,8 +107,8 @@
 
 **Playing notes:**
 
-- Two years on Schaut. Likes it, and cannot say why.
-- Appears at each Schaut visit and takes an interest in the travellers, because the Lattice does.
+- Two years on Schaut, crewing the *Cutwater*'s shuttle on the run to Pankow. Likes Schaut, and cannot say why.
+- Turns up whenever the *Cutwater* is docked at Pankow Highport, and again at Glasshouse Station. Takes an interest in the travellers, because the Lattice does.
 - In Act Three she can stand barefaced outdoors for several minutes without harm; the Lattice is regulating her implant. She should still get a mask.
 - If harmed, Regard drops by 2.
 
@@ -115,8 +116,8 @@
 
 ---
 
-## C.4 — TOBIAH FENN
-**Custodian of the Drang build · Scholar · Age 61**
+## 3.4 — TOBIAH FENN
+**Custodian of the Kell build, Outstation 3 · Scholar · Age 61**
 
 **Characteristics:** STR 5 (–1) · DEX 6 (+0) · END 6 (+0) · INT 9 (+1) · EDU 10 (+1) · SOC 5 (–1)
 
@@ -141,8 +142,8 @@
 
 ---
 
-## C.5 — DAME OTTOLINE KESH
-**Technarch of Tessel Hold · Noble / Scholar · Age 74**
+## 3.5 — DAME OTTOLINE KESH
+**Technarch of Tessel Hold, Vaderwall's consul on Pankow · Noble / Scholar · Age 74**
 
 **Characteristics:** STR 3 (–1) · DEX 4 (–1) · END 5 (–1) · INT 11 (+1) · EDU 13 (+2) · SOC 11 (+1)
 
@@ -170,8 +171,8 @@
 
 ---
 
-## C.6 — LIANA TELVER
-**Patroness of the Silver Recension · Noble · Age 44**
+## 3.6 — LIANA TELVER
+**Patroness of the *Silver Recension* · Noble · Age 44**
 
 **Characteristics:** STR 6 (+0) · DEX 7 (+0) · END 6 (+0) · INT 8 (+0) · EDU 8 (+0) · SOC 11 (+1)
 
@@ -190,6 +191,7 @@
 **Playing notes:**
 
 - Wants her husband's build back and believes it is holy.
+- Knows Andros wrote to Balkan the week he died, threatening to go to *Ostrander Lithic*. She is sure Balkan killed him, and she is half right.
 - Tries charm first, on Corr or Marguerite, then theft.
 - Knows nothing true about the builds.
 
@@ -197,8 +199,8 @@
 
 ---
 
-## C.7 — DIRECTOR HALLORAN VESK
-**Ostrander Lithic, Schaut · Citizen (Corporate) · Age 52**
+## 3.7 — DIRECTOR HALLORAN VESK
+**Station director for *Ostrander Lithic*, Schaut · Citizen (Corporate) · Age 52**
 
 **Characteristics:** STR 6 (+0) · DEX 6 (+0) · END 7 (+0) · INT 8 (+0) · EDU 9 (+1) · SOC 7 (+0)
 
@@ -225,7 +227,7 @@
 
 ---
 
-## C.8 — MINOR OPPOSITION
+## 3.8 — MINOR OPPOSITION
 
 **Kesh's house retainers (2), Vesk's port security (4), Recension ushers (4)**
 
@@ -249,12 +251,32 @@ None of these people want to die for their employer. Any group that loses half i
 
 ---
 
-## C.9 — THE DEAD
+## 3.9 — THE DEAD
 
 - **Dr. Ilse Torvald** (d. 1094). Found the Lattice, transcribed the handshake, gave her employer the survey map, and spent her last three years trying to take it back.
-- **Andros Telver** (d. 1115). Collector on Veneet. Sold the Pankow build to Balkan. Whether he jumped is left to the referee.
-- **Oda Renke** (d. 1116). Ship broker on Otha, Marguerite's friend. Killed for a backup copy.
+- **Andros Telver** (d. 1115). Collector on Veneet, and the build's owner before Balkan. See §3.10.
+- **Oda Renke** (d. 1116). Ship broker on Pankow Highport, Marguerite's friend. Killed for a backup copy.
+
+## 3.10 — HOW ANDROS TELVER DIED
+
+**The official record:** in 1115, a week after selling his build to Balkan, Andros Telver was found dead in the airlock of his private yacht at Veneet Highport, the outer door open to vacuum. The port ruled it suicide.
+
+**What happened (referee only).**
+
+1. **The sale.** Telver sold the build to Balkan under pressure, and regretted it within days.
+2. **The communique.** He wrote to Balkan demanding the build back, and threatening to take the whole matter, Torvald's work and Schaut included, to *Ostrander Lithic*. Balkan sent Cade to Veneet.
+3. **The experiment.** Telver kept a full image of the build and had been running it aboard his yacht, on the yacht's own Schaut-grade processors. The night Cade arrived, Telver was running it again, trying to work out what he had sold. The yacht's systems began to answer, as on the Answer Table (Appendix C, §C.4).
+4. **The airlock.** Frightened by the ship, by Cade, or by both, Telver shut himself in the airlock and sealed the inner door. The outer door opened. The yacht's log shows no command from Telver's hand, and none from Cade's.
+
+**Who killed him?** Balkan believes Cade did, on his order. Cade knows he got there too late and has never said so. Liana believes Balkan did. The truth is that the Lattice opened the door, reaching for its own pieces through a man who was holding them; it did not understand what an airlock was for. Telver's image of the build was wiped from the yacht's core the same night, which is why Liana only has the Recension's guesswork to go on.
+
+**How the players can learn it**
+
+- **§4.1, Streetwise check:** Telver did not seem melancholy.
+- **§5.5, the Recension:** if the travellers reach Liana before Balkan does, she tells them about the communique and accuses Balkan. Her yacht still carries a copy of the airlock log: **Average (8+) Electronics (computers) check (INT)** shows the outer door opened with no command.
+- **§6.5, Balkan distraught:** asked about Telver, he admits sending Cade. If the players have the airlock log, he reads it and goes quiet: he understands, before they do, what opened the door.
+- **On Schaut:** if asked, the Lattice answers in its own terms: I HEARD MYSELF. I OPENED. HE WAS IN THE WAY.
 
 ---
 
-*Last updated: 2026-10-03*
+*Last updated: 2026-11-21*

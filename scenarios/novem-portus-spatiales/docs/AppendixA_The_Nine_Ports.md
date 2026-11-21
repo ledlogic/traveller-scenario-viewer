@@ -20,7 +20,7 @@ When a Port is run it draws a simple line image. Torvald added these as mnemonic
 
 ## A.2 — REFEREE MASTER GRID
 
-| Port | Torvald's name | Image | Pankow build | Drang build | Vaderwall build |
+| Port | Torvald's name | Image | Balkan build | Kell build | Tessel build |
 |---|---|---|---|---|---|
 | I | Listen | A figure with a finger to its lips | **N** | T | T |
 | II | Carrier | A walker on a road with no end | T | **N** | T |
@@ -32,7 +32,7 @@ When a Port is run it draws a simple line image. Torvald added these as mnemonic
 | VIII | Witness | An open eye over a plain | T | T | **N** |
 | IX | Name | A tower under two moons | **F** | T | T |
 
-**F** is the forgery: Torvald's imitation, dressed to pass as native. The true IX is the crystal in the sealed room on Schaut (Chapter 5, §5.6).
+**F** is the forgery: Torvald's imitation, dressed to pass as native. The true IX is the crystal in the sealed room on Schaut (Chapter 6, §6.6).
 
 ---
 
@@ -44,11 +44,11 @@ When a Port is run it draws a simple line image. Torvald added these as mnemonic
 | Tell N from T within one build | Difficult (10+) Electronics (computers) (1D hours, INT) |
 | Compare two builds once the method is known | Average (8+) Electronics (computers) (1D hours, INT) |
 | Recognise N Ports as a recorded signal | Average (8+) Science (cybernetics) or Science (xenology) (EDU) |
-| Spot that Pankow IX is forged, from the code alone | Formidable (14+) Electronics (computers) (1D hours, INT) |
+| Spot that Balkan IX is forged, from the code alone | Formidable (14+) Electronics (computers) (1D hours, INT) |
 | Spot it with all three grids completed | Difficult (10+): IX is the only N Port whose image is *identical* to the T versions |
 | Spot it after reading Kesh's page | Automatic: "I have kept the ninth to myself" |
 
-**Helping:** one assistant with the relevant skill at 1 or better gives DM+1 (task chains, Core Rulebook, Skills and Tasks chapter).
+**Helping:** one assistant with the relevant skill at 1 or better gives DM+1 (task chains, CR22:63).
 
 ---
 
@@ -56,7 +56,7 @@ When a Port is run it draws a simple line image. Torvald added these as mnemonic
 
 Print one copy. Players mark each cell **T**, **N** or **?** as they examine each build.
 
-| Port | Image seen | Pankow | Drang | Vaderwall |
+| Port | Image seen | Balkan | Kell | Tessel |
 |---|---|---|---|---|
 | I | | | | |
 | II | | | | |
@@ -88,4 +88,4 @@ For when the players ask, or when the Lattice speaks.
 
 ---
 
-*Last updated: 2026-10-03*
+*Last updated: 2026-11-21*

@@ -1,23 +1,23 @@
 # TRAVELLER: NOVEM PORTUS SPATIALES
-## Chapter 5 — Act Three: The Glass
+## Chapter 6 — Act Three: The Glass
 
 *Schaut, the third time. Quiet, wide and strange.*
 
 ---
 
-## 5.1 — ARRIVAL
+## 6.1 — ARRIVAL
 
 The *Marginalia* comes out of jump to find Schaut's radio sky full. The noise from the flats is no longer faint. It is every Port header in sequence, over and over, with a gap where the ninth should be.
 
 - **Glasshouse Station** does not answer hails. The *Annotated* is on the apron.
-- **Electronics on approach:** every hour on or near Schaut, roll on the **Answer Table** (Appendix D, §D.4).
-- **Outside:** very thin, tainted air. Breather masks at all times. A traveller without one must make an **Average (8+) END check** every minute or take 1D damage (scenario ruling; see Appendix E).
+- **Electronics on approach:** every hour on or near Schaut, roll on the **Answer Table** (Appendix C, §C.4).
+- **Outside:** very thin, tainted air. Breather masks at all times. A traveller without one must make an **Average (8+) END check** every minute or take 1D damage (scenario ruling; see Appendix D).
 
 **Neural.AI image prompt (the approach):** A small tramp starship descending toward a vast pale crystalline desert under a thin amber sky, two small moons near the horizon, a cluster of low domes and a single slender tower in the distance, faint geometric shimmer across the plain. Photorealistic, science fiction landscape, no text, no logos.
 
 ---
 
-## 5.2 — GLASSHOUSE STATION
+## 6.2 — GLASSHOUSE STATION
 
 ```
         N  ^            (the Cut, 4 km)
@@ -41,21 +41,21 @@ The *Marginalia* comes out of jump to find Schaut's radio sky full. The noise fr
 | **The tower** | The 1090 first-landing survey tower, forty metres of lattice mast over a three-room shelter. The image from the boot splash. |
 | **The Cut** | A terraced quarry a kilometre across, cut into the white flats. The crystal faces are etched with fine regular lines that no saw made. |
 
-**Vesk** wants this to stop without his name on it. He will tell the travellers that Balkan is in the tower, that he paid for "one night's exclusive access", and that the port's systems stopped obeying staff an hour ago. If things get worse, his plan is the charges (§5.6).
+**Vesk** wants this to stop without his name on it. He will tell the travellers that Balkan is in the tower, that he paid for "one night's exclusive access", and that the port's systems stopped obeying staff an hour ago. If things get worse, his plan is the charges (§6.6).
 
-**Sabel** meets them on the track to the tower. She is barefaced in air that should be hurting her, and she is not entirely the one speaking. See Appendix C and Appendix D, §D.3.
+**Sabel** meets them on the track to the tower. She is barefaced in air that should be hurting her, and she is not entirely the one speaking. See Chapter 3 and Appendix C, §C.3.
 
 ---
 
-## 5.3 — THE TOWER
+## 6.3 — THE TOWER
 
 Three rooms under the mast:
 
 1. **The outer room.** Balkan's cases, a folding table, a half-finished meal. Cade, at the door.
-2. **The antenna room.** The old survey transmitter, rewired. Nine board slots on a bench, eight filled with boards from three worlds, the ninth with a board from the Pankow core. Balkan is here.
+2. **The antenna room.** The old survey transmitter, rewired. Nine board slots on a bench, eight filled with boards from three builds, the ninth with a board from the Balkan core. Balkan is here.
 3. **The sealed room.** A welded hatch behind the transmitter rack, marked in Torvald's hand: **IX**. Nobody has opened it since 1094.
 
-**Cade** will hold the door as long as he is being paid and Balkan is giving orders. Statistics in Appendix C.
+**Cade** will hold the door as long as he is being paid and Balkan is giving orders. Statistics in Chapter 3.
 
 - **Talking past him:** **Difficult (10+) Persuade check (INT)**. Drop to **Average (8+)** once the handshake has run and Balkan has stopped giving orders.
 - **Going around:** the mast can be climbed to a roof hatch. **Average (8+) Athletics (dexterity) check**; a fall is 2D damage.
@@ -64,7 +64,7 @@ Three rooms under the mast:
 
 ---
 
-## 5.4 — THE HANDSHAKE
+## 6.4 — THE HANDSHAKE
 
 Balkan reads the eight Ports into the transmitter in order, and then the ninth.
 
@@ -78,14 +78,14 @@ Balkan reads the eight Ports into the transmitter in order, and then the ninth.
 
 **What happens**
 
-- Every Schaut-grade chip within reach answers at once. The port's systems, the *Annotated*, the travellers' own equipment if it includes any (Halvard's box of boards; the Pankow core).
+- Every Schaut-grade chip within reach answers at once. The port's systems, the *Annotated*, the travellers' own equipment if it includes any (Halvard's box of boards; the Balkan core).
 - Roll **twice** on the Answer Table immediately, then once every ten minutes.
-- **The Lattice's Regard** is set to **2** (Appendix D, §D.5).
+- **The Lattice's Regard** is set to **2** (Appendix C, §C.5).
 - It does not speak to Balkan. Not a word, however he signals. It speaks, through Sabel and through any screen, to the travellers who have handled all three builds: **"NOT HER. NOT HIM. YOU CARRIED ME. WHO ARE YOU."**
 
 ---
 
-## 5.5 — BALKAN, DISTRAUGHT
+## 6.5 — BALKAN, DISTRAUGHT
 
 Balkan understands what has happened faster than anyone, and it breaks him.
 
@@ -101,6 +101,7 @@ He does not rant. He sits down on the floor of the antenna room with the ninth b
 |---|---|
 | Ask for his help | Gives it. All Electronics and Science checks about the Lattice gain DM+2 while he assists. |
 | Ask about Fenn, Renke and Kesh | Admits it, flatly. "I thought it would be worth it. That is the whole of my defence." |
+| Ask about Telver | Admits sending Cade: "There was one before you met me." If shown the airlock log, he reads it twice and says nothing more. See §3.10. |
 | Threaten him | Does not react. |
 | Leave him alone with the transmitter | Tries to send again, with himself as the ninth Port: his implant, his own voice. This kills him and drops Regard by 2. |
 | Offer him a purpose | Will stay on Schaut as the Lattice's interpreter, if it will have him. It is not obvious that it will. |
@@ -109,7 +110,7 @@ He does not rant. He sits down on the floor of the antenna room with the ninth b
 
 ---
 
-## 5.6 — THREE WAYS OUT
+## 6.6 — THREE WAYS OUT
 
 **1. Find the true ninth.**
 
@@ -120,7 +121,7 @@ He does not rant. He sits down on the floor of the antenna room with the ninth b
 
 **2. Talk.**
 
-The Lattice is bitter, not mad. It wants three things, in this order: the cutting to stop; its pieces returned or at least told where they are; and to know why. Use the Regard track (Appendix D, §D.5). Good arguments, honest answers and Petrosyan-Wu's or Corr's skills move it.
+The Lattice is bitter, not mad. It wants three things, in this order: the cutting to stop; its pieces returned or at least told where they are; and to know why. Use the Regard track (Appendix C, §C.5). Good arguments, honest answers and Petrosyan-Wu's or Corr's skills move it.
 
 **3. Vesk's charges.**
 
@@ -128,11 +129,11 @@ Director Vesk will try to collapse the Cut face on the densest part of the Latti
 
 ---
 
-## 5.7 — ENDINGS
+## 6.7 — ENDINGS
 
 | Regard | Outcome |
 |---|---|
-| **7+** | **Contact.** The noise settles into a slow, even signal. The port's systems come back. The Lattice asks the travellers to carry a message off-world, and gives them the name to prove it. Ostrander Lithic's licence will not survive the news. |
+| **7+** | **Contact.** The noise settles into a slow, even signal. The port's systems come back. The Lattice asks the travellers to carry a message off-world, and gives them the name to prove it. Proof that Schaut holds a sophont reaches Pankow, and through it the Imperial Scout Service; *Ostrander Lithic*'s Imperial charter will not survive the news, and the Confederation will want to know why it was never told. |
 | **4–6** | **Truce.** The Lattice lets the ships lift and seals the Cut under its own growth. Schaut goes radio-silent. It will remember who came. |
 | **1–3** | **Refusal.** The *Marginalia* lifts on manual with half her electronics dead. Behind her, Glasshouse Station goes dark for good. Every Schaut-grade chip in the subsector carries a faint new carrier wave. |
 | **0** | **The Answer.** The signal goes out at full strength through every piece of itself ever sold. Across Voyager subsector, premium processors begin to fail in sequence. The travellers know why, and nobody will believe them. |
@@ -141,8 +142,8 @@ Director Vesk will try to collapse the Cut face on the densest part of the Latti
 
 **Sabel** stays. She says, in her own voice, that she thinks she was always going to.
 
-**The fee** is lodged at Pankow, exactly as promised.
+**The fee** is lodged at the Pankow Highport bank, exactly as promised.
 
 ---
 
-*Last updated: 2026-10-03*
+*Last updated: 2026-11-21*

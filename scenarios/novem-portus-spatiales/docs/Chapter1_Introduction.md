@@ -1,7 +1,7 @@
 # TRAVELLER: NOVEM PORTUS SPATIALES
 ## Chapter 1 — Introduction & Situation
 
-**Setting:** Pankow, Drang, Otha, Vaderwall and Schaut — Voyager Subsector, Magyar Sector
+**Setting:** The Pankow system and Schaut — Voyager Subsector, Magyar Sector
 **Era:** Imperial Year **1116**
 **Players:** 6 (fixed pregen roster) | **Duration:** 4 hours | **Structure:** Three Acts
 **Player Roles:** The crew of the free trader *Marginalia*, hired as code-forensics couriers
@@ -20,14 +20,8 @@ Three copies of one old program. A patron who pays too well and asks too often. 
 
 **Title:** Traveller: Novem portus spatiales
 
-**Short Description** *(140 characters)*
-> Three copies of an old program. Three worlds. Custodians who die after you leave. Your patron knows what the code really is. You don't. Yet.
-
-**Longer Description** *(468 characters)*
+**Description** *(468 characters)*
 > A famous researcher hires your free trader to compare three surviving copies of a survey-era control program, each held on a different world in Magyar sector. The pay is superb. Then the custodians start dying behind you, the copies stop matching in ways no bug explains, and your patron stops being your patron. The trail ends on Schaut, a dry and poisoned world where something has been listening for twenty-five years. A mystery of code, betrayal and first contact.
-
-**Table Pitch**
-> You are the crew of a tramp free trader with one unusual sideline: you authenticate old software for people who can afford to care. A famous researcher wants three surviving copies of a survey-era program compared, line by line, on three different worlds. It is the best-paid job you have ever taken. Mongoose Traveller 2nd Edition — six pre-generated characters provided, no experience necessary.
 
 ---
 
@@ -39,8 +33,8 @@ Balkan owns one of three surviving copies of the **Torvald Builds**: a nine-Port
 
 The commission:
 
-1. Carry his copy (the **Pankow build**) on a sealed portable core.
-2. Visit the other two custodians and compare their builds against it, Port by Port. Both are air-gapped; no copies exist on any network.
+1. Carry his copy (the **Balkan build**) on a sealed portable core.
+2. Visit the other two custodians, both in the Pankow system, and compare their builds against it, Port by Port. Both are air-gapped; no copies exist on any network.
 3. Report which build is genuine, and acquire it if it can be acquired.
 
 He pays Cr20,000 a head on signing, the same again on completion, and all port fees and fuel.
@@ -49,9 +43,11 @@ He pays Cr20,000 a head on signing, the same again on completion, and all port f
 
 ## 1.3 — THE TRUTH (REFEREE ONLY)
 
-**The builds are not software.** In 1090 Torvald found that the crystalline flats of **Schaut** (2418) were alive: a single, planet-spanning silicon intelligence, kin to the natural chips of Cymbeline (Appendix D). She recorded its signalling and transcribed it as nine logic Ports. Run together, they are a **handshake**: the sequence by which one part of the mind greets another.
+**The builds are not software.** In 1090 Torvald found that the crystalline flats of **Schaut** (2418) were alive: a single, planet-spanning silicon intelligence, kin to the natural chips of Cymbeline (Appendix C). She recorded its signalling and transcribed it as nine logic Ports. Run together, they are a **handshake**: the sequence by which one part of the mind greets another.
 
-**Her employer mined it anyway.** Ostrander Lithic, the company that governs both Pankow and Schaut, has spent twenty-five years quarrying the flats and selling the product as premium processor substrate. Every cut was made into something that could feel it.
+**Her employer mined it anyway.** *Ostrander Lithic*, the company that governs both Pankow and Schaut, has spent twenty-five years quarrying the flats and selling the product as premium processor substrate. Every cut was made into something that could feel it.
+
+**And then moved it across the border.** Pankow is Imperial and always has been. Schaut was Imperial too, until 1112, when *Ostrander Lithic* and several other corporations began tilting its trade toward the Solomani Confederation, and then pressed its company government to follow. Schaut now answers to the Confederation. The switch put the dig beyond the reach of Imperial law, and of the Scout Service, which would interdict any world found to hold a sophont.
 
 **Torvald hid the handshake.** She built three copies and scattered the nine true ("native") Ports across them, three to a copy, filling the gaps with her own imitations. Then she forged one more: the ninth Port in the copy she kept herself is a convincing fake. The real ninth never left Schaut.
 
@@ -65,11 +61,11 @@ He pays Cr20,000 a head on signing, the same again on completion, and all port f
 
 | Act | Balkan is... | What he does | What the travellers see |
 |---|---|---|---|
-| One | **Patron** | Hires them, hands over his build, travels ahead in his own yacht and is waiting at each port. | A generous, funny, learned man. He asks for progress a little too often. |
+| One | **Patron** | Hires them, hands over his build, and keeps his yacht close enough to turn up wherever they go. | A generous, funny, learned man. He asks for progress a little too often. |
 | Two | **Rival** | Once they prove each build holds three native Ports, he strips the sites behind them, takes back his build and voids the charter. | Dead custodians, burned archives, and the knowledge that they did his finding for him. |
 | Three | **Distraught** | Runs the handshake on Schaut with eight true Ports and one forgery. It works, and it is not what he wanted. | A broken man, a waking world, and a decision that is now theirs. |
 
-Full statistics and playing notes are in Appendix C.
+Full statistics and playing notes are in Chapter 3.
 
 ---
 
@@ -78,101 +74,69 @@ Full statistics and playing notes are in Appendix C.
 | Segment | Content | Table time |
 |---|---|---|
 | Opening | Pregens, the charter dinner on Pankow | 20 min |
-| Act One | Schaut stopover; the station on Drang; the first comparison | 60 min |
-| Act Two | Murder on Otha; the vault on Vaderwall; the betrayal; the Recension | 80 min |
+| Act One | The ore hauler; the station on Kell; the first comparison | 60 min |
+| Act Two | Renke's murder; the vault at Tessel House; the betrayal; the Recension; the jump | 80 min |
 | Act Three | Schaut: the tower, the Glass, Balkan, the ninth Port | 65 min |
 | Close | Epilogue and consequences | 15 min |
 
-**If time runs short:** cut the Recension scene (§4.5) and have Balkan take the stolen build directly.
+**If time runs short:** cut the Recension scene (§5.5) and have Balkan take the stolen build directly.
 
 ---
 
-## 1.6 — THE ROUTE AT A GLANCE
+## 1.6 — THE GROUND AT A GLANCE
 
-The *Marginalia* is a Jump-1 ship. Every leg is one week in jump, and almost every leg runs through Schaut.
+Acts One and Two take place inside the **Pankow system**. Moving between sites takes hours and is played as a scene cut, with no piloting or astrogation rolls. The scenario has **one jump**: Pankow to Schaut, one parsec, at the end of Act Two.
 
-```
-                 [Dexter 2417]
-                       |
-[Vaderwall 2218]   (empty 2318)   [SCHAUT 2418] --- [Pankow 2518]
-        \                         /      |
-         [Otha 2319] ------------+       |
-                              [Drang 2419]
-```
+![Voyager subsector, Magyar, 1116: Schaut and the worlds around it](img/voyager-route-map.webp)
 
-| Leg | From → To | Purpose |
+*Voyager subsector around Schaut (2418), Imperial year 1116. Pankow (2518) is one parsec to trailing.*
+
+| Site | Where | What happens there |
 |---|---|---|
-| 1 | Pankow → Schaut | Refuelling stop. Foreshadowing only. |
-| 2 | Schaut → Drang | Second build: Custodian Fenn. |
-| 3 | Drang → Schaut | Transit. The port is quieter than before. |
-| 4 | Schaut → Otha | The backup core, and a murder. |
-| 5 | Otha → Vaderwall | Third build: Dame Kesh's vault. |
-| 6 | Vaderwall → Otha | The Recension. |
-| 7 | Otha → Schaut | Finale. |
+| Pankow Highport | Orbit | The charter dinner; the ore hauler; Renke's office; the Recension |
+| Outstation 3 | Kell, Pankow's moon, a few hours out | Fenn and the Kell build |
+| Tessel House | Pankow Downport | Dame Kesh, the Tessel build, and the fire |
+| Glasshouse Station | Schaut, after one jump | Act Three |
 
 World data is in Appendix B.
 
 ---
 
-## 1.7 — TONE
+## 1.7 — BUILD CHECKLIST
 
-This is a mystery that turns into a first-contact story. Keep Act One light and bookish: let the players enjoy Balkan. Let Act Two tighten around them one death at a time. Act Three should be quiet, wide and strange, with the only violence coming from frightened people.
-
----
-
-## 1.8 — BUILD CHECKLIST
-
-Tick items off as they are done. Done items stay listed.
-
-**Done in the first build (2026-10-03)**
-
-- [x] Premise, referee truth and Balkan's three-act arc
-- [x] Convention listing block
-- [x] Three act chapters with checks
-- [x] Six designed pregens with vertical skill lists and image prompts
-- [x] Nine-Port puzzle, referee grid and blank player handout
-- [x] World table, route diagram and ship summary
-- [x] NPC stat blocks
-- [x] Lattice rules: Answer Table and Regard track
-- [x] Sources and canon notes
+Tick items off as they are done.
 
 **Decisions needed**
 
-- [x] The nine pieces renamed from modules to Ports, to match the title
-- [x] Title set to "Novem portus spatiales"; folder slug `novem-portus-spatiales`
-- [ ] Confirm the bar colour `#3f7d6b`
 - [ ] Choose the convention and slot length, and name it in §1.1
-- [ ] Keep or cut the Recension scene (§4.5) for the four-hour version
-- [ ] Decide which power claims Schaut and its neighbours
-- [ ] Confirm the Jump-1 free trader, or switch to a Jump-2 ship and lose the Schaut stopovers
-- [ ] Decide how Andros Telver died
 
 **Rules verification**
 
-- [ ] Check every equipment line (TL, damage, cost, protection) against the Core Rulebook PDF
-- [ ] Check page references in Appendix E, §E.2
+- [ ] Check every equipment line (TL, damage, cost, protection) against the CR22 PDF
+- [ ] Check page references in Appendix D, §D.2
 - [ ] Rebuild the six pregens term by term, with ranks, benefits and ageing where due
 - [ ] Confirm all skill specialities are valid 2022 names
 - [ ] Replace the Schaut unmasked-exposure ruling with the rulebook procedure if one applies
-- [ ] Confirm trade codes for all seven worlds
+- [ ] Confirm trade codes for Pankow and Schaut
 
 **Content still to write**
 
 - [ ] Balkan's charter as a player handout
 - [ ] Torvald's letter and the charred tower plan as handouts
 - [ ] Printable Port image descriptions, T and N versions, for the puzzle
-- [ ] Map of Outstation 3 on Drang
-- [ ] Map of Tessel Hold and its vault on Vaderwall
+- [ ] Map of Outstation 3 on Kell
+- [ ] Map of Tessel House and its vault at Pankow Downport
 - [ ] Map of the survey tower's three rooms
 - [ ] Full design and deck plan for the *Annotated*
 - [ ] Deck plan reference for the *Marginalia*
-- [ ] Crawler and quarry rigs from the Vehicle Handbook
-- [ ] Survey instruments for Petrosyan-Wu from the Field Catalogue
-- [ ] Gear upgrades from the Central Supply Catalogue
+- [ ] Crawler and quarry rigs from VH26
+- [ ] Survey instruments for Petrosyan-Wu from FC
+- [ ] Gear upgrades from CSC23
 - [ ] Sample dialogue for Balkan in each act
 - [ ] More Lattice lines for the referee to read
 - [ ] Epilogue text for each of the four endings
-- [ ] Rumours and port encounters for Pankow, Otha and Vaderwall
+- [ ] Rumours and encounters for Pankow Highport and Downport
+- [ ] Pankow Highport deck sketch: Lithic Club, brokers' ring, observation lounge, berths
 
 **Table preparation**
 
@@ -183,4 +147,4 @@ Tick items off as they are done. Done items stay listed.
 
 ---
 
-*Last updated: 2026-10-03*
+*Last updated: 2026-11-21*

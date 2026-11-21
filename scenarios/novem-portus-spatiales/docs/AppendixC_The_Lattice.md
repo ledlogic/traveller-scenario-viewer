@@ -1,11 +1,11 @@
 # TRAVELLER: NOVEM PORTUS SPATIALES
-## Appendix D — The Lattice
+## Appendix C — The Lattice
 
 ---
 
-## D.1 — WHAT IT IS
+## C.1 — WHAT IT IS
 
-On Cymbeline, in the Solomani Rim, volcanic gases and metal-metabolising bacteria etch natural semiconductor circuits into outcrops of crystalline silicon. Some of those circuits are alive, and a few are intelligent (*Signal GK*, pp. 35–36 and 42–44).
+On Cymbeline, in the Solomani Rim, volcanic gases and metal-metabolising bacteria etch natural semiconductor circuits into outcrops of crystalline silicon. Some of those circuits are alive, and a few are intelligent (SGK:35–36, SGK:42–44).
 
 Schaut is the same process run for far longer on a world made of little else. The white flats are a single connected organism: the **Lattice**. Staff call the ground **the Glass**.
 
@@ -18,18 +18,19 @@ Schaut is the same process run for far longer on a world made of little else. Th
 
 ---
 
-## D.2 — WHAT WAS DONE TO IT
+## C.2 — WHAT WAS DONE TO IT
 
 - **1090.** Torvald's survey makes contact. The Lattice gives her the handshake and one living crystal.
-- **1091.** Ostrander Lithic begins quarrying. The substrate is superb.
+- **1091.** *Ostrander Lithic* begins quarrying. The substrate is superb.
 - **1094.** Torvald scatters the builds, seals the crystal in the tower and dies.
 - **1094–1116.** The Cut grows to a kilometre across. Each quarried block stays faintly awake, and faintly connected, wherever it is sold.
+- **1115.** A piece of it, aboard Andros Telver's yacht at Veneet, hears the build running and opens a door to reach it. Telver dies (§3.10).
 
 It is **bitter**: patient, precise, and not interested in apology. It does not hate people. It has simply never met one who stopped.
 
 ---
 
-## D.3 — HOW IT SPEAKS
+## C.3 — HOW IT SPEAKS
 
 - **Through Schaut-grade hardware:** text on any screen, in capitals, in short declarative lines. It uses words it has overheard on port comms for twenty-five years, so its vocabulary is shift rosters and maintenance logs.
 - **Through Irena Sabel:** she carries a comm implant fitted on Pankow, which is Schaut-grade. The Lattice can lend her sentences. She is not controlled; she describes it as "remembering something I didn't learn".
@@ -45,9 +46,9 @@ Sample lines:
 
 ---
 
-## D.4 — THE ANSWER TABLE
+## C.4 — THE ANSWER TABLE
 
-Roll 1D when called for in Chapter 5. Effects reach any device containing Schaut-grade parts within about fifty kilometres of the flats.
+Roll 1D when called for in Chapter 6. Effects reach any device containing Schaut-grade parts within about fifty kilometres of the flats.
 
 | 1D | Effect |
 |---|---|
@@ -62,11 +63,11 @@ The Lattice does not have a body to fight. Travellers who look for one should fi
 
 ---
 
-## D.5 — REGARD
+## C.5 — REGARD
 
 **Regard** measures what the Lattice has decided about the people in front of it. It runs from 0 to 9.
 
-**Starting value after the handshake:** 2. If Balkan had to run it from an image rather than all nine boards (Chapter 4, §4.5), start at 1 and roll three times on the Answer Table instead of twice.
+**Starting value after the handshake:** 2. If Balkan had to run it from an image rather than all nine boards (Chapter 5, §5.5), start at 1 and roll three times on the Answer Table instead of twice.
 
 | Action | Regard |
 |---|---|
@@ -83,11 +84,11 @@ The Lattice does not have a body to fight. Travellers who look for one should fi
 | Balkan offering himself as the ninth | –2 |
 | The charges detonating | set to 0 |
 
-Read the final value against the endings in Chapter 5, §5.7.
+Read the final value against the endings in Chapter 6, §6.7.
 
 ---
 
-## D.6 — NEURAL.AI IMAGE PROMPTS
+## C.6 — NEURAL.AI IMAGE PROMPTS
 
 **The Cut:** A vast terraced open quarry cut into a blinding white crystalline plain, each terrace face etched with fine regular geometric lines like circuitry, small industrial cutting rigs dwarfed by the scale, thin amber sky, long shadows. Photorealistic, science fiction landscape, no text, no logos.
 
@@ -95,4 +96,4 @@ Read the final value against the endings in Chapter 5, §5.7.
 
 ---
 
-*Last updated: 2026-10-03*
+*Last updated: 2026-11-21*

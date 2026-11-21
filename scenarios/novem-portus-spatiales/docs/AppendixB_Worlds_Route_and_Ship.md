@@ -5,54 +5,59 @@
 
 ## B.1 — THE WORLDS
 
-All UWPs are taken from the Voyager subsector map for Magyar sector in 1116. Trade codes are derived from the Core Rulebook (p. 261). Everything else about these worlds is invented for this scenario (Appendix E).
+All UWPs are taken from the Voyager subsector map for Magyar sector in 1116. Trade codes are derived from CR22:261. Everything else about these worlds is invented for this scenario (Appendix D).
 
-| World | Hex | UWP | Trade codes | Role |
-|---|---|---|---|---|
-| Pankow | 2518 | A561412-C | Ni | Start. Ostrander Lithic's head office. |
-| Schaut | 2418 | C720115-9 | De, Lo, Po | The crossroads, and the finale. |
-| Drang | 2419 | E651124-7 | Lo, Po | Outstation 3: Custodian Fenn. |
-| Otha | 2319 | E434522-9 | Ni, Po | Renke's murder; the Recension. |
-| Vaderwall | 2218 | C652453-A | Ni, Po | Dame Kesh's vault. |
-| Veneet | 2519 | C742865-8 | Po | Home of the Telvers. Not visited. |
-| Dexter | 2417 | B587510-B | Ag, Ni | Halvard's homeworld. Not visited. |
+**Where play happens**
 
----
+| World | Hex | UWP | Trade codes | Allegiance | Role |
+|---|---|---|---|---|---|
+| Pankow | 2518 | A561412-C | Ni | Third Imperium | Acts One and Two. *Ostrander Lithic*'s head office. |
+| Schaut | 2418 | C720115-9 | De, Lo, Po | Solomani Confederation, since 1112 | Act Three. |
 
-## B.2 — WORLD NOTES
+**Background only**
 
-**Pankow (A561412-C).** Medium-sized, standard air, almost no surface water. Tens of thousands of people, every one on the Ostrander Lithic payroll. TL12, law level 2. The yards here finish Schaut substrate into processors.
-
-**Schaut (C720115-9).** Near-standard gravity, a very thin tainted atmosphere and no water at all. Twenty-seven people, company government, law level 5, TL9. Unrefined fuel only. The air is volcanic outgassing; the white flats are crystalline silicon. Classed a hellworld by surveyors, though the code is not a Core Rulebook one.
-
-**Drang (E651124-7).** Thin air, a little water, about forty people and a marked landing field. Law level 4, TL7.
-
-**Otha (E434522-9).** Small, very thin air, shallow seas. A few hundred thousand people under a participating democracy that mostly argues about water. Law level 2, TL9. A frontier field with no fuel for sale.
-
-**Vaderwall (C652453-A).** Thin air, dry uplands, tens of thousands of people under a feudal technocracy. Law level 3, TL10. Old machines are status here.
+| World | Hex | UWP | Connection |
+|---|---|---|---|
+| Veneet | 2519 | C742865-8 | Home of the Telvers and of Varga. |
+| Vaderwall | 2218 | C652453-A | Dame Kesh's homeworld; Corr's homeworld. |
+| Otha | 2319 | E434522-9 | Aguilar's homeworld. |
+| Dexter | 2416 | B587510-B | Halvard's homeworld. |
 
 ---
 
-## B.3 — ROUTE AND FUEL
+## B.2 — THE PANKOW SYSTEM
 
-```
-                 [Dexter 2417]
-                       |
-[Vaderwall 2218]   (empty 2318)   [SCHAUT 2418] --- [Pankow 2518]
-        \                         /      |      \
-         [Otha 2319] ------------+       |       [Veneet 2519]
-                              [Drang 2419]
-```
+**Pankow (A561412-C).** Medium-sized, standard air, almost no surface water. Tens of thousands of people, every one on the *Ostrander Lithic* payroll. TL12, law level 2. The yards here finish Schaut substrate into processors. Pankow is Imperial and has always been.
 
-- Every line is one parsec. Vaderwall to Schaut is two.
-- **Fuel:** Pankow sells refined fuel; Schaut and Vaderwall sell unrefined. Drang and Otha are class E and sell none. The subsector map marks gas giants in the Schaut, Otha, Drang, Vaderwall and Pankow systems, so the *Marginalia* can skim and process her own (fuel scoops and processors, §B.4). Allow a day.
-- **Law levels** (Core Rulebook, p. 255): at Schaut (5) and Drang (4), carried pistols will be challenged. Stunners pass everywhere on the route.
+| Site | Notes |
+|---|---|
+| **Pankow Highport** | The class A port, in orbit. Berths, the *Lithic Club*, the brokers' ring where Renke kept her office, an observation lounge for hire, and the company bank. The *Cutwater* docks here every three weeks with Schaut crystal. |
+| **Pankow Downport** | The company town and landing field. Tessel House, Vaderwall's consulate, stands at the edge of the old quarter. |
+| **Kell** | Pankow's single moon: airless grey rock a few hours out at Thrust 1. Outstation 3 is half-buried in a crater wall, with two landing pads and a docking tube. |
+
+**Getting around:** highport to downport is a short descent; highport to Kell is a few hours. Play every in-system move as a scene cut.
+
+---
+
+## B.3 — THE JUMP AND SCHAUT
+
+![Voyager subsector, Magyar, 1116: Schaut and the worlds around it](img/voyager-route-map.webp)
+
+*Voyager subsector around Schaut (2418), Imperial year 1116.*
+
+**Schaut (C720115-9).** Near-standard gravity, a very thin tainted atmosphere and no water at all. Twenty-seven people, company government, law level 5, TL9. Unrefined fuel only. The air is volcanic outgassing; the white flats are crystalline silicon. Classed a hellworld by surveyors, though the code is not a CR22 one.
+
+**Allegiance.** Schaut was Imperial until 1112. That year *Ostrander Lithic* and several other corporations began steering its trade toward the Solomani Confederation, then pressed its company government to change sides. It now answers to the Confederation. In practice that means no Imperial Scouts, no Imperial Navy and no Imperial courts on Schaut, and a Pankow company working a world across the border from its own head office.
+
+- **The jump:** Pankow to Schaut is one parsec, one week in jump. It is the scenario's only jump.
+- **Fuel:** Pankow Highport sells refined fuel. Schaut sells unrefined only, which matters if the travellers want to leave in a hurry.
+- **Law levels** (CR22:255): Pankow is 2, Schaut is 5. On Schaut, carried pistols will be challenged; stunners pass.
 
 ---
 
 ## B.4 — THE *MARGINALIA*
 
-A standard **Type A Free Trader** (Core Rulebook, p. 194), nineteen years old.
+A standard **Type A Free Trader** (CR22:194), nineteen years old.
 
 | | |
 |---|---|
@@ -76,4 +81,4 @@ Balkan's yacht: 100 tons, Jump-2, Thrust 2, unarmed, crew of two (Cade pilots). 
 
 ---
 
-*Last updated: 2026-10-03*
+*Last updated: 2026-11-21*
