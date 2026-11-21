@@ -9,7 +9,7 @@
 >
 > **Parent skills.** Wherever a speciality (for example "Gun Combat (slug)") is listed above level 0, the parent skill is listed at 0 as well. Anyone with the parent at 0 can attempt any speciality of that skill without the unskilled penalty.
 >
-> **How these were built.** These are designed pregens: career, terms and skill totals are consistent with the CR22 careers, but they were not rolled term by term. See Appendix D.
+> **How these were built.** These are designed pregens: career, terms and skill totals are consistent with the CR22 careers, but they were not rolled term by term. See Appendix E.
 
 ---
 
@@ -33,7 +33,7 @@
 
 *"I don't read the code. I read the people who want it read."*
 
-**Homeworld:** Pankow (Voyager 2518)
+**Homeworld:** Pankow (Kline 2518)
 
 Born into the company town on Pankow and gone at eighteen, Marguerite has spent twenty years turning small cargoes into slightly larger ones. The *Marginalia* is hers, mortgage and all. The software-appraisal sideline was Lukas's idea; making it pay was hers.
 
@@ -62,8 +62,8 @@ Born into the company town on Pankow and gone at eighteen, Marguerite has spent 
 
 | Item | TL | Range | Damage | Magazine | Notes |
 |---|---|---|---|---|---|
-| Cloth armour, cut as a merchant's long coat | 7 | — | — | — | **Protection +8**, 10kg, Cr250 (CR22:100) |
-| Autopistol | 6 | 10m | 3D–3 | 15 (Cr10/mag) | 1kg, Cr200 (CR22:126) |
+| Cloth armour, cut as a merchant's long coat | 7 | — | — | — | **Protection +5**, 7kg, Cr250 (CR22:100) |
+| Autopistol | 5 | 10m | 3D–3 | 15 (Cr10/mag) | 1kg, Cr200 (CR22:126) |
 
 Also carries: the ship's papers, a mobile comm, a breather mask, and the signed charter with Balkan's seal on it.
 
@@ -78,7 +78,7 @@ Also carries: the ship's papers, a mobile comm, a breather mask, and the signed 
 
 *"One parsec at a time. It's not a ship, it's a habit."*
 
-**Homeworld:** Veneet (Voyager 2519)
+**Homeworld:** Veneet (Kline 2519)
 
 Teodor flew couriers for the *Scout Service* along the Magyar frontier until he tired of carrying other people's secrets. He knows every port between Pankow and Vaderwall, and which of them will sell fuel without asking where you have been.
 
@@ -108,9 +108,9 @@ Teodor flew couriers for the *Scout Service* along the Magyar frontier until he 
 | Item | TL | Range | Damage | Magazine | Notes |
 |---|---|---|---|---|---|
 | Snub pistol, kept in the cockpit locker | 8 | 5m | 3D–3 | 6 (Cr10/mag) | Zero-G, Cr150 (CR22:126) |
-| Vacc suit, personal | 10 | — | — | — | **Protection +8**, 12kg, requires Vacc Suit 1 (CR22:100) |
+| Vacc suit, personal | 10 | — | — | — | **Protection +8**, 12kg, Cr10000, requires Vacc Suit 0 (CR22:100) |
 
-Also carries: a breather mask, a paper star chart of Voyager subsector annotated in three colours, and a mobile comm.
+Also carries: a breather mask, a paper star chart of the Voyager and Kline subsectors annotated in three colours, and a mobile comm.
 
 **Personality:** Laconic, watchful, superstitious about departure times. Notices who is in a port that was not there last time.
 
@@ -152,7 +152,7 @@ Yusra kept megacorporate bulk haulers running for sixteen years before deciding 
 | Item | TL | Range | Damage | Magazine | Notes |
 |---|---|---|---|---|---|
 | Stunner | 8 | 5m | 2D | 100 (Cr200) | Stun, Zero-G, 0.5kg, Cr500 (CR22:129) |
-| Vacc suit, engineering | 10 | — | — | — | **Protection +8**, 12kg, requires Vacc Suit 1 (CR22:100) |
+| Vacc suit, engineering | 10 | — | — | — | **Protection +8**, 12kg, Cr10000, requires Vacc Suit 0 (CR22:100) |
 
 Also carries: an engineering toolkit (CR22:120), a breather mask, and a box of salvaged processor boards she has been meaning to sort.
 
@@ -240,8 +240,8 @@ Dmitra left the *Imperial Marines* with a clean record and no plan. Marguerite h
 
 | Item | TL | Range | Damage | Magazine | Notes |
 |---|---|---|---|---|---|
-| Cloth armour | 7 | — | — | — | **Protection +8**, 10kg, Cr250 (CR22:100) |
-| Autopistol | 6 | 10m | 3D–3 | 15 (Cr10/mag) | 1kg, Cr200 (CR22:126) |
+| Cloth armour | 7 | — | — | — | **Protection +5**, 7kg, Cr250 (CR22:100) |
+| Autopistol | 5 | 10m | 3D–3 | 15 (Cr10/mag) | 1kg, Cr200 (CR22:126) |
 | Stunner, for ports that mind | 8 | 5m | 2D | 100 (Cr200) | Stun, Zero-G, Cr500 (CR22:129) |
 | Blade | 2 | Melee | 2D | — | Cr100 (CR22:124) |
 
@@ -258,7 +258,7 @@ Also carries: a breather mask she actually maintains, a mobile comm, and binocul
 
 *"Rocks don't have intentions. I would like that to stay true."*
 
-**Homeworld:** Pankow (Voyager 2518)
+**Homeworld:** Pankow (Kline 2518)
 
 Anan trained as a physician and drifted into survey planetology because rocks complain less. They once applied for a field post with *Ostrander Lithic* on Schaut and were turned down without explanation. They still have the rejection letter.
 
@@ -288,7 +288,7 @@ Anan trained as a physician and drifted into survey planetology because rocks co
 |---|---|---|---|---|---|
 | Stunner | 8 | 5m | 2D | 100 (Cr200) | Stun, Zero-G, Cr500 (CR22:129) |
 
-Also carries: a medikit (CR22:104), a planetology toolkit (CR22:120), a breather mask, a hand sampler, and a rejection letter from *Ostrander Lithic* dated 1109.
+Also carries: a TL10 medikit (CR22:114), a scientific toolkit (CR22:120), a breather mask, a hand sampler, and a rejection letter from *Ostrander Lithic* dated 1109.
 
 **Personality:** Curious, gentle, stubborn about evidence. The first to suggest that the thing on Schaut might deserve a say.
 
@@ -298,7 +298,7 @@ Also carries: a medikit (CR22:104), a planetology toolkit (CR22:120), a breather
 
 ## 2.8 — WHAT THE CREW KNOWS AT THE START
 
-- **The ship** is the free trader *Marginalia*, Jump-1, mortgaged, with 81 tons of cargo space currently holding very little (Appendix B).
+- **The ship** is the free trader *Marginalia*, Jump-1, mortgaged, with 81 tons of cargo space currently holding very little (Appendix C).
 - **The sideline:** Corr appraises legacy software; the others get him to it and back. They have done this four times. It has never before been dangerous.
 - **Dr. Balkan** is genuinely eminent. Corr owns two of his books.
 - **Schaut** is a company refuelling stop that nobody visits on purpose. It went over to the Solomani Confederation in 1112, which annoyed a lot of people on Pankow and surprised nobody.

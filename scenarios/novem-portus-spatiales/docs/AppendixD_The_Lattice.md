@@ -1,9 +1,9 @@
 # TRAVELLER: NOVEM PORTUS SPATIALES
-## Appendix C — The Lattice
+## Appendix D — The Lattice
 
 ---
 
-## C.1 — WHAT IT IS
+## D.1 — WHAT IT IS
 
 On Cymbeline, in the Solomani Rim, volcanic gases and metal-metabolising bacteria etch natural semiconductor circuits into outcrops of crystalline silicon. Some of those circuits are alive, and a few are intelligent (SGK:35–36, SGK:42–44).
 
@@ -18,7 +18,7 @@ Schaut is the same process run for far longer on a world made of little else. Th
 
 ---
 
-## C.2 — WHAT WAS DONE TO IT
+## D.2 — WHAT WAS DONE TO IT
 
 - **1090.** Torvald's survey makes contact. The Lattice gives her the handshake and one living crystal.
 - **1091.** *Ostrander Lithic* begins quarrying. The substrate is superb.
@@ -30,7 +30,7 @@ It is **bitter**: patient, precise, and not interested in apology. It does not h
 
 ---
 
-## C.3 — HOW IT SPEAKS
+## D.3 — HOW IT SPEAKS
 
 - **Through Schaut-grade hardware:** text on any screen, in capitals, in short declarative lines. It uses words it has overheard on port comms for twenty-five years, so its vocabulary is shift rosters and maintenance logs.
 - **Through Irena Sabel:** she carries a comm implant fitted on Pankow, which is Schaut-grade. The Lattice can lend her sentences. She is not controlled; she describes it as "remembering something I didn't learn".
@@ -46,7 +46,7 @@ Sample lines:
 
 ---
 
-## C.4 — THE ANSWER TABLE
+## D.4 — THE ANSWER TABLE
 
 Roll 1D when called for in Chapter 6. Effects reach any device containing Schaut-grade parts within about fifty kilometres of the flats.
 
@@ -63,7 +63,7 @@ The Lattice does not have a body to fight. Travellers who look for one should fi
 
 ---
 
-## C.5 — REGARD
+## D.5 — REGARD
 
 **Regard** measures what the Lattice has decided about the people in front of it. It runs from 0 to 9.
 
@@ -88,7 +88,7 @@ Read the final value against the endings in Chapter 6, §6.7.
 
 ---
 
-## C.6 — NEURAL.AI IMAGE PROMPTS
+## D.6 — NEURAL.AI IMAGE PROMPTS
 
 **The Cut:** A vast terraced open quarry cut into a blinding white crystalline plain, each terrace face etched with fine regular geometric lines like circuitry, small industrial cutting rigs dwarfed by the scale, thin amber sky, long shadows. Photorealistic, science fiction landscape, no text, no logos.
 

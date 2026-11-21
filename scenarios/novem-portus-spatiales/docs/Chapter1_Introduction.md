@@ -1,7 +1,7 @@
 # TRAVELLER: NOVEM PORTUS SPATIALES
 ## Chapter 1 — Introduction & Situation
 
-**Setting:** The Pankow system and Schaut — Voyager Subsector, Magyar Sector
+**Setting:** Pankow (Kline subsector) and Schaut (Voyager subsector), Magyar Sector
 **Era:** Imperial Year **1116**
 **Players:** 6 (fixed pregen roster) | **Duration:** 4 hours | **Structure:** Three Acts
 **Player Roles:** The crew of the free trader *Marginalia*, hired as code-forensics couriers
@@ -27,7 +27,7 @@ Three copies of one old program. A patron who pays too well and asks too often. 
 
 ## 1.2 — THE SETUP (WHAT THE PLAYERS KNOW)
 
-It is **1116**. On **Pankow** (2518), the one first-class starport in this corner of Voyager subsector, the crew of the *Marginalia* is hired by **Dr. Anselm Balkan**, a celebrated specialist in legacy computing.
+It is **1116**. On **Pankow** (2518), the one first-class starport in this corner of Magyar, the crew of the *Marginalia* is hired by **Dr. Anselm Balkan**, a celebrated specialist in legacy computing.
 
 Balkan owns one of three surviving copies of the **Torvald Builds**: a nine-Port control program written around 1090 by a survey scientist, Dr. Ilse Torvald, who died in a laboratory fire in 1094. He believes two of the three copies are corrupt or forged, and he does not know whether his is the good one.
 
@@ -43,11 +43,11 @@ He pays Cr20,000 a head on signing, the same again on completion, and all port f
 
 ## 1.3 — THE TRUTH (REFEREE ONLY)
 
-**The builds are not software.** In 1090 Torvald found that the crystalline flats of **Schaut** (2418) were alive: a single, planet-spanning silicon intelligence, kin to the natural chips of Cymbeline (Appendix C). She recorded its signalling and transcribed it as nine logic Ports. Run together, they are a **handshake**: the sequence by which one part of the mind greets another.
+**The builds are not software.** In 1090 Torvald found that the crystalline flats of **Schaut** (2418) were alive: a single, planet-spanning silicon intelligence, kin to the natural chips of Cymbeline (Appendix D). She recorded its signalling and transcribed it as nine logic Ports. Run together, they are a **handshake**: the sequence by which one part of the mind greets another.
 
 **Her employer mined it anyway.** *Ostrander Lithic*, the company that governs both Pankow and Schaut, has spent twenty-five years quarrying the flats and selling the product as premium processor substrate. Every cut was made into something that could feel it.
 
-**And then moved it across the border.** Pankow is Imperial and always has been. Schaut was Imperial too, until 1112, when *Ostrander Lithic* and several other corporations began tilting its trade toward the Solomani Confederation, and then pressed its company government to follow. Schaut now answers to the Confederation. The switch put the dig beyond the reach of Imperial law, and of the Scout Service, which would interdict any world found to hold a sophont.
+**And then moved it across the border.** Pankow is Imperial and always has been. Schaut was Imperial too, until 1112, when *Ostrander Lithic* and several other corporations began tilting its trade toward the Solomani Confederation, and then pressed its company government to follow. Schaut now answers to the Confederation. The switch put the dig beyond the reach of Imperial law, and of the Scout Service, whose Exploration branch makes contact with newly found sophonts and sometimes interdicts their worlds (TI:39).
 
 **Torvald hid the handshake.** She built three copies and scattered the nine true ("native") Ports across them, three to a copy, filling the gaps with her own imitations. Then she forged one more: the ninth Port in the copy she kept herself is a convincing fake. The real ninth never left Schaut.
 
@@ -87,9 +87,9 @@ Full statistics and playing notes are in Chapter 3.
 
 Acts One and Two take place inside the **Pankow system**. Moving between sites takes hours and is played as a scene cut, with no piloting or astrogation rolls. The scenario has **one jump**: Pankow to Schaut, one parsec, at the end of Act Two.
 
-![Voyager subsector, Magyar, 1116: Schaut and the worlds around it](img/voyager-route-map.webp)
+![Voyager and Kline subsectors, Magyar, 1116: Schaut and the worlds around it](img/voyager-route-map.webp)
 
-*Voyager subsector around Schaut (2418), Imperial year 1116. Pankow (2518) is one parsec to trailing.*
+*Schaut (Voyager 2418) and its neighbours, Imperial year 1116. Pankow (Kline 2518) is one parsec to trailing, across the subsector border.*
 
 | Site | Where | What happens there |
 |---|---|---|
@@ -98,7 +98,7 @@ Acts One and Two take place inside the **Pankow system**. Moving between sites t
 | Tessel House | Pankow Downport | Dame Kesh, the Tessel build, and the fire |
 | Glasshouse Station | Schaut, after one jump | Act Three |
 
-World data is in Appendix B.
+World data is in Appendix B; ships are in Appendix C.
 
 ---
 
@@ -106,23 +106,12 @@ World data is in Appendix B.
 
 Tick items off as they are done.
 
-**Decisions needed**
-
-- [ ] Choose the convention and slot length, and name it in §1.1
-
 **Rules verification**
 
-- [ ] Check every equipment line (TL, damage, cost, protection) against the CR22 PDF
-- [ ] Check page references in Appendix D, §D.2
 - [ ] Rebuild the six pregens term by term, with ranks, benefits and ageing where due
-- [ ] Confirm all skill specialities are valid 2022 names
-- [ ] Replace the Schaut unmasked-exposure ruling with the rulebook procedure if one applies
-- [ ] Confirm trade codes for Pankow and Schaut
 
 **Content still to write**
 
-- [ ] Balkan's charter as a player handout
-- [ ] Torvald's letter and the charred tower plan as handouts
 - [ ] Printable Port image descriptions, T and N versions, for the puzzle
 - [ ] Map of Outstation 3 on Kell
 - [ ] Map of Tessel House and its vault at Pankow Downport
@@ -137,13 +126,6 @@ Tick items off as they are done.
 - [ ] Epilogue text for each of the four endings
 - [ ] Rumours and encounters for Pankow Highport and Downport
 - [ ] Pankow Highport deck sketch: Lithic Club, brokers' ring, observation lounge, berths
-
-**Table preparation**
-
-- [ ] Generate the character and scene images from the prompts
-- [ ] Print pregens two pages each
-- [ ] Miniatures and terrain list
-- [ ] Playtest once and adjust the act timings in §1.5
 
 ---
 

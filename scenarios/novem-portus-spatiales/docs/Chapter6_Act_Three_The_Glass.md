@@ -10,8 +10,8 @@
 The *Marginalia* comes out of jump to find Schaut's radio sky full. The noise from the flats is no longer faint. It is every Port header in sequence, over and over, with a gap where the ninth should be.
 
 - **Glasshouse Station** does not answer hails. The *Annotated* is on the apron.
-- **Electronics on approach:** every hour on or near Schaut, roll on the **Answer Table** (Appendix C, §C.4).
-- **Outside:** very thin, tainted air. Breather masks at all times. A traveller without one must make an **Average (8+) END check** every minute or take 1D damage (scenario ruling; see Appendix D).
+- **Electronics on approach:** every hour on or near Schaut, roll on the **Answer Table** (Appendix D, §D.4).
+- **Outside:** very thin, tainted air. Breather masks at all times. Atmosphere 2 calls for both a respirator and a filter, which a breather mask combines (CR22:119, CR22:250). A traveller who breathes the tainted air without one takes 1D damage every few minutes (CR22:250).
 
 **Neural.AI image prompt (the approach):** A small tramp starship descending toward a vast pale crystalline desert under a thin amber sky, two small moons near the horizon, a cluster of low domes and a single slender tower in the distance, faint geometric shimmer across the plain. Photorealistic, science fiction landscape, no text, no logos.
 
@@ -36,14 +36,14 @@ The *Marginalia* comes out of jump to find Schaut's radio sky full. The noise fr
 |---|---|
 | **Landing apron** | Both ships. The *Annotated* is sealed; Cade is not aboard. |
 | **Admin dome** | **Director Halloran Vesk** and four security staff. Vesk took Balkan's money two days ago and now regrets it. |
-| **Hab block** | Twenty-two staff, confined to quarters "for the duration of a survey". Irena Sabel is not among them. |
+| **Hab block** | Seventy-odd staff, confined to quarters "for the duration of a survey". Irena Sabel is not among them. |
 | **Fuel shed** | Unrefined fuel, pumps on manual. Twelve demolition charges for the quarry face, in a locked cage. |
 | **The tower** | The 1090 first-landing survey tower, forty metres of lattice mast over a three-room shelter. The image from the boot splash. |
 | **The Cut** | A terraced quarry a kilometre across, cut into the white flats. The crystal faces are etched with fine regular lines that no saw made. |
 
 **Vesk** wants this to stop without his name on it. He will tell the travellers that Balkan is in the tower, that he paid for "one night's exclusive access", and that the port's systems stopped obeying staff an hour ago. If things get worse, his plan is the charges (§6.6).
 
-**Sabel** meets them on the track to the tower. She is barefaced in air that should be hurting her, and she is not entirely the one speaking. See Chapter 3 and Appendix C, §C.3.
+**Sabel** meets them on the track to the tower. She is barefaced in air that should be hurting her, and she is not entirely the one speaking. See Chapter 3 and Appendix D, §D.3.
 
 ---
 
@@ -80,7 +80,7 @@ Balkan reads the eight Ports into the transmitter in order, and then the ninth.
 
 - Every Schaut-grade chip within reach answers at once. The port's systems, the *Annotated*, the travellers' own equipment if it includes any (Halvard's box of boards; the Balkan core).
 - Roll **twice** on the Answer Table immediately, then once every ten minutes.
-- **The Lattice's Regard** is set to **2** (Appendix C, §C.5).
+- **The Lattice's Regard** is set to **2** (Appendix D, §D.5).
 - It does not speak to Balkan. Not a word, however he signals. It speaks, through Sabel and through any screen, to the travellers who have handled all three builds: **"NOT HER. NOT HIM. YOU CARRIED ME. WHO ARE YOU."**
 
 ---
@@ -121,7 +121,7 @@ He does not rant. He sits down on the floor of the antenna room with the ninth b
 
 **2. Talk.**
 
-The Lattice is bitter, not mad. It wants three things, in this order: the cutting to stop; its pieces returned or at least told where they are; and to know why. Use the Regard track (Appendix C, §C.5). Good arguments, honest answers and Petrosyan-Wu's or Corr's skills move it.
+The Lattice is bitter, not mad. It wants three things, in this order: the cutting to stop; its pieces returned or at least told where they are; and to know why. Use the Regard track (Appendix D, §D.5). Good arguments, honest answers and Petrosyan-Wu's or Corr's skills move it.
 
 **3. Vesk's charges.**
 
@@ -136,7 +136,7 @@ Director Vesk will try to collapse the Cut face on the densest part of the Latti
 | **7+** | **Contact.** The noise settles into a slow, even signal. The port's systems come back. The Lattice asks the travellers to carry a message off-world, and gives them the name to prove it. Proof that Schaut holds a sophont reaches Pankow, and through it the Imperial Scout Service; *Ostrander Lithic*'s Imperial charter will not survive the news, and the Confederation will want to know why it was never told. |
 | **4–6** | **Truce.** The Lattice lets the ships lift and seals the Cut under its own growth. Schaut goes radio-silent. It will remember who came. |
 | **1–3** | **Refusal.** The *Marginalia* lifts on manual with half her electronics dead. Behind her, Glasshouse Station goes dark for good. Every Schaut-grade chip in the subsector carries a faint new carrier wave. |
-| **0** | **The Answer.** The signal goes out at full strength through every piece of itself ever sold. Across Voyager subsector, premium processors begin to fail in sequence. The travellers know why, and nobody will believe them. |
+| **0** | **The Answer.** The signal goes out at full strength through every piece of itself ever sold. Across Voyager and Kline subsectors, premium processors begin to fail in sequence. The travellers know why, and nobody will believe them. |
 
 **Balkan** ends as the travellers leave him: interpreter, prisoner, passenger or body.
 

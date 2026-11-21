@@ -21,7 +21,7 @@ Balkan hosts. He is fifty-eight, silver-haired, immaculately and slightly eccent
 - The third is held by **Dame Ottoline Kesh**, Vaderwall's consul on Pankow, who keeps it in the consulate vault at the downport and dislikes him.
 - He wants to know which build is genuine. He suspects his own is not.
 
-**What he hands over:** a sealed, armoured portable core holding the **Balkan build**, and a letter of credit.
+**What he hands over:** a sealed, armoured portable core holding the **Balkan build**, a letter of credit, and the signed charter (handout, Appendix F, §F.1).
 
 **What he does not say:** that his yacht, the *Annotated*, is docked two rings away, and that he means to be wherever they are.
 

@@ -72,7 +72,7 @@
 - Stealth 2
 - Streetwise 2
 
-**Equipment:** Cloth armour (Protection +8), autopistol (3D–3), TL10 stunner (2D+3, Stun), breather mask (CR22:100, CR22:126, CR22:129).
+**Equipment:** Cloth armour (Protection +5), autopistol (3D–3), TL10 stunner (2D+3, Stun), breather mask (CR22:100, CR22:126, CR22:129).
 
 **Playing notes:**
 
@@ -99,7 +99,7 @@
 - Electronics (sensors) 1
 - Mechanic 1
 - Profession 0
-- Profession (mining) 1
+- Profession (belter) 1
 - Survival 1
 - Vacc Suit 0
 
@@ -213,7 +213,7 @@
 - Leadership 1
 - Persuade 1
 - Profession 0
-- Profession (mining) 2
+- Profession (belter) 2
 
 **Equipment:** Breather mask, sidearm he has never fired (autopistol, 3D–3), the key to the charge cage.
 
@@ -243,7 +243,7 @@
 
 | Group | Armour | Weapon |
 |---|---|---|
-| House retainers | Cloth (+8) | Autopistol, 3D–3 |
+| House retainers | Cloth (+5) | Autopistol, 3D–3 |
 | Port security | Mesh (+2) | Stunner, 2D, Stun |
 | Recension ushers | None | Unarmed, 1D; skills at 0 |
 
@@ -265,7 +265,7 @@ None of these people want to die for their employer. Any group that loses half i
 
 1. **The sale.** Telver sold the build to Balkan under pressure, and regretted it within days.
 2. **The communique.** He wrote to Balkan demanding the build back, and threatening to take the whole matter, Torvald's work and Schaut included, to *Ostrander Lithic*. Balkan sent Cade to Veneet.
-3. **The experiment.** Telver kept a full image of the build and had been running it aboard his yacht, on the yacht's own Schaut-grade processors. The night Cade arrived, Telver was running it again, trying to work out what he had sold. The yacht's systems began to answer, as on the Answer Table (Appendix C, §C.4).
+3. **The experiment.** Telver kept a full image of the build and had been running it aboard his yacht, on the yacht's own Schaut-grade processors. The night Cade arrived, Telver was running it again, trying to work out what he had sold. The yacht's systems began to answer, as on the Answer Table (Appendix D, §D.4).
 4. **The airlock.** Frightened by the ship, by Cade, or by both, Telver shut himself in the airlock and sealed the inner door. The outer door opened. The yacht's log shows no command from Telver's hand, and none from Cade's.
 
 **Who killed him?** Balkan believes Cade did, on his order. Cade knows he got there too late and has never said so. Liana believes Balkan did. The truth is that the Lattice opened the door, reaching for its own pieces through a man who was holding them; it did not understand what an airlock was for. Telver's image of the build was wiped from the yacht's core the same night, which is why Liana only has the Recension's guesswork to go on.

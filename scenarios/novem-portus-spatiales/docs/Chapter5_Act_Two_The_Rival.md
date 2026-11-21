@@ -74,7 +74,7 @@ As the comparison finishes:
 - When they come round or get out, the residence is burning. Kesh is dead in her chair, strangled. Her monograph is in the fire. Ports III, VI and VIII are gone from the rack.
 - **Escaping the fire:** **Average (8+) Athletics (dexterity) check**, or take 2D damage and try again. Anyone carrying another person takes DM–2.
 
-**Saving something:** a traveller who goes back for Kesh's papers (**Difficult (10+) Athletics check (END)**, 1D damage either way) recovers one charred page: Torvald's letter, quoted above, and a hand-drawn plan of the Schaut tower with a room marked **"IX"**.
+**Saving something:** a traveller who goes back for Kesh's papers (**Difficult (10+) Athletics check (END)**, 1D damage either way) recovers one charred page: Torvald's letter, quoted above, and a hand-drawn plan of the Schaut tower with a room marked **"IX"**. Hand out both sides of the page (Appendix F, §F.2 and §F.3).
 
 **At the downport field:** a note in a good hand is waiting with the field warden:
 
@@ -110,7 +110,7 @@ She has chartered the highport's observation lounge for the evening and is stagi
 
 **Player options**
 
-- **Take the core first:** an opposed **Stealth** or **Deception** check against the Recension's ushers (skill 0), before Balkan arrives. If they succeed, Balkan reaches Schaut with six native Ports and only an image of the other three. He will run it anyway, and it will go worse (Appendix C, §C.5).
+- **Take the core first:** an opposed **Stealth** or **Deception** check against the Recension's ushers (skill 0), before Balkan arrives. If they succeed, Balkan reaches Schaut with six native Ports and only an image of the other three. He will run it anyway, and it will go worse (Appendix D, §D.5).
 - **Confront Balkan here:** he will talk. He is still friendly. He explains that the builds are "a salutation" and that he intends to be the one who delivers it. Cade is armed with an autopistol and a stunner. Balkan will not fight; he will leave.
 - **Follow him:** the *Annotated* undocks for the jump point within the hour. See §5.6.
 

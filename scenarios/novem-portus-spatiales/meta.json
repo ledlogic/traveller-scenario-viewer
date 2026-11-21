@@ -35,16 +35,24 @@
       "label": "App A — The Nine Ports (Puzzle & Handout)"
     },
     {
-      "file": "AppendixB_Worlds_Route_and_Ship.md",
-      "label": "App B — Worlds, Route & Ship"
+      "file": "AppendixB_Worlds_and_Systems.md",
+      "label": "App B — Worlds & Systems"
     },
     {
-      "file": "AppendixC_The_Lattice.md",
-      "label": "App C — The Lattice"
+      "file": "AppendixC_Ships.md",
+      "label": "App C — Ships"
     },
     {
-      "file": "AppendixD_Sources_and_Canon_Notes.md",
-      "label": "App D — Sources & Canon Notes"
+      "file": "AppendixD_The_Lattice.md",
+      "label": "App D — The Lattice"
+    },
+    {
+      "file": "AppendixE_Sources_and_Canon_Notes.md",
+      "label": "App E — Sources & Canon Notes"
+    },
+    {
+      "file": "AppendixF_Player_Handouts.md",
+      "label": "App F — Player Handouts"
     }
   ]
 }
