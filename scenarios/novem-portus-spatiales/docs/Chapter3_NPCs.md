@@ -47,7 +47,7 @@
 - **He believes** the Lattice is the oldest mind in charted space and that he has earned the right to be the one it answers.
 - **He never fights.** If attacked he does not defend himself.
 
-**Neural.AI image prompt:** A man in his late 50s with silver hair, a neat beard and pale observant eyes behind round glasses, wearing an elegant dark high-collared coat with a small jewelled pin. Seated in a leather chair in a wood-panelled starport club, one hand resting on a sealed metal data core, a faint knowing smile. Photorealistic, science fiction character portrait, no text, no logos.
+**Neural.AI image prompt:** *A man in his late 50s with silver hair, a neat beard and pale observant eyes behind round glasses, wearing an elegant dark high-collared coat with a small jewelled pin. Seated in a leather chair in a wood-panelled starport club, one hand resting on a sealed metal data core, a faint knowing smile. Photorealistic, science fiction character portrait, no text, no logos.*
 
 ---
 
@@ -89,7 +89,7 @@
 - Will not fight to the death for anyone.
 - Was sent to silence Andros Telver, and found him already dead in the airlock. He has never told Baltic that he did not do it.
 
-**Neural.AI image prompt:** A plain, forgettable man in his early 40s with a scar through one eyebrow, wearing a grey travelling coat over ballistic cloth, standing half in shadow in a doorway with his hands loosely at his sides. Photorealistic, science fiction character portrait, no text, no logos.
+**Neural.AI image prompt:** *A plain, forgettable man in his early 40s with a scar through one eyebrow, wearing a grey travelling coat over ballistic cloth, standing half in shadow in a doorway with his hands loosely at his sides. Photorealistic, science fiction character portrait, no text, no logos.*
 
 ---
 
@@ -115,7 +115,7 @@
 - Survival 1
 - Vacc Suit 0
 
-**Equipment:** Company coveralls, toolkit, a comm implant fitted on Pankow (Schaut-grade).
+**Equipment:** Company coveralls, an Electronics (comms) toolkit (TL7, 2kg, Cr2,000; required for repairs and installing new equipment, CR22:120), a comm implant fitted on Pankow (Schaut-grade).
 
 **Playing notes:**
 
@@ -124,7 +124,7 @@
 - In Act Three she can stand barefaced outdoors for several minutes without harm; the Lattice is regulating her implant. She should still get a mask.
 - If harmed, Regard drops by 2.
 
-**Neural.AI image prompt:** A young woman in her mid-20s with freckled tan skin and wind-tangled auburn hair, wearing worn orange company coveralls, standing without a mask on a pale crystalline plain at dusk, looking calmly toward the viewer, a faint shimmer on the ground behind her. Photorealistic, science fiction character portrait, no text, no logos.
+**Neural.AI image prompt:** *A young woman in her mid-20s with freckled tan skin and wind-tangled auburn hair, wearing worn orange company coveralls, standing without a mask on a pale crystalline plain at dusk, looking calmly toward the viewer, a faint shimmer on the ground behind her. Photorealistic, science fiction character portrait, no text, no logos.*
 
 ---
 
@@ -147,14 +147,14 @@
 - Steward 0
 - Survival 1
 
-**Equipment:** A cardigan, a kettle, a ring of keys.
+**Equipment:** An Electronics (computers) toolkit for the machine room (TL7, 2kg, Cr2,000) and a Mechanical toolkit for everything else on the station (TL5, 12kg, Cr1,000; both CR22:120); a rescue bubble kept by the airlock in case Kell's vacuum gets in (TL9, 2kg, Cr600, CR22:118); and the station's ring of old physical keys, which still open doors the computer has forgotten. He also wears a patched cardigan and keeps a kettle on the machine-room bench.
 
 **Playing notes:**
 
 - Lonely, courteous and afraid of the machine room.
 - Would rather die than give up the build. He is taken at his word.
 
-**Neural.AI image prompt:** A thin stooped man in his early 60s with wispy grey hair and a patched cardigan, holding a ring of old keys, standing in a dim half-buried laboratory corridor lit by a single working strip light. Photorealistic, science fiction character portrait, no text, no logos.
+**Neural.AI image prompt:** *A thin stooped man in his early 60s with wispy grey hair and a patched cardigan, holding a ring of old keys, standing in a dim half-buried laboratory corridor lit by a single working strip light. Photorealistic, science fiction character portrait, no text, no logos.*
 
 ---
 
@@ -179,7 +179,7 @@
 - Science (cybernetics) 2
 - Science (history) 3
 
-**Equipment:** A powered chair, an identichip that opens her vault and keys its access log, protected by Security/3 (TL12, Cr20000; Formidable (14+) to bypass, CR22:111), thirty years of notes.
+**Equipment:** A powered chair, an identichip that opens her vault and keys its access log, protected by Security/3 (TL12, Cr20,000; Formidable (14+) to bypass, CR22:111), thirty years of notes.
 
 **Playing notes:**
 
@@ -191,7 +191,7 @@
 - Paid for security software far above her world's tech level. Any copy of her identichip works once, then erases itself.
 - Her house system keeps a watchdog that strikes back at anyone researching her chip or her records over the downport comms net. See §5.4.
 
-**Neural.AI image prompt:** An elderly woman in her mid-70s with a severe white braid and fierce dark eyes, seated in an ornate powered chair in a stone-walled study lined with antique computer cabinets, one hand resting on a chain with a heavy key. Photorealistic, science fiction character portrait, no text, no logos.
+**Neural.AI image prompt:** *An elderly woman in her mid-70s with a severe white braid and fierce dark eyes, seated in an ornate powered chair in a stone-walled study lined with antique computer cabinets, one hand resting on a chain with a heavy key. Photorealistic, science fiction character portrait, no text, no logos.*
 
 ---
 
@@ -223,7 +223,7 @@
 - Tries charm first, on Corr or Marguerite, then theft.
 - Knows nothing true about the builds.
 
-**Neural.AI image prompt:** A striking woman in her mid-40s with pale skin and elaborately pinned black hair, wearing a silver-grey ceremonial robe open over an expensive evening gown, standing at a lectern in a smoky pressure-hall among robed figures. Photorealistic, science fiction character portrait, no text, no logos.
+**Neural.AI image prompt:** *A striking woman in her mid-40s with pale skin and elaborately pinned black hair, wearing a silver-grey ceremonial robe open over an expensive evening gown, standing at a lectern in a smoky pressure-hall among robed figures. Photorealistic, science fiction character portrait, no text, no logos.*
 
 ---
 
@@ -255,7 +255,7 @@
 - Has always known the Glass was 'active'. Was told not to write that down.
 - His instinct is to make the problem physically go away.
 
-**Neural.AI image prompt:** A tired heavyset man in his early 50s with thinning hair and a company jacket zipped over a rumpled shirt, a breather mask pushed down around his neck, standing in a cramped prefabricated office lit by failing monitors. Photorealistic, science fiction character portrait, no text, no logos.
+**Neural.AI image prompt:** *A tired heavyset man in his early 50s with thinning hair and a company jacket zipped over a rumpled shirt, a breather mask pushed down around his neck, standing in a cramped prefabricated office lit by failing monitors. Photorealistic, science fiction character portrait, no text, no logos.*
 
 ---
 

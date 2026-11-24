@@ -20,7 +20,16 @@ A standard TL12 **Type A Free Trader** (CR22:194), nineteen years old.
 | **Weapons** | None fitted |
 | **Crew posts** | Pilot, astrogator, engineer, medic, steward |
 
-**Quirks (CR22:188):** Damaged Sensors (DM−1 to Electronics (sensors) checks) and Double maintenance costs, both rolled when Okafor-Lindh took the ship as a mustering-out benefit (Chapter 2). Halvard cleared the sensor penalty last year by replacing two sensor boards with cheap reconditioned parts. They are Schaut-grade. On Schaut, this is why the ship's sensors hear the Lattice so clearly, and why the Answer Table can reach her.
+**Quirks (CR22:188):** Damaged Sensors (DM−1 to Electronics (sensors) checks) and Double maintenance costs, both rolled when Okafor-Lindh took the ship as a mustering-out benefit (Chapter 2). The quirks belong to the ship; the second still applies in full.
+
+**Sensor status.** The damage is still there. Last year, while Okafor-Lindh was running the ship for her old captain, Halvard masked it by fitting two cheap reconditioned sensor boards. They are Schaut-grade. With the boards in, the sensors work normally and the DM−1 does not apply. Take the boards out, or isolate them, and the DM−1 comes straight back.
+
+| Situation | Electronics (sensors) |
+|---|---|
+| Schaut-grade boards fitted (start of play) | Normal, no DM |
+| Boards isolated or removed, for example after Answer Table result 6 on Schaut (Appendix D, §D.4) | DM−1, the original Damaged Sensors quirk |
+
+On Schaut, those boards are why the ship's sensors hear the Lattice so clearly, and why the Answer Table can reach her.
 
 ---
 

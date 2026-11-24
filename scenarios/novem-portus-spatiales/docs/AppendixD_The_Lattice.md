@@ -146,7 +146,7 @@ Roll 1D when called for in Chapter 6. Effects reach any device containing Schaut
 | 3 | **Doors.** One powered door or airlock near the travellers seals or opens, whichever is worse. **Average (8+) Electronics (computers) or Mechanic check** to override. |
 | 4 | **Voice.** It addresses one traveller by name, on their own device, with a question. Answering honestly: Regard +1. Lying: Regard –1. |
 | 5 | **Machines.** A crawler, loader or cutting rig at the Cut starts and drives itself slowly toward the port. 2D minutes to arrive. It will not strike a person who stands still. |
-| 6 | **The ship.** The *Marginalia*'s sensors and one other system (referee's choice) go down. **Difficult (10+) Engineer or Mechanic check (1D × 10 minutes)** to isolate the Schaut-grade boards. |
+| 6 | **The ship.** The *Marginalia*'s sensors and one other system (referee's choice) go down. **Difficult (10+) Engineer or Mechanic check (1D × 10 minutes)** to isolate the Schaut-grade boards. The sensors come back, but with the ship's old Damaged Sensors quirk: DM−1 to Electronics (sensors) checks for the rest of the scenario (Appendix C, §C.1). |
 
 The Lattice does not have a body to fight. Travellers who look for one should find the Cut, and understand.
 
@@ -179,9 +179,9 @@ Read the final value against the endings in Chapter 6, §6.7.
 
 ## D.6 — NEURAL.AI IMAGE PROMPTS
 
-**The Cut:** A vast terraced open quarry cut into a blinding white crystalline plain, each terrace face etched with fine regular geometric lines like circuitry, small industrial cutting rigs dwarfed by the scale, thin amber sky, long shadows. Photorealistic, science fiction landscape, no text, no logos.
+**The Cut:** *A vast terraced open quarry cut into a blinding white crystalline plain, each terrace face etched with fine regular geometric lines like circuitry, small industrial cutting rigs dwarfed by the scale, thin amber sky, long shadows. Photorealistic, science fiction landscape, no text, no logos.*
 
-**The ninth crystal:** A single uncut translucent silicon crystal the size of a hand resting in a padded metal case, faint internal lines glowing softly like etched circuits, a dusty abandoned field laboratory bench around it, an old paper notebook beside it. Photorealistic, macro, no text, no logos.
+**The ninth crystal:** *A single uncut translucent silicon crystal the size of a hand resting in a padded metal case, faint internal lines glowing softly like etched circuits, a dusty abandoned field laboratory bench around it, an old paper notebook beside it. Photorealistic, macro, no text, no logos.*
 
 ---
 

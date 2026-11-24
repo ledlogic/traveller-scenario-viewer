@@ -103,7 +103,7 @@ He is charming about it: he could not bear to wait. He asks what they found. **T
 
 Either way he says he will "pay his respects" to Fenn and follow on.
 
-**Aguilar or Varga, Average (8+) Recon check (INT):** a second man came off the yacht and has not been introduced. This is **Cade** (Chapter 3).
+**Aguilar, or anyone else watching, Average (8+) Recon check (INT):** a second man came off the yacht and has not been introduced. This is **Cade** (Chapter 3).
 
 ---
 

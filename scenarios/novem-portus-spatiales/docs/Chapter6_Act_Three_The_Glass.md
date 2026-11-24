@@ -13,7 +13,7 @@ The *Marginalia* comes out of jump to find Schaut's radio sky full. The noise fr
 - **Electronics on approach:** every hour on or near Schaut, roll on the **Answer Table** (Appendix D, §D.4).
 - **Outside:** very thin, tainted air. Breather masks at all times. Atmosphere 2 calls for both a respirator and a filter, which a breather mask combines (CR22:119, CR22:250). A traveller who breathes the tainted air without one takes 1D damage every few minutes (CR22:250).
 
-**Neural.AI image prompt (the approach):** A small tramp starship descending toward a vast pale crystalline desert under a thin amber sky, two small moons near the horizon, a cluster of low domes and a single slender tower in the distance, faint geometric shimmer across the plain. Photorealistic, science fiction landscape, no text, no logos.
+**Neural.AI image prompt (the approach):** *A small tramp starship descending toward a vast pale crystalline desert under a thin amber sky, two small moons near the horizon, a cluster of low domes and a single slender tower in the distance, faint geometric shimmer across the plain. Photorealistic, science fiction landscape, no text, no logos.*
 
 ---
 
