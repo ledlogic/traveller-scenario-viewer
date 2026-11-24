@@ -11,16 +11,16 @@
 | *The Club Dumas* / *The Ninth Gate* | This scenario |
 |---|---|
 | Corso, the book hunter | The crew of the *Marginalia*; Lukas Corr in particular |
-| Three copies of *The Nine Doors* | The Balkan, Kell and Tessel builds |
-| Engravings in two hands | T and N Ports |
-| Balkan / Varo Borja | Dr. Anselm Balkan, who here survives his own ritual |
+| Three copies of *The Nine Doors* | The Baltic, Kell and Tessel builds |
+| Engravings signed LCF instead of with the printer's mark | N Ports, carrying the neuter ref hash ID |
+| Balkan / Varo Borja | Dr. Anselm Baltic, who here survives his own ritual |
 | Fargas | Tobiah Fenn |
 | Baroness Ungern / Kessler | Dame Ottoline Kesh |
 | The bookseller holding the copy | Oda Renke |
 | Liana Taillefer / Telfer and her circle | Liana Telver and the *Silver Recension* |
 | The girl | Irena Sabel |
 | The castle in the engraving | The survey tower on Schaut |
-| The forged ninth engraving | Balkan build, Port IX |
+| The forged ninth engraving | Baltic build, Port IX |
 
 ---
 
@@ -89,7 +89,7 @@ Invented here: a chip organism on Schaut, its planetary scale, its quarrying, it
 
 - **Schaut's air.** Atmosphere 2 needs a respirator and a filter, which a breather mask combines (CR22:119, CR22:250). Without one, the taint deals 1D damage every few minutes (CR22:250); the referee sets the interval.
 - **Pregens** are designed, not rolled. Term counts and ages are consistent (age 18 plus four years per term) and skill totals are modest for the terms served.
-- **Comms.** Acts One and Two stay inside the Pankow system, where ordinary comms work, so Balkan can call and turn up within hours. Only the final leg crosses a parsec, and both ships spend the same week in jump.
+- **Comms.** Acts One and Two stay inside the Pankow system, where ordinary comms work, so Baltic can call and turn up within hours. Only the final leg crosses a parsec, and both ships spend the same week in jump.
 
 ---
 

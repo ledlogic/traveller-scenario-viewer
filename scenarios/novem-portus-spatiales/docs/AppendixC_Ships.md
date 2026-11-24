@@ -20,13 +20,13 @@ A standard TL12 **Type A Free Trader** (CR22:194), nineteen years old.
 | **Weapons** | None fitted |
 | **Crew posts** | Pilot, astrogator, engineer, medic, steward |
 
-**Quirk:** Halvard replaced two sensor boards last year with reconditioned parts. They are Schaut-grade. On Schaut, this is why the ship's sensors hear the Lattice so clearly, and why the Answer Table can reach her.
+**Quirks (CR22:188):** Damaged Sensors (DM−1 to Electronics (sensors) checks) and Double maintenance costs, both rolled when Okafor-Lindh took the ship as a mustering-out benefit (Chapter 2). Halvard cleared the sensor penalty last year by replacing two sensor boards with cheap reconditioned parts. They are Schaut-grade. On Schaut, this is why the ship's sensors hear the Lattice so clearly, and why the Answer Table can reach her.
 
 ---
 
 ## C.2 — THE *ANNOTATED*
 
-Balkan's yacht: 100 tons, Jump-2, Thrust 2, unarmed, crew of two (Cade pilots). Treat as a refitted **Scout/Courier, Type S** (CR22:190), with the double turret removed and the staterooms fitted out expensively. Every processor aboard is Schaut-grade, bought as the best available. After the handshake she will not start.
+Baltic's yacht: 100 tons, Jump-2, Thrust 2, unarmed, crew of two (Cade pilots). Treat as a refitted **Scout/Courier, Type S** (CR22:190), with the double turret removed and the staterooms fitted out expensively. Every processor aboard is Schaut-grade, bought as the best available. After the handshake she will not start.
 
 ---
 

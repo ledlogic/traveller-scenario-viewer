@@ -1,18 +1,6 @@
 # TRAVELLER: NOVEM PORTUS SPATIALES
 ## Chapter 2 — Characters
 
-*Mongoose Traveller 2nd Edition · Ready-to-Play*
-
----
-
-> Characteristics are shown as **STR / DEX / END / INT / EDU / SOC** with their dice modifiers.
->
-> **Parent skills.** Wherever a speciality (for example "Gun Combat (slug)") is listed above level 0, the parent skill is listed at 0 as well. Anyone with the parent at 0 can attempt any speciality of that skill without the unskilled penalty.
->
-> **How these were built.** These are designed pregens: career, terms and skill totals are consistent with the CR22 careers, but they were not rolled term by term. See Appendix E.
-
----
-
 ## 2.1 — ROSTER OVERVIEW
 
 | # | Name | Callsign | Role | Homeworld | Age | Key Skills |
@@ -24,50 +12,146 @@
 | 5 | Dmitra Aguilar | "Brick" | Security | Otha | 34 | Gun Combat (slug) 2, Vacc Suit 1, Tactics (military) 1 |
 | 6 | Dr. Anan Petrosyan-Wu | "Strata" | Ship's Doctor & Planetologist | Pankow | 34 | Science (planetology) 2, Medic 2, Survival 1 |
 
+**Group bonus skills.** During group chargen the crew takes the **Trader Skills Package** (CR22:50): Advocate 1, Astrogation 1, Broker 1, Diplomat 1, Electronics 1, Medic 1, Pilot 1 and Streetwise 1. The Travellers take turns picking one skill each until all eight are taken, so two of them pick twice. Each Traveller can also gain up to two Connections Rule skills (CR22:19), one for each event they share with another Traveller.
+
+| Traveller | Package pick(s) | Connection 1 | Connection 2 |
+|---|---|---|---|
+| Okafor-Lindh | — | — | — |
+| Varga | — | — | — |
+| Halvard | — | — | — |
+| Corr | — | — | — |
+| Aguilar | — | — | — |
+| Petrosyan-Wu | — | — | — |
+
 **If fewer than six play:** drop Aguilar first, then Varga (an NPC flies the ship). Corr and Petrosyan-Wu carry the mystery and should always be in play.
 
 ---
 
 ## 2.2 — CHARACTER 1 — MARGUERITE OKAFOR-LINDH, "MARGIN"
-**Captain & Broker · Merchant (Free Trader) · 5 terms · Rank 4 · Age 38**
+**Captain & Broker · Merchant (Free Trader) · 5 terms · Rank 4, Experienced Trader · Age 38**
+
+![Marguerite Okafor-Lindh](img/okafor-lindh.webp)
 
 *"I don't read the code. I read the people who want it read."*
 
-**Homeworld:** Pankow (Kline 2518)
+**Born IY 1078, Pankow** (Kline subsector, Magyar 2518, UWP A561412-C: excellent starport, small world, standard atmosphere, 10% water, tens of thousands of people, company government, law level 2, TL12). Raised in the *Ostrander Lithic* company town, where everyone she knew worked for the same employer and expected her to as well.
 
-Born into the company town on Pankow and gone at eighteen, Marguerite has spent twenty years turning small cargoes into slightly larger ones. The *Marginalia* is hers, mortgage and all. The software-appraisal sideline was Lukas's idea; making it pay was hers.
+**Twenty years on tramp traders, one career, no regrets she will admit to.** She signed onto a free trader's crew at eighteen as a deckhand who could add up, and was quoting cargoes herself before her first term was out. The middle years brought two brushes with port law, both settled with paperwork rather than prison, and a friendship with a Pankow ship broker, Oda Renke, that outlasted every ship she served on.
 
-**Characteristics:** STR 6 (+0) · DEX 7 (+0) · END 7 (+0) · INT 9 (+1) · EDU 8 (+0) · SOC 8 (+0)
+**She made Experienced Trader at thirty**, and by thirty-four she was running the deals for the whole crew. Through her final term she ran her captain's ship for him, and when he retired this year she took the ship as her mustering-out benefit: a nineteen-year-old free trader, a quarter of it paid for. She renamed her the *Marginalia*. The ship came with damaged sensors and double the maintenance bill of anything her age should have. Halvard fixed the first; nobody has fixed the second.
+
+The software-appraisal sideline was Lukas's idea. Making it pay was hers.
+
+**Timeline:**
+
+| Term | Career | Age | Years (IY) | Rank at end |
+|---|---|---|---|---|
+| 0 | Youth, Pankow | 0–18 | 1078–1096 | — |
+| 1 | Merchant, Free Trader | 18–22 | 1096–1100 | 1 |
+| 2 | Merchant, Free Trader | 22–26 | 1100–1104 | 2 |
+| 3 | Merchant, Free Trader | 26–30 | 1104–1108 | 3, Experienced Trader |
+| 4 | Merchant, Free Trader | 30–34 | 1108–1112 | 4 |
+| 5 | Merchant, Free Trader | 34–38 | 1112–1116 | 4, mustered out |
+
+**Build log (CR22 Merchant career, CR22:34–35):**
+
+| Step | Roll | Result |
+|---|---|---|
+| Background skills (EDU DM+0, so 3; CR22:9) | — | Admin 0, Carouse 0, Streetwise 0 |
+| Term 1: qualification, INT 4+ | 9 + 1 = 10 | Enters Merchant, Free Trader assignment |
+| Term 1: basic training (first career, all Service Skills at 0) | — | Broker 0, Drive 0, Electronics 0, Persuade 0, Steward 0, Vacc Suit 0 |
+| Term 1: skill roll, Service Skills | 3 | Broker 1 |
+| Term 1: survival, DEX 6+ | 8 + 0 = 8 | Survives |
+| Term 1: event | 7 | Life Event 7, New Contact: a Pankow cargo agent |
+| Term 1: advancement, INT 6+ | 9 + 1 = 10 | Rank 1, bonus Persuade 1 |
+| Term 1: extra skill roll, Free Trader | 3 | Deception 1 |
+| Term 2: skill roll, Service Skills | 6 | Persuade 2 |
+| Term 2: survival, DEX 6+ | 9 | Survives |
+| Term 2: event | 8 | Legal trouble: Advocate 1. Follow-up roll 7, no Prisoner term |
+| Term 2: advancement, INT 6+ | 7 + 1 = 8 | Rank 2 |
+| Term 2: extra skill roll, Advanced Education (EDU 8) | 5 | Admin 1 |
+| Term 3: skill roll, Service Skills | 5 | Electronics (comms) 1 |
+| Term 3: survival, DEX 6+ | 7 | Survives |
+| Term 3: event | 11 | Befriends Oda Renke, ship broker: Ally, and Carouse 1 |
+| Term 3: advancement, INT 6+ | 8 + 1 = 9 | Rank 3, Experienced Trader, bonus Jack-of-all-Trades 1 |
+| Term 3: extra skill roll, Personal Development | 6 | Streetwise 1 |
+| Term 4: skill roll, Service Skills | 3 | Broker 2 |
+| Term 4: survival, DEX 6+ | 10 | Survives |
+| Term 4: event | 8 | Legal trouble again: Diplomat 1. Follow-up roll 9, no Prisoner term |
+| Term 4: advancement, INT 6+ | 6 + 1 = 7 | Rank 4 |
+| Term 4: extra skill roll, Service Skills | 4 | Steward 1 |
+| Term 4: ageing, 2D − 4 terms (CR22:49) | 8 − 4 = 4 | No effect |
+| Term 5: skill roll, Free Trader | 1 | Pilot (spacecraft) 1 |
+| Term 5: survival, DEX 6+ | 8 | Survives |
+| Term 5: event | 6 | Unexpected connection: Contact, a Kline subsector customs officer |
+| Term 5: advancement, INT 6+ | 4 + 1 = 5 | Fails; 5 is not more than her 5 terms, so she cannot continue (CR22:18) |
+| Term 5: ageing, 2D − 5 terms | 9 − 5 = 4 | No effect |
+| Mustering out: 5 terms + 2 for Rank 4 = 7 Benefit rolls (CR22:46) | 6, 4, 4, 5 | Free Trader; Gun (autopistol); Gun again, taken as Gun Combat (slug) 1; Ship Share |
+| Mustering out: Cash (3 rolls, the maximum) | 3, 2, 4 | Cr10000, Cr5000, Cr20000 |
+| Free Trader benefit: 1D Spacecraft Quirks (CR22:188) | 1D = 2; 2D = 6, 8 | Damaged Sensors (DM−1 to Electronics (sensors) checks); Double maintenance costs |
+
+No characteristic changed during creation: no Personal Development characteristic rolls, and both ageing rolls came up clear.
+
+**Characteristics:**
+
+| | STR | DEX | END | INT | EDU | SOC |
+|--|-----|-----|-----|-----|-----|-----|
+| Score | 6 | 7 | 7 | 9 | 8 | 8 |
+| DM | +0 | +0 | +0 | +1 | +0 | +0 |
 
 **Skills:**
 
-- Admin 1
-- Advocate 1
-- Broker 2
-- Carouse 1
-- Deception 1
-- Diplomat 1
-- Drive 0
-- Electronics 0
-- Electronics (comms) 1
-- Gun Combat 0
-- Gun Combat (slug) 1
-- Leadership 1
-- Persuade 2
-- Steward 1
-- Streetwise 1
-- Vacc Suit 0
+| Skill | Lvl |
+|-------|-----|
+| Admin | 1 |
+| Advocate | 1 |
+| Broker | 2 |
+| Carouse | 1 |
+| Deception | 1 |
+| Diplomat | 1 |
+| Drive | 0 |
+| Electronics | 0 |
+| Electronics (comms) | 1 |
+| Gun Combat | 0 |
+| Gun Combat (slug) | 1 |
+| Jack-of-all-Trades | 1 |
+| Persuade | 2 |
+| Pilot | 0 |
+| Pilot (spacecraft) | 1 |
+| Steward | 1 |
+| Streetwise | 1 |
+| Vacc Suit | 0 |
+
+Skill limits (CR22:18): no skill above 4, and 17 total levels against a limit of 51 (three times INT 9 plus EDU 8).
+
+**Bonus skills:**
+
+| Source | Skill | Linked with | Status |
+|---|---|---|---|
+| Skills package (CR22:50) | — | — | Not yet picked |
+| Connection 1 (CR22:19) | — | — | Not yet linked |
+| Connection 2 (CR22:19) | — | — | Not yet linked |
+
+*Note: this skill list does not include the skills package pick (CR22:50), or the Connections Rule bonus (CR22:19), which grants up to 2 additional free skills if this character was linked to another Traveller's Event during group chargen. A package skill is gained at level 1; a connection skill adds one level to any skill except Jack-of-all-Trades, and cannot take a skill above level 3.*
+
+**Allies and contacts:** Oda Renke, ship broker on Pankow Highport (Ally); a Pankow cargo agent (Contact); a Kline subsector customs officer (Contact).
+
+**Ship and finances:**
+
+- **The *Marginalia*,** a Type A Free Trader (CR22:194), 25% of the mortgage paid off as a mustering-out benefit, with one Ship Share (MCr1) put toward the rest (CR22:47). Quirks: Damaged Sensors and Double maintenance costs. Halvard has since cleared the sensor penalty with reconditioned boards (Appendix C).
+- **Cash:** Cr35000 from mustering out, less what she spent on her gear.
+- **Pension:** Cr10000 a year for five terms served (CR22:48), collectable at any Class A or B starport.
 
 **Equipment:**
 
 | Item | TL | Range | Damage | Magazine | Notes |
 |---|---|---|---|---|---|
 | Cloth armour, cut as a merchant's long coat | 7 | — | — | — | **Protection +5**, 7kg, Cr250 (CR22:100) |
-| Autopistol | 5 | 10m | 3D–3 | 15 (Cr10/mag) | 1kg, Cr200 (CR22:126) |
+| Autopistol, her mustering-out Gun benefit | 5 | 10m | 3D–3 | 15 (Cr10/mag) | 1kg, Cr200 (CR22:126) |
 
-Also carries: the ship's papers, a mobile comm, a breather mask, and the signed charter with Balkan's seal on it.
+Also carries: the ship's papers, a mobile comm, a breather mask, and the signed charter with Baltic's seal on it.
 
-**Personality:** Warm, quick and unsentimental about money. She liked Balkan immediately, which she will later hold against herself.
+**Personality:** Warm, quick and unsentimental about money. She liked Baltic immediately, which she will later hold against herself.
 
 **Neural.AI image prompt:** A woman in her late 30s with dark skin, short natural hair and an appraising half-smile, wearing a long charcoal merchant's coat over practical shipboard clothes, a data slate tucked under one arm. Standing on a starport concourse with a battered free trader visible through the window behind her. Photorealistic, science fiction character portrait, no text, no logos.
 
@@ -75,6 +159,8 @@ Also carries: the ship's papers, a mobile comm, a breather mask, and the signed 
 
 ## 2.3 — CHARACTER 2 — TEODOR VARGA, "SLIPKNOT"
 **Pilot & Astrogator · Scout (Courier) · 4 terms · Age 34**
+
+![Teodor Varga](img/varga.webp)
 
 *"One parsec at a time. It's not a ship, it's a habit."*
 
@@ -103,6 +189,16 @@ Teodor flew couriers for the *Scout Service* along the Magyar frontier until he 
 - Survival 1
 - Vacc Suit 1
 
+**Bonus skills:**
+
+| Source | Skill | Linked with | Status |
+|---|---|---|---|
+| Skills package (CR22:50) | — | — | Not yet picked |
+| Connection 1 (CR22:19) | — | — | Not yet linked |
+| Connection 2 (CR22:19) | — | — | Not yet linked |
+
+*Note: this skill list does not include the skills package pick (CR22:50), or the Connections Rule bonus (CR22:19), which grants up to 2 additional free skills if this character was linked to another Traveller's Event during group chargen. A package skill is gained at level 1; a connection skill adds one level to any skill except Jack-of-all-Trades, and cannot take a skill above level 3.*
+
 **Equipment:**
 
 | Item | TL | Range | Damage | Magazine | Notes |
@@ -120,6 +216,8 @@ Also carries: a breather mask, a paper star chart of the Voyager and Kline subse
 
 ## 2.4 — CHARACTER 3 — YUSRA HALVARD, "TORQUE"
 **Chief Engineer · Merchant (Merchant Marine) · 5 terms · Rank 3 · Age 38**
+
+![Yusra Halvard](img/halvard.webp)
 
 *"She's a one-parsec ship. Ask her nicely and she is still a one-parsec ship."*
 
@@ -147,6 +245,16 @@ Yusra kept megacorporate bulk haulers running for sixteen years before deciding 
 - Melee (unarmed) 1
 - Vacc Suit 2
 
+**Bonus skills:**
+
+| Source | Skill | Linked with | Status |
+|---|---|---|---|
+| Skills package (CR22:50) | — | — | Not yet picked |
+| Connection 1 (CR22:19) | — | — | Not yet linked |
+| Connection 2 (CR22:19) | — | — | Not yet linked |
+
+*Note: this skill list does not include the skills package pick (CR22:50), or the Connections Rule bonus (CR22:19), which grants up to 2 additional free skills if this character was linked to another Traveller's Event during group chargen. A package skill is gained at level 1; a connection skill adds one level to any skill except Jack-of-all-Trades, and cannot take a skill above level 3.*
+
 **Equipment:**
 
 | Item | TL | Range | Damage | Magazine | Notes |
@@ -165,11 +273,13 @@ Also carries: an engineering toolkit (CR22:120), a breather mask, and a box of s
 ## 2.5 — CHARACTER 4 — LUKAS CORR, "PROOF"
 **Code Appraiser · Scholar (Field Researcher) · 3 terms, then Agent (Corporate) · 2 terms · Age 38**
 
+![Lukas Corr](img/corr.webp)
+
 *"Everyone lies about provenance. The comments in the source never do."*
 
 **Homeworld:** Vaderwall (Voyager 2218)
 
-Lukas authenticates old software the way other people authenticate paintings: by the habits of the hand that made it. He has worked for collectors, insurers and at least one thief. He has read everything Balkan ever published and was flattered to be asked.
+Lukas authenticates old software the way other people authenticate paintings: by the habits of the hand that made it. He has worked for collectors, insurers and at least one thief. He has read everything Baltic ever published and was flattered to be asked.
 
 **Characteristics:** STR 5 (–1) · DEX 7 (+0) · END 6 (+0) · INT 11 (+1) · EDU 11 (+1) · SOC 7 (+0)
 
@@ -191,13 +301,23 @@ Lukas authenticates old software the way other people authenticate paintings: by
 - Stealth 0
 - Streetwise 1
 
+**Bonus skills:**
+
+| Source | Skill | Linked with | Status |
+|---|---|---|---|
+| Skills package (CR22:50) | — | — | Not yet picked |
+| Connection 1 (CR22:19) | — | — | Not yet linked |
+| Connection 2 (CR22:19) | — | — | Not yet linked |
+
+*Note: this skill list does not include the skills package pick (CR22:50), or the Connections Rule bonus (CR22:19), which grants up to 2 additional free skills if this character was linked to another Traveller's Event during group chargen. A package skill is gained at level 1; a connection skill adds one level to any skill except Jack-of-all-Trades, and cannot take a skill above level 3.*
+
 **Equipment:**
 
 | Item | TL | Range | Damage | Magazine | Notes |
 |---|---|---|---|---|---|
 | Body pistol, because clients are not always honest | 8 | 5m | 2D | 6 (Cr10/mag) | Cr500 (CR22:126) |
 
-Also carries: a TL12 portable computer running Intrusion/1 and Security/1 (CR22:110–113), an electronics toolkit (CR22:120), a breather mask, and **the sealed core holding the Balkan build**.
+Also carries: a TL12 portable computer running Intrusion/1 and Security/1 (CR22:110–113), an electronics toolkit (CR22:120), a breather mask, and **the sealed core holding the Baltic build**.
 
 **Personality:** Dry, mercenary on the surface and a romantic underneath. The one most likely to keep reading when he should be running.
 
@@ -207,6 +327,8 @@ Also carries: a TL12 portable computer running Intrusion/1 and Security/1 (CR22:
 
 ## 2.6 — CHARACTER 5 — DMITRA AGUILAR, "BRICK"
 **Security · Marine (Star Marine) · 3 terms · Rank 2, then Drifter · 1 term · Age 34**
+
+![Dmitra Aguilar](img/aguilar.webp)
 
 *"If I'm bored, you're safe. Try to keep me bored."*
 
@@ -236,6 +358,16 @@ Dmitra left the *Imperial Marines* with a clean record and no plan. Marguerite h
 - Tactics (military) 1
 - Vacc Suit 1
 
+**Bonus skills:**
+
+| Source | Skill | Linked with | Status |
+|---|---|---|---|
+| Skills package (CR22:50) | — | — | Not yet picked |
+| Connection 1 (CR22:19) | — | — | Not yet linked |
+| Connection 2 (CR22:19) | — | — | Not yet linked |
+
+*Note: this skill list does not include the skills package pick (CR22:50), or the Connections Rule bonus (CR22:19), which grants up to 2 additional free skills if this character was linked to another Traveller's Event during group chargen. A package skill is gained at level 1; a connection skill adds one level to any skill except Jack-of-all-Trades, and cannot take a skill above level 3.*
+
 **Equipment:**
 
 | Item | TL | Range | Damage | Magazine | Notes |
@@ -255,6 +387,8 @@ Also carries: a breather mask she actually maintains, a mobile comm, and binocul
 
 ## 2.7 — CHARACTER 6 — DR. ANAN PETROSYAN-WU, "STRATA"
 **Ship's Doctor & Planetologist · Scholar (Scientist) · 4 terms · Age 34**
+
+![Dr. Anan Petrosyan-Wu](img/petrosyan-wu.webp)
 
 *"Rocks don't have intentions. I would like that to stay true."*
 
@@ -282,6 +416,16 @@ Anan trained as a physician and drifted into survey planetology because rocks co
 - Survival 1
 - Vacc Suit 0
 
+**Bonus skills:**
+
+| Source | Skill | Linked with | Status |
+|---|---|---|---|
+| Skills package (CR22:50) | — | — | Not yet picked |
+| Connection 1 (CR22:19) | — | — | Not yet linked |
+| Connection 2 (CR22:19) | — | — | Not yet linked |
+
+*Note: this skill list does not include the skills package pick (CR22:50), or the Connections Rule bonus (CR22:19), which grants up to 2 additional free skills if this character was linked to another Traveller's Event during group chargen. A package skill is gained at level 1; a connection skill adds one level to any skill except Jack-of-all-Trades, and cannot take a skill above level 3.*
+
 **Equipment:**
 
 | Item | TL | Range | Damage | Magazine | Notes |
@@ -293,16 +437,6 @@ Also carries: a TL10 medikit (CR22:114), a scientific toolkit (CR22:120), a brea
 **Personality:** Curious, gentle, stubborn about evidence. The first to suggest that the thing on Schaut might deserve a say.
 
 **Neural.AI image prompt:** A person in their mid-30s with East Asian and Armenian features, shoulder-length black hair tied back, wearing a field scientist's vest over a light environment suit, a breather mask pushed up on their forehead. Kneeling on a pale crystalline desert plain holding a hand scanner, a low orange sun behind. Photorealistic, science fiction character portrait, no text, no logos.
-
----
-
-## 2.8 — WHAT THE CREW KNOWS AT THE START
-
-- **The ship** is the free trader *Marginalia*, Jump-1, mortgaged, with 81 tons of cargo space currently holding very little (Appendix C).
-- **The sideline:** Corr appraises legacy software; the others get him to it and back. They have done this four times. It has never before been dangerous.
-- **Dr. Balkan** is genuinely eminent. Corr owns two of his books.
-- **Schaut** is a company refuelling stop that nobody visits on purpose. It went over to the Solomani Confederation in 1112, which annoyed a lot of people on Pankow and surprised nobody.
-- **Air:** Pankow's air is standard. Kell, Pankow's moon, is airless outside its stations. Schaut's air is very thin and tainted, so breather masks are essential there.
 
 ---
 

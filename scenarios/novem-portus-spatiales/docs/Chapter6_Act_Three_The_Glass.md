@@ -35,13 +35,13 @@ The *Marginalia* comes out of jump to find Schaut's radio sky full. The noise fr
 | Location | What is there |
 |---|---|
 | **Landing apron** | Both ships. The *Annotated* is sealed; Cade is not aboard. |
-| **Admin dome** | **Director Halloran Vesk** and four security staff. Vesk took Balkan's money two days ago and now regrets it. |
+| **Admin dome** | **Director Halloran Vesk** and four security staff. Vesk took Baltic's money two days ago and now regrets it. |
 | **Hab block** | Seventy-odd staff, confined to quarters "for the duration of a survey". Irena Sabel is not among them. |
 | **Fuel shed** | Unrefined fuel, pumps on manual. Twelve demolition charges for the quarry face, in a locked cage. |
 | **The tower** | The 1090 first-landing survey tower, forty metres of lattice mast over a three-room shelter. The image from the boot splash. |
 | **The Cut** | A terraced quarry a kilometre across, cut into the white flats. The crystal faces are etched with fine regular lines that no saw made. |
 
-**Vesk** wants this to stop without his name on it. He will tell the travellers that Balkan is in the tower, that he paid for "one night's exclusive access", and that the port's systems stopped obeying staff an hour ago. If things get worse, his plan is the charges (§6.6).
+**Vesk** wants this to stop without his name on it. He will tell the travellers that Baltic is in the tower, that he paid for "one night's exclusive access", and that the port's systems stopped obeying staff an hour ago. If things get worse, his plan is the charges (§6.6).
 
 **Sabel** meets them on the track to the tower. She is barefaced in air that should be hurting her, and she is not entirely the one speaking. See Chapter 3 and Appendix D, §D.3.
 
@@ -51,22 +51,22 @@ The *Marginalia* comes out of jump to find Schaut's radio sky full. The noise fr
 
 Three rooms under the mast:
 
-1. **The outer room.** Balkan's cases, a folding table, a half-finished meal. Cade, at the door.
-2. **The antenna room.** The old survey transmitter, rewired. Nine board slots on a bench, eight filled with boards from three builds, the ninth with a board from the Balkan core. Balkan is here.
+1. **The outer room.** Baltic's cases, a folding table, a half-finished meal. Cade, at the door.
+2. **The antenna room.** The old survey transmitter, rewired. Nine board slots on a bench, eight filled with boards from three builds, the ninth with a board from the Baltic core. Baltic is here.
 3. **The sealed room.** A welded hatch behind the transmitter rack, marked in Torvald's hand: **IX**. Nobody has opened it since 1094.
 
-**Cade** will hold the door as long as he is being paid and Balkan is giving orders. Statistics in Chapter 3.
+**Cade** will hold the door as long as he is being paid and Baltic is giving orders. Statistics in Chapter 3.
 
-- **Talking past him:** **Difficult (10+) Persuade check (INT)**. Drop to **Average (8+)** once the handshake has run and Balkan has stopped giving orders.
+- **Talking past him:** **Difficult (10+) Persuade check (INT)**. Drop to **Average (8+)** once the handshake has run and Baltic has stopped giving orders.
 - **Going around:** the mast can be climbed to a roof hatch. **Average (8+) Athletics (dexterity) check**; a fall is 2D damage.
 
-**If the travellers arrive before the handshake:** Balkan has them shown in. He is happy to see them. He wants witnesses who understand. He has Cade lock them in the outer room (or, if they resist, the fight happens here) and begins.
+**If the travellers arrive before the handshake:** Baltic has them shown in. He is happy to see them. He wants witnesses who understand. He has Cade lock them in the outer room (or, if they resist, the fight happens here) and begins.
 
 ---
 
 ## 6.4 — THE HANDSHAKE
 
-Balkan reads the eight Ports into the transmitter in order, and then the ninth.
+Baltic reads the eight Ports into the transmitter in order, and then the ninth.
 
 **Read aloud:**
 
@@ -78,16 +78,16 @@ Balkan reads the eight Ports into the transmitter in order, and then the ninth.
 
 **What happens**
 
-- Every Schaut-grade chip within reach answers at once. The port's systems, the *Annotated*, the travellers' own equipment if it includes any (Halvard's box of boards; the Balkan core).
+- Every Schaut-grade chip within reach answers at once. The port's systems, the *Annotated*, the travellers' own equipment if it includes any (Halvard's box of boards; the Baltic core).
 - Roll **twice** on the Answer Table immediately, then once every ten minutes.
 - **The Lattice's Regard** is set to **2** (Appendix D, §D.5).
-- It does not speak to Balkan. Not a word, however he signals. It speaks, through Sabel and through any screen, to the travellers who have handled all three builds: **"NOT HER. NOT HIM. YOU CARRIED ME. WHO ARE YOU."**
+- It does not speak to Baltic. Not a word, however he signals. It speaks, through Sabel and through any screen, to the travellers who have handled all three builds: **"NOT HER. NOT HIM. YOU CARRIED ME. WHO ARE YOU."**
 
 ---
 
-## 6.5 — BALKAN, DISTRAUGHT
+## 6.5 — BALTIC, DISTRAUGHT
 
-Balkan understands what has happened faster than anyone, and it breaks him.
+Baltic understands what has happened faster than anyone, and it breaks him.
 
 - **It will not answer him.** He spent thirty years preparing to be spoken to.
 - **He sees what the chips are.** Every machine he built his name on was cut from this. He says so, to nobody.
@@ -97,7 +97,7 @@ He does not rant. He sits down on the floor of the antenna room with the ninth b
 
 **He is now a resource, not an enemy.**
 
-| If the travellers... | Balkan... |
+| If the travellers... | Baltic... |
 |---|---|
 | Ask for his help | Gives it. All Electronics and Science checks about the Lattice gain DM+2 while he assists. |
 | Ask about Fenn, Renke and Kesh | Admits it, flatly. "I thought it would be worth it. That is the whole of my defence." |
@@ -138,11 +138,13 @@ Director Vesk will try to collapse the Cut face on the densest part of the Latti
 | **1–3** | **Refusal.** The *Marginalia* lifts on manual with half her electronics dead. Behind her, Glasshouse Station goes dark for good. Every Schaut-grade chip in the subsector carries a faint new carrier wave. |
 | **0** | **The Answer.** The signal goes out at full strength through every piece of itself ever sold. Across Voyager and Kline subsectors, premium processors begin to fail in sequence. The travellers know why, and nobody will believe them. |
 
-**Balkan** ends as the travellers leave him: interpreter, prisoner, passenger or body.
+**Baltic** ends as the travellers leave him: interpreter, prisoner, passenger or body.
 
 **Sabel** stays. She says, in her own voice, that she thinks she was always going to.
 
 **The fee** is lodged at the Pankow Highport bank, exactly as promised.
+
+**Close the game** with the score sheet in Appendix G.
 
 ---
 
