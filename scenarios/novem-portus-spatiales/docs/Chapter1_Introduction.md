@@ -41,7 +41,7 @@ He pays Cr20,000 a head on signing, the same again on completion, and all port f
 
 ---
 
-## 1.3 — THE TRUTH (REFEREE ONLY)
+## 1.3 — THE TRUTH
 
 **The builds are not software.** In 1090 Torvald found that the crystalline flats of **Schaut** (2418) were alive: a single, planet-spanning silicon intelligence, kin to the natural chips of Cymbeline (Appendix D). She recorded its signalling and transcribed it as nine logic Ports. Run together, they are a **handshake**: the sequence by which one part of the mind greets another.
 

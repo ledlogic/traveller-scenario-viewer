@@ -130,7 +130,7 @@ The truth is the second. Let the players work toward it with Science checks on t
 - **Two or more successes:** the group can say with confidence that the Ports are alive, or are the voice of something that is.
 - **The payoff:** if the group goes into Act Three having concluded it is alive, they gain DM+1 on the Science (xenology) or Diplomat check to frame an offer in its own terms (Appendix D, §D.5).
 
-**Who is good at this:** Petrosyan-Wu (Science (biology), (planetology) and (xenology)) and Corr (Science (cybernetics)). Baltic, if the players can bear to ask him, has Science (cybernetics) 3, and already knows the answer.
+**Who is good at this:** Petrosyan-Wu (Science (planetology) 2 and (xenology) 1) and Corr (Science (cybernetics) 2). Baltic, if the players can bear to ask him, has Science (cybernetics) 3, and already knows the answer. Baltic, if the players can bear to ask him, has Science (cybernetics) 3, and already knows the answer.
 
 ---
 

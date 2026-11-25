@@ -293,7 +293,7 @@ None of these people want to die for their employer. Any group that loses half i
 
 **The official record:** in 1115, a week after selling his build to Baltic, Andros Telver was found dead in the airlock of his private yacht at Veneet Highport, the outer door open to vacuum. The port ruled it suicide.
 
-**What happened (referee only).**
+**What happened.**
 
 1. **The sale.** Telver sold the build to Baltic under pressure, and regretted it within days.
 2. **The communique.** He wrote to Baltic demanding the build back, and threatening to take the whole matter, Torvald's work and Schaut included, to *Ostrander Lithic*. Baltic sent Cade to Veneet.

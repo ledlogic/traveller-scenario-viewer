@@ -8,9 +8,9 @@
 | 1 | Marguerite Okafor-Lindh | "Margin" | Captain & Broker | Pankow | 38 | Persuade 2, Broker 2, Streetwise 1 |
 | 2 | Teodor Varga | "Slipknot" | Pilot & Astrogator | Veneet | 34 | Astrogation 2, Pilot (spacecraft) 2, Electronics (sensors) 1 |
 | 3 | Yusra Halvard | "Torque" | Chief Engineer | Dexter | 38 | Mechanic 3, Engineer (power) 2, Vacc Suit 1 |
-| 4 | Lukas Corr | "Proof" | Code Appraiser | Vaderwall | 38 | Electronics (computers) 3, Investigate 2, Streetwise 1 |
-| 5 | Dmitra Aguilar | "Brick" | Security | Otha | 34 | Gun Combat (slug) 2, Vacc Suit 1, Tactics (military) 1 |
-| 6 | Dr. Anan Petrosyan-Wu | "Strata" | Ship's Doctor & Planetologist | Pankow | 34 | Science (planetology) 2, Medic 2, Survival 1 |
+| 4 | Lukas Corr | "Proof" | Code Appraiser | Vaderwall | 34 | Investigate 2, Science (cybernetics) 2, Electronics (computers) 1 |
+| 5 | Dmitra Aguilar | "Brick" | Security | Otha | 34 | Gun Combat (slug) 2, Vacc Suit 2, Recon 1 |
+| 6 | Dr. Anan Petrosyan-Wu | "Strata" | Ship's Doctor & Planetologist | Pankow | 34 | Medic 2, Science (planetology) 2, Science (xenology) 1 |
 
 **Group bonus skills.** During group chargen the crew takes the **Trader Skills Package** (CR22:50): Advocate 1, Astrogation 1, Broker 1, Diplomat 1, Electronics 1, Medic 1, Pilot 1 and Streetwise 1. The Travellers take turns picking one skill each until all eight are taken, so two of them pick twice. Each Traveller can also gain up to two Connections Rule skills (CR22:19), one for each event they share with another Traveller.
 
@@ -296,35 +296,55 @@ Also carries: an Engineering (power) toolkit (TL12, 12kg, Cr4,000, CR22:120), a 
 ---
 
 ## 2.5 — CHARACTER 4 — LUKAS CORR, "PROOF"
-**Code Appraiser · Scholar (Field Researcher) · 3 terms, then Agent (Corporate) · 2 terms · Age 38**
+**Code Appraiser · Scholar (Field Researcher) · 4 terms · Rank 2 · Age 34**
 
 ![Lukas Corr](img/corr.webp)
 
 *"Everyone lies about provenance. The comments in the source never do."*
 
-**Homeworld:** Vaderwall (Voyager 2218)
+**Born IY 1082, Vaderwall** (Voyager subsector, Magyar 2218, UWP C652453-A: routine starport, medium world, thin atmosphere, 20% water, tens of thousands of people, feudal technocracy, law level 3, TL10). Born near the bottom of a society that ranks people by what they can build, which taught him early how much a provenance is worth.
 
-Lukas authenticates old software the way other people authenticate paintings: by the habits of the hand that made it. He has worked for collectors, insurers and at least one thief. He has read everything Baltic ever published and was flattered to be asked.
+**Sixteen years digging up other people's machines.** He went into field research at eighteen, cataloguing derelict installations and dead archives across the Vaderwall back country, and found he had a gift for reading old systems: who built them, when, and what they had been patched to hide. He was fit, patient and happiest a long way from anyone, which suited the work. A relationship from his first term outlasted the job.
 
-**Characteristics:** STR 5 (–1) · DEX 7 (+0) · END 6 (+0) · INT 11 (+1) · EDU 11 (+1) · SOC 7 (+0)
+**He made his name on provenance and lost his post to paperwork.** By his fourth term he was the best cybernetic historian the technarch academies had and was spending most of his time in a bureaucratic dispute over who owned his findings. When his post came up for renewal in 1116, it was not renewed.
+
+He appraises old software now, for collectors, insurers and at least one thief. He has read everything Baltic ever published and was flattered to be asked.
+
+**Timeline:**
+
+| Term | Career | Age | Years (IY) | Rank at end |
+|---|---|---|---|---|
+| 0 | Youth, Vaderwall | 0–18 | 1082–1100 | — |
+| 1 | Scholar, Field Researcher | 18–22 | 1100–1104 | 1 |
+| 2 | Scholar, Field Researcher | 22–26 | 1104–1108 | 2 |
+| 3 | Scholar, Field Researcher | 26–30 | 1108–1112 | 2 |
+| 4 | Scholar, Field Researcher | 30–34 | 1112–1116 | 2, not renewed |
+
+**Characteristics:**
+
+| | STR | DEX | END | INT | EDU | SOC |
+|--|-----|-----|-----|-----|-----|-----|
+| Score | 5 | 12 | 11 | 8 | 5 | 4 |
+| DM | -1 | +2 | +1 | +0 | -1 | -1 |
 
 **Skills:**
 
-- Admin 1
-- Carouse 1
-- Deception 1
-- Electronics 0
-- Electronics (comms) 1
-- Electronics (computers) 3
-- Gun Combat 0
-- Investigate 2
-- Language 0
-- Language (Vilani) 1
-- Science 0
-- Science (cybernetics) 1
-- Science (history) 1
-- Stealth 0
-- Streetwise 1
+| Skill | Lvl |
+|-------|-----|
+| Diplomat | 0 |
+| Drive | 0 |
+| Electronics | 0 |
+| Electronics (computers) | 1 |
+| Investigate | 2 |
+| Language | 0 |
+| Medic | 0 |
+| Persuade | 1 |
+| Science | 0 |
+| Science (cybernetics) | 2 |
+| Science (history) | 1 |
+| Vacc Suit | 1 |
+
+Skill limits (CR22:18): no skill above 4, and 8 total levels against a limit of 39 (three times INT 8 plus EDU 5).
 
 **Bonus skills:**
 
@@ -336,52 +356,81 @@ Lukas authenticates old software the way other people authenticate paintings: by
 
 *Note: this skill list does not include the skills package pick (CR22:50), or any Connections Rule bonus (CR22:19) still marked not yet linked above, which grants up to 2 additional free skills if this character was linked to another Traveller's Event during group chargen. A package skill is gained at level 1; a connection skill adds one level to any skill except Jack-of-all-Trades, and cannot take a skill above level 3.*
 
+**Allies and contacts:** a partner from his first term in the field, now a curator on Vaderwall (Ally).
+
+**Finances:**
+
+- **Cash:** Cr120,000 from mustering out.
+- **No pension:** four terms is one short (CR22:48).
+
 **Equipment:**
 
 | Item | TL | Range | Damage | Magazine | Notes |
 |---|---|---|---|---|---|
-| Body pistol, because clients are not always honest | 8 | 5m | 2D | 6 (Cr10/mag) | Cr500 (CR22:126) |
+| Body pistol, bought because clients are not always honest | 8 | 5m | 2D | 6 (Cr10/mag) | Cr500 (CR22:126) |
 
-Also carries: a TL12 portable computer running Intrusion/1 and Security/1 (CR22:110–113), an electronics toolkit (CR22:120), a breather mask, and **the sealed core holding the Baltic build**.
+Also carries: a TL12 portable computer running Intrusion/1 and Security/1 (CR22:110–113), an Electronics (computers) toolkit (TL7, 2kg, Cr2,000, CR22:120), a breather mask, and **the sealed core holding the Baltic build**.
 
 **Personality:** Dry, mercenary on the surface and a romantic underneath. The one most likely to keep reading when he should be running.
 
-**Neural.AI image prompt:** *A slight man in his late 30s with olive skin, wire-framed glasses and an unshaven jaw, wearing a rumpled dark overcoat and carrying a worn satchel. Bent over a portable computer in a dim archive, the screen light on his face, a sealed metal data core beside him. Photorealistic, science fiction character portrait, no text, no logos.*
+**Neural.AI image prompt:** *A lean, wiry man in his mid-30s with olive skin, wire-framed glasses and an unshaven jaw, wearing a rumpled dark overcoat and carrying a worn satchel. Bent over a portable computer in a dim archive, the screen light on his face, a sealed metal data core beside him. Photorealistic, science fiction character portrait, no text, no logos.*
 
 ---
 
 ## 2.6 — CHARACTER 5 — DMITRA AGUILAR, "BRICK"
-**Security · Marine (Star Marine) · 3 terms · Rank 2, then Drifter · 1 term · Age 34**
+**Security · Marine (Star Marine) · 3 terms · Rank 2, Corporal, then Drifter (Wanderer) · 1 term · Rank 1 · Age 34**
 
 ![Dmitra Aguilar](img/aguilar.webp)
 
 *"If I'm bored, you're safe. Try to keep me bored."*
 
-**Homeworld:** Otha (Voyager 2319)
+**Born IY 1082, Otha** (Voyager subsector, Magyar 2319, UWP E434522-9: frontier starport, small world, very thin atmosphere, 40% water, hundreds of thousands of people, participating democracy, law level 2, TL9). She grew up in pressure-roofed towns, breathing through a mask, and regards worlds with real air as slightly indecent.
 
-Dmitra left the *Imperial Marines* with a clean record and no plan. Marguerite hired her to stand next to cargo and look expensive. She grew up on Otha, breathing through a mask, and regards worlds with real air as slightly indecent.
+**Twelve years as a Star Marine.** She enlisted at eighteen and spent her first term on the front line of a planetary assault, learning to keep her head down and her rifle up. In her second term she held a breach alone long enough for her squad to fall back, and was promoted on the spot. Her third was quieter: security on an orbital station, a great deal of vacc suit time, and a promotion board that passed her over.
 
-**Characteristics:** STR 10 (+1) · DEX 9 (+1) · END 10 (+1) · INT 7 (+0) · EDU 6 (+0) · SOC 6 (+0)
+**She left the Imperial Marines at thirty** with a clean record and no plan, and drifted for four years through the ports of Voyager subsector, picking up what work she could find. Marguerite hired her to stand next to cargo and look expensive.
+
+**Timeline:**
+
+| Term | Career | Age | Years (IY) | Rank at end |
+|---|---|---|---|---|
+| 0 | Youth, Otha | 0–18 | 1082–1100 | — |
+| 1 | Marine, Star Marine | 18–22 | 1100–1104 | 1, Lance Corporal |
+| 2 | Marine, Star Marine | 22–26 | 1104–1108 | 2, Corporal |
+| 3 | Marine, Star Marine | 26–30 | 1108–1112 | 2 |
+| 4 | Drifter, Wanderer | 30–34 | 1112–1116 | 1 |
+
+**Characteristics:**
+
+| | STR | DEX | END | INT | EDU | SOC |
+|--|-----|-----|-----|-----|-----|-----|
+| Score | 11 | 8 | 11 | 7 | 9 | 4 |
+| DM | +1 | +0 | +1 | +0 | +1 | -1 |
 
 **Skills:**
 
-- Athletics 0
-- Athletics (strength) 1
-- Electronics 0
-- Explosives 1
-- Gun Combat 0
-- Gun Combat (energy) 1
-- Gun Combat (slug) 2
-- Heavy Weapons 0
-- Medic 0
-- Melee 0
-- Melee (blade) 1
-- Melee (unarmed) 1
-- Recon 1
-- Stealth 1
-- Tactics 0
-- Tactics (military) 1
-- Vacc Suit 1
+| Skill | Lvl |
+|-------|-----|
+| Athletics | 0 |
+| Athletics (strength) | 1 |
+| Drive | 0 |
+| Drive (wheel) | 1 |
+| Gun Combat | 0 |
+| Gun Combat (energy) | 1 |
+| Gun Combat (slug) | 2 |
+| Heavy Weapons | 0 |
+| Medic | 0 |
+| Melee | 0 |
+| Melee (blade) | 1 |
+| Recon | 1 |
+| Stealth | 0 |
+| Streetwise | 1 |
+| Survival | 0 |
+| Tactics | 0 |
+| Tactics (military) | 1 |
+| Vacc Suit | 2 |
+
+Skill limits (CR22:18): no skill above 4, and 11 total levels against a limit of 48 (three times INT 7 plus EDU 9).
 
 **Bonus skills:**
 
@@ -393,14 +442,22 @@ Dmitra left the *Imperial Marines* with a clean record and no plan. Marguerite h
 
 *Note: this skill list does not include the skills package pick (CR22:50), or any Connections Rule bonus (CR22:19) still marked not yet linked above, which grants up to 2 additional free skills if this character was linked to another Traveller's Event during group chargen. A package skill is gained at level 1; a connection skill adds one level to any skill except Jack-of-all-Trades, and cannot take a skill above level 3.*
 
+**Allies, contacts and enemies:** none from her service; she keeps her own counsel.
+
+**Finances:**
+
+- **Cash:** Cr13,000 from mustering out.
+- **Two Ship Shares** (MCr2), from her drifting years.
+- **No pension:** neither career lasted five terms (CR22:48).
+
 **Equipment:**
 
 | Item | TL | Range | Damage | Magazine | Notes |
 |---|---|---|---|---|---|
-| Cloth armour | 7 | — | — | — | **Protection +5**, 7kg, Cr250 (CR22:100) |
+| Cloth armour, her mustering-out Armour benefit | 7 | — | — | — | **Protection +5**, 7kg, Cr250 (CR22:100) |
 | Autopistol | 5 | 10m | 3D–3 | 15 (Cr10/mag) | 1kg, Cr200 (CR22:126) |
 | Stunner, for ports that mind | 8 | 5m | 2D | 100 (Cr200) | Stun, Zero-G, Cr500 (CR22:129) |
-| Blade | 2 | Melee | 2D | — | Cr100 (CR22:124) |
+| Blade | 2 | Melee | 2D | — | 1kg, Cr100 (CR22:124) |
 
 Also carries: a breather mask she actually maintains, a mobile comm, and binoculars.
 
@@ -411,35 +468,54 @@ Also carries: a breather mask she actually maintains, a mobile comm, and binocul
 ---
 
 ## 2.7 — CHARACTER 6 — DR. ANAN PETROSYAN-WU, "STRATA"
-**Ship's Doctor & Planetologist · Scholar (Scientist) · 4 terms · Age 34**
+**Ship's Doctor & Planetologist · Scholar (Physician) · 4 terms · Rank 3 · Age 34**
 
 ![Dr. Anan Petrosyan-Wu](img/petrosyan-wu.webp)
 
 *"Rocks don't have intentions. I would like that to stay true."*
 
-**Homeworld:** Pankow (Kline 2518)
+**Born IY 1082, Pankow** (Kline subsector, Magyar 2518, UWP A561412-C: excellent starport, small world, standard atmosphere, 10% water, tens of thousands of people, company government, law level 2, TL12). A company child who wanted to be the company doctor, and very nearly was.
 
-Anan trained as a physician and drifted into survey planetology because rocks complain less. They once applied for a field post with *Ostrander Lithic* on Schaut and were turned down without explanation. They still have the rejection letter.
+**Sixteen years in medicine, with one eye on the ground.** Anan trained as a physician and spent their first term on a secret project for a patron they were never allowed to name, which taught them a great deal of medicine and a habit of reading survey reports in their spare time. By their second term they were the clinic's unofficial planetologist as well as its doctor.
 
-**Characteristics:** STR 6 (+0) · DEX 7 (+0) · END 7 (+0) · INT 10 (+1) · EDU 11 (+1) · SOC 7 (+0)
+**In 1109 they applied for a field post with *Ostrander Lithic* on Schaut** and were turned down without explanation. They still have the rejection letter. The same term brought a prize for their survey work and a promotion board that passed them over. The next term made up for it, and they left at thirty-four as a senior physician with a planetology habit nobody at the clinic could explain.
+
+**Timeline:**
+
+| Term | Career | Age | Years (IY) | Rank at end |
+|---|---|---|---|---|
+| 0 | Youth, Pankow | 0–18 | 1082–1100 | — |
+| 1 | Scholar, Physician | 18–22 | 1100–1104 | 1 |
+| 2 | Scholar, Physician | 22–26 | 1104–1108 | 2 |
+| 3 | Scholar, Physician | 26–30 | 1108–1112 | 2 |
+| 4 | Scholar, Physician | 30–34 | 1112–1116 | 3, mustered out |
+
+**Characteristics:**
+
+| | STR | DEX | END | INT | EDU | SOC |
+|--|-----|-----|-----|-----|-----|-----|
+| Score | 5 | 7 | 6 | 8 | 9 | 6 |
+| DM | -1 | +0 | +0 | +0 | +1 | +0 |
 
 **Skills:**
 
-- Animals 0
-- Diplomat 1
-- Drive 0
-- Drive (wheel) 1
-- Electronics 0
-- Electronics (sensors) 1
-- Investigate 1
-- Medic 2
-- Persuade 0
-- Science 0
-- Science (biology) 1
-- Science (planetology) 2
-- Science (xenology) 1
-- Survival 1
-- Vacc Suit 0
+| Skill | Lvl |
+|-------|-----|
+| Animals | 0 |
+| Diplomat | 1 |
+| Drive | 0 |
+| Electronics | 0 |
+| Electronics (sensors) | 1 |
+| Investigate | 1 |
+| Medic | 2 |
+| Persuade | 1 |
+| Science | 0 |
+| Science (planetology) | 2 |
+| Science (xenology) | 1 |
+| Survival | 0 |
+| Vacc Suit | 0 |
+
+Skill limits (CR22:18): no skill above 4, and 9 total levels against a limit of 51 (three times INT 8 plus EDU 9).
 
 **Bonus skills:**
 
@@ -451,13 +527,21 @@ Anan trained as a physician and drifted into survey planetology because rocks co
 
 *Note: this skill list does not include the skills package pick (CR22:50), or any Connections Rule bonus (CR22:19) still marked not yet linked above, which grants up to 2 additional free skills if this character was linked to another Traveller's Event during group chargen. A package skill is gained at level 1; a connection skill adds one level to any skill except Jack-of-all-Trades, and cannot take a skill above level 3.*
 
+**Allies and contacts:** none from their career; their friends were all at the clinic.
+
+**Finances:**
+
+- **Cash:** Cr100,000 from mustering out.
+- **Two Ship Shares** (MCr2).
+- **No pension:** four terms is one short (CR22:48).
+
 **Equipment:**
 
 | Item | TL | Range | Damage | Magazine | Notes |
 |---|---|---|---|---|---|
 | Stunner | 8 | 5m | 2D | 100 (Cr200) | Stun, Zero-G, Cr500 (CR22:129) |
 
-Also carries: a TL10 medikit (CR22:114), a scientific toolkit (CR22:120), a breather mask, a hand sampler, and a rejection letter from *Ostrander Lithic* dated 1109.
+Also carries: a TL10 medikit (CR22:114), a Scientific toolkit, their mustering-out Scientific Equipment benefit (TL5, 8kg, Cr2,000, CR22:120), a breather mask, a hand sampler, and a rejection letter from *Ostrander Lithic* dated 1109.
 
 **Personality:** Curious, gentle, stubborn about evidence. The first to suggest that the thing on Schaut might deserve a say.
 
@@ -465,4 +549,4 @@ Also carries: a TL10 medikit (CR22:114), a scientific toolkit (CR22:120), a brea
 
 ---
 
-*Last updated: 2026-11-21*
+*Last updated: 2026-11-24*
